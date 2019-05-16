@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         
+         <titleStmt>
+            <title>Poema 13</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CR">
+               <name>Carmela Romero</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date>2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+               <msIdentifier xml:id="D_Ms_2985_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000117162"></graphic>
+      <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->      
+   </facsimile>
+   <text>
+      <body>
+         <pb n="12v"
+            facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+         <lg type="poem" xml:id="C013-D013">
+            <lg type="cobla" n="1" xml:id="C013-01">
+               
+               <l n="1" xml:id="C013-1"> Colguen les gents / ab alegria festes
+               </l>
+               
+               <l n="2" xml:id="C013-2"> loant adeu / entremesclant deports
+               </l>
+               
+               <l n="3" xml:id="C013-3"> places carrer<del type="overstrike">e</del>s / edelitables orts
+               </l>
+               
+               <l n="4" xml:id="C013-4"> sian cercats / ab recont de grans gestes
+               </l>
+               
+               <l n="5" xml:id="C013-5"> Evageyo / los sepulcres cercant
+               </l>
+               
+               <l n="6" xml:id="C013-6"> jnterrogant animes Jnfernades
+               </l>
+               
+               <l n="7" xml:id="C013-7"> erespondran / car no son companyades
+               </l>
+               
+               <l n="8" xml:id="C013-8"> daltraque mi en son continu plant
+               </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C013-02">
+               
+               <l n="9" xml:id="C013-9"> Cascu requer / evol / a son senblant
+               </l>
+               
+               <l n="10" xml:id="C013-10"> perço nomplau / la pratica/dels vius
+               </l>
+               
+               <l n="11" xml:id="C013-11"> dimaginar mon estat son esquius
+               </l>
+               
+               <l n="12" xml:id="C013-12"> sicomdom mort / demi prenen espant
+               </l>
+               
+               <l n="13" xml:id="C013-13"> Lo rey chipra / presoner dun heretje
+               </l>
+               
+               <l n="14" xml:id="C013-14"> en mon esguart / no es mal ahuirat
+               </l>
+               
+               <l n="15" xml:id="C013-15"> car ço que vull / no sera may finat
+               </l>
+               
+               <l n="16" xml:id="C013-16"> de mondesig / nomporaguarir metje
+               </l>
+            </lg>
+            <lg type="cobla" n="3" xml:id="C013-03">
+               
+               <l n="17" xml:id="C013-17"> Cell tixion / quil buytrel menjal fetge
+               </l>
+               
+               <l n="18" xml:id="C013-18"> apres tostemps brota lacarn de nou
+               </l>
+               
+               <l n="19" xml:id="C013-19"> en son menjar / aquell oçell may clou
+               </l>
+               
+               <l n="20" xml:id="C013-20"> pus fort dolor / daquestam te lo setge
+               </l>
+               
+               <l n="21" xml:id="C013-21"> Car es vnverm / qui romp lamia pensa
+               </l>
+               
+               <l n="22" xml:id="C013-22"> altre lo cor / que may cessen de rompre
+               </l>
+               
+               <l n="23" xml:id="C013-23"> elur treball  nos pora entrerrompre
+               </l>
+               
+               <l n="24" xml:id="C013-24"> sino ab ço / que dauer se deffensa
+               </l>
+            </lg>
+            <pb n="13r"
+               facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+            <lg type="cobla" n="4" xml:id="C013-04">
+               
+               <l n="25" xml:id="C013-25"> Silamort nom dugues tal ofensa
+               </l>
+               
+               <l n="26" xml:id="C013-26"> fermi absent / duna tan plasent vista
+               </l>
+               
+               <l n="27" xml:id="C013-27"> no ligraesch / que de terra no visca
+               </l>
+               
+               <l n="28" xml:id="C013-28"> lo meu cor nu qui de paor no pensa
+               </l>
+               
+               <l n="29" xml:id="C013-29"> Deperdre pus que lo imaginar
+               </l>
+               
+               <l n="30" xml:id="C013-30"> los meus desigs no poder se complir
+               </l>
+               
+               <l n="31" xml:id="C013-31"> e sim conue / mondarrer jorn finir
+               </l>
+               
+               <l n="32" xml:id="C013-32"> serandonats / termens abenamar
+               </l>
+            </lg>
+            <lg type="cobla" n="5" xml:id="C013-05">
+               
+               <l n="33" xml:id="C013-33"> E sinlo cel deu mevol allogar
+               </l>
+               
+               <l n="34" xml:id="C013-34"> part veuraell per complir mondelit
+               </l>
+               
+               <l n="35" xml:id="C013-35"> sera mester quem sia dellany dit
+               </l>
+               
+               <l n="36" xml:id="C013-36"> que desta mort vos ha plagut plorar
+               </l>
+               
+               <l n="37" xml:id="C013-37"> Penedint vos comperpoca merce
+               </l>
+               
+               <l n="38" xml:id="C013-38"> mor lignocent / e per amarvos martre
+               </l>
+               
+               <l n="39" xml:id="C013-39"> çell qui lo cos delarmavol departre
+               </l>
+               
+               <l n="40" xml:id="C013-40"> si ferm cregues quens dolrien de se
+               </l>
+            </lg>
+            <lg type="cobla" n="6" xml:id="C013-06">
+               
+               <l n="41" xml:id="C013-41"> Lir entre carts vos sabeu y yo se
+               </l>
+               
+               <l n="42" xml:id="C013-42"> ques pot be fer / hom <gap reason="illegible" extent="one letter"/><add place="above">m</add>orir per amor</l>
+                              
+               <l n="43" xml:id="C013-43"> creure de mi / que so ental dolor
+               </l>
+               
+               <l n="44" xml:id="C013-44"> no fareu molt / quey doneu plena fe
+               </l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

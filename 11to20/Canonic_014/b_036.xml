@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         
+         <titleStmt>
+            <title>Poema 14</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CR">
+               <name>Carmela Romero</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date>2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/">
+               <msIdentifier xml:id="b_Ed_1543_BC">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f. 28v between lines 40 and 41</locus> Tornada.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_64.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_65.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <pb n="28r"
+            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_64.html"/>
+         <lg type="poem" xml:id="C014-b_036">
+            <lg type="cobla" n="1" xml:id="C014-01">
+               <l n="1" xml:id="C014-1">M <c rend="large">a</c>l venturos / no deu cercar ventura</l>
+               
+               <l n="2" xml:id="C014-2">creuhar se <choice><abbr>ƌu</abbr><expan>deu</expan></choice>/ lo <choice><abbr>frȏt</abbr><expan>front</expan></choice>, <choice><abbr>cȏ</abbr><expan>com</expan></choice> lay nomenen</l>
+               
+               <l n="3" xml:id="C014-3">no deslloant / los qui fauor, ne prenen</l>
+               
+               <l n="4" xml:id="C014-4">entreposant / lur bon saber, he cura</l>
+               
+               <l n="5" xml:id="C014-5">algu, no deu / tan prest son juy, hauer</l>
+               
+               <l n="6" xml:id="C014-6">que dell desllou / qui ventura vol cenyer<note type="gloss">Cenyer per abrassar</note></l>
+               
+               <l n="7" xml:id="C014-7">no virtuos / denegant, lo, atenyer</l>
+               
+               <l n="8" xml:id="C014-8">ço, que sos fills / han, menys d'algun saber.</l>
+            </lg>
+            
+            <lg type="cobla" n="2" xml:id="C014-02">
+               <l n="9" xml:id="C014-9">Elegesch donchs / de ser, hauenturer</l>
+            
+               <l n="10" xml:id="C014-10">si be <choice><abbr>nȏ</abbr><expan>non</expan></choice> pusch / <choice><expan>tȃt</expan><expan>tant</expan></choice> retraure, y restrenyer</l>
+               
+               <l n="11" xml:id="C014-11">quen contra ell / me pogues tan empenyer</l>
+               
+               <l n="12" xml:id="C014-12">si, que fugis / ha son peu / molt leuger</l>
+               
+               <l n="13" xml:id="C014-13">senyor es gran / dells mondans, regidor</l>
+               
+               <l n="14" xml:id="C014-14">he son juhi / es al vll, amagat</l>
+               
+               <l n="15" xml:id="C014-15">ferint vos lla / d'hon sentiu, delitat</l>
+               
+               <l n="16" xml:id="C014-16">he quel'delit / vengues tot per amor</l>
+            </lg>
+            
+            <pb n="28v"
+               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_65.html"/>
+            <lg type="cobla" n="3" xml:id="C014-03">
+               <l n="17" xml:id="C014-17">Lonch, es lo temps / del continu, dolor</l>
+            
+               <l n="18" xml:id="C014-18">apart de tras son cinchanys, ja passats</l>
+               
+               <l n="19" xml:id="C014-19">quem fuig delit / com si vuy, s'acostats</l>
+               
+               <l n="20" xml:id="C014-20">fent me, sentir / fret, apres, de calor</l>
+               
+               <l n="21" xml:id="C014-21">diuersitat / de casos aportant</l>
+               
+               <l n="22" xml:id="C014-22">per deguastar / d'amor, lo benifet</l>
+               
+               <l n="23" xml:id="C014-23">dels bens d'amor / conseruador, sen ret</l>
+               
+               <l n="24" xml:id="C014-24">fora content / yo qui so, desijant</l>
+            </lg>
+            
+            <lg type="cobla" n="4" xml:id="C014-04">
+               <l n="25" xml:id="C014-25">A deu ne'l mon / no so d'amor, clamant</l>
+            
+               <l n="26" xml:id="C014-26">car bem ha, dat / prou aygua'maga'n,<note type="editorial">Per ma gran.</note> set</l>
+               
+               <l n="27" xml:id="C014-27">no sadollat / mas compte, li nes fet</l>
+               
+               <l n="28" xml:id="C014-28">no pot complir / ço que so, desijant</l>
+               
+               <l n="29" xml:id="C014-29">he no mereix / algun, repreniment</l>
+               
+               <l n="30" xml:id="C014-30">car del cel terç / eguals forçes nos fa</l>
+               
+               <l n="31" xml:id="C014-31">segons amar / cascu dispost, esta</l>
+               
+               <l n="32" xml:id="C014-32">he tant com pot / estreny, son manament</l>
+            </lg>
+            
+            <lg type="cobla" n="5" xml:id="C014-05">            
+               <l n="33" xml:id="C014-33">Fortuhit cas / ma fet, esser, absent</l>
+               
+               <l n="34" xml:id="C014-34">del foch d'amor / qui jam, illumina</l>
+               
+               <l n="35" xml:id="C014-35">en millor cas / ventural, apaga</l>
+               
+               <l n="36" xml:id="C014-36">he yo so cert / qu'amor ne fon dolent</l>
+               
+               <l n="37" xml:id="C014-37">per que nom clam d'amor, mas, de ventura</l>
+               
+               <l n="38" xml:id="C014-38">car, son poder / me ha, desfauorit</l>
+               
+               <l n="39" xml:id="C014-39">en abando / nom vol, hauer, jaquit</l>
+               
+               <l n="40" xml:id="C014-40">ans, persegueix / amor, he ma gran, cura</l>
+            </lg>
+            
+            <lg type="cobla" n="6" xml:id="C014-06">
+               <l n="41" xml:id="C014-41">Lir entre carts / del mon, deu, pendre cura</l>
+            
+               <l n="42" xml:id="C014-42">qui li conue / d'amor perdre sperança</l>
+               
+               <l n="43" xml:id="C014-43">he tal, ho qual / es d'amor la fermança</l>
+               
+               <l n="44" xml:id="C014-44">ab lo desig / qui li dona, punctura.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

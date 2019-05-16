@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         
+         <titleStmt>
+            <title>Poema 18</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CR">
+               <name>Carmela Romero</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date>2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/mossen-ausias-march-poeta-manuscrito--0/">
+               <msIdentifier xml:id="G4_Ms_210_BHUV">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f. 20r after end of previous poem, before this one: </locus><choice><abbr>Moß</abbr><expan>Mossen</expan></choice> auzias march</rubric>
+                     <rubric>
+                        <locus>f. 21r between lines 56 and 57</locus> Tornada</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_50.html"/>
+      <graphic 
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_51.html"/>
+      <graphic 
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_52.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <pb n="20r"
+            facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_50.html"/>
+         <lg type="poem" n="1" xml:id="C018-G4020">
+            <lg type="cobla">
+               <lg type="cobla" n="1" xml:id="C018-01">
+                  
+                  <l n="1" xml:id="C018-1"> Ffantasiant amor / ami descobre
+                  </l>
+                  
+                  <l n="2" xml:id="C018-2"> los grans segrets / cals pus sobtils amaga
+                  </l>
+                  
+                  <l n="3" xml:id="C018-3"> emon jorn clar / als homens es nit fosca
+                  </l>
+                  
+                  <l n="4" xml:id="C018-4"> e visch deço / que persones no tasten
+                  </l>
+                  
+                  <l n="5" xml:id="C018-5"> Tant en amor / lesperit meu <choice><abbr>contȇpla</abbr><expan>contempla</expan></choice>
+                  </l>
+                  
+                  <l n="6" xml:id="C018-6"> que par del tot / fora delcors saparte
+                  </l>
+                  
+                  <l n="7" xml:id="C018-7"> car mos desigs / no son trobats enhome
+                  </l>
+                  
+                  <l n="8" xml:id="C018-8"> sino ental / que la carn punt nol trobe
+                  </l>
+            </lg>
+               <lg type="cobla" n="2" xml:id="C018-02">
+                  
+                  <l n="9" xml:id="C018-9"> Macarn no sent / aquell desig censsible
+                  </l>
+                  
+                  <l n="10" xml:id="C018-10"> elesperit / obres damor cobeja
+                  </l>
+                  
+                  <l n="11" xml:id="C018-11"> daquell cech foch / quils amados se calfen
+                  </l>
+                  
+                  <l n="12" xml:id="C018-12"> pahor nomtrop / que yo menpogues ardre
+                  </l>
+                  
+                  <l n="13" xml:id="C018-13"> Vnaltresguart / lo meu voler patrica
+                  </l>
+                  
+                  <l n="14" xml:id="C018-14"> quant en amar / uos dona secontenta
+                  </l>
+                  
+                  <l n="15" xml:id="C018-15"> que no han cells / quiamadors se mostren
+                  </l>
+                  
+                  <l n="16" xml:id="C018-16"> passionats / econtramor no dignes
+                  </l>
+            </lg>
+            <pb n="20v"
+               facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_51.html"/>
+               <lg type="cobla" n="3" xml:id="C018-03">
+                  
+                  <l n="17" xml:id="C018-17"> Si fos amor / algunacosastable
+                  </l>
+                  
+                  <l n="18" xml:id="C018-18"> eques trobas / de <choice><abbr>señoria</abbr><expan>senyoria</expan></choice> septre
+                  </l>
+                  
+                  <l n="19" xml:id="C018-19"> bens guardonant / eponint los demerits
+                  </l>
+                  
+                  <l n="20" xml:id="C018-20"> entrels millors / sol me trobar afenix
+                  </l>
+                  
+                  <l n="21" xml:id="C018-21"> Car yo tot sol / desenpare la mescla
+                  </l>
+                  
+                  <l n="22" xml:id="C018-22"> delleigs desigs / qui ab losbons senbolquen
+                  </l>
+                  
+                  <l n="23" xml:id="C018-23"> castich nom cal / puix de assaig <choice><abbr>nȏ</abbr><expan>nom</expan></choice> <choice><abbr>tenptȇ</abbr><expan>tenpten</expan></choice>
+                  </l>
+                  
+                  <l n="24" xml:id="C018-24"> La causa llur / en mi es feta nulle
+                  </l>
+            </lg>
+               <lg type="cobla" n="4" xml:id="C018-04">
+                  
+                  <l n="25" xml:id="C018-25"> Si comlossants / sentints lallum diuina
+                  </l>
+                  
+                  <l n="26" xml:id="C018-26"> aquestallum  / conegueren per ficta
+                  </l>
+                  
+                  <l n="27" xml:id="C018-27"> e menys preans / lagloria mundana
+                  </l>
+                  
+                  <l n="28" xml:id="C018-28"> puix maior part de gloria sentien
+                  </l>
+                  
+                  <l n="29" xml:id="C018-29"> Tot en axi tinch enmenys preu efastig
+                  </l>
+                  
+                  <l n="30" xml:id="C018-30"> aquells desigs / qui complits amor <del type="overstrike">vna</del> minua
+                  </l>
+                  
+                  <l n="31" xml:id="C018-31"> prenintaquells / qui del sperint mouen
+                  </l>
+                  
+                  <l n="32" xml:id="C018-32"> qui nosllançat / ans tot jorn multiplica
+                  </l>
+            </lg>
+               <lg type="cobla" n="5" xml:id="C018-05">
+                  
+                  <l n="33" xml:id="C018-33"> Si com sent pau / deu li sostras que larma
+                  </l>
+                  
+                  <l n="34" xml:id="C018-34"> del cors <choice><abbr>perꝗ</abbr><expan>perque</expan></choice> / ves diuinals misteris
+                  </l>
+                  
+                  <l n="35" xml:id="C018-35"> car eslo cors / delsperit lo carcer
+                  </l>
+                  
+                  <l n="36" xml:id="C018-36"> etantcom viu / abell es entenebres
+                  </l>
+                  
+                  <l n="37" xml:id="C018-37"> Axi amor / lesperit meu arapa
+                  </l>
+                  
+                  <l n="38" xml:id="C018-38"> y noy acull / la maculada pensa
+                  </l>
+                  
+                  <l n="39" xml:id="C018-39"> eperço sent / lo delit qui nos cança
+                  </l>
+                  
+                  <l n="40" xml:id="C018-40"> si que macarn / laveramor nom torba
+                  </l>
+            </lg>
+            <pb n="21r"
+               facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_52.html"/>
+               <lg type="cobla" n="6" xml:id="C018-06">
+                  
+                  <l n="41" xml:id="C018-41"> Pren men axi / com aquell philosofe
+                  </l>
+                  
+                  <l n="42" xml:id="C018-42"> qui <choice><abbr>ꝑ</abbr><expan>per</expan></choice> muntar<note type="editorial">Mot corregit, possiblement sobre mentar.</note> albe / qui nospot perdre
+                  </l>
+                                    
+                  <l n="43" xml:id="C018-43"> los perdedors / llança enmar <choice><abbr>ṗfunda</abbr><expan>profunda</expan></choice>
+                  </l>
+                  
+                  <l n="44" xml:id="C018-44"> crehent aquells / lenteniment trobassen
+                  </l>
+                  
+                  <l n="45" xml:id="C018-45"> Yo per muntar / al delit perdurable
+                  </l>
+                  
+                  <l n="46" xml:id="C018-46"> tant quant almon /gros plaer demi llance
+                  </l>
+                  
+                  <l n="47" xml:id="C018-47"> crehent deçert / quel gran delit me torba
+                  </l>
+                  
+                  <l n="48" xml:id="C018-48"> aquell desig delmo menta delicte
+                  </l>
+            </lg>
+               <lg type="cobla" n="7" xml:id="C018-07">
+                  
+                  <l n="49" xml:id="C018-49"> Als naturals / no par que fer se pusquen
+                  </l>
+                  
+                  <l n="50" xml:id="C018-50"> molts del segrets / que la deitat sestoja
+                  </l>
+                  
+                  <l n="51" xml:id="C018-51"> que reuelats / son estats amolts martres
+                  </l>
+                  
+                  <l n="52" xml:id="C018-52"> no tansubtils / com los ignorants yaptes
+                  </l>
+                  
+                  <l n="53" xml:id="C018-53"> Axi primors / amorami reuela
+                  </l>
+                  
+                  <l n="54" xml:id="C018-54"> tals quelssabents / no basten <choice><abbr>acȏpendre</abbr><expan>acompendre</expan></choice>
+                  </l>
+                  
+                  <l n="55" xml:id="C018-55"> <choice><abbr>equȃt</abbr><expan>equant</expan></choice> o dich / demos dits me desmenten
+                  </l>
+                  
+                  <l n="56" xml:id="C018-56"> dant aparer / que follescosesparle
+                  </l>
+            </lg>
+               <lg type="cobla" n="8" xml:id="C018-08">
+                  
+                  <l n="57" xml:id="C018-57"> Lir entre carts / lo meu voler setempra
+                  </l>
+                  
+                  <l n="58" xml:id="C018-58"> enço que null amador / sap lo tempre
+                  </l>
+                  
+                  <l n="59" xml:id="C018-59"> so fay amor / aqui plau que yo senta
+                  </l>
+                  
+                  <l n="60" xml:id="C018-60"> sos grans tresors / sol amils manifesta <note type="editorial">21v en blanc. 22rv, carta de mossén Fenollar a Isabel de Suarís i resposta d'aquesta</note>
+                  </l>                  
+            </lg>
+         </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

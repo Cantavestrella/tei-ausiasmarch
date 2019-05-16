@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         
+         <titleStmt>
+            <title>Poema 11</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CR">
+               <name>Carmela Romero</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date>2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/mossen-ausias-march-poeta-manuscrito--0/">
+               <msIdentifier xml:id="G4_Ms_210_BHUV">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f. 13r first line </locus><choice><abbr>Moß</abbr><expan>Mossen</expan></choice> ausias marc</rubric>
+                     <rubric>
+                        <locus>f. 13v between lines 40 and 41 </locus>Tornada </rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_36.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_37.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <pb n="13r"
+            facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_36.html"/>
+         <lg type="poem" xml:id="C011-G4013">
+            <lg type="cobla" n="1" xml:id="C011-01">
+               
+               <l n="1" xml:id="C011-1"> Quins tansegurs / consells vas <choice><abbr>enşcant</abbr><expan>ensercant</expan></choice>
+               </l>
+               
+               <l n="2" xml:id="C011-2"> cors mal estruch / enfastijat de viure
+               </l>
+               
+               <l n="3" xml:id="C011-3"> amich deplor / edesamich deriure
+               </l>
+               
+               <l n="4" xml:id="C011-4"> com so ferras / los mals quit son <choice><abbr>dauȃt</abbr><expan>dauant</expan></choice>
+               </l>
+               
+               <l n="5" xml:id="C011-5"> Acuytat donchs / alamort quit spera
+               </l>
+               
+               <l n="6" xml:id="C011-6"> <choice><abbr>eꝑ</abbr><expan>eper</expan></choice> tos mals / teallongues los jorns
+               </l>
+               
+               <l n="7" xml:id="C011-7"> aytant es lluny / ton delitos sojorns
+               </l>
+               
+               <l n="8" xml:id="C011-8"> com vols fogir / alamort falaguera
+               </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C011-02">
+               
+               <l n="9" xml:id="C011-9"> Brasos vberts / es exidacarrera
+               </l>
+               
+               <l n="10" xml:id="C011-10"> plorant <gap reason="illegible" extent="1 word"/><add place="above">sos</add> ulls / <choice><abbr>ꝑ</abbr><expan>per</expan></choice>sobres degrangoig </l>
+               
+               <l n="11" xml:id="C011-11"> melodios cantar / desaveu oig
+               </l>
+               
+               <l n="12" xml:id="C011-12"> dient amich / ix decasastrangera
+               </l>
+               
+               <l n="13" xml:id="C011-13"> Endelit prench / donarte ma fauor
+               </l>
+               
+               <l n="14" xml:id="C011-14"> que <choice><abbr>ꝑ</abbr><expan>per</expan></choice> null temps / homenat lasentida
+               </l>
+               
+               <l n="15" xml:id="C011-15"> car yo defuig / atothom quemcrida
+               </l>
+               
+               <l n="16" xml:id="C011-16"> Prenent aquell / qui fuig demarigor
+               </l>
+            </lg>
+            <lg type="cobla" n="3" xml:id="C011-03">
+               
+               <l n="17" xml:id="C011-17"> Ab vlls plorants / ecaradeterror
+               </l>
+               
+               <l n="18" xml:id="C011-18"> cabells rompent / ab grans <choice><abbr><add place="above">hu</add>dulamȇts</abbr><expan><add place="above">hu</add>dulaments</expan></choice><note type="editorial">Sembla corregit sobre ydulaments.</note>
+               </l>
+                              
+               <l n="19" xml:id="C011-19"> lavidam vol / donar heretaments
+               </l>
+               
+               <l n="20" xml:id="C011-20"> edaquests dons / volquesia senyor <note type="editorial">Amb titlla supèrflua.</note>
+               </l>
+               
+               <l n="21" xml:id="C011-21"> Cridant ab veu / orrible ydolorosa
+               </l>
+               
+               <l n="22" xml:id="C011-22"> tal comla mort / cridalbenahuyrat
+               </l>
+               
+               <l n="23" xml:id="C011-23"> car si lomes / amals aparellat
+               </l>
+               
+               <l n="24" xml:id="C011-24"> laveu demort / li es melodiosa
+               </l>
+            </lg>
+            <pb n="13v"
+               facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_37.html"/>
+            <lg type="cobla" n="4" xml:id="C011-04">
+               
+               <l n="25" xml:id="C011-25"> Bem marauell / com es tanergullosa
+               </l>
+               
+               <l n="26" xml:id="C011-26"> lavoluntat / decascun amador
+               </l>
+               
+               <l n="27" xml:id="C011-27"> no demanant / ami que es amor
+               </l>
+               
+               <l n="28" xml:id="C011-28"> en mi sabran / saforça poderosa
+               </l>
+               
+               <l n="29" xml:id="C011-29"> Tots mal dient / <choice><abbr>sagrementajarȃ</abbr><expan>sagrementajaran</expan></choice>
+               </l>
+               
+               <l n="30" xml:id="C011-30"> que may amor / los tendran son poder
+               </l>
+               
+               <l n="31" xml:id="C011-31"> esils recont / lo colorat plaser
+               </l>
+               
+               <l n="32" xml:id="C011-32"> lo temps <choice><abbr>ꝑdut</abbr><expan>perdut</expan></choice> / sospirant <choice><abbr>maldirȃ</abbr><expan>maldiran</expan></choice>
+               </l>
+               
+            </lg>
+            <lg type="cobla" n="5" xml:id="C011-05">
+               
+               <l n="33" xml:id="C011-33"> Null hom conech / o donamon senblan
+               </l>
+               
+               <l n="34" xml:id="C011-34"> que dolorit  / <choice><abbr>ꝑ</abbr><expan>per</expan></choice> amor faça planyer
+               </l>
+               
+               <l n="35" xml:id="C011-35"> yo son aquell / dequis deu hom <choice><abbr>cȏplanyer</abbr><expan>complanyer</expan></choice>
+               </l>
+               
+               <l n="36" xml:id="C011-36"> cardemoncor / lasanch sen va llonyan
+               </l>
+               
+               <l n="37" xml:id="C011-37"> Pergran tristor / que li es acostada
+               </l>
+               
+               <l n="38" xml:id="C011-38"> secas tot jorn / lumit quim sostevida
+               </l>
+               
+               <l n="39" xml:id="C011-39"> elatristor contrami / es ardida
+               </l>
+               
+               <l n="40" xml:id="C011-40"> en monsocors / mano si troba armada
+               </l>
+            </lg>
+            <lg type="cobla" n="6" xml:id="C011-06">
+               
+               <l n="41" xml:id="C011-41"> Lir entre carts / lora sentacostada
+               </l>
+               
+               <l n="42" xml:id="C011-42"> que ciuilment / es mavida finida
+               </l>
+               
+               <l n="43" xml:id="C011-43"> puix que deltot / sperançasfugida
+               </l>
+               
+               <l n="44" xml:id="C011-44"> marmaroman / enaquest <choice><abbr>mȏ</abbr><expan>mon</expan></choice> <choice><abbr>dȃpnada</abbr><expan>dampnada</expan></choice>
+               </l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

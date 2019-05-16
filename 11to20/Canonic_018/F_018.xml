@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         
+         <titleStmt>
+            <title>Poema 18</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CR">
+               <name>Carmela Romero</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date>2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/poesias-de-ausias-y-mena-manuscrito--0/">
+               <msIdentifier xml:id="F_Ms_2244_BGHUS">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f. 18r first line </locus> Altra</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_39.html"/>
+      <graphic 
+         url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_40.html"/>
+      <graphic 
+         url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_41.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <pb n="18r"
+            facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_39.html"/>
+         <lg type="poem" xml:id="C018-F018">
+            <lg type="cobla" n="1" xml:id="C018-01">
+               
+               <l n="1" xml:id="C018-1"> Ffantasiant amor amj descobre</l>
+               
+               <l n="2" xml:id="C018-2"> Los grans secrets cals <choice><abbr>pꝯ</abbr><expan>pus</expan></choice> suptils amaga</l>
+               
+               <l n="3" xml:id="C018-3"> E mon iorn clar als homens es njt fosqua</l>
+               
+               <l n="4" xml:id="C018-4"> E ujsch de co que persones no tasten</l>
+               
+               <l n="5" xml:id="C018-5"> Tant en amor lesperit meu contempla</l>
+               
+               <l n="6" xml:id="C018-6"> Que par del tot fora del cors saparte<note type="editorial">Aquest mot sembla haver estat corregit per indicar millor la e final.</note></l>
+                              
+               <l n="7" xml:id="C018-7"> Car mos desigs no son trobats en home</l>
+               
+               <l n="8" xml:id="C018-8"> <choice><abbr>Sinȏ</abbr><expan>Sinon</expan></choice> en tal que la carn punt nol t<del type="overstrike">r</del>o<add place="above">r</add>be</l>
+               
+            </lg>
+            <lg type="cobla" n="2" xml:id="C018-02">
+               
+               <l n="9" xml:id="C018-9"> Ma carn no sent aquell desig sensible</l>
+               
+               <l n="10" xml:id="C018-10"> E lesperit obres damor cobeia</l>
+               
+               <l n="11" xml:id="C018-11"> Daquell cech foch qujlls amadors sescalfen</l>
+               
+               <l n="12" xml:id="C018-12"> Paor nom trob que yo men pogues ardre</l>
+               
+               <l n="13" xml:id="C018-13"> Un altresguart lo meu uoler pratica</l>
+               
+               <l n="14" xml:id="C018-14"> Quant en amor uos dona se contenta</l>
+               
+               <l n="15" xml:id="C018-15"> Que no han cells quj amadors se mostren</l>
+               
+               <l n="16" xml:id="C018-16"> Passionats e contramor no dignes</l>
+            </lg>
+            <lg type="cobla" n="3" xml:id="C018-03">
+               
+               <l n="17" xml:id="C018-17"> Si fos amor substanca rahonable</l>
+               
+               <l n="18" xml:id="C018-18"> E ques trobas de senyoria ceptre</l>
+               
+               <l n="19" xml:id="C018-19"> Bens guardonant e punjnt los de merits</l>
+               
+               <l n="20" xml:id="C018-20"> Entrells mellors sols me trobara fenix<note type="editor">El mot originari feniy corregit per fénix</note></l>
+               
+               
+               <l n="21" xml:id="C018-21"> Car yo tot sol desempare<del type="overstrike">re</del> la mescla</l>
+               
+               <l n="22" xml:id="C018-22"> Deleigs desigs / quj ab los bons senbolquen</l>
+               
+               <l n="23" xml:id="C018-23"> Castic nom cal puys de assaig nom tempten</l>
+               
+               <l n="24" xml:id="C018-24"> La causa llur en mj es feta nulle</l>
+            </lg>
+            <pb n="18v"
+               facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_40.html"/>
+            <lg type="cobla" n="4" xml:id="C018-04">
+               
+               <l n="25" xml:id="C018-25"> Si com los sants sentints la lum diuina</l>
+               
+               <l n="26" xml:id="C018-26"> La lum del mon conegueren per ficta</l>
+               
+               <l n="27" xml:id="C018-27"> E menyspreants la gloria mundana</l>
+               
+               <l n="28" xml:id="C018-28"> Puys maior part de gloria sentien</l>
+               
+               <l n="29" xml:id="C018-29"> Tot en axi tinch en menyspreu e fastig</l>
+               
+               <l n="30" xml:id="C018-30"> Aquells desigs quj complits amor mjnua</l>
+               
+               <l n="31" xml:id="C018-31"> Prenint aquells que del sperit mouen</l>
+               
+               <l n="32" xml:id="C018-32"> Qui nos lassat ans tot<del type="overstrike">s</del> jorn muntiplica</l>
+               
+            </lg>
+            <lg type="cobla" n="5" xml:id="C018-05">
+               
+               <l n="33" xml:id="C018-33"> Pren men axi com aquell philosophe</l>
+               
+               <l n="34" xml:id="C018-34"> Qui per muntar al be quj nos pot perdre</l>
+               
+               <l n="35" xml:id="C018-35"> Los perdedors lanca en mar <choice><abbr>ṗfunda</abbr><expan>profunda</expan></choice></l>
+               
+               <l n="36" xml:id="C018-36"> Crehent aquells lenteniment torbassen</l>
+               
+               <l n="37" xml:id="C018-37"> Yo per muntar al delit perdurable</l>
+               
+               <l n="38" xml:id="C018-38"> Tant quant al mon gros plaer de mj lance</l>
+               
+               <l n="39" xml:id="C018-39"> Crehent de cert quel gran delit me torba</l>
+               
+               <l n="40" xml:id="C018-40"> Aquell plaer quen fastig uolant passa</l>
+            </lg>
+            <lg type="cobla" n="6" xml:id="C018-06">
+               
+               <l n="41" xml:id="C018-41"> Si com sant pau deuli sostrague larma</l>
+               
+               <l n="42" xml:id="C018-42"> Del cors per que uers diuinals mjsteris</l>
+               
+               <l n="43" xml:id="C018-43"> Car es lo cors del esperit lo carcre</l>
+               
+               <l n="44" xml:id="C018-44"> E tant com uiu ab ell es entenebres</l>
+               
+               <l n="45" xml:id="C018-45"> Axi amor lesperit meu arrapa</l>
+               
+               <l n="46" xml:id="C018-46"> E noy acull la maculada pensa</l>
+               
+               <l n="47" xml:id="C018-47"> E per co sent lo delit quj nos canssa</l>
+               
+               <l n="48" xml:id="C018-48"> Si que ma carn la ueramor nom torba</l>
+            </lg>
+            <pb n="19r"
+               facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_41.html"/>
+            <lg type="cobla" n="7" xml:id="C018-07">
+               
+               <l n="49" xml:id="C018-49"> Als naturals no par que fer se pusquen</l>
+               
+               <l n="50" xml:id="C018-50"> Molts del secrets quela deytat sestoia</l>
+               
+               <l n="51" xml:id="C018-51"> Que reuellats son stats amolts martres</l>
+               
+               <l n="52" xml:id="C018-52"> No tan suptils com los ignorants y<note type="editorial">Sembla llegir-se una vocal o originàriament, corregida després per y.</note> aptes</l>
+                              
+               <l n="53" xml:id="C018-53"> Axi prjmors amor amj reuella</l>
+               
+               <l n="54" xml:id="C018-54"> Tals quels sabents no basten acompendre</l>
+               
+               <l n="55" xml:id="C018-55"> E quant ho dich de mos dits me desmenten</l>
+               
+               <l n="56" xml:id="C018-56"> Dant aparer que folles coses parle</l>
+            </lg>
+            <lg type="cobla" n="8" xml:id="C018-08">
+               
+               <l n="57" xml:id="C018-57"> Lir entre carts lo meu voler se tempra</l>
+               
+               <l n="58" xml:id="C018-58"> En co que null amador sap lo tempre</l>
+               
+               <l n="59" xml:id="C018-59"> Co fay amor aqui plau que yo senta</l>
+               
+               <l n="60" xml:id="C018-60"> Sos grans tresors sols amjls manifesta</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>
