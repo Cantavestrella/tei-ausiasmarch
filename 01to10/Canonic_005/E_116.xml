@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title>Poema 5</title>
+                <author>Ausiàs March </author>
+                <respStmt xml:id="RC">
+                    <name>Rosanna Cantavella, Universitat de València</name>
+                    <resp>Coordinator of LaTEX into TEI transformations</resp>
+                </respStmt>
+                <respStmt xml:id="EM">
+                    <name>Enric Moll</name>
+                    <resp>Changes LaTEX to TEI, coding volunteer</resp>
+                </respStmt>
+                <respStmt xml:id="AH">
+                    <name>Adolfo Hilario, Universitat Politècnica de València</name>
+                    <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+                </respStmt>
+                <respStmt xml:id="LM">
+                    <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+                    <resp>Coordinator of manuscript transcription into LaTEX</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Rosanna Cantavella</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                            to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed result
+                            work from a previous LaTEX format file out of the synoptic diplomatic edition
+                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                        <p>The licence was added on May 1, 2019.</p>
+                    </licence>
+                </availability>
+                <date> 2019-05-01</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc
+                    corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000149777">
+                    <msIdentifier xml:id="E_Ms_3695_BnM">
+                        <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <rubric>
+                                <locus>f. 143v after end of previous poem, before this one: </locus><choice><abbr>Moß</abbr><expan>Mossen</expan></choice>
+                                ausias march </rubric>
+                            <rubric>
+                                <locus>f. 144v between lines 40 and 41 </locus>Tornada </rubric>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="CA">Catalan</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+                    edition, from all witnesses.</p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic
+            url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+        <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+    </facsimile>
+    <text>
+        <body>
+<pb n="180r"
+    facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+        <lg type="poem" xml:id="C005-E116">
+            <lg type="cobla" n="1" xml:id="C0005-1">
+                <l n="1" xml:id="C005-1"> Tant he amat / que mon grosser enginy</l>
+                <l n="2" xml:id="C005-2"> per gran treball / de pensa es subtil</l>
+                <l n="3" xml:id="C005-3"> leixant apart / aquell sentiment vil</l>
+                <l n="4" xml:id="C005-4"> quen jorn present / los enamorats çiny</l>
+                <l n="5" xml:id="C005-5"> Suytan sabent / que say ben departir</l>
+                <l n="6" xml:id="C005-6"> amor daquell / desig no virtuos</l>
+                <l n="7" xml:id="C005-7"> car tot desig / de ques hom congoxos</l>
+                <l n="8" xml:id="C005-8"> no es / amor / ne per tal se deu dir</l>
+                </lg>
+        <pb n="180v" 
+            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+            <lg type="cobla" n="2" xml:id="C0005-2">
+                <l n="9" xml:id="C005-9">  Axi com deu / qui nol plach descobrir</l>
+                <l n="10" xml:id="C005-10"> com ni <choice><abbr>perꝗ</abbr><expan>perque</expan></choice> / jeyan lo verge / ventre</l>
+                <l n="11" xml:id="C005-11"> e quant exich / defora daquell çentre</l>
+                <l n="12" xml:id="C005-12"> may lo Satan / lo poch be disçernir</l>
+                <l n="13" xml:id="C005-13"> Ans quant enell / veyal curs de natura</l>
+                <l n="14" xml:id="C005-14"> creya de çert / aquell no esser Deu</l>
+                <l n="15" xml:id="C005-15"> mas ja retut / son esperit en creu</l>
+                <l n="16" xml:id="C005-16"> sabel mester / que paradis procura</l>
+                </lg>
+            <lg type="cobla" n="3" xml:id="C0005-3">
+                <l n="17" xml:id="C005-17"> Per mals parlers / he tret saber e cura</l>
+                <l n="18" xml:id="C005-18"> de retenir / lo foch damor sens fum</l>
+                <l n="19" xml:id="C005-19"> e per ayço / he cartejat volum</l>
+                <l n="20" xml:id="C005-20"> daquell saber / que sens amor no dura</l>
+                <l n="21" xml:id="C005-21"> Viscut he molt / sens esser conegut</l>
+                <l n="22" xml:id="C005-22"> per molts senyals / que fictes he mostrats</l>
+                <l n="23" xml:id="C005-23"> mas com sere / per hom folls publicats</l>
+                <l n="24" xml:id="C005-24"> sere <choice><abbr>bȇ</abbr><expan>ben</expan></choice> çert / lo tart aperçebut</l>
+                </lg>
+            <lg type="cobla" n="4" xml:id="C0005-4">
+                <l n="25" xml:id="C005-25"> Sia en vos / aytant debe caygut</l>
+                <l n="26" xml:id="C005-26"> obrant en vos / arreglada merçe</l>
+                <l n="27" xml:id="C005-27"> que vehent mi / despullat de tot be</l>
+                <l n="28" xml:id="C005-28"> no desprehets / mon dan per vos vengut</l>
+                <l n="29" xml:id="C005-29"> E si per vos / he nom de foll attes</l>
+                <l n="30" xml:id="C005-30"> e contra mi / serestat mal mirent</l>
+                <l n="31" xml:id="C005-31"> sia per vos / cregut saui sabent</l>
+                <l n="32" xml:id="C005-32"> puis que per vos / mon seny haure despes</l>
+                </lg>
+        <pb n="181r" 
+            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+            <lg type="cobla" n="5" xml:id="C0005-5">
+                <l n="33" xml:id="C005-33">  Si per amar / a vos hauiattes</l>
+                <l n="34" xml:id="C005-34"> honor e bens / belleay sauiesa</l>
+                <l n="35" xml:id="C005-35"> lamor queus he / tenrria peroffesa</l>
+                <l n="36" xml:id="C005-36"> sital semblant / a vos no paregues</l>
+                <l n="37" xml:id="C005-37"> Ma voluntat / en si tal carrech porta</l>
+                <l n="38" xml:id="C005-38"> que no sera / sens la vostra contenta</l>
+                <l n="39" xml:id="C005-39"> e fora vos / no pens que may consenta</l>
+                <l n="40" xml:id="C005-40"> que null desig / li sodegue la porta</l>
+                </lg>
+            <lg type="tornada">
+                <l n="41" xml:id="C005-41"> Plena de seny / natura nom comporta</l>
+                <l n="42" xml:id="C005-42"> quen tal dolor / no descresca ma vida</l>
+                <l n="43" xml:id="C005-43"> si Deu pregas / ma veu serioyda</l>
+                <l n="44" xml:id="C005-44"> hoiu la vos / puis veritat reporta</l>
+                </lg>
+         </lg>
+        </body>
+    </text>
+</TEI>
