@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 12</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="EM">
+               <name>Enric Moll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date> 2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+               <msIdentifier xml:id="N_Ms_2281_HSM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f. 13v between lines 40 and 41</locus> Tornada.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_7.html"/>
+      <graphic 
+         url=""/>
+   </facsimile>
+   <text>
+      <body>
+         <pb n="5"
+            facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_7.html"/>
+         <lg type="poem" n="1" xml:id="C003-L003">
+            <lg type="cobla" n="1" xml:id="C0003-1">
+               <l n="1" xml:id="C003-1">¶  Per moltamor don gran desig sengendra</l>
+               <l n="2" xml:id="C003-2">Sper vinent <choice><abbr>ꝑ</abbr><expan>per</expan></choice> tots aquests grahons</l>
+               <l n="3" xml:id="C003-3">No son delits mas donen passions</l>
+               <l n="4" xml:id="C003-4">Lapor del mal qujm fa morir tan tendra</l>
+               <l n="5" xml:id="C003-5">E portalcor sens fum continuu foch</l>
+               <l n="6" xml:id="C003-6">E la color nom surt apart de fora</l>
+               <l n="7" xml:id="C003-7">Socoreume dins los termens dun ora</l>
+               <l n="8" xml:id="C003-8">Car mos seyals demostren viure poch</l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C0003-2">
+               <l n="9" xml:id="C003-9">¶ Metie sient no te lo cas per goch</l>
+               <l n="10" xml:id="C003-10">Com la calor so surt apart <del type="overstrike">defora</del> extrema</l>
+               <l n="11" xml:id="C003-11">Lignorant veu que lo malalt no crema</l>
+               <l n="12" xml:id="C003-12">E jutgel sa pusque mostra bon toch</l>
+               <l n="13" xml:id="C003-13">Lo pacient no pora dir son mall</l>
+               <l n="14" xml:id="C003-14">Tot afeblit ablengua mal diserta</l>
+               <l n="15" xml:id="C003-15">Gests e color asats fan descuberta</l>
+               <l n="16" xml:id="C003-16">Part del afany que tant com lo dir val</l>
+            </lg>
+            <lg type="tornada">
+               <l n="17" xml:id="C003-17">¶ Plena de seny dir uos <choice><abbr>quę</abbr><expan>queus</expan></choice>> amb no cal</l>
+               <l n="18" xml:id="C003-18">Puys crech de cert <choice><abbr>quę</abbr><expan>queus</expan></choice> ne teniu <choice><abbr>ꝑ</abbr><expan>per</expan></choice> certa</l>
+               <l n="19" xml:id="C003-19">Si beus mostrau <choice><abbr>quę</abbr><expan>queus</expan></choice> esta molt cuberta</l>
+               <l n="20" xml:id="C003-20">Cella per quj amor es desegual</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

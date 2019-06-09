@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>   
+         <titleStmt>
+            <title>Poema 3</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="EM">
+               <name>Enric Moll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date> 2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/poesias-de-ausias-y-mena-manuscrito--0/">
+               <msIdentifier xml:id="F_Ms_2244_BGHUS">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f. 10v first line </locus>Altra</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_7.html"/>     
+   </facsimile>
+   <text>
+      <body>
+         <pb n="2r"
+            facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_7.html"/>
+         <lg type="poem" n="3" xml:id="C003-F003">
+            <lg type="cobla" n="1" xml:id="C0003-1">
+               <l n="1" xml:id="C003-1"><del type="overstrike">Per moltamor</del><add place="above">Alt e amor</add><note type="x">Escrit d'una altra mà, problablement la mateixa que transcriu la poesia 1.</note>don gran desig sengen<add place="above">d</add>ra</l>
+               <l n="2" xml:id="C003-2">Sper vinent per tots aquests graons</l>
+               <l n="3" xml:id="C003-3">Me son delits mas donam passions</l>
+               <l n="4" xml:id="C003-4">La por del mal quim fa magrir de carn tendra</l>
+               <l n="5" xml:id="C003-5">E port al cor sens fum continuu foch</l>
+               <l n="6" xml:id="C003-6">E la calor nom surt apart defora</l>
+               <l n="7" xml:id="C003-7">Socoreu me dins los termens dunora</l>
+               <l n="8" xml:id="C003-8">Car mos senyals demostren viure poch</l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C0003-2">
+               <l n="9" xml:id="C003-9">Metge scient no te lo cas per joch</l>
+               <l n="10" xml:id="C003-10">Com la calor no surt apart extrema</l>
+               <l n="11" xml:id="C003-11">Lignorant ueu quelo malat no crema</l>
+               <l n="12" xml:id="C003-12">E jutial sa puys que mostra bon toch</l>
+               <l n="13" xml:id="C003-13">Lo pacient no pora dir son mal</l>
+               <l n="14" xml:id="C003-14">Tot aflebit ab lengua molt diserta</l>
+               <l n="15" xml:id="C003-15">Gests e color assats fan descuberta</l>
+               <l n="16" xml:id="C003-16">Part del afany que tant com lo dir ual</l>
+            </lg>
+            <lg type="tornada">
+               <l n="17" xml:id="C003-17">Plena de seny dir uos <choice><abbr>quę</abbr><expan>queus</expan></choice> am no cal</l>
+               <l n="18" xml:id="C003-18">Puys crech de cert <choice><abbr>quę</abbr><expan>queus</expan></choice> tenju <choice><abbr>ꝑ</abbr><expan>per</expan></choice> certa</l>
+               <l n="19" xml:id="C003-19">Si be mostrau queus esta molt cuberta</l>
+               <l n="20" xml:id="C003-20">Cella per que amor es desegual</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

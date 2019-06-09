@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+        <titleStmt>
+            <title>Poema 3</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="EM">
+               <name>Enric Moll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date> 2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/obres-dausias-march-manuscrito--0/">
+               <msIdentifier xml:id="B_Ms_479_BnP">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f. 203v after end of previous poem, before this one: </locus>Mossen
+                        auzias march </rubric>
+                     <rubric>
+                        <locus>f. 204r between lines 40 and 41 </locus>Tornada </rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_12.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <pb n="4v"
+            facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_12.html"/>
+         <lg type="poem" n="3" xml:id="C003-B004">
+            <lg type="cobla" n="1" xml:id="C0003-1">
+               <l n="1" xml:id="C003-1">pEr moltamor don gran desitx seniendra</l>
+               <l n="2" xml:id="C003-2">[Es]per vinent per tots <choice><abbr>aꝗlls</abbr><expan>aquells</expan></choice> graons</l>
+               <l n="3" xml:id="C003-3">Me son delits mas donam pations</l>
+               <l n="4" xml:id="C003-4">La por del mal quim fa magrir carn fedra</l>
+               <l n="5" xml:id="C003-5">E port al cor sens fum contiu foch</l>
+               <l n="6" xml:id="C003-6">E la calor no surt apart defora</l>
+               <l n="7" xml:id="C003-7">Soccorreu me dins los <choice><abbr>termȇs</abbr><expan>termens</expan></choice> dunora</l>
+               <l n="8" xml:id="C003-8">Car mos senyals demostran viure poch
+               </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C0003-2">
+               <l n="9" xml:id="C003-9">Metje scient no te lo cas per joch</l>
+               <l n="10" xml:id="C003-10">Com la calor no surt apart strema</l>
+               <l n="11" xml:id="C003-11"><choice><abbr>Lignorȃt</abbr><expan>Lignorant</expan></choice> veu que lo malalt no crema</l>
+               <l n="12" xml:id="C003-12">E jutjal sa puys <choice><abbr>ꝗ</abbr><expan>que</expan></choice> mostra bon toch</l>
+               <l n="13" xml:id="C003-13">Lo patient no pora dir son mal</l>
+               <l n="14" xml:id="C003-14">Tot affeblit ab lengua mal discreta</l>
+               <l n="15" xml:id="C003-15">Gest e color assats fa descuberta</l>
+               <l n="16" xml:id="C003-16">Part del affany <choice><abbr>ꝗ</abbr><expan>que</expan></choice> tant <choice><abbr>cȏ</abbr><expan>com</expan></choice> lo dir val</l>
+            </lg>
+            <lg type="tornada">
+               <l n="41" xml:id="C003-41">Plena de seny diruos <choice><abbr>quꝯ</abbr><expan>queus</expan></choice> am no cal</l>
+               <l n="42" xml:id="C003-42">Puys yo so cert queus ne tenju <choice><abbr>ꝑ</abbr><expan>per</expan></choice> certa</l>
+               <l n="43" xml:id="C003-43">Si be mostrau queus sta molt cuberta</l>
+               <l n="44" xml:id="C003-44">Cella per qui amor es desigual</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>
