@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            
+            <titleStmt>
+                <title>Poema 6</title>
+                <author>Ausiàs March </author>
+                <respStmt xml:id="RC">
+                    <name>Rosanna Cantavella, Universitat de València</name>
+                    <resp>Coordinator of LaTEX into TEI transformations</resp>
+                </respStmt>
+                <respStmt xml:id="EM">
+                    <name>Enric Moll</name>
+                    <resp>Changes LaTEX to TEI, coding volunteer</resp>
+                </respStmt>
+                <respStmt xml:id="AH">
+                    <name>Adolfo Hilario, Universitat Politècnica de València</name>
+                    <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+                </respStmt>
+                <respStmt xml:id="LM">
+                    <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+                    <resp>Coordinator of manuscript transcription into LaTEX</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Rosanna Cantavella</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                            to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed result
+                            work from a previous LaTEX format file out of the synoptic diplomatic edition
+                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                        <p>The licence was added on May 1, 2019.</p>
+                    </licence>
+                </availability>
+                <date> 2019-05-01</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc
+                    corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000149777">
+                    <msIdentifier xml:id="E_Ms_3695_BnM">
+                        <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <rubric>
+                                <locus>f. 143v after end of previous poem, before this one: </locus><choice><abbr>Moß</abbr><expan>Mossen</expan></choice>
+                                ausias march </rubric>
+                            <rubric>
+                                <locus>f. 144v between lines 40 and 41 </locus>Tornada </rubric>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="CA">Catalan</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+                    edition, from all witnesses.</p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic
+            url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+        <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+    </facsimile>
+    <text>
+        <body>
+        <pb n="86r"
+            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+        <lg type="poem" xml:id="C006-E056">
+            <lg type="cobla" n="1" xml:id="C0006-1">
+                <l n="1" xml:id="C006-1"> Molt he tardat / en descobrir ma falta</l>
+                <l n="2" xml:id="C006-2"> per jouentut / quem nega speriment</l>
+                <l n="3" xml:id="C006-3"> en vn cas nou / hom noes conexent</l>
+                <l n="4" xml:id="C006-4"> e maiorment / sila rahos malalta</l>
+                <l n="5" xml:id="C006-5"> Ab gran esforç / de folla voluntat</l>
+                <l n="6" xml:id="C006-6"> car tant comes / la voluntat moguda</l>
+                <l n="7" xml:id="C006-7"> hom deu hauer / del seny maior aiuda</l>
+                <l n="8" xml:id="C006-8"> si virtuos / vol esser nomenat</l>
+                </lg>
+            <lg type="cobla" n="2" xml:id="C0006-2">
+                <l n="9" xml:id="C006-9"> Qui son cami / verdader ha errat</l>
+                <l n="10" xml:id="C006-10"> per anar lay / hon vol sojorn hauer</l>
+                <l n="11" xml:id="C006-11"> es li forçat / que prenga mal sender</l>
+                <l n="12" xml:id="C006-12"> e may venir /  ason lloch desijat</l>
+                <l n="13" xml:id="C006-13"> Tal cas ma pres / volent me contentar</l>
+                <l n="14" xml:id="C006-14"> lenteniment / en amor contemplant</l>
+                <l n="15" xml:id="C006-15"> no ha trobat / lo seu propi semblant</l>
+                <l n="16" xml:id="C006-16"> car son esguart / es verament amar</l>
+                </lg>
+        <pb n="86v" 
+            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/> 
+            <lg type="cobla" n="3" xml:id="C0006-3">
+                <l n="17" xml:id="C006-17"> Lenteniment / en quil juhi nos clar</l>
+                <l n="18" xml:id="C006-18"> forçadament / ha pendropinions</l>
+                <l n="19" xml:id="C006-19"> voluntat mou / soffistiques rahons</l>
+                <l n="20" xml:id="C006-20"> fent les valer / e per bastants passar</l>
+                <l n="21" xml:id="C006-21"> Si col flori / qui bona color ha</l>
+                <l n="22" xml:id="C006-22"> e no val res / coneguda sa lley</l>
+                <l n="23" xml:id="C006-23"> na pres ami / quen pensa munti Rey</l>
+                <l n="24" xml:id="C006-24"> fahent rahons / qun jnfant poch / desfa</l>
+                </lg>
+            <lg type="cobla" n="4" xml:id="C0006-4">
+                <l n="25" xml:id="C006-25"> E si pas mal / bon dret ho consentra</l>
+                <l n="26" xml:id="C006-26"> puis es dit foll / çell qui serueix senyor</l>
+                <l n="27" xml:id="C006-27"> qui no pot fer / content bon seruidor</l>
+                <l n="28" xml:id="C006-28"> e per null temps / degun dret juhi fa</l>
+                <l n="29" xml:id="C006-29"> E puisque mal / administrador es</l>
+                <l n="30" xml:id="C006-30"> al cauador / dona loguer de metge</l>
+                <l n="31" xml:id="C006-31"> en los lochs plans / fa durar lestret setge</l>
+                <l n="32" xml:id="C006-32"> yel fort castell / en terra tost la mes</l>
+                </lg>
+            <lg type="cobla" n="5" xml:id="C0006-5">
+                <l n="33" xml:id="C006-33"> Pren men axi / com al grosser pages</l>
+                <l n="34" xml:id="C006-34"> qui bon sement / en mala terra met</l>
+                <l n="35" xml:id="C006-35"> lentrecuydat / pensauer bon splet</l>
+                <l n="36" xml:id="C006-36"> daquell terreny / qui buyda los granes</l>
+                <l n="37" xml:id="C006-37"> Assats ha seny / qui no ha sentiment</l>
+                <l n="38" xml:id="C006-38"> per en sercar / e trobar la raho</l>
+                <l n="39" xml:id="C006-39"> e pren esment / del mal <choice><abbr>ƌl</abbr><expan>del</expan></choice> companyo</l>
+                <l n="40" xml:id="C006-40"> per cas passat / jutie lo seu present</l>
+                </lg>
+        <pb n="87r" 
+            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+            <lg type="cobla" n="6" xml:id="C0006-6">
+                <l n="41" xml:id="C006-41">  Seguint lestil / que natura consent</l>
+                <l n="42" xml:id="C006-42"> e ço quel seny / en veure clar abasta</l>
+                <l n="43" xml:id="C006-43"> negre forment / no dona blanca pasta</l>
+                <l n="44" xml:id="C006-44"> ne lase ranch / es animal corrent</l>
+                <l n="45" xml:id="C006-45"> Tant poch sera / que nulla dona senta</l>
+                <l n="46" xml:id="C006-46"> ne veia prim / lo fin secret damor</l>
+                <l n="47" xml:id="C006-47"> si per amar / no soffir gran dolor</l>
+                <l n="48" xml:id="C006-48"> e de son seny / triadan millers trenta</l>
+                </lg>
+            <lg type="cobla" n="7" xml:id="C0006-7">
+                <l n="49" xml:id="C006-49"> Plena de seny / si algu mi smenta</l>
+                <l n="50" xml:id="C006-50"> tots los hoents / dien que so mellor</l>
+                <l n="51" xml:id="C006-51"> pus franch e fort / e callant amador</l>
+                <l n="52" xml:id="C006-52"> ma voluntat / fahent damor seruenta</l>
+                </lg>
+              </lg>
+        </body>
+    </text>
+</TEI>
