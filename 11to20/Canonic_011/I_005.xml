@@ -83,7 +83,7 @@
       <body>
          <pb n="27r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_54.html"/>
-         <lg type="poem" xml:id="C011-I005">
+         <div type="poem" xml:id="C011-I005">
             <lg type="cobla" n="1" xml:id="C011-01">
                
                <l n="1" xml:id="C011-1">  Q<note type="editorial">Insertada per una mà posterior, tinta diferent.</note>Vins tants segurs / consells vas ensercant
@@ -104,7 +104,7 @@
                <l n="6" xml:id="C011-6"> E per tos mals / te allongues los jorns
                </l>
                
-               <l n="7" xml:id="C011-7"> Aytant es luny / <del type="overstrike">fon</del> ton delitos soiorns
+               <l n="7" xml:id="C011-7"> Aytant es luny / <del rend="overstrike">fon</del> ton delitos soiorns
                </l>
                
                <l n="8" xml:id="C011-8"> Com vols fugir / ala mort falaguera

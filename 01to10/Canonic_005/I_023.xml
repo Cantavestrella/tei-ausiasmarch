@@ -78,7 +78,7 @@
         <body>       
             <pb n="47v"
                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_95.html"/>
-                <lg type="poem" xml:id="C005-I023">
+                <div type="poem" xml:id="C005-I023">
             <lg type="cobla" n="1" xml:id="C0005-1">
                 <l n="1" xml:id="C005-1"> Tant he amat / quemon grosser enginy</l>
                 <l n="2" xml:id="C005-2"> Per gran treball / depensa es soptil</l>

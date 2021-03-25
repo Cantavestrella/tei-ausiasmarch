@@ -77,7 +77,7 @@
         <body>
         <pb n="9v"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_22.html"/>
-        <lg type="poem" xml:id="C010-F010">       
+        <div type="poem" xml:id="C010-F010">       
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> Si com hun rey senyor de tres ciutats</l>
                 <l n="2" xml:id="C010-2"> Qui tot son temps la plagut guerre<add place="above">j</add>ar</l>
@@ -106,7 +106,7 @@
                 <l n="21" xml:id="C010-21"> Tot mal vencut ab sol esforc dun cors</l>
                 <l n="22" xml:id="C010-22"> Nel ha calgut mostrar sa potent forca</l>
                 <l n="23" xml:id="C010-23"> Los tres poders quen larma son me forca</l>
-                <l n="24" xml:id="C010-24"> Dos men jaqueix delaltr<del type="overstrike">e</del>usar no gos</l>
+                <l n="24" xml:id="C010-24"> Dos men jaqueix delaltr<del rend="overstrike">e</del>usar no gos</l>
                 </lg>
         <pb n="10r" 
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_23.html"/> 

@@ -69,7 +69,7 @@
       <body>
          <pb n="11v"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-         <lg type="poem" xml:id="C012-D012">
+         <div type="poem" xml:id="C012-D012">
             <lg type="cobla" n="1" xml:id="C012-01">
                
                <l n="1" xml:id="C012-1"> Ja no esper / que sia mat

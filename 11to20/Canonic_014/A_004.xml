@@ -81,7 +81,7 @@
       <body>
          <pb n="27v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_105.html"/>
-         <lg type="poem" xml:id="C014-A004">
+         <div type="poem" xml:id="C014-A004">
             <lg type="cobla" n="1" xml:id="C014-01">
                <l n="1" xml:id="C014-1">MAl venturos / no deu sercar ventura</l>
                

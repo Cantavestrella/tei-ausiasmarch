@@ -80,7 +80,7 @@
       <body>
          <pb n="22"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_24.html"/>
-         <lg type="poem" xml:id="C013-A061">
+         <div type="poem" xml:id="C013-A061">
             <lg type="cobla" n="1" xml:id="C011-01">
                
                <l n="1" xml:id="C011-1"> &#182;  Quins tals segurs consells vas acertant
@@ -137,7 +137,7 @@
             
             <lg type="cobla" n="3" xml:id="C011-03">
                
-               <l n="17" xml:id="C011-17"> Ab vlls plorants e carra de <del type="overstrike">dolor</del> terror
+               <l n="17" xml:id="C011-17"> Ab vlls plorants e carra de <del rend="overstrike">dolor</del> terror
                </l>
                
                <l n="18" xml:id="C011-18"> Cabells rompent ab grans hudolaments

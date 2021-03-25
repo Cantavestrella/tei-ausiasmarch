@@ -77,7 +77,7 @@
       <body>
          <pb n="21r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_50.html"/>
-         <lg type="poem" n="2" xml:id="C002-b026">
+         <div type="poem" n="2" xml:id="C002-b026">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">P<c rend="large">r</c>en men aixi / com a patro, que'nplatja</l>
                <l n="2" xml:id="C002-2">te sa gran nau /  he  pensah'uer, Castell</l>

@@ -75,7 +75,7 @@
     </facsimile>
     <text>
         <body>                            
-        <lg type="poem" xml:id="C007-L002">
+        <div type="poem" xml:id="C007-L002">
             <pb n="106r" 
                 facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
             <lg type="cobla" n="1" xml:id="C0007-1">
@@ -130,7 +130,7 @@
                 <l n="37" xml:id="C007-37"> E com sere / traspessat daquest mon</l>
                 <l n="38" xml:id="C007-38"> Letres diran / sobre la mia tomba</l>
                 <l n="39" xml:id="C007-39"> Plena de seny / no tingau agran bomba</l>
-                <l n="40" xml:id="C007-40"> Com per vos <del type="overstrike">mort</del><del type="overstrike">so</del> e vaig no se hon /</l>             
+                <l n="40" xml:id="C007-40"> Com per vos <del rend="overstrike">mort</del><del rend="overstrike">so</del> e vaig no se hon /</l>             
                 </lg>
             <lg type="cobla" n="6" xml:id="C0007-6">
                 <l n="41" xml:id="C007-41"> Enueges tal / que tot primer confon</l>

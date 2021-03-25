@@ -80,7 +80,7 @@
         <body>                                
         <pb n="16"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_18.html"/>
-        <lg type="poem" xml:id="C008-N008">
+        <div type="poem" xml:id="C008-N008">
             <pb n="16" facs="xxxx"/>
             <lg type="cobla" n="1" xml:id="C0008-1">
                 <l n="1" xml:id="C008-1"> ¶ Ja tots mos sxants vull mentre enoblit</l>

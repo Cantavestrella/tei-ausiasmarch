@@ -78,7 +78,7 @@
       <body>
          <pb n="67v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_143.html"/>
-         <lg type="poem" xml:id="C015-b074">
+         <div type="poem" xml:id="C015-b074">
             <lg type="cobla" n="1" xml:id="C015-01">
                
                <l n="1" xml:id="C015-1"> S<c rend="large">i</c>'pres <choice><abbr>grȃs</abbr><expan>grans</expan></choice> mals / vn bem sera guardat

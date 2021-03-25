@@ -82,7 +82,7 @@
       <body>
          <pb n="27v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_73.html"/>
-         <lg type="poem" n="2" xml:id="C002-e026">
+         <div type="poem" n="2" xml:id="C002-e026">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">P<c rend="large">r</c>en men axi / com al patro qu'en plaja</l>
                <l n="2" xml:id="C002-2">te sa gran nau / e pensa ver Castell</l>

@@ -79,7 +79,7 @@
       <body>
          <pb n="16v"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_36.html"/>
-         <lg type="poem" xml:id="C017-F017">
+         <div type="poem" xml:id="C017-F017">
             <lg type="cobla" n="1" xml:id="C017-01">
                
                <l n="1" xml:id="C017-1"> Si deu del cors lamjarma sostrau

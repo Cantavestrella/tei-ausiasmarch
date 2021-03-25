@@ -81,7 +81,7 @@
       <body>
          <pb n="8v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_17.html"/>
-         <lg type="poem" xml:id="C013-a006">
+         <div type="poem" xml:id="C013-a006">
             <lg type="cobla" n="1" xml:id="C013-01">
 
                <l n="1" xml:id="C013-1">C<c rend="large">o</c>lguen les gents / ab molt alegres festes</l>

@@ -77,7 +77,7 @@
       <body>
          <pb n="140r"
             facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-         <lg type="poem" xml:id="C011-L008">
+         <div type="poem" xml:id="C011-L008">
             <lg type="cobla" n="1" xml:id="C011-01">
                
                <l n="1" xml:id="C011-1"> Quins tants segurs / consells vas ensercant

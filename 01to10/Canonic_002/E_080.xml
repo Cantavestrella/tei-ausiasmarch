@@ -78,7 +78,7 @@
       <body>
          <pb n="49r"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-         <lg type="poem" n="1" xml:id="C001-A019">
+         <div type="poem" n="1" xml:id="C001-A019">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">Pren men axi / com al patro quen platia</l>
                <l n="2" xml:id="C002-2">te sa gran nau / e pensauer castell</l>

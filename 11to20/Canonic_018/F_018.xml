@@ -78,7 +78,7 @@
       <body>
          <pb n="18r"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_39.html"/>
-         <lg type="poem" xml:id="C018-F018">
+         <div type="poem" xml:id="C018-F018">
             <lg type="cobla" n="1" xml:id="C018-01">
                
                <l n="1" xml:id="C018-1"> Ffantasiant amor amj descobre</l>
@@ -95,7 +95,7 @@
                               
                <l n="7" xml:id="C018-7"> Car mos desigs no son trobats en home</l>
                
-               <l n="8" xml:id="C018-8"> <choice><abbr>Sinȏ</abbr><expan>Sinon</expan></choice> en tal que la carn punt nol t<del type="overstrike">r</del>o<add place="above">r</add>be</l>
+               <l n="8" xml:id="C018-8"> <choice><abbr>Sinȏ</abbr><expan>Sinon</expan></choice> en tal que la carn punt nol t<del rend="overstrike">r</del>o<add place="above">r</add>be</l>
                
             </lg>
             <lg type="cobla" n="2" xml:id="C018-02">
@@ -127,7 +127,7 @@
                <l n="20" xml:id="C018-20"> Entrells mellors sols me trobara fenix<note type="editor">El mot originari feniy corregit per fénix</note></l>
                
                
-               <l n="21" xml:id="C018-21"> Car yo tot sol desempare<del type="overstrike">re</del> la mescla</l>
+               <l n="21" xml:id="C018-21"> Car yo tot sol desempare<del rend="overstrike">re</del> la mescla</l>
                
                <l n="22" xml:id="C018-22"> Deleigs desigs / quj ab los bons senbolquen</l>
                
@@ -153,7 +153,7 @@
                
                <l n="31" xml:id="C018-31"> Prenint aquells que del sperit mouen</l>
                
-               <l n="32" xml:id="C018-32"> Qui nos lassat ans tot<del type="overstrike">s</del> jorn muntiplica</l>
+               <l n="32" xml:id="C018-32"> Qui nos lassat ans tot<del rend="overstrike">s</del> jorn muntiplica</l>
                
             </lg>
             <lg type="cobla" n="5" xml:id="C018-05">

@@ -85,7 +85,7 @@
         <body>                                
         <pb n="69v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_157.html"/>               
-        <lg type="poem" xml:id="C008-e061">
+        <div type="poem" xml:id="C008-e061">
             <lg type="cobla" n="1" xml:id="C0008-1">
                 <l n="1" xml:id="C008-1"> <c rend="large">I</c> A tots mos cants / me plau metr'en oblit</l>
                 <l n="2" xml:id="C008-2"> foragitant / mon gentil pensament</l>

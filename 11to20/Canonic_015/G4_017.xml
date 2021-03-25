@@ -81,7 +81,7 @@
       <body>
          <pb n="16v"
             facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_43.html"/>
-         <lg type="poem" xml:id="C015-G4017">
+         <div type="poem" xml:id="C015-G4017">
             <lg type="cobla" n="1" xml:id="C015-01">
                
                <l n="1" xml:id="C015-1"> Si pres grans mals / <choice><abbr>vnbȇ</abbr><expan>vnbem</expan></choice> <choice><abbr>şaguardat</abbr><expan>seraguardat</expan></choice>

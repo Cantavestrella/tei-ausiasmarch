@@ -79,7 +79,7 @@
       <body>
          <pb n="15v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_37.html"/>
-         <lg type="poem" xml:id="C015-K015">
+         <div type="poem" xml:id="C015-K015">
             <lg type="cobla" n="1" xml:id="C015-01">
                
                <l n="1" xml:id="C015-1"> s J pres <choice><abbr>grȃs</abbr><expan>grans</expan></choice> mals vn bem sera gordat
@@ -173,7 +173,7 @@
                <l n="28" xml:id="C015-28"> Que fon request per dona <choice><abbr>ꝗ</abbr><expan>que</expan></choice> fo morta
                </l>
                
-               <l n="29" xml:id="C015-29"> O cruels fats vos qui<del type="overstrike">s</del> fes <choice><abbr>jutiamȇt</abbr><expan>jutiament</expan></choice>
+               <l n="29" xml:id="C015-29"> O cruels fats vos qui<del rend="overstrike">s</del> fes <choice><abbr>jutiamȇt</abbr><expan>jutiament</expan></choice>
                </l>
                
                <l n="30" xml:id="C015-30"> Que io amas vn cor de carn tan dur

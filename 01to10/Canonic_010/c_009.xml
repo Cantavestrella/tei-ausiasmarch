@@ -81,7 +81,7 @@
         <body>
             <pb n="17r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_35.html"/>
-            <lg type="poem" xml:id="C010-c009">
+            <div type="poem" xml:id="C010-c009">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> Sicom un Rey / senyor de tres çiutats</l>
                 <l n="2" xml:id="C010-2"> qui tot son temps / l'ha plagut guerrejar,</l>
@@ -140,7 +140,7 @@
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_38.html"/>
             <lg type="cobla" n="6" xml:id="C0010-6">
                 <l n="41" xml:id="C010-41"> Plena de seny / uullau uos accordar</l>
-                <l n="42" xml:id="C010-42"> com per amar / uenen gran<del type="overstrike">s</del>sentiment<del type="overstrike">s</del>.</l>
+                <l n="42" xml:id="C010-42"> com per amar / uenen gran<del rend="overstrike">s</del>sentiment<del rend="overstrike">s</del>.</l>
                 <l n="43" xml:id="C010-43"> e per amor / pot ser hom ignocent</l>
                 <l n="44" xml:id="C010-44"> e mostreu yo / que ne perdut parlar.</l>
                 </lg>

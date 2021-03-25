@@ -83,7 +83,7 @@
         <body>                
         <pb n="8"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_10.html"/>
-                <lg type="poem" xml:id="C005-N005">
+                <div type="poem" xml:id="C005-N005">
             <lg type="cobla" n="1" xml:id="C0005-1">
                 <l n="1" xml:id="C005-1"> ¶  Tant he amat que mon groser enginy</l>
                 <l n="2" xml:id="C005-2"> Per gran treball depensa es subtill</l>

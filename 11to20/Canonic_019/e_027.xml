@@ -80,7 +80,7 @@
       <body>
          <pb n="28v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_75.html"/>
-         <lg type="poem" xml:id="C019-e027">
+         <div type="poem" xml:id="C019-e027">
             <lg type="cobla" n="1" xml:id="C019-01">
                
                <l n="1" xml:id="C019-1"> H<c rend="large">o</c>iu hoiu / tots los qui be amats

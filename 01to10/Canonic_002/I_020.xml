@@ -78,15 +78,15 @@
       <body>
          <pb n="46r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_92.html"/>
-         <lg type="poem" n="2" xml:id="C002-IO20">
+         <div type="poem" n="2" xml:id="C002-IO20">
             <lg type="cobla" n="1" xml:id="C0002-1">
-               <l n="1" xml:id="C002-1">Ren men axi / com el patro quin <del type="overstrike">la</del>plaia</l>
+               <l n="1" xml:id="C002-1">Ren men axi / com el patro quin <del rend="overstrike">la</del>plaia</l>
                <l n="2" xml:id="C002-2">Te sa gran nau / e pensauer castell</l>
                <l n="3" xml:id="C002-3">Vehent lo temps / esser molt clar e bell</l>
                <l n="4" xml:id="C002-4">Creu fermament / dunacora ssats haia</l>
                <l n="5" xml:id="C002-5">E sent venjr / soptos vn temporal</l>
-               <l n="6" xml:id="C002-6">De tempestat / e temps jnco <del type="overstrike">r</del>portable</l>
-               <l n="7" xml:id="C002-7">Leua son <del type="overstrike">seny</del> juy / que si molt es <del type="overstrike">dub</del> durable</l>
+               <l n="6" xml:id="C002-6">De tempestat / e temps jnco <del rend="overstrike">r</del>portable</l>
+               <l n="7" xml:id="C002-7">Leua son <del rend="overstrike">seny</del> juy / que si molt es <del rend="overstrike">dub</del> durable</l>
                <l n="8" xml:id="C002-8">Cercar los ports / mes quaturar li val</l>
             </lg>
             <lg type="cobla" n="2" xml:id="C0002-2">

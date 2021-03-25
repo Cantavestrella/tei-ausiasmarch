@@ -195,7 +195,7 @@
             <l n="35" xml:id="C011-35"> Yo fon <choice><abbr>aꝗll</abbr><expan>aquell</expan></choice> quis deu hom <choice><abbr>cȏplȃyer</abbr><expan>complanyer</expan></choice>
             </l>
             
-            <l n="36" xml:id="C011-36"> Car de <choice><abbr>mȏ</abbr><expan>mon</expan></choice> cor la sanch sen <choice><abbr>valonyȃt<del type="overstrike">t</del></abbr><expan>valonyan<del type="overstrike">t</del></expan></choice>
+            <l n="36" xml:id="C011-36"> Car de <choice><abbr>mȏ</abbr><expan>mon</expan></choice> cor la sanch sen <choice><abbr>valonyȃt<del rend="overstrike">t</del></abbr><expan>valonyan<del rend="overstrike">t</del></expan></choice>
             </l>
             
             

@@ -81,12 +81,12 @@
       <body>
          <pb n="Guarda r"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_3.html"/>
-         <lg type="poem" n="1" xml:id="C001-A019">
+         <div type="poem" n="1" xml:id="C001-A019">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1">¶ Axi com cell / quen lo somnis delita</l>
                <l n="2" xml:id="C001-2">e son delit / de foll pensament ve</l>
                <l n="3" xml:id="C001-3">ne pren a mi / quel temps passat me te</l>
-               <l n="4" xml:id="C001-4">limaginar / que altre be<del type="overstrike">n</del> noy habita</l>
+               <l n="4" xml:id="C001-4">limaginar / que altre be<del rend="overstrike">n</del> noy habita</l>
                <l n="5" xml:id="C001-5">sentint venir / la guait de ma dolor</l>
                <l n="6" xml:id="C001-6">sabent de cert / quen sens mans he de jaure</l>
                <l n="7" xml:id="C001-7">temps por venir / en ningun bem pot caure</l>

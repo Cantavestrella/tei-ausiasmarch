@@ -77,7 +77,7 @@
       <body>
          <pb n="32v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_73.html"/>
-         <lg type="poem" xml:id="C020-b041">
+         <div type="poem" xml:id="C020-b041">
          <lg type="cobla" n="1" xml:id="C020-01">
             
             <l n="1" xml:id="C020-1"> A<c rend="large">l</c>guns passats / donaren, si, amort

@@ -78,7 +78,7 @@
       <body>
          <pb n="1r"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-         <lg type="poem" n="1" xml:id="C001-A019">
+         <div type="poem" n="1" xml:id="C001-A019">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1">Axi com çell / quin lo somnis delita</l>
                <l n="2" xml:id="C001-2">e son delit / de foll pensament ve</l>

@@ -78,7 +78,7 @@
       <body>
          <pb n="15v"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_34.html"/>
-         <lg type="poem" xml:id="C016-F016">
+         <div type="poem" xml:id="C016-F016">
             <lg type="cobla" n="1" xml:id="C016-01">
                
                <l n="1" xml:id="C016-1"> Junt es lo temps que mon goig es complit
@@ -119,7 +119,7 @@
                <l n="12" xml:id="C016-12"> Noua dolor dauant ell se pressenta
                </l>
                
-               <l n="13" xml:id="C016-13"> Napres ame quj <del type="overstrike">tosts</del> tostemps desige
+               <l n="13" xml:id="C016-13"> Napres ame quj <del rend="overstrike">tosts</del> tostemps desige
                </l>
                
                <l n="14" xml:id="C016-14"> Dona seruir on cabes tot mon alt

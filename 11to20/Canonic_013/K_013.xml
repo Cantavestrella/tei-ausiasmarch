@@ -79,7 +79,7 @@
       <body>
          <pb n="13v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_33.html"/>
-         <lg type="poem" xml:id="C013-K013">
+         <div type="poem" xml:id="C013-K013">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">c Olguen las gents  ab alegria festes</l>
                

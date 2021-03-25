@@ -80,7 +80,7 @@
       <body>
          <pb n="37"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_39.html"/>
-         <lg type="poem" xml:id="C018-N018">
+         <div type="poem" xml:id="C018-N018">
             <lg type="cobla" n="1" xml:id="C018-01">
                
                <l n="1" xml:id="C018-1"> &#182;  Ffantasiant amor amj descobre</l>
@@ -95,7 +95,7 @@
                
                <l n="6" xml:id="C018-6"> Que par del tot fora del cors sap<add place="above">a</add>rte</l>
                
-               <l n="7" xml:id="C018-7"> Car mos <del type="overstrike">se</del> desigs no son trobats enhome</l>
+               <l n="7" xml:id="C018-7"> Car mos <del rend="overstrike">se</del> desigs no son trobats enhome</l>
                
                <l n="8" xml:id="C018-8"> Sino ental quj la carn punt nol torbe</l>
             </lg>
@@ -139,7 +139,7 @@
                facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_40.html"/>
             <lg type="cobla" n="4" xml:id="C018-04">
                
-               <l n="25" xml:id="C018-25"> Si com los sants <del type="overstrike">sentint</del> sentints la lum diuina</l>
+               <l n="25" xml:id="C018-25"> Si com los sants <del rend="overstrike">sentint</del> sentints la lum diuina</l>
                               
                <l n="26" xml:id="C018-26"> La lum del mon conegueren per ficta</l>
                

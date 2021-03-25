@@ -72,7 +72,7 @@
       <body>
          <pb n="117v"
             facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-         <lg type="poem" n="1" xml:id="C001-A019">
+         <div type="poem" n="1" xml:id="C001-A019">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1">Axi com cell / qujn lo sompnis delita</l>
                <l n="2" xml:id="C001-2">E son delit / defoll pensament ve</l>
@@ -118,7 +118,7 @@
             <lg type="cobla" n="5" xml:id="C0001-5">
                <l n="33" xml:id="C001-33">Com lermita / quenyorament nol creix</l>
                <l n="34" xml:id="C001-34">Daquells amjchs / quauja en lo mon</l>
-               <l n="35" xml:id="C001-35">Tant ha <del type="overstrike">lo</del> loch <choice><abbr>tȇps</abbr><expan>temps</expan></choice> / quen los
+               <l n="35" xml:id="C001-35">Tant ha <del rend="overstrike">lo</del> loch <choice><abbr>tȇps</abbr><expan>temps</expan></choice> / quen los
                   poblats no fon</l>
                <l n="36" xml:id="C001-36">Per fortuhjt / cas hu dells la pareix</l>
                <l n="37" xml:id="C001-37">Quj los plasers / passats lj renouella</l>

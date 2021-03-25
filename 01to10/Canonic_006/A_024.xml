@@ -78,7 +78,7 @@
           <body>
             <pb n="52v"
                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_155.html"/>
-            <lg type="poem" xml:id="C006-A024">
+            <div type="poem" xml:id="C006-A024">
             <lg type="cobla" n="1" xml:id="C0006-1">
                 <l n="1" xml:id="C006-1"> MOlt he tardat / endescobrir ma falta</l>
                 <l n="2" xml:id="C006-2"> Per jouentut / quem neguesperiment</l>

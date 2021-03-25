@@ -78,7 +78,7 @@
       <body>
          <pb n="12v"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_28.html"/>
-         <lg type="poem" xml:id="C013-F013">
+         <div type="poem" xml:id="C013-F013">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">Colguen les gents ab alegria festes</l>
                

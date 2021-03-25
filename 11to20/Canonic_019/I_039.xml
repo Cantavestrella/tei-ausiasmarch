@@ -81,7 +81,7 @@
       <body>
          <pb n="61v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_123.html"/>
-         <lg type="poem" xml:id="C019-I039">
+         <div type="poem" xml:id="C019-I039">
             <lg type="cobla" n="1" xml:id="C019-01">
                
                <l n="1" xml:id="C019-1"> <add place="margin left">H</add><note type="editor">Assenyala una caplletra.</note>Oyu hoyu / tots los quj be amats

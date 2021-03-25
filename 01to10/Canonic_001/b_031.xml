@@ -77,7 +77,7 @@
       <body>
          <pb n="25r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_59.html"/>
-         <lg type="poem" n="1" xml:id="C001-b031">
+         <div type="poem" n="1" xml:id="C001-b031">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1">Axi com cell / qui'n lo somnis de lita</l>
                <l n="2" xml:id="C001-2">he son delit / de foll pensament ve</l>

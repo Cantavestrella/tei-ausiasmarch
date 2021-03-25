@@ -82,7 +82,7 @@
         <body>
             <pb n="7v"
                 facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_18.html"/> 
-            <lg type="poem" xml:id="C007-B008">
+            <div type="poem" xml:id="C007-B008">
             <lg type="cobla" n="1" xml:id="C0007-1">
                 <l n="1" xml:id="C007-1"> sI com \interlin{d}ictat\footnote{d \textit{sobreposada substituïnt una} r\textit{anul$\cdot{}$lada mitjançant subratllat}} no porta bens ab si</l>
                 <l n="2" xml:id="C007-2"> Mas val ayta\textit{n}<choice><abbr></abbr><expan></expan></choice>t com lo quin es senyor</l>

@@ -79,7 +79,7 @@
       <body>
          <pb n="2v"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_8.html"/>
-         <lg type="poem" n="1" xml:id="C001-B002">
+         <div type="poem" n="1" xml:id="C001-B002">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1">sI com <choice><abbr>aꝗll</abbr><expan>aquell</expan></choice> quin lo sompnis delita</l>
                <l n="2" xml:id="C001-2">E son delit de foll pensament ve</l>

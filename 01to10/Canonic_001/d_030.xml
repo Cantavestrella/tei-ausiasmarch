@@ -81,7 +81,7 @@
       <body>
          <pb n="37v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_79.html"/>
-         <lg type="poem" n="1" xml:id="C001-d030">
+         <div type="poem" n="1" xml:id="C001-d030">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1">¶A<c rend="large">x</c>i com çell / qui'n lo somni'sdelita</l>
                <l n="2" xml:id="C001-2">e son delit / de foll pensament ve</l>

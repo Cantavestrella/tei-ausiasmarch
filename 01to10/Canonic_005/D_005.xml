@@ -79,7 +79,7 @@
         <body>      
 <pb n="4v"
     facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-        <lg type="poem" xml:id="C005-D005">
+        <div type="poem" xml:id="C005-D005">
             <lg type="cobla" n="1" xml:id="C0005-1">
                 <l n="1" xml:id="C005-1"> Tant he amat / que mongrosser enginy</l>
                 <l n="2" xml:id="C005-2"> pergran treball / de pensa es subtil</l>

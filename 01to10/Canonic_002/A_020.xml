@@ -79,7 +79,7 @@
       <body>
          <pb n="49v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_149.html"/>
-         <lg type="poem" n="2" xml:id="C002-A020">
+         <div type="poem" n="2" xml:id="C002-A020">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">PRen men axi / com el patro quin plaia</l>
                <l n="2" xml:id="C002-2">Te sagran nau / epensauer castell</l>

@@ -79,7 +79,7 @@
         <body>
     <pb n="3v"
         facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_10.html"/>
-        <lg type="poem" xml:id="C005-F005">
+        <div type="poem" xml:id="C005-F005">
         <lg type="cobla" n="1" xml:id="C0005-1">
             <l n="1" xml:id="C005-1"> Tant he amat que mon grosser enginy</l>
             <l n="2" xml:id="C005-2"> Per gran treball de pensa es suptil</l>
@@ -108,8 +108,8 @@
             <l n="19" xml:id="C005-19"> E per aco he carteiat uolum</l>
             <l n="20" xml:id="C005-20"> Daquell saber que sens amor no dura</l>
             <l n="21" xml:id="C005-21"> Viscut he molt sens esser conegut</l>
-            <l n="22" xml:id="C005-22"> Per molts senyals que fictes he mostrat<del type="overstrike">s</del></l>
-            <l n="23" xml:id="C005-23"> Mas quant sere per hom foll publicat<del type="overstrike">s</del></l>
+            <l n="22" xml:id="C005-22"> Per molts senyals que fictes he mostrat<del rend="overstrike">s</del></l>
+            <l n="23" xml:id="C005-23"> Mas quant sere per hom foll publicat<del rend="overstrike">s</del></l>
             <l n="24" xml:id="C005-24"> Sera ben cert lo tart apercebut</l>
             </lg>
         <lg type="cobla" n="4" xml:id="C0005-4">
@@ -130,7 +130,7 @@
             <l n="36" xml:id="C005-36"> Si tal senblant en uos no paregues</l>
             <l n="37" xml:id="C005-37"> Ma uoluntat en si tal carech porta</l>
             <l n="38" xml:id="C005-38"> Que no sera sens la uostra contenta</l>
-            <l n="39" xml:id="C005-39"> E per null <del type="overstrike">temps</del> cas mepens que no dissenta</l>
+            <l n="39" xml:id="C005-39"> E per null <del rend="overstrike">temps</del> cas mepens que no dissenta</l>
             <l n="40" xml:id="C005-40"> Que null desig li sodegue la porta</l>
             </lg>
         <lg type="cobla" n="6" xml:id="C0005-6">

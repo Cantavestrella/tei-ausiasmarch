@@ -80,7 +80,7 @@
       <body>
          <pb n="18r"
             facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_46.html"/>
-         <lg type="poem" xml:id="C016-G4018">
+         <div type="poem" xml:id="C016-G4018">
             <lg type="cobla" n="1" xml:id="C016-01">
                
                <l n="1" xml:id="C016-1"> Junt es lo <choice><abbr>ŧps</abbr><expan>temps</expan></choice> <choice><abbr>ꝗ</abbr><expan>que</expan></choice> mon goig es complit

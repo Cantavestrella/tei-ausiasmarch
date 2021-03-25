@@ -79,7 +79,7 @@
         <body>
         <pb n="70v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_142.html"/>
-            <lg type="poem" xml:id="C009-c052">
+            <div type="poem" xml:id="C009-c052">
             <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1"> Amor se dol/ com breument yo no muyr</l>
                 <l n="2" xml:id="C009-2"> puis noli fall / per esser demi fart</l>

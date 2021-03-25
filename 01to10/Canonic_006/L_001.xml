@@ -76,7 +76,7 @@
     <text>
         <body>                
                 <pb n="xxx"/>
-        <lg type="poem" xml:id="C006-L001">
+        <div type="poem" xml:id="C006-L001">
         <pb n="14r" 
             facs="xxxx"/>
             <lg type="cobla" n="1" xml:id="C0006-1">
@@ -93,9 +93,9 @@
                 </lg>
             <lg type="cobla" n="2" xml:id="C0006-2">
                 <l n="9" xml:id="C006-9"> Quj son camj / ha vertader errat</l>
-                <l n="10" xml:id="C006-10"> Per anar la<del type="overstrike">y</del> / hon vol soiorn hauer</l>
+                <l n="10" xml:id="C006-10"> Per anar la<del rend="overstrike">y</del> / hon vol soiorn hauer</l>
                 <l n="11" xml:id="C006-11"> Es lj forsat / que prengue mal sender</l>
-                <l n="12" xml:id="C006-12"> E may<del type="overstrike">s</del> venjr / ason loch desijat</l>
+                <l n="12" xml:id="C006-12"> E may<del rend="overstrike">s</del> venjr / ason loch desijat</l>
                 <l n="13" xml:id="C006-13"> Tal cars ma pres / volent me contentar</l>
                 <l n="14" xml:id="C006-14"> Lentenjment / en amor contemplant</l>
                 <l n="15" xml:id="C006-15"> No ha trobat / lo seu <choice><abbr>ƥprj</abbr><expan>proprj</expan></choice> semblant</l>
@@ -114,7 +114,7 @@
                 <l n="24" xml:id="C006-24"> Ffahent rahons / cuu Jnfant poch desfa</l>
                 </lg>               
             <lg type="cobla" n="4" xml:id="C0006-4">
-                <l n="25" xml:id="C006-25"> <del type="overstrike">E si pas mal</del>E si pas mal /bon dret ho consentra</l>
+                <l n="25" xml:id="C006-25"> <del rend="overstrike">E si pas mal</del>E si pas mal /bon dret ho consentra</l>
                 <l n="26" xml:id="C006-26"> Puys es dit foll / cell quj serueix senyor</l>
                 <l n="27" xml:id="C006-27"> Que no pot fer / content bon serujdor</l>
                 <l n="28" xml:id="C006-28"> E per null temps / negun dret juy fa</l>

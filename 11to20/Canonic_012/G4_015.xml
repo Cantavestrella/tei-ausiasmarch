@@ -80,7 +80,7 @@
       <body>
          <pb n="15r"
             facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_40.html"/>
-         <lg type="poem" xml:id="C012-G4015">
+         <div type="poem" xml:id="C012-G4015">
             <lg type="cobla" n="1" xml:id="C012-01">
                
                <l n="1" xml:id="C012-1"> Ja no sper / quesiamat
@@ -104,7 +104,7 @@
                <l n="7" xml:id="C012-7"> molt menys / mallengua volrradir
                </l>
                
-               <l n="8" xml:id="C012-8"> <del type="overstrike">volrra dir /</del> Ço<note type="editorial">Corregit sobre So.</note> quel<add place="above">o</add>gest / nogosamostrar
+               <l n="8" xml:id="C012-8"> <del rend="overstrike">volrra dir /</del> Ço<note type="editorial">Corregit sobre So.</note> quel<add place="above">o</add>gest / nogosamostrar
                </l>
                
             </lg>
@@ -119,7 +119,7 @@
                <l n="11" xml:id="C012-11"> <choice><abbr>equeꝯ</abbr><expan>equeus</expan></choice> fes venir / enacort
                </l>
                
-               <l n="12" xml:id="C012-12"> que<del type="overstrike">s</del> diu lesguart / enamorat
+               <l n="12" xml:id="C012-12"> que<del rend="overstrike">s</del> diu lesguart / enamorat
                </l>
                
                <l n="13" xml:id="C012-13"> Demoncor no puch / contefar
@@ -216,7 +216,7 @@
             </lg>
             <lg type="cobla" n="6" xml:id="C012-06">
                
-               <l n="41" xml:id="C012-41"> Les dones pre<del type="overstrike">n</del>y / vullenpensar
+               <l n="41" xml:id="C012-41"> Les dones pre<del rend="overstrike">n</del>y / vullenpensar
                </l>
                
                <l n="42" xml:id="C012-42"> cascunabquin / esguart la mire

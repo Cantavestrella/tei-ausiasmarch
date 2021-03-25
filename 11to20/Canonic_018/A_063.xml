@@ -80,7 +80,7 @@
       <body>
          <pb n="205r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_462.html"/>
-         <lg type="poem" xml:id="C018-A063">
+         <div type="poem" xml:id="C018-A063">
             <lg type="cobla" n="1" xml:id="C018-01">
                
                <l n="1" xml:id="C018-1"> Entesiant / amor ami descobre
@@ -237,7 +237,7 @@
                <l n="47" xml:id="C018-47"> Crehent decert / quel gran delit me torba
                </l>
                
-               <l n="48" xml:id="C018-48"> Aquell <del type="overstrike">desig del momentat delicte</del> <add place="above">plaher que fastig volant passa</add>
+               <l n="48" xml:id="C018-48"> Aquell <del rend="overstrike">desig del momentat delicte</del> <add place="above">plaher que fastig volant passa</add>
                </l>
                
             </lg>

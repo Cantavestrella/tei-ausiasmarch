@@ -77,7 +77,7 @@
         <body>
             <pb n="3v"
                 facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-            <lg type="poem" xml:id="C004-D004">
+            <div type="poem" xml:id="C004-D004">
              <lg type="cobla" n="1" xml:id="C0004-1">
                 <l n="1" xml:id="C004-1">  Axicom cell / qui desigavianda</l>
                 <l n="2" xml:id="C004-2"> per apagar / sa perillosa fam</l>
@@ -149,7 +149,7 @@
                 <l n="52" xml:id="C004-52"> es foll/ o pech / o terrible grosser</l>
                 <l n="53" xml:id="C004-53"> Aytant com es / lenteniment pus clar</l>
                 <l n="54" xml:id="C004-54"> es gran delit / lo que per ell sepren</l>
-                <l n="55" xml:id="C004-55"> <del type="overstrike">e</del>s<del type="overstrike">o</del>ubt<add place="above">i</add>l<note>La b sesuperposa a una p primitiva.</note> art / es lo subtilpensamen<del type="overstrike">t</del></l>
+                <l n="55" xml:id="C004-55"> <del rend="overstrike">e</del>s<del rend="overstrike">o</del>ubt<add place="above">i</add>l<note>La b sesuperposa a una p primitiva.</note> art / es lo subtilpensamen<del rend="overstrike">t</del></l>
                 <l n="56" xml:id="C004-56"> qui de fins pasts / nol jaqueix endurar</l>
                 </lg>
             <lg type="tornada">

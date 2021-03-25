@@ -81,7 +81,7 @@
       <body>
          <pb n="3v"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_10.html"/>
-         <lg type="poem" n="2" xml:id="C002-B003">
+         <div type="poem" n="2" xml:id="C002-B003">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">pRenmen axi com al patro quin platja</l>
                <l n="2" xml:id="C002-2">Te sa gran nau e penssauer castell</l>

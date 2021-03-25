@@ -77,7 +77,7 @@
         <body>       
          <pb n="78v"
              facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_157.html"/>
-         <lg type="poem" xml:id="C010-I066">
+         <div type="poem" xml:id="C010-I066">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> SJ com vn Rey / senyor de tres ciutats</l>
                 <l n="2" xml:id="C010-2"> Qui tot son temps / la plagut garregar</l>

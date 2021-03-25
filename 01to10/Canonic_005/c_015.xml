@@ -79,7 +79,7 @@
         <body>
             <pb n="23v"
                 facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_48.html"/>
-            <lg type="poem" xml:id="C005-c015">
+            <div type="poem" xml:id="C005-c015">
             <lg type="cobla" n="1" xml:id="C0005-1">
                 <l n="1" xml:id="C005-1"> Tant he amat / que mon grosser enginy</l>
                 <l n="2" xml:id="C005-2"> per gran treball / de pensa es subtil</l>

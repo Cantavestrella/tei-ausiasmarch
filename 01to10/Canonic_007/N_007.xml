@@ -81,7 +81,7 @@
         <body>                                
         <pb n="13"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_15.html"/>
-        <lg type="poem" xml:id="C007-N007">
+        <div type="poem" xml:id="C007-N007">
             <pb n="13" facs="xxxx"/>
                 <lg type="cobla" n="1" xml:id="C0007-1">
                     <l n="1" xml:id="C007-1"> ¶  Si com Rictat no porta bens absi</l>

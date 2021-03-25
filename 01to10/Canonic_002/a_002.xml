@@ -80,7 +80,7 @@
       <body>
          <pb n="3r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_6.html"/>
-         <lg type="poem" n="2" xml:id="C002-a002">
+         <div type="poem" n="2" xml:id="C002-a002">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">P<c rend="large">r</c>enmen axi / como al patro que en platja</l>
                <l n="2" xml:id="C002-2">Te sa gran nau / e pensa hauer castell</l>

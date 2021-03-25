@@ -79,7 +79,7 @@
         <body>
 <pb n="9v"
     facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-        <lg type="poem" xml:id="C010-D010">
+        <div type="poem" xml:id="C010-D010">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> Si com vn rey / <choice><abbr>señor</abbr><expan>senyor</expan></choice> detres Ciutats</l>
                 <l n="2" xml:id="C010-2"> qui tot sontemps / l'aplagut guerrejar</l>
@@ -93,7 +93,7 @@
                 <l n="8" xml:id="C010-8"> vn soldader / qui lo rey desconfia</l>
                 </lg>
             <lg type="cobla" n="2" xml:id="C0010-2">
-                <l n="9" xml:id="C010-9"> Ladonchs lo rey / perd<del type="overstrike">e</del>e la <choice><abbr>sseñoria</abbr><expan>senyoria</expan></choice></l>
+                <l n="9" xml:id="C010-9"> Ladonchs lo rey / perd<del rend="overstrike">e</del>e la <choice><abbr>sseñoria</abbr><expan>senyoria</expan></choice></l>
                 <l n="10" xml:id="C010-10"> deles ciutats / sens vllapossehir</l>
                 <l n="11" xml:id="C010-11"> mas l'enemich / dues linvolch jaquir</l>
                 <l n="12" xml:id="C010-12"> dant fe lo rey / que boncompten retria</l>

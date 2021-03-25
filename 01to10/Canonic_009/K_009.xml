@@ -77,7 +77,7 @@
         <body>                           
         <pb n="10r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_26.html"/>
-        <lg type="poem" xml:id="C009-K009">
+        <div type="poem" xml:id="C009-K009">
             <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1"> a mor se dol com breument yo no muyr</l>
                 <l n="2" xml:id="C009-2"> Puys no li fall per esser de mj fart</l>

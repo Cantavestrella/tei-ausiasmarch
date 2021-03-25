@@ -78,7 +78,7 @@
       <body>
          <pb n="35v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_72.html"/>
-         <lg type="poem" n="1" xml:id="C001-C026">
+         <div type="poem" n="1" xml:id="C001-C026">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">Prenmen aixi / com a patro quen playa</l>
                <l n="2" xml:id="C002-2">te sa gra\textit{n}<choice><abbr></abbr><expan></expan></choice> nau / e pensa hauer castell</l>

@@ -79,7 +79,7 @@
       <body>
          <pb n="19r"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_41.html"/>
-         <lg type="poem"  xml:id="C019-F019">
+         <div type="poem"  xml:id="C019-F019">
             <lg type="cobla" n="1" xml:id="C019-01">
                
                <l n="1" xml:id="C019-1"> Hohiu hoiu tots los qui be amats
@@ -110,7 +110,7 @@
                facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_42.html"/>
             <lg type="cobla" n="2" xml:id="C019-02">
                
-               <l n="9" xml:id="C019-9"> Qujes lom viu tal dolor suffertant<del type="overstrike">s</del>
+               <l n="9" xml:id="C019-9"> Qujes lom viu tal dolor suffertant<del rend="overstrike">s</del>
                </l>
                
                <l n="10" xml:id="C019-10"> Que desig co de que se desespera
@@ -131,7 +131,7 @@
                <l n="15" xml:id="C019-15"> Menys de poder me trob hauent lo gran
                </l>
                
-               <l n="16" xml:id="C019-16"> Car nom esforc<del type="overstrike">h</del> per mostrar mon talent
+               <l n="16" xml:id="C019-16"> Car nom esforc<del rend="overstrike">h</del> per mostrar mon talent
                </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C019-03">

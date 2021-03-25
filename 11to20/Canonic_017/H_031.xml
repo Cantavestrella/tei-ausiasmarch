@@ -81,7 +81,7 @@
       <body>
          <pb n="36r"
             facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_54.html"/>
-         <lg type="poem" xml:id="C017-H031">
+         <div type="poem" xml:id="C017-H031">
             <lg type="cobla" n="1" xml:id="C017-01">
                
                <l n="1" xml:id="C017-1"> Si deu del cors la mjarma sostrau

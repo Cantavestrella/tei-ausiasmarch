@@ -76,7 +76,7 @@
       <body>
          <pb n="4"
             facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-         <lg type="poem" n="1" xml:id="C001-L005">
+         <div type="poem" n="1" xml:id="C001-L005">
             <lg type="cobla" n="1" xml:id="C0003-1">
                <l n="1" xml:id="C003-1">Per moltamor / don gran desig sengendra</l>
                <l n="2" xml:id="C003-2">Sper vinent / per tots aquests grahons</l>

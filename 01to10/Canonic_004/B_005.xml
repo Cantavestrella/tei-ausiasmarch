@@ -83,7 +83,7 @@
         <body>
             <pb n="4v"
                 facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_12.html"/>
-           <lg type="poem" xml:id="C004-B005">
+           <div type="poem" xml:id="C004-B005">
             <lg type="cobla" n="1" xml:id="C0004-1">
                 <l n="1" xml:id="C004-1"> aXi com lo qui desija vianda</l>
                 <l n="2" xml:id="C004-2"> Per apagar sa perillosa fam</l>

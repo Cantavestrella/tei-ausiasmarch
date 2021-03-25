@@ -78,7 +78,7 @@
         <body>
             <pb n="7r"
                 facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_17.html"/>
-                <lg type="poem" xml:id="C006-B007">
+                <div type="poem" xml:id="C006-B007">
             <lg type="cobla" n="1" xml:id="C0006-1">
                 <l n="1" xml:id="C006-1"> mOlt he tardat en descobrir ma falta</l>
                 <l n="2" xml:id="C006-2"> Per joventut quem nega speriment</l>

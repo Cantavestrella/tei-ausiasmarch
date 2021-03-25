@@ -78,7 +78,7 @@
         <body>                
        <pb n="23v"
            facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_47.html"/>
-       <lg type="poem" xml:id="C008-a013">             
+       <div type="poem" xml:id="C008-a013">             
             <lg type="cobla" n="1" xml:id="C0008-1">
                 <l n="1" xml:id="C008-1"> I<c rend="large">a </c>tots mos cants / vull metren oblit</l>
                 <l n="2" xml:id="C008-2"> Foragitant / mon gentil pensament</l>

@@ -80,7 +80,7 @@
         <body>
             <pb n="50v"
                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_151.html"/>
-            <lg type="poem" xml:id="C004-A022">
+            <div type="poem" xml:id="C004-A022">
               <lg type="cobla" n="1" xml:id="C0004-1">
                 <l n="1" xml:id="C004-1"> AXicom çell / qui desiga vianda</l>
                 <l n="2" xml:id="C004-2"> Per apagar / sa perillosa fam</l>

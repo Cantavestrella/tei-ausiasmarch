@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 1</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="EM">
+               <name>Enric Moll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date> 2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+               <msIdentifier xml:id="D_Ms_2985_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f. 203v after end of previous poem, before this one: </locus>Mossen
+                        auzias march </rubric>
+                     <rubric>
+                        <locus>f. 204r between lines 40 and 41 </locus>Tornada </rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+      <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+   </facsimile>
+   <text>
+      <body>
+         <pb n="1r"
+            facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+         <lg type="poem" n="1" xml:id="C001-D001">
+            <lg type="cobla" n="1" xml:id="C0001-1">
+               <l n="1" xml:id="C001-1">Axi com cell /qui'n lo somnis delita</l>
+               <l n="2" xml:id="C001-2">e son delit / del foll pensament ve</l>
+               <l n="3" xml:id="C001-3">ne pren ami / quil temps passat me te</l>
+               <l n="4" xml:id="C001-4">limaginar / qu'altre be noy habita</l>
+               <l n="5" xml:id="C001-5">Sentint venir / l'aguayt demadolor</l>
+               <l n="6" xml:id="C001-6">sabent decert / que'n ses mans he dejaure</l>
+               <l n="7" xml:id="C001-7">temps de venir / en negun bempot caure</l>
+               <l n="8" xml:id="C001-8">ço que's no res / en mi es lo millor</l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C0001-2">
+               <l n="9" xml:id="C001-9">Al temps passat / metrobe gran amor</l>
+               <l n="10" xml:id="C001-10">amant no res / pux es tot ja finit</l>
+               <l n="11" xml:id="C001-11">d'aquest pensar / me sojorn hem delit</l>
+               <l n="12" xml:id="C001-12">mas quant lo pert / sesforça madolor</l>
+               <l n="13" xml:id="C001-13">Sicom aquell / qui es jutjat amort</l>
+               <l n="14" xml:id="C001-14"><add place="margin left">h</add> e de lonch temps / la sab es aconorta</l>
+               <l n="15" xml:id="C001-15"><add place="margin left">h</add> e creurel fan / que li sera estorta</l>
+               <l n="16" xml:id="C001-16">el fan morir / sens vn punt de recort</l>
+            </lg>
+            <lg type="cobla" n="3" xml:id="C0001-3">
+               <l n="17" xml:id="C001-17">Plagues adeu / quemonpensar fos mort</l>
+               <l n="18" xml:id="C001-18">e que passas / ma vida endurment</l>
+               <l n="19" xml:id="C001-19">malament viu / quite sonpensament</l>
+               <l n="20" xml:id="C001-20">per enemich / fentli denuigs report</l>
+               <l n="21" xml:id="C001-21">E com lo vol / d'algun plaher seruir</l>
+               <l n="22" xml:id="C001-22">Lin pren axi / comdonab son infant</l>
+               <l n="23" xml:id="C001-23">que si veri / lidemana plorant</l>
+               <l n="24" xml:id="C001-24">ha tanpoch / seny/ quenol sabcontradir</l>
+            </lg>
+            <lg type="cobla" n="4" xml:id="C0001-4">
+               <l n="25" xml:id="C001-25">F<gap reason="illegible" extent="one or two letters"/>lor / madolor sofferir</l>
+               <l n="26" xml:id="C001-26">que no mesclar / pocapart deplaher</l>
+               <l n="27" xml:id="C001-27">entraquells  mals / quim giten de saber</l>
+               <l n="28" xml:id="C001-28">comdel pensat plaher meconuexir</l>
+               <l n="29" xml:id="C001-29">Llas mondelit / dolor seconuerteix</l>
+               <l n="30" xml:id="C001-30">dobles laffany / apres dun poch repos</l>
+               <l n="31" xml:id="C001-31">sicol malalt / qui perunplaent mos</l>
+               <l n="32" xml:id="C001-32">tot son menjar / endolor senodreix</l>
+            </lg>
+            <lg type="cobla" n="5" xml:id="C0001-5">
+               <l n="33" xml:id="C001-33">Com <add place="above">h</add>ermita / quinyorament nol creix</l>
+               <l n="34" xml:id="C001-34">daquells amichs / que tenian lo mon</l>
+               <l n="35" xml:id="C001-35">tant ha lonch temps / quen loch poblat no fon</l>
+               <l n="36" xml:id="C001-36">per fortuity / cas vn dells li apareix</l>
+               <l n="37" xml:id="C001-37">qui los passats / plahers li renouella</l>
+               <l n="38" xml:id="C001-38">siquel passat / present lifatornar</l>
+               <l n="39" xml:id="C001-39">mas comsenpart / lesforçat congoxar</l>
+               <l n="40" xml:id="C001-40">lo be comfuig / ab grans crits mal apella</l>
+            </lg>
+            <lg type="tornada">
+               <l n="41" xml:id="C001-41">Plena de Seny / quant amor es molt vella</l>
+               <l n="42" xml:id="C001-42">absença es / lo verme quila gasta</l>
+               <l n="43" xml:id="C001-43">si fermetat / durament no contrasta</l>
+               <l n="44" xml:id="C001-44">e creure poch / sil enuejos consella</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

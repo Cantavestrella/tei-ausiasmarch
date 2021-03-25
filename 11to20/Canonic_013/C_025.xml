@@ -78,7 +78,7 @@
       <body>
          <pb n="34v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_70.html"/>
-         <lg type="poem" xml:id="C013-C025">
+         <div type="poem" xml:id="C013-C025">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">Colguen les gents / ab alegria festes</l>
                

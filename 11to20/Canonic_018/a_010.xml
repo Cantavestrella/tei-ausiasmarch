@@ -78,7 +78,7 @@
       <body>
          <pb n="20r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_40.html"/>
-         <lg type="poem" xml:id="C018-a010">
+         <div type="poem" xml:id="C018-a010">
             <lg type="cobla" n="1" xml:id="C018-01">
                
                <l n="1" xml:id="C018-17"> &#182;  Si fos amor / substancia rahonable

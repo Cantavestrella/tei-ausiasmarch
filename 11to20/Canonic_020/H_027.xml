@@ -80,7 +80,7 @@
       <body>
          <pb n="32v"
             facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_47.html"/>
-         <lg type="poem" xml:id="C020-H027">
+         <div type="poem" xml:id="C020-H027">
             <lg type="cobla" n="1" xml:id="C020-01">
                
                <l n="1" xml:id="C020-1"> Alguns passats donaran si amort

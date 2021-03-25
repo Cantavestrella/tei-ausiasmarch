@@ -84,7 +84,7 @@
       <body>
          <pb n="32r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_68.html"/>
-         <lg type="poem" xml:id="C013-d025">
+         <div type="poem" xml:id="C013-d025">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">C<c rend="large">o</c>lguen les gents / ab alegria festes</l>
                

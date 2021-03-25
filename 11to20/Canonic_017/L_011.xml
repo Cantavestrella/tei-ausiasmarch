@@ -78,7 +78,7 @@
       <body>
          <pb n="143r"
             facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>         
-         <lg type="poem" xml:id="C017-L011">
+         <div type="poem" xml:id="C017-L011">
             <lg type="cobla" n="1" xml:id="C017-01">
                
                <l n="1" xml:id="C017-1"> Si deu del cors / lamiarma sostrau
@@ -156,7 +156,7 @@
                <l n="23" xml:id="C017-23"> Mas guay de mj / que tot lo cars es meu
                </l>
                
-               <l n="24" xml:id="C017-24"> Donchs <del type="overstrike">d</del> no deu ser / que nom plore algu
+               <l n="24" xml:id="C017-24"> Donchs <del rend="overstrike">d</del> no deu ser / que nom plore algu
                </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C017-04">

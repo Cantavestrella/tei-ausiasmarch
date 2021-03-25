@@ -76,7 +76,7 @@
     <text>
         <body>                
         <pb n="xxx"/>
-        <lg type="poem" xml:id="C009-L007">
+        <div type="poem" xml:id="C009-L007">
             <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1"> Amor se dol / com breument jo no muyr</l>
                 <l n="2" xml:id="C009-2"> Pus no li fall / per esser de mj fart</l>

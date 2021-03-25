@@ -79,7 +79,7 @@
         <body>            
         <pb n="5r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_16.html"/>
-        <lg type="poem" xml:id="C005-K005">
+        <div type="poem" xml:id="C005-K005">
             <lg type="cobla" n="1" xml:id="C0005-1">
                 <l n="1" xml:id="C005-1"> tAnt he amat <choice><abbr>quę</abbr><expan>queus</expan></choice> mon groçer enginy</l>
                 <l n="2" xml:id="C005-2"> Per gran treball de pensa es subtil</l>

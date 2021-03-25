@@ -74,7 +74,7 @@
       <body>
          <pb n="16r"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-         <lg type="poem" xml:id="C017-D017">
+         <div type="poem" xml:id="C017-D017">
          <lg type="cobla" n="1" xml:id="C017-01">
             
             <l n="1" xml:id="C017-1"> Sideu del cos lamia arma sostrau
@@ -95,7 +95,7 @@
             <l n="6" xml:id="C017-6"> com no so plant de pena sostenguda
             </l>
             
-            <l n="7" xml:id="C017-7"> Esiraho nopot esser <del type="overstrike">es</del>ser coneguda
+            <l n="7" xml:id="C017-7"> Esiraho nopot esser <del rend="overstrike">es</del>ser coneguda
             </l>
             
             <l n="8" xml:id="C017-8"> culpa nom han pus bonvoler los call
@@ -272,7 +272,7 @@
             <l n="57" xml:id="C017-57"> Plena de seny per no esser entesa
             </l>
             
-            <l n="58" xml:id="C017-58"> la mia mor<del type="overstrike">t</del> pora scapar sens merit
+            <l n="58" xml:id="C017-58"> la mia mor<del rend="overstrike">t</del> pora scapar sens merit
             </l>
             
             <l n="59" xml:id="C017-59"> e sab megreu com nohaurandemerit

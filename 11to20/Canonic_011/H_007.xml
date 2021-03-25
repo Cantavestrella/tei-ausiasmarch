@@ -77,7 +77,7 @@
       <body>
          <pb n="10r"
             facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_14.html"/>
-         <lg type="poem" xml:id="C011-H007">
+         <div type="poem" xml:id="C011-H007">
             <lg type="cobla" n="1" xml:id="C011-01">
                
                <l n="1" xml:id="C011-1"> Qujns tan segurs consels vas <choice><abbr>enserquȃt</abbr><expan>enserquant</expan></choice>

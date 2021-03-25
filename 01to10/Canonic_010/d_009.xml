@@ -83,7 +83,7 @@
         <body>                                
         <pb n="15v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_35.html"/>
-        <lg type="poem" xml:id="C010-d009">
+        <div type="poem" xml:id="C010-d009">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> <c rend="large">S</c>I com vn Rey / de tres ciutats senyo</l>
                 <l n="2" xml:id="C010-2"> qui tot son temps / l'aplagut guerrejar</l>

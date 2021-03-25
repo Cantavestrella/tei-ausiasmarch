@@ -71,7 +71,7 @@
         <body>                                
         <pb n="9r" 
             facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_12.html"/> 
-        <lg type="poem" xml:id="C009-H005">
+        <div type="poem" xml:id="C009-H005">
             <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1"> Estant apart tot sol yom enpagesch</l>
                 <l n="2" xml:id="C009-2"> Ymaginant ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> dauria ffer</l>

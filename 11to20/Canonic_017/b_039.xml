@@ -79,7 +79,7 @@
       <body>
          <pb n="30v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_69.html"/>
-         <lg type="poem" xml:id="C017-b039">
+         <div type="poem" xml:id="C017-b039">
             <lg type="cobla" n="1" xml:id="C017-01">
                
                <l n="1" xml:id="C017-1"> S<c rend="large">i</c> deu del cos / la mia'rma, sostrau

@@ -79,7 +79,7 @@
       <body>
          <pb n="12r"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_27.html"/>
-         <lg type="poem" xml:id="C012-B013">
+         <div type="poem" xml:id="C012-B013">
             <lg type="cobla" n="1" xml:id="C012-01">
                
                <l n="1" xml:id="C012-1"> iAno sper que sia amat

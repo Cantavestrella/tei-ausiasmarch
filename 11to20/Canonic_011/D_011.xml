@@ -80,7 +80,7 @@
          <pb n="10v"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
          
-         <lg type="poem" xml:id="C011-D011">
+         <div type="poem" xml:id="C011-D011">
             <lg type="cobla" n="1" xml:id="C011-01">
                
                <l n="1" xml:id="C011-1"> Quins tan segurs / consells vas encercant
@@ -167,7 +167,7 @@
                <l n="26" xml:id="C011-26"> lavoluntat / de cascun amador
                </l>
                
-               <l n="27" xml:id="C011-27"> no demanant / a mi <del type="overstrike">que es</del> <add place="above">lesforç</add> damor
+               <l n="27" xml:id="C011-27"> no demanant / a mi <del rend="overstrike">que es</del> <add place="above">lesforç</add> damor
                </l>
                
                

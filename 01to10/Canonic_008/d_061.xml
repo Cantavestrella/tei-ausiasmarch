@@ -83,7 +83,7 @@
         <body>                
         <pb n="75r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_154.html"/>
-        <lg type="poem" xml:id="C008-d061">
+        <div type="poem" xml:id="C008-d061">
             <lg type="cobla" n="1" xml:id="C0008-1">
                 <l n="1" xml:id="C008-1"> <c rend="large">I</c> A tots mos cants / me plau metre'n oblit</l>
                 <l n="2" xml:id="C008-2"> fora gitant / mon gentil pensament</l>

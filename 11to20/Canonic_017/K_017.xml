@@ -81,7 +81,7 @@
         <body>
            <pb n="17v"
                facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_41.html"/>
-            <lg type="poem" xml:id="C017-K017">
+            <div type="poem" xml:id="C017-K017">
              <lg type="cobla" n="1" xml:id="C017-01">
 
                 <l n="1" xml:id="C017-1"> s I deu del cos lamjarma sostrau</l>
@@ -195,7 +195,7 @@
 
                 <l n="46" xml:id="C017-46"> No pot sentir patio mes veu lacte</l>
 
-                <l n="47" xml:id="C017-47"> Dayçel <del type="overstrike">quen si</del> quensi porta lo <choice><abbr>grȃ</abbr><expan>gran</expan></choice> caracte</l>
+                <l n="47" xml:id="C017-47"> Dayçel <del rend="overstrike">quen si</del> quensi porta lo <choice><abbr>grȃ</abbr><expan>gran</expan></choice> caracte</l>
     
                 <l n="48" xml:id="C017-48"> Damor qui may contra si vol conçell</l>
             </lg>

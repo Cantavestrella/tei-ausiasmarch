@@ -76,7 +76,7 @@
         <body>             
         <pb n="8r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_24.html"/>
-        <lg type="poem" xml:id="C010-b009">
+        <div type="poem" xml:id="C010-b009">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> <c rend="large">S</c>I com vn Rey / senyor de tres ciutats</l>
                 <l n="2" xml:id="C010-2"> qui tot son temps / l'a plagut guerrejar</l>

@@ -80,7 +80,7 @@
       <body>
          <pb n="34"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_36.html"/>
-         <lg type="poem" xml:id="C017-N017">
+         <div type="poem" xml:id="C017-N017">
             <lg type="cobla" n="1" xml:id="C017-01">
                
                <l n="1" xml:id="C017-1"> &#182;  Si deu del cors lamia arma sostrau
@@ -178,7 +178,7 @@
                <l n="29" xml:id="C017-29"> Aquell conex la dolor dela mort
                </l>
                
-               <l n="30" xml:id="C017-30"> Quin forca es volent li <del type="overstrike">de</del> donar volta
+               <l n="30" xml:id="C017-30"> Quin forca es volent li <del rend="overstrike">de</del> donar volta
                </l>
                
                <l n="31" xml:id="C017-31"> E cell quj te sa vidan delits bolta

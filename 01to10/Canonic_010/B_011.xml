@@ -80,7 +80,7 @@
         <body>
             <pb n="10v"
                 facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_24.html"/>
-            <lg type="poem" xml:id="C010-B011">
+            <div type="poem" xml:id="C010-B011">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> sJ com vn rey <choice><abbr>señor</abbr><expan>senyor</expan></choice> de tres Ciutats</l>
                 <l n="2" xml:id="C010-2"> Qui tot son temps la plagut guerreiar</l>

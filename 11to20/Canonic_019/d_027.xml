@@ -82,7 +82,7 @@
       <body>
          <pb n="34r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_72.html"/>
-         <lg type="poem" xml:id="C019-d027">
+         <div type="poem" xml:id="C019-d027">
             <lg type="cobla" n="1" xml:id="C019-01">
                
                <l n="1" xml:id="C019-1"> H<c rend="large">o</c>iu ohiú / tots los qui be amats

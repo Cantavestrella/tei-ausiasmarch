@@ -79,7 +79,7 @@
     <text>
         <body>                                              
                       
-        <lg type="poem" xml:id="C006-M001">
+        <div type="poem" xml:id="C006-M001">
             <pb n="73r" 
                 facs="http://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_149.html"/>
             <lg type="cobla" n="1" xml:id="C0006-1">
@@ -106,7 +106,7 @@
                 <l n="17" xml:id="C006-17"> Lenteniment / quen tal juy noes clar</l>
                 <l n="18" xml:id="C006-18"> Fforçadament / aprendropjni ons</l>
                 <l n="19" xml:id="C006-19"> Voluntat mou / sofistiques rahons</l>
-                <l n="20" xml:id="C006-20"> Ffent las valer / eper bastants pasar<add place="above"><del type="overstrike">E noval res conaguda çaley</del></add></l>
+                <l n="20" xml:id="C006-20"> Ffent las valer / eper bastants pasar<add place="above"><del rend="overstrike">E noval res conaguda çaley</del></add></l>
                 <l n="21" xml:id="C006-21"> Si col florj / qui bona color ha</l>
                 <l n="22" xml:id="C006-22"> E no valres / conaguda sa ley</l>
                 <l n="23" xml:id="C006-23"> Napres amj / quen pensa munti rey</l>

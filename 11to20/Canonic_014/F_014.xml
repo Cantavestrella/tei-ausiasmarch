@@ -78,7 +78,7 @@
       <body>
          <pb n="13r"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_30.html"/>
-         <lg type="poem" xml:id="C014-F014">
+         <div type="poem" xml:id="C014-F014">
             <lg type="cobla" n="1" xml:id="C014-01">
                <l n="1" xml:id="C014-1">Mal uenturos no deu cerquar ventura</l>
                

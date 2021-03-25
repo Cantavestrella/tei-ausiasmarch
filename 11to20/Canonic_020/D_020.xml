@@ -74,7 +74,7 @@
       <body>
          <pb n="19v"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-         <lg type="poem" xml:id="C020-D020">
+         <div type="poem" xml:id="C020-D020">
             <lg type="cobla" n="1" xml:id="C020-01">
                
                <l n="1" xml:id="C020-1"> Alguns passats donaren sia mort
@@ -106,7 +106,7 @@
                <l n="9" xml:id="C020-9"> Grat fas adeu com sens mort soffarir
                </l>
                
-               <l n="10" xml:id="C020-10"> tinch <add place="above">tot</add> mongoig dauant <del type="overstrike">mi</del> del esperit
+               <l n="10" xml:id="C020-10"> tinch <add place="above">tot</add> mongoig dauant <del rend="overstrike">mi</del> del esperit
                </l>
                
                <l n="11" xml:id="C020-11"> ell es aquell mon sobiran delit
@@ -214,7 +214,7 @@
                <l n="42" xml:id="C020-42"> que sipodeu saber ma gran amor
                </l>
                
-               <l n="43" xml:id="C020-43"> creure<del type="overstrike">u</del> no<del type="overstrike">u</del> puch / nom sentau gran dolor
+               <l n="43" xml:id="C020-43"> creure<del rend="overstrike">u</del> no<del rend="overstrike">u</del> puch / nom sentau gran dolor
                </l>
                               
                <l n="44" xml:id="C020-44"> nem fallira / de ben amar lo grat

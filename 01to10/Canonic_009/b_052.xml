@@ -78,7 +78,7 @@
         <body>                             
         <pb n="46r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_100.html"/>
-        <lg type="poem" xml:id="C009-b052">
+        <div type="poem" xml:id="C009-b052">
             <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1"> <c rend="large">A</c>mor se dol / com breumet<note type="editorial"> Per breument.</note>, yo no muyr</l>
                 <l n="2" xml:id="C009-2"> pus no li fall / per esser, de mi fart</l>

@@ -82,7 +82,7 @@
       <body>
          <pb n="27v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_59.html"/>
-         <lg type="poem" xml:id="C018-d021">
+         <div type="poem" xml:id="C018-d021">
             <lg type="cobla" n="1" xml:id="C018-01">
                
                <l n="1" xml:id="C018-1"> F<c rend="large">a</c>ntasiant / Amor ami descobre

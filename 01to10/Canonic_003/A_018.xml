@@ -80,7 +80,7 @@
       <body>
          <pb n="47v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_151.html"/>
-         <lg type="poem" n="3" xml:id="C003-A018">
+         <div type="poem" n="3" xml:id="C003-A018">
             <lg type="cobla" n="1" xml:id="C0003-1">
                <l n="1" xml:id="C003-1">ALt he amor / don gran desig sengendre</l>
                <l n="2" xml:id="C003-2">Esper uinent / per tots aquests grahons</l>

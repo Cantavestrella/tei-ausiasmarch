@@ -77,7 +77,7 @@
         <body>                                
         <pb n="6r"
             facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_6.html"/>               
-        <lg type="poem" xml:id="C008-H002">
+        <div type="poem" xml:id="C008-H002">
             <lg type="cobla" n="1" xml:id="C0008-1">
                 <l n="1" xml:id="C008-1"> Ia tots mos cants me plau metrenoblit</l>
                 <l n="2" xml:id="C008-2"> Fforagitant mon gentill pensament</l>

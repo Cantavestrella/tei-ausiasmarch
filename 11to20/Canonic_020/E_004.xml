@@ -78,7 +78,7 @@
       <body>
          <pb n="4r"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-         <lg type="poem" xml:id="C020-E004">
+         <div type="poem" xml:id="C020-E004">
             <lg type="cobla" n="1" xml:id="C020-01">
                
                <l n="1" xml:id="C020-1"> Alguns passats / donaren si amort</l>
@@ -133,7 +133,7 @@
                
                <l n="23" xml:id="C020-23"> mos sentiments / clarament me descobren</l>
                
-               <l n="24" xml:id="C020-24"> que la fauor / <del type="overstrike">del alt secret</del><add place="below">detrayment</add> / nom guarda</l>
+               <l n="24" xml:id="C020-24"> que la fauor / <del rend="overstrike">del alt secret</del><add place="below">detrayment</add> / nom guarda</l>
                
             </lg>
             <lg type="cobla" n="4" xml:id="C020-04">

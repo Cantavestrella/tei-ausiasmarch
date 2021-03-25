@@ -77,7 +77,7 @@
       <body>
          <pb n="25v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_51.html"/>
-         <lg type="poem" xml:id="C016-I003">
+         <div type="poem" xml:id="C016-I003">
             <lg type="cobla" n="1" xml:id="C016-01">
                
                <l n="1" xml:id="C016-1"> <add place="margin left">J</add>Vnt es lo temps / que mon goig es complit

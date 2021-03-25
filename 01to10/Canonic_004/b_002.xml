@@ -79,7 +79,7 @@
     </facsimile>
     <text>
         <body>
-        <lg type="poem" xml:id="C004-b002">
+        <div type="poem" xml:id="C004-b002">
           <pb n="1v" 
               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_11.html"/>
             <lg type="cobla" n="1" xml:id="C0004-1">

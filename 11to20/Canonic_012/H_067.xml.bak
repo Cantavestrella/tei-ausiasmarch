@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         
+         <titleStmt>
+            <title>Poema 12</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CR">
+               <name>Carmela Romero</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date>2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+               <msIdentifier xml:id="H_Ms_110_BUZ">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f. 83v first line</locus> <choice><abbr>Moß</abbr><expan>Mossen</expan></choice> auzias march<note type="editorial">Rúbrica tallada.</note></rubric>
+                     <rubric><locus>f. 84r between lines 40 and 41</locus> Tornada</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_149.html"/>
+      <graphic 
+         url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_150.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <pb n="83v"
+            facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_149.html"/>
+         <lg type="poem" xml:id="C012-H067">
+            <lg type="cobla" n="1" xml:id="C012-01">
+               
+               <l n="1" xml:id="C012-1"> Ia no esper <choice><abbr>ꝗ</abbr><expan>que</expan></choice> siamat
+               </l>
+               
+               <l n="2" xml:id="C012-2"> Car mon voler nous veu report
+               </l>
+               
+               <l n="3" xml:id="C012-3"> Per mon esforç <choice><abbr>ꝙ</abbr><expan>qui</expan></choice> nos tan fort
+               </l>
+               
+               <l n="4" xml:id="C012-4"> Que dir queus ham haia gosat
+               </l>
+               
+               <l n="5" xml:id="C012-5"> Per uos me so mes en amar
+               </l>
+               
+               <l n="6" xml:id="C012-6"> E mon hull nom vol descobrir
+               </l>
+               
+               <l n="7" xml:id="C012-7"> Molt menys ma lengua volra dir
+               </l>
+               
+               <l n="8" xml:id="C012-8"> Ço quell gest no gossa mostrar
+               </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C012-02">
+               
+               <l n="9" xml:id="C012-9"> Volgrauer lull tan esforcat
+               </l>
+               
+               <l n="10" xml:id="C012-10"> Ab queus mostras lo <choice><abbr>ꝗ</abbr><expan>que</expan></choice> dins port
+               </l>
+               
+               <l n="11" xml:id="C012-11"> E queus fes venjr en acort
+               </l>
+               
+               <l n="12" xml:id="C012-12"> Que diu lesguart lenemorat
+               </l>
+               
+               <l n="13" xml:id="C012-13"> De mon cor no puch comte far
+               </l>
+               
+               <l n="14" xml:id="C012-14"> Ne de me lengua per lo dir
+               </l>
+               
+               <l n="15" xml:id="C012-15"> Dien ques deu lull atreujr
+               </l>
+               
+               <l n="16" xml:id="C012-16"> Car mjlls senpot atras tornar
+               </l>
+            </lg>
+            <lg type="cobla" n="3" xml:id="C012-03">
+               
+               <l n="17" xml:id="C012-17"> Sobre uos es tot be cargat
+               </l>
+               
+               <l n="18" xml:id="C012-18"> Mas feu semblant no voler port
+               </l>
+               
+               <l n="19" xml:id="C012-19"> Dela merce qujll carrech tort
+               </l>
+               
+               <l n="20" xml:id="C012-20"> Ab son bell giny ha redressat
+               </l>
+               
+               <l n="21" xml:id="C012-21"> Quj pot ne deu tal feix portar
+               </l>
+               
+               <l n="22" xml:id="C012-22"> Volent tal pena soferir
+               </l>
+               
+               <l n="23" xml:id="C012-23"> E la merçe noy voll supplir
+               </l>
+               
+               <l n="24" xml:id="C012-24"> Per lo gran carrech parencar
+               </l>
+            </lg>
+            <pb n="84r"
+               facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_150.html"/>
+            <lg type="cobla" n="4" xml:id="C012-04">
+               
+               <l n="25" xml:id="C012-25"> Quj es aquell tan mal fedat
+               </l>
+               
+               <l n="26" xml:id="C012-26"> Que sens esper li fall conort
+               </l>
+               
+               <l n="27" xml:id="C012-27"> E no sesforç contral cas fort
+               </l>
+               
+               <l n="28" xml:id="C012-28"> Puys en aquell es desperat
+               </l>
+               
+               <l n="29" xml:id="C012-29"> E yo nom puch aconortar
+               </l>
+               
+               <l n="30" xml:id="C012-30"> Ans prench tot giny <choice><abbr>ꝑ</abbr><expan>per</expan></choice> no sentir
+               </l>
+               
+               <l n="31" xml:id="C012-31"> Los grans affanys quem sent venjr
+               </l>
+               
+               <l n="32" xml:id="C012-32"> En part venguts per no guosar
+               </l>
+            </lg>
+            <lg type="cobla" n="5" xml:id="C012-05">
+               
+               <l n="33" xml:id="C012-33"> No puch recollir lo desgrat
+               </l>
+               
+               <l n="34" xml:id="C012-34"> Quem ve <choice><abbr>ƌ</abbr><expan>de</expan></choice> mj sens fer me tort
+               </l>
+               
+               <l n="35" xml:id="C012-35"> Faent menys mall vey passar mort
+               </l>
+               
+               <l n="36" xml:id="C012-36"> A molt mesquj desuenturat
+               </l>
+               
+               <l n="37" xml:id="C012-37"> Car nom so mes en assaiar
+               </l>
+               
+               <l n="38" xml:id="C012-38"> Desser lo mjlls nat en hahuyr
+               </l>
+               
+               <l n="39" xml:id="C012-39"> Per no poder mj enardir
+               </l>
+               
+               <l n="40" xml:id="C012-40"> En passions damor mostrar
+               </l>
+            </lg>
+            <lg type="cobla" n="6" xml:id="C012-06">
+               
+               <l n="41" xml:id="C012-41"> Les donas prech vullan pensar
+               </l>
+               
+               <l n="42" xml:id="C012-42"> Cascunab qujn esguart la mjr
+               </l>
+               
+               <l n="43" xml:id="C012-43"> En lo gest me vull enardir
+               </l>
+               
+               <l n="44" xml:id="C012-44"> Puys <choice><abbr>ꝗ</abbr><expan>que</expan></choice> amor ma tolt perlar
+               </l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

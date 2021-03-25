@@ -79,7 +79,7 @@
         <body>                
        <pb n="9r" 
            facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_12.html"/>
-       <lg type="poem" xml:id="C010-H006">
+       <div type="poem" xml:id="C010-H006">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> i com hun rey senyor de tres ciutats</l>
                 <l n="2" xml:id="C010-2"> Que tot son temps la plagut gareiar</l>

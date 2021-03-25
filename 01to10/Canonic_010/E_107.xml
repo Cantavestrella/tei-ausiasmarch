@@ -79,7 +79,7 @@
         <body>
          <pb n="164r"
              facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-        <lg type="poem" xml:id="C010-E107">
+        <div type="poem" xml:id="C010-E107">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> Si com vn Rey / sen\textit{y}<choice><abbr></abbr><expan></expan></choice>or de tres ciutats</l>
                 <l n="2" xml:id="C010-2"> qui tot son temps / la plagut guerrejar</l>

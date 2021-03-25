@@ -82,7 +82,7 @@
       <body>
          <pb n="33r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_70.html"/>
-         <lg type="poem" n="2" xml:id="C001-d026">
+         <div type="poem" n="2" xml:id="C001-d026">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">P<c rend="large">r</c>en men axi / com al patro que'n plaja</l>
                <l n="2" xml:id="C002-2">te sa gran Nau / e pensa hauer Castell</l>

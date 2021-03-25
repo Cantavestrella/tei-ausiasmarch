@@ -76,7 +76,7 @@
       <body>
          <pb n="1r"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_5.html"/>
-         <lg type="poem" n="2" xml:id="C002-F002">
+         <div type="poem" n="2" xml:id="C002-F002">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">Pren men axi com alpatro q\textit{ue}<choice><abbr></abbr><expan></expan></choice>n pla\interlin{t}ga</l>
                <l n="2" xml:id="C002-2">Te sa gran nau e pensauer castell</l>

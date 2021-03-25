@@ -78,7 +78,7 @@
       <body>
          <pb n="49r"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-         <lg type="poem" n="3" xml:id="C003-E008">
+         <div type="poem" n="3" xml:id="C003-E008">
             <lg type="cobla" n="1" xml:id="C0003-1">
                <l n="1" xml:id="C003-1">Vençut <choice><abbr>ꝑ</abbr><expan>per</expan></choice> alt / don gran desig sengendra</l>
                <l n="2" xml:id="C003-2">viuent amor / per aquests Dos graons <note type="x">Aquest vers i els dos següents estan manipulats.</note></l>

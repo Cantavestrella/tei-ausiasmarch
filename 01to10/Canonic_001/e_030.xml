@@ -82,7 +82,7 @@
       <body>
          <pb n="32r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_82.html"/>
-         <lg type="poem" n="1" xml:id="C001-e030">
+         <div type="poem" n="1" xml:id="C001-e030">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1">A<c rend="large">x</c>i com cell / qui'n lo somni's delita</l>
                <l n="2" xml:id="C001-2">e son delit / de foll pensament ve</l>

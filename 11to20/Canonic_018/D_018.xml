@@ -74,7 +74,7 @@
       <body>
          <pb n="17r"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-         <lg type="poem" xml:id="C018-D018">
+         <div type="poem" xml:id="C018-D018">
             <lg type="cobla" n="1" xml:id="C018-01">
                
                <l n="1" xml:id="C018-1"> Fantasiant  amor ami descobre
@@ -111,7 +111,7 @@
                <l n="10" xml:id="C018-10"> el esperit obres damor cobeja
                </l>
                
-               <l n="11" xml:id="C018-11"> d aquell gre<del type="overstrike">ch</del><add place="above">u</add> foch quils amadors sescalfen
+               <l n="11" xml:id="C018-11"> d aquell gre<del rend="overstrike">ch</del><add place="above">u</add> foch quils amadors sescalfen
                </l>
                
                

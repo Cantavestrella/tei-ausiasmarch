@@ -79,7 +79,7 @@
       <body>
          <pb n="74r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_148.html"/>
-         <lg type="poem" xml:id="C013-I059">
+         <div type="poem" xml:id="C013-I059">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">COlguen<note type="editorial">Caplletra de gran tamany.</note> les gents / ab alagria festes</l>
                

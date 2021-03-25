@@ -76,7 +76,7 @@
       <body>
          <pb n="3r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_12.html"/>
-         <lg type="poem" n="3" xml:id="C003-K003">
+         <div type="poem" n="3" xml:id="C003-K003">
             <lg type="cobla" n="1" xml:id="C0003-1">
                <l n="1" xml:id="C003-1">pEr moltamor don <choice><abbr>grȃ</abbr><expan>gran</expan></choice> <choice><abbr>ƌsitx</abbr><expan>desitx</expan></choice> seniendra</l>
                <l n="2" xml:id="C003-2">Sper vinent  per tots aquests graons</l>

@@ -77,7 +77,7 @@
       <body>
          <pb n="141r"
             facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-         <lg type="poem" xml:id="C014-L009">
+         <div type="poem" xml:id="C014-L009">
             <lg type="cobla" n="1" xml:id="C014-01">
                
                <l n="1" xml:id="C014-1"> Mal venturos / no deu sercar ventura

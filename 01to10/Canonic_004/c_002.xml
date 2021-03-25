@@ -89,7 +89,7 @@
         <body>
             <pb n="8r"
                 facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_17.html"/>
-           <lg type="poem" xml:id="C004-c002">
+           <div type="poem" xml:id="C004-c002">
             <lg type="cobla" n="1" xml:id="C0004-1">
                 <l n="1" xml:id="C004-1"> Axi com cell / qui desija uianda</l>
                 <l n="2" xml:id="C004-2"> per appagar / sa perigllosa fam</l>
@@ -116,7 +116,7 @@
                 <l n="17" xml:id="C004-17"> Eno cuideu / que tant ignocent fos</l>
                 <l n="18" xml:id="C004-18"> que no uehes / uostr'avantage] gran,</l>
                 <l n="19" xml:id="C004-19"> mon cos no cast / estaue <choice><abbr>cogȏxan</abbr><expan>congoxan</expan></choice></l>
-                <l n="20" xml:id="C004-20"> de <del type="overstrike"><gap reason="illegible" extent="one or two letters"/></del><add place="above">per</add>dre llo / quil, era delitos.</l>
+                <l n="20" xml:id="C004-20"> de <del rend="overstrike"><gap reason="illegible" extent="one or two letters"/></del><add place="above">per</add>dre llo / quil, era delitos.</l>
                 <l n="21" xml:id="C004-21"> una raho / fon, ab, ell de sa part</l>
                 <l n="22" xml:id="C004-22"> dient qu'n ell / se pren aquest'amor</l>
            <pb n="9r" 
@@ -127,7 +127,7 @@
             <lg type="cobla" n="4" xml:id="C0004-4">
                 <l n="25" xml:id="C004-25"> Lenteniment / a parlar, no uench tart</l>
                 <l n="26" xml:id="C004-26"> e planament desfeu, esta raho</l>
-                <l n="27" xml:id="C004-27"> dient <del type="overstrike">a</del>quel cos / ab sa compleccio</l>
+                <l n="27" xml:id="C004-27"> dient <del rend="overstrike">a</del>quel cos / ab sa compleccio</l>
                 <l n="28" xml:id="C004-28"> ha tal amor / com un lop ho renart,</l>
                 <l n="29" xml:id="C004-29"> que lur poder / d'amor es limitat</l>
                 <l n="30" xml:id="C004-30"> car no es pus / q'un apetit brutal</l>

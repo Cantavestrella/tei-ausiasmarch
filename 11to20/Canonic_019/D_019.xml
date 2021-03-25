@@ -69,7 +69,7 @@
       <body>
          <pb n="18v"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-         <lg type="poem" xml:id="C019-D019">
+         <div type="poem" xml:id="C019-D019">
             <lg type="cobla" n="1" xml:id="C019-01">
                
                <l n="1" xml:id="C019-1"> Hoyu hoyu tots los qui be amats
@@ -146,7 +146,7 @@
                <l n="23" xml:id="C019-23"> no tardara la hora quejas tarda
                </l>
                
-               <l n="24" xml:id="C019-24"> quant <del type="overstrike">end</del> <add place="above">me</add>trels peus enlauorrit cami
+               <l n="24" xml:id="C019-24"> quant <del rend="overstrike">end</del> <add place="above">me</add>trels peus enlauorrit cami
                </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C019-04">

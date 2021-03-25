@@ -97,7 +97,7 @@
       <body>
          <pb n="24v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_49.html"/>
-         <lg type="poem" xml:id="C017-I002">
+         <div type="poem" xml:id="C017-I002">
             <lg type="cobla" n="1" xml:id="C017-01">
                
                <l n="1" xml:id="C017-1"> Si deu del cors / lamiarma sostrau
@@ -134,7 +134,7 @@
                <l n="10" xml:id="C017-10"> Edins mj plor / e calle com amut
                </l>
                
-               <l n="11" xml:id="C017-11"> E fir me çell<del type="overstrike">s</del> / quim degresser escut
+               <l n="11" xml:id="C017-11"> E fir me çell<del rend="overstrike">s</del> / quim degresser escut
                </l>
                
                <l n="12" xml:id="C017-12"> Trancant mon cor / e crit de mj no sall

@@ -83,7 +83,7 @@
       <body>
          <pb n="34v"
             facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_51.html"/>
-         <lg type="poem" xml:id="C015-H029">
+         <div type="poem" xml:id="C015-H029">
             <lg type="cobla" n="1" xml:id="C015-01">
 
                <l n="1" xml:id="C015-1"> Si pres grans mals / hun be masta guardat </l>

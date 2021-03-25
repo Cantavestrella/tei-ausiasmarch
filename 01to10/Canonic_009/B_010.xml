@@ -79,7 +79,7 @@
         <body>
             <pb n="10r"
                 facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_23.html"/>
-                <lg type="poem" xml:id="C009-B010">
+                <div type="poem" xml:id="C009-B010">
             <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1"> aMor se dol com breument yo no muyr</l>
                 <l n="2" xml:id="C009-2"> Pus no li fall per esser de mj fart</l>

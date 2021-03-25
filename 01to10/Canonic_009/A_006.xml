@@ -78,7 +78,7 @@
             <body>
             <pb n="29r" 
                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_108.html"/>
-            <lg type="poem" xml:id="C009-A006">
+            <div type="poem" xml:id="C009-A006">
                 <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1">  AMor sedol / com breument jo no muyr</l>
                 <l n="2" xml:id="C009-2"> Pus noli fall / per esser de mj fart</l>

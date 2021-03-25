@@ -80,7 +80,7 @@
            <body>
             <pb n="53r" 
                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_156.html"/>
-            <lg type="poem" xml:id="C007-A025">
+            <div type="poem" xml:id="C007-A025">
             <lg type="cobla" n="1" xml:id="C0007-1">
                 <l n="1" xml:id="C007-1"> SIcom rictat / no porta bens ab si</l>
                 <l n="2" xml:id="C007-2"> Mas val aytant / com cell qujn es senyor</l>

@@ -83,7 +83,7 @@
       <body>
          <pb n="41r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_86.html"/>
-         <lg type="poem" xml:id="C014-d033">
+         <div type="poem" xml:id="C014-d033">
             <lg type="cobla" n="1" xml:id="C014-01">
                <l n="1" xml:id="C014-1">M<c rend="large">a</c>venturos / no deu cercar ventura</l>
                

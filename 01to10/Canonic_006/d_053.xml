@@ -83,7 +83,7 @@
         <body>                               
         <pb n="65r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_134.html"/>
-        <lg type="poem" xml:id="C006-d053">
+        <div type="poem" xml:id="C006-d053">
             <lg type="cobla" n="1" xml:id="C0006-1">
                 <l n="1" xml:id="C006-1"> <c rend="large">M</c>Olt he tardat / en descobrir ma falta</l>
                 <l n="2" xml:id="C006-2"> per  jouentut  / quem nega esperiment</l>

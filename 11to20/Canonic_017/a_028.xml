@@ -80,7 +80,7 @@
       <body>
          <pb n="47v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_95.html"/>
-         <lg type="poem" xml:id="C017-a028">
+         <div type="poem" xml:id="C017-a028">
             <lg type="cobla" n="1" xml:id="C017-01">
                
                <l n="1" xml:id="C017-1"> Si deu del cos / la mi arma sostrau

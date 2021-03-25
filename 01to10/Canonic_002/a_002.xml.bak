@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 13</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CR">
+               <name>Enric Moll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date> 2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+               <msIdentifier xml:id="a_Ed_1539_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f. 8v after end of previous poem, before this one: </locus>Capitulo
+                        .VI </rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_6.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_7.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_8.htmlhttp://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_8.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <pb n="3r"
+            facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_6.html"/>
+         <lg type="poem" n="2" xml:id="C002-a002">
+            <lg type="cobla" n="1" xml:id="C0002-1">
+               <l n="1" xml:id="C002-1">P<c rend="large">r</c>enmen axi / como al patro que en platja</l>
+               <l n="2" xml:id="C002-2">Te sa gran nau / e pensa hauer castell</l>
+               <l n="3" xml:id="C002-3">Vehent lo sol / esser molt clar e bell</l>
+               <l n="4" xml:id="C002-4">Creu fermament / dun ancora sats haja</l>
+               <l n="5" xml:id="C002-5">E sent venir / soptos vn temporal</l>
+               <l n="6" xml:id="C002-6">De tempestat / he temps incomportable</l>
+               <l n="7" xml:id="C002-7">Lleua juhi / que si es molt durable</l>
+               <l n="8" xml:id="C002-8">Sercar los ports /  mes que aturar li val.</l>
+            </lg>
+            <pb n="3v"
+               facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_7.html"/>
+            <lg type="cobla" n="2" xml:id="C0002-2">
+               <l n="9" xml:id="C002-9">Moltes veus es / quel vent es fortunal</l>
+               <l n="10" xml:id="C002-10">Tant que no pot / surtir sens lo contaari\footnote{\textit{Per} contrari.}</l>
+               <l n="11" xml:id="C002-11">E cella clau / quins tanca dins larmari</l>
+               <l n="12" xml:id="C002-12">No pot obrir / aquell matex portal:</l>
+               <l n="13" xml:id="C002-13">Axim apres / trobant me enamorat</l>
+               <l n="14" xml:id="C002-14">Per sobres alt / quim ve de vos may mia</l>
+               <l n="15" xml:id="C002-15">De no amar / desalt ne te la via</l>
+               <l n="16" xml:id="C002-16">Mas vn sol pas / meu noy sera trobat.</l>
+            </lg>
+            <lg type="cobla" n="3" xml:id="C0002-3">
+               <l n="17" xml:id="C002-17">Menys que lo peix / es enlo bosch trobat</l>
+               <l n="18" xml:id="C002-18">E los lleons / en laygua an lur so jorn</l>
+               <l n="19" xml:id="C002-19">La mia amor / per null temps pendra torn</l>
+               <l n="20" xml:id="C002-20">Sols conexent / que de mius doneu grat</l>
+               <l n="21" xml:id="C002-21">E fiu de vos / quem sabreu be conexer</l>
+               <l n="22" xml:id="C002-22">E conegud / nom sera mal grayda</l>
+               <l n="23" xml:id="C002-23">Tota dolor / hauent per vos sentida</l>
+               <l n="24" xml:id="C002-24">Lladonchs veureu / les flames damor creixer.</l>
+            </lg>
+            <pb n="4r"
+               facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_8.html"/>
+            <lg type="cobla" n="4" xml:id="C0002-4">
+               <l n="25" xml:id="C002-25">&#10152;  Si mon voler / hedad mal ha pareixer</l>
+               <l n="26" xml:id="C002-26">Creheu de sert / que ha vera amor nom lluny</l>
+               <l n="27" xml:id="C002-27">Puix que lo sol / es calt al mes de Juny</l>
+               <l n="28" xml:id="C002-28">Hart mon cor / flach sens algun grat mereixer</l>
+               <l n="29" xml:id="C002-29">Altre sens mi / daço mereix la culpa</l>
+               <l n="30" xml:id="C002-30">Vullauli mal / com tan humil seruent</l>
+               <l n="31" xml:id="C002-31">Vos te secret / per son defalliment</l>
+               <l n="32" xml:id="C002-32">Est es amor / que mi amant enculpa.</l>
+            </lg>
+            <lg type="cobla" n="5" xml:id="C0002-5">
+               <l n="33" xml:id="C002-33">&#10152;  Ma voluntat / ab la raho sen volpa</l>
+               <l n="34" xml:id="C002-34">E fan acort / la calitat seguint</l>
+               <l n="35" xml:id="C002-35">Tals actes fent / quel cos es defallint</l>
+               <l n="36" xml:id="C002-36">En poch de temps / vna gran part de polpa:</l>
+               <l n="37" xml:id="C002-37">Lo poch dormir / magreça al cos ma costa</l>
+               <l n="38" xml:id="C002-38">Doblam lenguir / per contemplar amor</l>
+               <l n="39" xml:id="C002-39">Lo cos molt gras / trobant se dormidor</l>
+               <l n="40" xml:id="C002-40">No pot dar pas / en aquesta aspra costa.</l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

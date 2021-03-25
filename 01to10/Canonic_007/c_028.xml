@@ -81,7 +81,7 @@
         <body>
         <pb n="38r" 
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_77.html"/>
-            <lg type="poem" xml:id="C007-c028">             
+            <div type="poem" xml:id="C007-c028">             
             <lg type="cobla" n="1" xml:id="C0007-1">
                 <l n="1" xml:id="C007-1">  Sicom rictat / no porta bens ab si</l>
                 <l n="2" xml:id="C007-2"> mas ual aytant / com cell quines senyor</l>

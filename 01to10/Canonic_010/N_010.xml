@@ -80,7 +80,7 @@
         <body>                                
         <pb n="20"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_22.html"/>
-        <lg type="poem" xml:id="C010-N010">
+        <div type="poem" xml:id="C010-N010">
         <pb n="20" 
             facs="xxxx"/>
             <lg type="cobla" n="1" xml:id="C0010-1">

@@ -78,7 +78,7 @@
       <body>
          <pb n="16r"
             facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_42.html"/>
-         <lg type="poem" xml:id="C014-G4016">
+         <div type="poem" xml:id="C014-G4016">
             <lg type="cobla" n="1" xml:id="C014-01">
                
                <l n="1" xml:id="C014-1"> Malventuros / no deu <choice><abbr>şcar</abbr><expan>sercar</expan></choice> ventura

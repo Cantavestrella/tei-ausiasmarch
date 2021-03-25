@@ -78,7 +78,7 @@
         <body>
             <pb n="2v"
                 facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_8.html"/>
-           <lg type="poem" xml:id="C004-F004">
+           <div type="poem" xml:id="C004-F004">
             <lg type="cobla" n="1" xml:id="C0004-1">
                 <l n="1" xml:id="C004-1"> Axi com cell quj desija vianda</l>
                 <l n="2" xml:id="C004-2"> Per apagar sa perillossa fam</l>
@@ -135,7 +135,7 @@
                 <l n="41" xml:id="C004-41"> Diu mes auant al cors ab gran endeny</l>
                 <l n="42" xml:id="C004-42"> Vanament uols e uans son tos desigs</l>
                 <l n="43" xml:id="C004-43"> Car dins <choice><abbr>hȗ</abbr><expan>hun</expan></choice> punt tots delits son fastigs</l>
-                <l n="44" xml:id="C004-44"> Romans nellas tot<del type="overstrike">s</del>jorn<del type="overstrike">s</del> ne prens enseny<note>Aci trobemuna advertència del copista, que s'adona de la mancança del verssegüent. A causa del tall de l'enquadernació només podem llegir</note><add place="margin right">A tum<gap reason="illegible" extent="one or two letters"/> pots a</add></l>
+                <l n="44" xml:id="C004-44"> Romans nellas tot<del rend="overstrike">s</del>jorn<del rend="overstrike">s</del> ne prens enseny<note>Aci trobemuna advertència del copista, que s'adona de la mancança del verssegüent. A causa del tall de l'enquadernació només podem llegir</note><add place="margin right">A tum<gap reason="illegible" extent="one or two letters"/> pots a</add></l>
                 <l n="45" xml:id="C004-45"> <add place="bellow">ab tu mateix / delit no pots hauer</add><note>Vers afegit per una mà diferent al final de la pàgina i que subsana la mancança advertida en la nota anterior.</note></l>
                 <l n="46" xml:id="C004-46"> Tant es grosser quamor non es seruit</l>
                 <l n="47" xml:id="C004-47"> Volenteros acte debe es dit</l>

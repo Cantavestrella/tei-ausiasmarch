@@ -79,7 +79,7 @@
       <body>
          <pb n="11v"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_26.html"/>
-         <lg type="poem" xml:id="C011-B012">
+         <div type="poem" xml:id="C011-B012">
             <lg type="cobla" n="1" xml:id="C011-01">
                
                <l n="1" xml:id="C011-1"> Quins tan segurs conçells vas <choice><abbr>encercȃt</abbr><expan>encercant</expan></choice>

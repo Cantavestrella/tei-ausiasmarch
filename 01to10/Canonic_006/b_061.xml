@@ -78,7 +78,7 @@
         <body>                             
         <pb n="55v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_119.html"/>
-        <lg type="poem" xml:id="C006-b061">
+        <div type="poem" xml:id="C006-b061">
             <lg type="cobla" n="1" xml:id="C0006-1">
                 <l n="1" xml:id="C006-1"> <c rend="large">M</c>Olt he tardat / en descobrir, ma falta</l>
                 <l n="2" xml:id="C006-2"> per lo jouent / quem nega esperiment</l>

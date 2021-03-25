@@ -76,7 +76,7 @@
         <body>
             <pb n="6"
                 facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_8.html"/>
-            <lg type="poem" xml:id="C004-N004">
+            <div type="poem" xml:id="C004-N004">
               <lg type="cobla" n="1" xml:id="C0004-1">
                 <l n="1" xml:id="C004-1"> Axi com quj desitga vianda</l>
                 <l n="2" xml:id="C004-2"> Per apagar sa perillossa fam</l>
@@ -91,7 +91,7 @@
                 <l n="9" xml:id="C004-9"> Si com lamar se plany greument e crida</l>
                 <l n="10" xml:id="C004-10"> Com dos forts vents la baten egualment</l>
                 <l n="11" xml:id="C004-11"> Hu de leuant e altre de ponent</l>
-                <l n="12" xml:id="C004-12"> E durera <del type="overstrike">tant</del> fins lun vent la jaquida</l>
+                <l n="12" xml:id="C004-12"> E durera <del rend="overstrike">tant</del> fins lun vent la jaquida</l>
                 <l n="13" xml:id="C004-13"> Sa forca gran <choice><abbr>ꝑ</abbr><expan>per</expan></choice> lo mes poderos</l>
                 <l n="14" xml:id="C004-14"> Dos grans desigs han combatut ma pensa</l>
                 <l n="15" xml:id="C004-15"> Mas lo voler vers hu segur dispensa</l>
@@ -133,7 +133,7 @@
                 <l n="41" xml:id="C004-41"> Diu mes auant abcors ab gran <choice><abbr>endȇy</abbr><expan>endeny</expan></choice></l>
                 <l n="42" xml:id="C004-42"> Vanament vols e vans son tos desigs</l>
                 <l n="43" xml:id="C004-43"> Car dins vn punt tos delits son fastigs</l>
-                <l n="44" xml:id="C004-44"> Romans ne las tot<del type="overstrike">s</del> jorn ne prens enseny</l>
+                <l n="44" xml:id="C004-44"> Romans ne las tot<del rend="overstrike">s</del> jorn ne prens enseny</l>
                 <l n="45" xml:id="C004-45"> Abtu matex delit no ports hauer</l>
                 <l n="46" xml:id="C004-46"> Tant est grosser quamor no es seruit</l>
                 <l n="47" xml:id="C004-47"> Volenteros acte debe es dit</l>

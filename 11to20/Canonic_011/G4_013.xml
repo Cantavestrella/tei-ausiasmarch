@@ -79,7 +79,7 @@
       <body>
          <pb n="13r"
             facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_36.html"/>
-         <lg type="poem" xml:id="C011-G4013">
+         <div type="poem" xml:id="C011-G4013">
             <lg type="cobla" n="1" xml:id="C011-01">
                
                <l n="1" xml:id="C011-1"> Quins tansegurs / consells vas <choice><abbr>enşcant</abbr><expan>ensercant</expan></choice>

@@ -80,7 +80,7 @@
         <body>
             <pb n="19r"
                 facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_21.html"/>
-                <lg type="poem" xml:id="C008-B009">
+                <div type="poem" xml:id="C008-B009">
             <lg type="cobla" n="1" xml:id="C0008-1">
                 <l n="1" xml:id="C008-1"> iAtots mos cants me plau metrenoblit</l>
                 <l n="2" xml:id="C008-2"> Foragitant mon pensament</l>

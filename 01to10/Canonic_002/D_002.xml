@@ -77,7 +77,7 @@
       <body>
          <pb n="2v"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-         <lg type="poem" n="2" xml:id="C002-D002">
+         <div type="poem" n="2" xml:id="C002-D002">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">Prenmen axi / com apatro quen platja</l>
                <l n="2" xml:id="C002-2">te sagran nau / epenshauer castell</l>

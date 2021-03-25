@@ -78,7 +78,7 @@
         <body>                     
         <pb n="22v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_53.html"/>
-        <lg type="poem" xml:id="C007-b028">
+        <div type="poem" xml:id="C007-b028">
             <lg type="cobla" n="1" xml:id="C0007-1">
                 <l n="1" xml:id="C007-1"> <c rend="large">S</c>I com rictat / no porta bens, absi</l>
                 <l n="2" xml:id="C007-2"> mas val, ay tant / comcell quin es, senyor</l>

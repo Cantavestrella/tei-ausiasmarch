@@ -78,7 +78,7 @@
         <body>
 <pb n="51r"
     facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-        <lg type="poem" xml:id="C008-E035">
+        <div type="poem" xml:id="C008-E035">
         <pb n="51r" facs="xxxx"/>
             <lg type="cobla" n="1" xml:id="C0008-1">
                 <l n="1" xml:id="C008-1"> Ja tots mos cants / me plau metren oblit</l>

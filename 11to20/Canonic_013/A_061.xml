@@ -81,7 +81,7 @@
       <body>
          <pb n="203v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_459.html"/>
-         <lg type="poem" xml:id="C013-A061">
+         <div type="poem" xml:id="C013-A061">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">Olguen les gents / ab alagria festes</l>
                

@@ -77,7 +77,7 @@
       <body>
          <pb n="11v"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_26.html"/>
-         <lg type="poem" xml:id="C012-F012">
+         <div type="poem" xml:id="C012-F012">
             <lg type="cobla" n="1" xml:id="C012-01">
                
                <l n="1" xml:id="C012-1"> Ja no esper que siamat <add place="margin left">No es de ausias march.</add><note type="editorial">Amb una lletra diferent.</note>
@@ -106,7 +106,7 @@
             </lg>
             <lg type="cobla" n="2" xml:id="C012-02">
                
-               <l n="9" xml:id="C012-9"> Volgrauer <del type="overstrike">ll</del> lull tan esforcat
+               <l n="9" xml:id="C012-9"> Volgrauer <del rend="overstrike">ll</del> lull tan esforcat
                </l>
                
                <l n="10" xml:id="C012-10"> Ab queus mostras lo que dins port
@@ -132,7 +132,7 @@
             </lg>
             <lg type="cobla" n="3" xml:id="C012-03">
                
-               <l n="17" xml:id="C012-17"> Sobre uos <del type="overstrike">l</del> es tot be cargat
+               <l n="17" xml:id="C012-17"> Sobre uos <del rend="overstrike">l</del> es tot be cargat
                </l>
                
                <l n="18" xml:id="C012-18"> Mas feu senblant no uoler port
@@ -141,7 +141,7 @@
                <l n="19" xml:id="C012-19"> Dela merce quil carrech tort
                </l>
                
-               <l n="20" xml:id="C012-20"> Ab son bell g<del type="overstrike">u</del>jny ha redrecat
+               <l n="20" xml:id="C012-20"> Ab son bell g<del rend="overstrike">u</del>jny ha redrecat
                </l>
                
                <l n="21" xml:id="C012-21"> Qui pot ne deu tal feix portar

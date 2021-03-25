@@ -72,15 +72,15 @@
       <body>
          <pb n=""
             facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-         <lg type="poem" n="1" xml:id="C001-L004">
+         <div type="poem" n="1" xml:id="C001-L004">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">a tressimpren / com al patro qujn plaia</l>
                <l n="2" xml:id="C002-2">Te sa gran nau / e pensauer castell</l>
-               <l n="3" xml:id="C002-3"><del type="overstrike">Vezent</del><add place="below">e veu</add> lo cel / esser molt clar ebell</l>
+               <l n="3" xml:id="C002-3"><del rend="overstrike">Vezent</del><add place="below">e veu</add> lo cel / esser molt clar ebell</l>
                <l n="4" xml:id="C002-4">Creu <choice><abbr>fermamȇt</abbr><expan>fermament</expan></choice> / dunancorassats haia</l>
-               <l n="5" xml:id="C002-5">E sent<del type="overstrike">int</del> venir / sobtos vn temporal</l>
+               <l n="5" xml:id="C002-5">E sent<del rend="overstrike">int</del> venir / sobtos vn temporal</l>
                <l n="6" xml:id="C002-6">De tempestat / e temps jnconportable</l>
-               <l n="7" xml:id="C002-7">Leua son juy / que si<del type="overstrike">es</del><del type="overstrike">ges</del> \interlin{molt es} durable</l>
+               <l n="7" xml:id="C002-7">Leua son juy / que si<del rend="overstrike">es</del><del rend="overstrike">ges</del> \interlin{molt es} durable</l>
                <l n="8" xml:id="C002-8">Sercar los ports / mes caturar lj val</l>
             </lg>
             <lg type="cobla" n="2" xml:id="C0002-2">
@@ -90,8 +90,8 @@
                <l n="12" xml:id="C002-12">No pot obrir / aquell mateix portal</l>
                <l n="13" xml:id="C002-13">Axi mapres / car suy enamorat</l>
                <l n="14" xml:id="C002-14">Per sobres alt / qujm ve de vos maymja</l>
-               <l n="15" xml:id="C002-15">Del no amar / dezalt ne te <del type="overstrike">lauj</del> la via</l>
-               <l n="16" xml:id="C002-16">Mas hun sol pas / meu<del type="overstrike">ys</del> noy sera trobat</l>
+               <l n="15" xml:id="C002-15">Del no amar / dezalt ne te <del rend="overstrike">lauj</del> la via</l>
+               <l n="16" xml:id="C002-16">Mas hun sol pas / meu<del rend="overstrike">ys</del> noy sera trobat</l>
             </lg>
             <lg type="cobla" n="3" xml:id="C0002-3">
                <l n="17" xml:id="C002-17">Menys que lo peix / seran los boschs trobat</l>

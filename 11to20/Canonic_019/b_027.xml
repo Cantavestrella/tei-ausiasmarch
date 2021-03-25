@@ -77,7 +77,7 @@
       <body>
          <pb n="22r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_52.html"/>
-         <lg type="poem" xml:id="C019-b027">
+         <div type="poem" xml:id="C019-b027">
             <lg type="cobla" n="1" xml:id="C019-01">
                
                <l n="1" xml:id="C019-1"> H<c rend="large">o</c>yu hoyu / tots los qui be amats

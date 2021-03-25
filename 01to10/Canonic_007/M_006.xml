@@ -80,11 +80,11 @@
     <text>
         <body>                                                
         
-        <lg type="poem" xml:id="C007-M006">
+        <div type="poem" xml:id="C007-M006">
         <pb n="184r" 
             facs="http://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_371.html"/>
             <lg type="cobla" n="1" xml:id="C0007-1">
-                <l n="1" xml:id="C007-1"> Si com ricat<del type="overstrike">r</del> / no porte bens ab si</l>
+                <l n="1" xml:id="C007-1"> Si com ricat<del rend="overstrike">r</del> / no porte bens ab si</l>
                 <l n="2" xml:id="C007-2"> Mes val aytant / com cell qujnes senyor</l>
                 <l n="3" xml:id="C007-3"> Amor no val mes tant quant lamador</l>
                 <l n="4" xml:id="C007-4"> Manxa bufant / orga fals noret fj</l>

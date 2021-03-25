@@ -80,7 +80,7 @@
       <body>
          <pb n="20r"
             facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_50.html"/>
-         <lg type="poem" n="1" xml:id="C018-G4020">
+         <div type="poem" n="1" xml:id="C018-G4020">
             <lg type="cobla">
                <lg type="cobla" n="1" xml:id="C018-01">
                   
@@ -179,7 +179,7 @@
                   <l n="29" xml:id="C018-29"> Tot en axi tinch enmenys preu efastig
                   </l>
                   
-                  <l n="30" xml:id="C018-30"> aquells desigs / qui complits amor <del type="overstrike">vna</del> minua
+                  <l n="30" xml:id="C018-30"> aquells desigs / qui complits amor <del rend="overstrike">vna</del> minua
                   </l>
                   
                   <l n="31" xml:id="C018-31"> prenintaquells / qui del sperint mouen

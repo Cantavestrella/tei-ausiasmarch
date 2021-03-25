@@ -84,7 +84,7 @@
       <body>
          <pb n="45v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_91.html"/>
-         <lg type="poem" xml:id="C016-C033-a027">
+         <div type="poem" xml:id="C016-C033-a027">
             <lg type="cobla" n="1" xml:id="C033-01">
                <note
                   type="editorial">Poesia composta per fragments de dues poesies. Segons les

@@ -79,7 +79,7 @@
             
         <pb n="49r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_98.html"/>
-        <lg type="poem" xml:id="C007-I025">
+        <div type="poem" xml:id="C007-I025">
             <lg type="cobla" n="1" xml:id="C0007-1">
                 <l n="1" xml:id="C007-1"> Si com rictat / no porta bens absi</l>
                 <l n="2" xml:id="C007-2"> Mas val aytant / com cell quin es senyor</l>
@@ -95,7 +95,7 @@
                 <l n="10" xml:id="C007-10"> Co que deu fa / natura migençant</l>
                 <l n="11" xml:id="C007-11"> Car home pech / no pot ser fins amant</l>
                 <l n="12" xml:id="C007-12"> Ne subtil gens / contra sa calitat</l>
-                <l n="13" xml:id="C007-13"> Mal pendra pint / en laygua sa figu<del type="overstrike">g</del>ra</l>
+                <l n="13" xml:id="C007-13"> Mal pendra pint / en laygua sa figu<del rend="overstrike">g</del>ra</l>
                 <l n="14" xml:id="C007-14"> Molt menys amor / pendra lo no dispost</l>
                 <l n="15" xml:id="C007-15"> No pot estar / laygua dins vn loch rost</l>
                 <l n="16" xml:id="C007-16"> Ten pochamor / encap dom foll atura</l>
@@ -135,11 +135,11 @@
             <lg type="cobla" n="6" xml:id="C0007-6">
                 <l n="41" xml:id="C007-41"> Enueges tal / que tot primer confon</l>
                 <l n="42" xml:id="C007-42"> A tots aquells / quj en si lasaiusten</l>
-                <l n="43" xml:id="C007-43"> Los enu\interlin{e}gats / vn poch ne <del type="overstrike">polt</del> molt no gusten</l>
+                <l n="43" xml:id="C007-43"> Los enu\interlin{e}gats / vn poch ne <del rend="overstrike">polt</del> molt no gusten</l>
                 <l n="44" xml:id="C007-44"> Aquell mal tast / quils enuegosos fon</l>
                 <l n="45" xml:id="C007-45"> Tal es amor / car jo que lame iust</l>
                 <l n="46" xml:id="C007-46"> Sens grans dolors / dant me forts moujments</l>
-                <l n="47" xml:id="C007-47"> E <add place="margin left">vos haueu<note>Corregit per una altra mà</note></add><del type="overstrike">aço</del> / daço tals sentiments</l>
+                <l n="47" xml:id="C007-47"> E <add place="margin left">vos haueu<note>Corregit per una altra mà</note></add><del rend="overstrike">aço</del> / daço tals sentiments</l>
                 <l n="48" xml:id="C007-48"> E com fort destral / ha de tallar molt fust</l>
                 </lg>
             <lg type="cobla" n="7" xml:id="C0007-7">
@@ -153,7 +153,7 @@
                 <l n="56" xml:id="C007-56"> Que per null temps / tal no fo conegut</l>
                 </lg>
             <lg type="cobla" n="8" xml:id="C0007-8">
-                <l n="57" xml:id="C007-57"> Per mal seruir / no <del type="overstrike">l</del>crech<del type="overstrike">te</del> haia <choice><abbr>ꝑ</abbr><expan>perdut</expan></choice></l>
+                <l n="57" xml:id="C007-57"> Per mal seruir / no <del rend="overstrike">l</del>crech<del rend="overstrike">te</del> haia <choice><abbr>ꝑ</abbr><expan>perdut</expan></choice></l>
                 <l n="58" xml:id="C007-58"> Car sils treballs / hagues sofferts <choice><abbr>ꝑdeu</abbr><expan>perdeu</expan></choice></l>
                 <l n="59" xml:id="C007-59"> Cors glorios / foren lo regne seu</l>
                 <l n="60" xml:id="C007-60"> E ia plorant / soujnt me trobat mut</l>

@@ -81,7 +81,7 @@
       <body>
          <pb n="33v"
             facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_49.html"/>
-         <lg type="poem" xml:id="C014-H028">
+         <div type="poem" xml:id="C014-H028">
             <lg type="cobla" n="1" xml:id="C014-01">
                <l n="1" xml:id="C014-1">Mal venturos no deu <choice><abbr>şcar</abbr><expan>sercar</expan></choice> ventura</l>
                

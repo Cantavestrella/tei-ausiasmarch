@@ -80,7 +80,7 @@
       <body>
          <pb n="41"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_43.html"/>
-         <lg type="poem" xml:id="C020-N020">
+         <div type="poem" xml:id="C020-N020">
             <lg type="cobla" n="1" xml:id="C020-01">
                
                <l n="1" xml:id="C020-1"> &#182;  Alsguns passats donarensi amort
@@ -143,7 +143,7 @@
                <l n="18" xml:id="C020-18"> Com tinch present mon be carestios
                </l>
                
-               <l n="19" xml:id="C020-19"> Que si de mort vull fer <del type="overstrike">care</del> volenteros
+               <l n="19" xml:id="C020-19"> Que si de mort vull fer <del rend="overstrike">care</del> volenteros
                </l>
                
                <l n="20" xml:id="C020-20"> Nol puch auer car merce nomte clau

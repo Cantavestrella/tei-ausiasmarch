@@ -85,7 +85,7 @@
         <body>                                
         <pb n="48r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_114.html"/>
-        <lg type="poem" xml:id="C009-e044">
+        <div type="poem" xml:id="C009-e044">
             <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1"> <c rend="large">A</c>Mor se dol / com breument yo no muir</l>
                 <l n="2" xml:id="C009-2"> puix no li fall / per esser de mi fart</l>

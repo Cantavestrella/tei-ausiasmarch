@@ -79,7 +79,7 @@
         <body>
 <pb n="180r"
     facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-        <lg type="poem" xml:id="C005-E116">
+        <div type="poem" xml:id="C005-E116">
             <lg type="cobla" n="1" xml:id="C0005-1">
                 <l n="1" xml:id="C005-1"> Tant he amat / que mon grosser enginy</l>
                 <l n="2" xml:id="C005-2"> per gran treball / de pensa es subtil</l>

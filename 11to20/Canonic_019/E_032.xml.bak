@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         
+         <titleStmt>
+            <title>Poema 19</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CR">
+               <name>Carmela Romero</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date>2019-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000149777">
+               <msIdentifier xml:id="E_Ms_3695_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f. 47v after end of previous poem, before this: </locus><choice><abbr>Moß</abbr><expan>Mossen</expan></choice> ausias march</rubric>
+                     <rubric>
+                        <locus>f. 48v between lines 40 and 41 </locus> Tornada
+                     </rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+      <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+   </facsimile>
+   <text>
+      <body>
+         <pb n="47v"
+            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+         <lg type="poem" xml:id="C019-E032">
+            <lg type="cobla" n="1" xml:id="C019-01">
+               
+               <l n="1" xml:id="C019-1"> Hoits hoits tots los qui be amats
+               </l>
+               
+               <l n="2" xml:id="C019-2"> e planyets mi / si dech esser planygut
+               </l>
+               
+               <l n="3" xml:id="C019-3"> e puis vehets / no es tal cas vengut
+               </l>
+               
+               <l n="4" xml:id="C019-4"> en los presents / nen los qui son passats
+               </l>
+               
+               <l n="5" xml:id="C019-5"> Dolets vos donchs / de mi vostre semblant
+               </l>
+               
+               <l n="6" xml:id="C019-6"> en sofferir / la dolor delitable
+               </l>
+               
+               <l n="7" xml:id="C019-7"> car tost de mi / se dolra lo diable
+               </l>
+               
+               <l n="8" xml:id="C019-8"> com veura mi / semblant mal dell passant
+               </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C019-02">
+               
+               <l n="9" xml:id="C019-9"> Qui es aquell / tal dolor suffertant
+               </l>
+               
+               <l n="10" xml:id="C019-10"> que desig ço / de que no haia sper
+               </l>
+               
+               <l n="11" xml:id="C019-11"> aytant es greu / que no par sia ver
+               </l>
+               
+               <l n="12" xml:id="C019-12"> desijar ço / que no suy esperant
+               </l>
+               
+               <l n="13" xml:id="C019-13"> No songanat / de mon mal stament
+               </l>
+               
+               <l n="14" xml:id="C019-14"> <add place="margin left">E</add> tot quant fas / se que torna mon dan
+               </l>
+               
+               <l n="15" xml:id="C019-15"> menys de poder / me trob en poder gran
+               </l>
+               
+               <l n="16" xml:id="C019-16"> car nom esforç / per mostrar mon talent
+               </l>
+            </lg>
+            <pb n="48r"
+               facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+            <lg type="cobla" n="3" xml:id="C019-03">
+               
+               <l n="17" xml:id="C019-17"> Mon primer mal / es mon sperdiment
+               </l>
+               
+               <l n="18" xml:id="C019-18"> per quem ayr / e per no res macus
+               </l>
+               
+               <l n="19" xml:id="C019-19"> e lo segon / es terrible refus
+               </l>
+               
+               <l n="20" xml:id="C019-20"> que vos  mostrats / sius feyan queriment
+               </l>
+               
+               <l n="21" xml:id="C019-21"> Portat me trob / amolt prop de ma fi
+               </l>
+               
+               <l n="22" xml:id="C019-22"> puis mon voler / cas jmpossible guarda
+               </l>
+               
+               <l n="23" xml:id="C019-23"> no tardara / lora que ja es tarda
+               </l>
+               
+               <l n="24" xml:id="C019-24"> que tendrels peus / en lauorrit cami
+               </l>
+            </lg>
+            <lg type="cobla" n="4" xml:id="C019-04">
+               
+               <l n="25" xml:id="C019-25"> Si per null temps / en vers amor falli
+               </l>
+               
+               <l n="26" xml:id="C019-26"> be ma repres / planyent men lenemich
+               </l>
+               
+               <l n="27" xml:id="C019-27"> e may ve<add place="above">r</add>s mi / pogui esser amich
+               </l>
+               
+               <l n="28" xml:id="C019-28"> car per null temps / poder hi despengui
+               </l>
+               
+               <l n="29" xml:id="C019-29"> Hoc lo voler / me trob en abundança
+               </l>
+               
+               <l n="30" xml:id="C019-30"> mas del poder / neso pus empobrit
+               </l>
+               
+               <l n="31" xml:id="C019-31"> car yo peresch / e suytan defallit
+               </l>
+               
+               <l n="32" xml:id="C019-32"> que no gos dir / de me hajats menbrança<note type="editorial">Vers manipulat.</note>
+               </l>
+            </lg>
+            <lg type="cobla" n="5" xml:id="C019-05">
+               
+               <l n="33" xml:id="C019-33"> Vna sabor / dagre dolç amor llança
+               </l>
+               
+               <l n="34" xml:id="C019-34"> que lo meu gust / departirles no sab
+               </l>
+               
+               <l n="35" xml:id="C019-35"> dins mos delits / dolor mortal hi cab
+               </l>
+               
+               <l n="36" xml:id="C019-36"> e tal dolor / ab delit ha lligança
+               </l>
+               
+               <l n="37" xml:id="C019-37"> Mas yom reprench / com parlar maplagut
+               </l>
+               
+               <l n="38" xml:id="C019-38"> dayço quen mi / no basta la sciença
+               </l>
+               
+               <l n="39" xml:id="C019-39"> sobres amor / me porta ignocença
+               </l>
+               
+               <l n="40" xml:id="C019-40"> vull e desuull / sens cas esdeuengut
+               </l>
+            </lg>
+            <pb n="48v"
+               facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+            <lg type="cobla" n="6" xml:id="C019-06">
+               
+               <l n="41" xml:id="C019-41"> Lir entre carts / creheu lamador mut
+               </l>
+               
+               <l n="42" xml:id="C019-42"> yel cambiant / de punt en punt color
+               </l>
+               
+               <l n="43" xml:id="C019-43"> y el pauruch / com se membra damor
+               </l>
+               
+               <l n="44" xml:id="C019-44"> del atreuit / sia son temps perdut
+               </l>
+            </lg>
+         </lg>
+      </body>
+   </text>
+</TEI>

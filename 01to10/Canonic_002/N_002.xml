@@ -75,7 +75,7 @@
       <body>
          <pb n="p3"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_5.html"/>
-         <lg type="poem" n="2" xml:id="C002-N002">
+         <div type="poem" n="2" xml:id="C002-N002">
             <lg type="cobla" n="1" xml:id="C0002-1">
                <l n="1" xml:id="C002-1">¶  Pren men axi com alpatro quen plaia</l>
                <l n="2" xml:id="C002-2">Te sa gran nau he pensa hauer castell</l>
@@ -98,7 +98,7 @@
             </lg>
             <lg type="cobla" n="3" xml:id="C0002-3">
                <l n="17" xml:id="C002-17">¶ Menys que lo peix es enlo bosch trobat</l>
-               <l n="18" xml:id="C002-18">E los leons dins layguan molt <choice><abbr>pregȏ</abbr><expan>pregon</expan></choice><del type="overstrike">lur sogorn</del></l>
+               <l n="18" xml:id="C002-18">E los leons dins layguan molt <choice><abbr>pregȏ</abbr><expan>pregon</expan></choice><del rend="overstrike">lur sogorn</del></l>
                <l n="19" xml:id="C002-19">Lamia mor per nulltemps pendra torn</l>
                <l n="20" xml:id="C002-20">Sol conexent que <choice><abbr>demĵ</abbr><expan>demius</expan></choice> doneu grat</l>
                <l n="21" xml:id="C002-21">E fiu deuos queu sabieu be conexer</l>

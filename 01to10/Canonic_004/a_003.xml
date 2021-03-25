@@ -81,7 +81,7 @@
         <body>
           <pb n="4v" 
               facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_9.html"/>
-          <lg type="poem" xml:id="C004-a003">  
+          <div type="poem" xml:id="C004-a003">  
             <lg type="cobla" n="1" xml:id="C0004-1">
                 <l n="1" xml:id="C004-1"> <c rend="large">A</c>xi com cell / que desija vianda</l>
                 <l n="2" xml:id="C004-2"> Per apagar / sa perillosa fam</l>

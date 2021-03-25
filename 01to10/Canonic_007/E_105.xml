@@ -80,7 +80,7 @@
         <body>
          <pb n="161v"
              facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-        <lg type="poem" xml:id="C007-E105">
+        <div type="poem" xml:id="C007-E105">
         <pb n="161v" facs="xxxx"/> 
             <lg type="cobla" n="1" xml:id="C0007-1">
                 <l n="1" xml:id="C007-1"> Si col rictat / no porta bens ensi</l>
@@ -107,7 +107,7 @@
                 <l n="18" xml:id="C007-18"> en temps passat / eren lladonchs volguts</l>
                 <l n="19" xml:id="C007-19"> ouidil prous / dix quamor es crescuts</l>
                 <l n="20" xml:id="C007-20"> per altramor / de mostrant sa factura</l>
-                <l n="21" xml:id="C007-21"> Verdader fo / <del type="overstrike">n</del> en sos ditsesos presichs</l>
+                <l n="21" xml:id="C007-21"> Verdader fo / <del rend="overstrike">n</del> en sos ditsesos presichs</l>
                 <l n="22" xml:id="C007-22"> tant quant amor / fonch prop de coneixença</l>
                 <l n="23" xml:id="C007-23"> mas en est cas / entrells ha mal volença</l>
                 <l n="24" xml:id="C007-24"> tal que no creu / null temps sien amichs</l>

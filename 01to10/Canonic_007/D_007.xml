@@ -80,7 +80,7 @@
 
 <pb n="6v"
     facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-        <lg type="poem" xml:id="C007-D007">
+        <div type="poem" xml:id="C007-D007">
             <lg type="cobla" n="1" xml:id="C0007-1">
                 <l n="1" xml:id="C007-1"> Si com rictat no porta bens ab si</l>
                 <l n="2" xml:id="C007-2"> mas val aytant / com cell quin es <choice><abbr>señor</abbr><expan>senyor</expan></choice></l>
@@ -108,7 +108,7 @@
                 <l n="18" xml:id="C007-18"> entemps passat / erem la donchs volguts</l>
                 <l n="19" xml:id="C007-19"> ouidilprou / dix / quamor es crescuts</l>
                 <l n="20" xml:id="C007-20"> per altre amor / demostrant sa factura</l>
-                <l n="21" xml:id="C007-21"> Verdader fo en sos dits / e <del type="overstrike">sos</del> presichs</l>
+                <l n="21" xml:id="C007-21"> Verdader fo en sos dits / e <del rend="overstrike">sos</del> presichs</l>
                 <l n="22" xml:id="C007-22"> tant quant amor / fon prop deconeixença</l>
                 <l n="23" xml:id="C007-23"> mas enestcas / entrells ha malvolença</l>
                 <l n="24" xml:id="C007-24"> tal que no creu / null temps sien amichs</l>

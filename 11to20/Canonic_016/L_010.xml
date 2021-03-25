@@ -75,7 +75,7 @@
       <body>
          <pb n="142r"
             facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-         <lg type="poem" xml:id="C016-L010">
+         <div type="poem" xml:id="C016-L010">
             <lg type="cobla" n="1" xml:id="C016-01">
                
                <l n="1" xml:id="C016-1"> Junt es lo temps / que mon goig es complit

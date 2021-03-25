@@ -79,7 +79,7 @@
         <body>
         <pb n="86r"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-        <lg type="poem" xml:id="C006-E056">
+        <div type="poem" xml:id="C006-E056">
             <lg type="cobla" n="1" xml:id="C0006-1">
                 <l n="1" xml:id="C006-1"> Molt he tardat / en descobrir ma falta</l>
                 <l n="2" xml:id="C006-2"> per jouentut / quem nega speriment</l>

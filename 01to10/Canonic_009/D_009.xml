@@ -79,7 +79,7 @@
         <body>
 <pb n="9r" 
     facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-        <lg type="poem" xml:id="C009-D009">
+        <div type="poem" xml:id="C009-D009">
             <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1">  Amor sedol / com breument yo no muyr</l>
                 <l n="2" xml:id="C009-2"> pus no li fall / per esserde mi fart</l>
@@ -95,7 +95,7 @@
                 <l n="10" xml:id="C009-10"> e si hagues tant seny / com salamo</l>
                 <l n="11" xml:id="C009-11"> foratot poch / endar occasio</l>
                 <l n="12" xml:id="C009-12"> que no temes / asongran manament</l>
-                <l n="13" xml:id="C009-13"> <del type="overstrike">Quell</del> qui no sent / que pot fer molt amar</l>
+                <l n="13" xml:id="C009-13"> <del rend="overstrike">Quell</del> qui no sent / que pot fer molt amar</l>
                 <l n="14" xml:id="C009-14"> yo li perdo side mi / va truffan</l>
                 <l n="15" xml:id="C009-15"> piramus volch morir / passat dun bran</l>
                 <l n="16" xml:id="C009-16"> e per semblant mort Ttisbe / volch passar

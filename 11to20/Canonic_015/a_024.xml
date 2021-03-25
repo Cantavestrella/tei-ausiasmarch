@@ -80,7 +80,7 @@
       <body>
          <pb n="41v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_83.html"/>
-         <lg type="poem" xml:id="C015-a024">
+         <div type="poem" xml:id="C015-a024">
             <lg type="cobla" n="1" xml:id="C015-01">
                
                <l n="1" xml:id="C015-1"> &#182;  Si pres grans mals / vn bem sera guardat

@@ -79,7 +79,7 @@
         <body>
        <pb n="3r"
            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-        <lg type="poem" xml:id="C009-E003">
+        <div type="poem" xml:id="C009-E003">
             <lg type="cobla" n="1" xml:id="C0009-1">
                 <l n="1" xml:id="C009-1"> Amor se dol / com breument yo no muyr</l>
                 <l n="2" xml:id="C009-2"> e pus nol fall / per esser demi fart</l>

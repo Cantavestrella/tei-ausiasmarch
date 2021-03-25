@@ -85,7 +85,7 @@
         <body>                
         <pb n="9v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_37.html"/>
-        <lg type="poem" xml:id="C010-e009">
+        <div type="poem" xml:id="C010-e009">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> <c rend="large">S</c>I com vn Rey / de tres ciutats senyor</l>
                 <l n="2" xml:id="C010-2"> qui tot son temps / l'aplagut guerrejar</l>

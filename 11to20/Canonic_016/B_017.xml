@@ -79,7 +79,7 @@
       <body>
          <pb n="15v"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_34.html"/>
-         <lg type="poem" xml:id="C016-B017">
+         <div type="poem" xml:id="C016-B017">
             <lg type="cobla" n="1" xml:id="C016-01">
                
                <l n="1" xml:id="C016-1"> iVnt es lo <choice><abbr>ŧps</abbr><expan></expan></choice> que mon guotx es <choice><abbr>cȏplit</abbr><expan>complit</expan></choice>

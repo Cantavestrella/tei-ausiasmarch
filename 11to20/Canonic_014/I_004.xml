@@ -80,7 +80,7 @@
       <body>
          <pb n="26r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_52.html"/>
-         <lg type="poem" xml:id="C014-I004">
+         <div type="poem" xml:id="C014-I004">
             <lg type="cobla" n="1" xml:id="C014-01">
                
                <l n="1" xml:id="C014-1"> Mal<note type="editorial">Caplletra M en color roig.</note> venturos / no deu <choice><abbr>şcar</abbr><expan>sercar</expan></choice> ventura

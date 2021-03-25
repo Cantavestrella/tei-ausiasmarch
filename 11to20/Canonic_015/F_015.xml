@@ -79,7 +79,7 @@
       <body>
          <pb n="14v"
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_32.html"/>
-         <lg type="poem" xml:id="C015-F015">
+         <div type="poem" xml:id="C015-F015">
             <lg type="cobla" n="1" xml:id="C015-01">
                
                <l n="1" xml:id="C015-1"> Si pres grans mals vn bem sera guardat</l>
@@ -179,7 +179,7 @@
                
                <l n="42" xml:id="C015-42"> Car en lo mon vn cors sera guanyat</l>
                
-               <l n="43" xml:id="C015-43"> Axi lo cel<del type="overstrike">l</del> fa gran solempnitat</l>
+               <l n="43" xml:id="C015-43"> Axi lo cel<del rend="overstrike">l</del> fa gran solempnitat</l>
                
                <l n="44" xml:id="C015-44"> Com del jnfern vnarman pot ser tolta</l>
                

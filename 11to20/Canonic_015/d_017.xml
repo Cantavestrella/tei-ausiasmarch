@@ -83,7 +83,7 @@
       <body>
          <pb n="23v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_51.html"/>
-         <lg type="poem" xml:id="C015-d017">
+         <div type="poem" xml:id="C015-d017">
             <lg type="cobla" n="1" xml:id="C015-01">
                
                <l n="1" xml:id="C015-1"> S<c rend="large">i</c> pres grans mals / <choice><abbr>hȗ</abbr><expan>hun</expan></choice> bem sera guardat

@@ -80,7 +80,7 @@
       <body>
          <pb n="44v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_93.html"/>
-         <lg type="poem" xml:id="C020-d036">
+         <div type="poem" xml:id="C020-d036">
             <lg type="cobla" n="1" xml:id="C020-01">
                
                <l n="1" xml:id="C020-1"> A<c rend="large">l</c>guns passats / donaren si amort

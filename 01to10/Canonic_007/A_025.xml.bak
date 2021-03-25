@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poema 7</title>
+                <author>Ausiàs March </author>
+                <respStmt xml:id="RC">
+                    <name>Rosanna Cantavella, Universitat de València</name>
+                    <resp>Coordinator of LaTEX into TEI transformations</resp>
+                </respStmt>
+                <respStmt xml:id="EM">
+                    <name>Enric Moll</name>
+                    <resp>Changes LaTEX to TEI, coding volunteer</resp>
+                </respStmt>
+                <respStmt xml:id="AH">
+                    <name>Adolfo Hilario, Universitat Politècnica de València</name>
+                    <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+                </respStmt>
+                <respStmt xml:id="LM">
+                    <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+                    <resp>Coordinator of manuscript transcription into LaTEX</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Rosanna Cantavella</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                            to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed result
+                            work from a previous LaTEX format file out of the synoptic diplomatic edition
+                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                        <p>The licence was added on May 1, 2019.</p>
+                    </licence>
+                </availability>
+                <date> 2019-05-01</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc
+                    corresp="http://www.cervantesvirtual.com/obra/canconer-dobres-enamorades-manuscrito--0/">
+                    <msIdentifier xml:id="A_Ms_ESP_225_BnP">
+                        <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <rubric>
+                                <locus>f. 203v after end of previous poem, before this one: </locus>\clauOberta Auzias march croada capcaudada \clauTancada</rubric>
+                            <rubric>
+                                <locus>f. 204r between lines 40 and 41 </locus>\clauOberta Tornada\clauTancada</rubric>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="CA">Catalan</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+                    edition, from all witnesses.</p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic
+            url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_156.html"/>
+        <graphic
+            url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_157.html"/>
+        <graphic 
+            url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_158.html"></graphic>
+    </facsimile>
+        <text> 
+           <body>
+            <pb n="53r" 
+                facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_156.html"/>
+            <lg type="poem" xml:id="C007-A025">
+            <lg type="cobla" n="1" xml:id="C0007-1">
+                <l n="1" xml:id="C007-1"> SIcom rictat / no porta bens ab si</l>
+                <l n="2" xml:id="C007-2"> Mas val aytant / com cell qujn es senyor</l>
+                <l n="3" xml:id="C007-3"> Amor no val / mas tant com lamador</l>
+                <l n="4" xml:id="C007-4"> Manxa buffant / orgue falç no ret fi</l>
+                <l n="5" xml:id="C007-5"> Amor val poch / com tot enamorat</l>
+                <l n="6" xml:id="C007-6"> Ha falsedat / dins son pits fals enclosa</l>
+                <l n="7" xml:id="C007-7"> O es adiunt / ab vna tal esposa</l>
+                <l n="8" xml:id="C007-8"> Peguesa es / son dret nom apellat</l>
+                </lg>
+              <pb n="53v" 
+                  facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_157.html"/>
+            <lg type="cobla" n="2" xml:id="C0007-2">
+                <l n="9" xml:id="C007-9">  Amor no pot / hauer desordonat</l>
+                <l n="10" xml:id="C007-10"> \c{C}o que deu fa / natura migençant</l>
+                <l n="11" xml:id="C007-11"> Car home pech / no pot ser fin amant</l>
+                <l n="12" xml:id="C007-12"> Ne subtil gens / contra sa calitat</l>
+                <l n="13" xml:id="C007-13"> Mal pendra pint / en laygua sa figura</l>
+                <l n="14" xml:id="C007-14"> Molt menys amor / pendra lo no dispost</l>
+                <l n="15" xml:id="C007-15"> No pot estar / laygua dins vn loch rost</l>
+                <l n="16" xml:id="C007-16"> Ten pochamor / encap dom foll atura</l>
+                </lg>
+            <lg type="cobla" n="3" xml:id="C00007-3">
+                <l n="17" xml:id="C007-17"> Per ben amar / amb angoxosa cura</l>
+                <l n="18" xml:id="C007-18"> En temps passat / erem ladonchs volguts</l>
+                <l n="19" xml:id="C007-19"> Oujdil <choice><abbr>prȏ</abbr><expan>prous</expan></choice> / dix quamor es crescuts</l>
+                <l n="20" xml:id="C007-20"> Per altramor / demostrant se factura</l>
+                <l n="21" xml:id="C007-21"> Vertader fonch / sos dit e sos prehics</l>
+                <l n="22" xml:id="C007-22"> Tant quant amor / fonch prop de conaxença</l>
+                <l n="23" xml:id="C007-23"> Mes aquest cars / entrells ha mal volença</l>
+                <l n="24" xml:id="C007-24"> Tant que no creu / null temps sien amichs</l></lg>
+            <lg type="cobla" n="4" xml:id="C0007-4">
+                <l n="25" xml:id="C007-25"> Si fossem nats / vos eyoentrels antichs</l>
+                <l n="26" xml:id="C007-26"> Lany quant amor / amant se encorria</l>
+                <l n="27" xml:id="C007-27"> Sens praticar / alguna maestria</l>
+                <l n="28" xml:id="C007-28"> Lo vostre cor / no fora tan jnichs</l>
+                <l n="29" xml:id="C007-29"> En vos conech / gran disposicio</l>
+                <l n="30" xml:id="C007-30"> Deffer tot ço / que gentilesa mana</l>
+                <l n="31" xml:id="C007-31"> Mes certament / veig que naturangana</l>
+                <l n="32" xml:id="C007-32"> Car viurab ells / es dom perdicio</l>
+                </lg>
+            <lg type="cobla" n="5" xml:id="C0007-5">
+                <l n="33" xml:id="C007-33"> Per mal grahir / ne per mala saho</l>
+                <l n="34" xml:id="C007-34"> Mon cor no pot / amor desemparar</l>
+                <l n="35" xml:id="C007-35"> Deuotament / los me plau remembrar</l>
+                <l n="36" xml:id="C007-36"> Aquells passats / aqui deu don perdo</l>
+                <l n="37" xml:id="C007-37"> E com sere / trespassat daquest mon</l>
+                <l n="38" xml:id="C007-38"> Letres diran / sobre la mja tomba</l>
+                <l n="39" xml:id="C007-39"> Plena deseny / no tingau agran bomba</l>
+                <l n="40" xml:id="C007-40"> Com per vos muyr / evaig no se ahon</l>
+                </lg>
+              <pb n="54r" 
+                  facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_158.html"/>
+            <lg type="cobla" n="6" xml:id="C0007-6">
+                <l n="41" xml:id="C007-41">  Enueges tal / que tot primer confon</l>
+                <l n="42" xml:id="C007-42"> A tots aquells / qui en si la saiusten</l>
+                <l n="43" xml:id="C007-43"> Los enuiats / vn poch ne molt no gusten</l>
+                <l n="44" xml:id="C007-44"> Aquell maltast / quils enuegosos son</l>
+                <l n="45" xml:id="C007-45"> Tal es amor / car jo qui lame iust</l>
+                <l n="46" xml:id="C007-46"> Sens grans dolors / dant me forts moujments</l>
+                <l n="47" xml:id="C007-47"> E haueu<add place="margin left">haveu</add> / daço tals sentiments</l>
+                <l n="48" xml:id="C007-48"> Com fort destral / ha de tallar molt fust</l>
+                </lg>
+            <lg type="cobla" n="7" xml:id="C0007-7">
+                <l n="49" xml:id="C007-49"> Sicom adam / pres mal del vadat gust</l>
+                <l n="50" xml:id="C007-50"> Com sa muller / li mostra mal camj</l>
+                <l n="51" xml:id="C007-51"> Dient adam / mengem daquest boci</l>
+                <l n="52" xml:id="C007-52"> E semblarem / adeu qui es tot just</l>
+                <l n="53" xml:id="C007-53"> Ne pren amj / car mon seny ha cregut</l>
+                <l n="54" xml:id="C007-54"> La voluntat / fent li promissio</l>
+                <l n="55" xml:id="C007-55"> Que be serujnt aconseguira do</l>
+                <l n="56" xml:id="C007-56"> Que per null temps / tal no fo conegut</l>
+                </lg>
+            <lg type="cobla" n="8" xml:id="C0007-8">
+                <l n="57" xml:id="C007-57"> Per mal seruir / no crech haia perdut</l>
+                <l n="58" xml:id="C007-58"> Car sils treballs / hagues sofferts per deu</l>
+                <l n="59" xml:id="C007-59"> Cors glorios / foren lo regne seu</l>
+                <l n="60" xml:id="C007-60"> E ia plorant / soujnt me trobat mut</l>
+                <l n="61" xml:id="C007-61"> Sim fos donat / aquest temps en entendre</l>
+                <l n="62" xml:id="C007-62"> Los grans secrets / enclosos en natura</l>
+                <l n="63" xml:id="C007-63"> No foral mon / cosa quim fas escura</l>
+                <l n="64" xml:id="C007-64"> Dels fet diujnts / gran part ne pogrentendre</l>
+                </lg>
+            <lg type="tornada">
+                <l n="65" xml:id="C007-65"> Plena de seny / tot mon temps vull despendre</l>
+                <l n="66" xml:id="C007-66"> Amant auos / sens algun grat consegre</l>
+                <l n="67" xml:id="C007-67"> E durara / fins que del riu desegre</l>
+                <l n="68" xml:id="C007-68"> Laygua corrent / amunt se puguestendre</l>
+                </lg>
+            </lg>
+         </body>
+      </text>
+</TEI>

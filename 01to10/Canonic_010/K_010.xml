@@ -79,7 +79,7 @@
         <body>            
         <pb n="10v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_27.html"/>
-        <lg type="poem" xml:id="C010-K010">
+        <div type="poem" xml:id="C010-K010">
             <lg type="cobla" n="1" xml:id="C0010-1">
                 <l n="1" xml:id="C010-1"> S J com vn rey senyor <choice><abbr>ƌ</abbr><expan>de</expan></choice> tres ciutats</l>
                 <l n="2" xml:id="C010-2"> Qui tot son temps la plagut guerreiar</l>

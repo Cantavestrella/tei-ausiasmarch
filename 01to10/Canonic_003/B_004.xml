@@ -77,7 +77,7 @@
       <body>
          <pb n="4v"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_12.html"/>
-         <lg type="poem" n="3" xml:id="C003-B004">
+         <div type="poem" n="3" xml:id="C003-B004">
             <lg type="cobla" n="1" xml:id="C0003-1">
                <l n="1" xml:id="C003-1">pEr moltamor don gran desitx seniendra</l>
                <l n="2" xml:id="C003-2">[Es]per vinent per tots <choice><abbr>aꝗlls</abbr><expan>aquells</expan></choice> graons</l>

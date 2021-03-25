@@ -79,7 +79,7 @@
       <body>
          <pb n="13r"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_29.html"/>
-         <lg type="poem" xml:id="C013-B014">
+         <div type="poem" xml:id="C013-B014">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">cOlguen les gents ab alegria festes</l>
                

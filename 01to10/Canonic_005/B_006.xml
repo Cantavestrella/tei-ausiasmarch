@@ -79,7 +79,7 @@
         <body>
             <pb n="6r"
                 facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_15.html"/>
-        <lg type="poem" xml:id="C005-B006">
+        <div type="poem" xml:id="C005-B006">
         <lg type="cobla" n="1" xml:id="C0005-1">
             <l n="1" xml:id="C005-1"> tAnt he amat que mon grocer en<gap reason="illegible" extent="one or two letters"/></l>
             <l n="2" xml:id="C005-2"> Per gran treball de pensa es sobtil</l>

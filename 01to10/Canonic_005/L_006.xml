@@ -77,7 +77,7 @@
         <body>                                
         <pb n="137r"
             facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-        <lg type="poem" xml:id="C005-L006">
+        <div type="poem" xml:id="C005-L006">
             <lg type="cobla" n="1" xml:id="C0005-1">
                 <l n="1" xml:id="C005-1"> Tant he amat / que mon grosser enginy</l>
                 <l n="2" xml:id="C005-2"> Per gran traball / de pensa es subtil</l>

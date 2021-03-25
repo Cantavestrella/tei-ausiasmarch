@@ -79,7 +79,7 @@
       <body>
          <pb n="14r"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-         <lg type="poem" xml:id="C015-D015">
+         <div type="poem" xml:id="C015-D015">
             <lg type="cobla" n="1" xml:id="C015-01">
                
                <l n="1" xml:id="C015-1"> Sipres grans mals vn bem seraguardat
@@ -153,7 +153,7 @@
                <l n="22" xml:id="C015-22"> faent contrast / al calt que amorgita
                </l>
                
-               <l n="23" xml:id="C015-23"> los hermitans / fa surtir del'<del type="overstrike">amurta</del> ermita<note type="editorial">Escrit per una altra mà.</note>
+               <l n="23" xml:id="C015-23"> los hermitans / fa surtir del'<del rend="overstrike">amurta</del> ermita<note type="editorial">Escrit per una altra mà.</note>
                </l>
                
                

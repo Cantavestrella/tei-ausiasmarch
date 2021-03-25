@@ -91,7 +91,7 @@
       <body>
          <pb n="26r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_102.html"/>
-         <lg type="poem" xml:id="C017-A002">
+         <div type="poem" xml:id="C017-A002">
             <lg type="cobla" n="1" xml:id="C017-01">
                
                <l n="1" xml:id="C017-1"> S<c rend="large">I</c> deu del cors / la miarma sostrau

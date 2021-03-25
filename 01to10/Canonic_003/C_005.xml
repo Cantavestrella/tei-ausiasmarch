@@ -74,7 +74,7 @@
       <body>
          <pb n="49r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_148.html"/>
-         <lg type="poem" n="1" xml:id="C001-C005">
+         <div type="poem" n="1" xml:id="C001-C005">
             <lg type="cobla" n="1" xml:id="C0003-1">
                <l n="1" xml:id="C003-1">Alt <add place="above">e</add>. amor / d'hon gran desig s'engendra</l> 
                <l n="2" xml:id="C003-2">y esperiment / per tots aquest grahons</l>
@@ -87,7 +87,7 @@
             </lg>
             <lg type="cobla" n="2" xml:id="C0003-2">
                <l n="9" xml:id="C003-9">Metge scient / note lo cas per ioch</l>
-               <l n="10" xml:id="C003-10">com la calor / no surt a part <del type="overstrike">defora</del><add place="above">estrema</add>.</l>
+               <l n="10" xml:id="C003-10">com la calor / no surt a part <del rend="overstrike">defora</del><add place="above">estrema</add>.</l>
                <l n="11" xml:id="C003-11">l'ignorant ueu / que lo malalt no crema</l>
                <l n="12" xml:id="C003-12">he iutial sa / puix que mostra bon toch</l>
                <l n="13" xml:id="C003-13">lo patient / no podra dir son mal</l>

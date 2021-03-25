@@ -82,10 +82,10 @@
       <body>
          <pb n="32"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_34.html"/>
-         <lg type="poem" xml:id="C016-N016">
+         <div type="poem" xml:id="C016-N016">
             <lg type="cobla" n="1" xml:id="C016-01">
                
-               <l n="1" xml:id="C016-1"> &#182;  <del type="overstrike">Quant</del> Junt es lo temps que mon goig es complit</l>
+               <l n="1" xml:id="C016-1"> &#182;  <del rend="overstrike">Quant</del> Junt es lo temps que mon goig es complit</l>
                         
                <l n="2" xml:id="C016-2"> En lo esguart del que yo desijat</l>
                
@@ -103,7 +103,7 @@
             </lg>
             <lg type="cobla" n="2" xml:id="C016-02">
                
-               <l n="9" xml:id="C016-9"> Si com lexorch quj <del type="overstrike">demj nos</del> adeu no esmenta</l>
+               <l n="9" xml:id="C016-9"> Si com lexorch quj <del rend="overstrike">demj nos</del> adeu no esmenta</l>
                
                <l n="10" xml:id="C016-10"> Que li do fills asenats e adrets</l>
                
@@ -163,7 +163,7 @@
                
                <l n="34" xml:id="C016-34"> Mas nomacus que fenesca ma vida</l>
                
-               <l n="35" xml:id="C016-35"> Car mentre visch ne pot esser <del type="overstrike">finida</del> perida</l>
+               <l n="35" xml:id="C016-35"> Car mentre visch ne pot esser <del rend="overstrike">finida</del> perida</l>
                
                <l n="36" xml:id="C016-36"> Una dolor juntab algun esper</l>
                

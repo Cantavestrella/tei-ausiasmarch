@@ -75,7 +75,7 @@
       <body>
          <pb n="5"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_7.html"/>
-         <lg type="poem" n="1" xml:id="C003-L003">
+         <div type="poem" n="1" xml:id="C003-L003">
             <lg type="cobla" n="1" xml:id="C0003-1">
                <l n="1" xml:id="C003-1">¶  Per moltamor don gran desig sengendra</l>
                <l n="2" xml:id="C003-2">Sper vinent <choice><abbr>ꝑ</abbr><expan>per</expan></choice> tots aquests grahons</l>
@@ -88,7 +88,7 @@
             </lg>
             <lg type="cobla" n="2" xml:id="C0003-2">
                <l n="9" xml:id="C003-9">¶ Metie sient no te lo cas per goch</l>
-               <l n="10" xml:id="C003-10">Com la calor so surt apart <del type="overstrike">defora</del> extrema</l>
+               <l n="10" xml:id="C003-10">Com la calor so surt apart <del rend="overstrike">defora</del> extrema</l>
                <l n="11" xml:id="C003-11">Lignorant veu que lo malalt no crema</l>
                <l n="12" xml:id="C003-12">E jutgel sa pusque mostra bon toch</l>
                <l n="13" xml:id="C003-13">Lo pacient no pora dir son mall</l>

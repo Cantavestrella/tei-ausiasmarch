@@ -69,7 +69,7 @@
       <body>
          <pb n="12v"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-         <lg type="poem" xml:id="C013-D013">
+         <div type="poem" xml:id="C013-D013">
             <lg type="cobla" n="1" xml:id="C013-01">
                
                <l n="1" xml:id="C013-1"> Colguen les gents / ab alegria festes
@@ -78,7 +78,7 @@
                <l n="2" xml:id="C013-2"> loant adeu / entremesclant deports
                </l>
                
-               <l n="3" xml:id="C013-3"> places carrer<del type="overstrike">e</del>s / edelitables orts
+               <l n="3" xml:id="C013-3"> places carrer<del rend="overstrike">e</del>s / edelitables orts
                </l>
                
                <l n="4" xml:id="C013-4"> sian cercats / ab recont de grans gestes

@@ -78,7 +78,7 @@
       <body>
          <pb n="14r"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_31.html"/>
-         <lg type="poem" xml:id="C014-B015">
+         <div type="poem" xml:id="C014-B015">
             <lg type="cobla" n="1" xml:id="C014-01">
                <l n="1" xml:id="C014-1">mAl venturos no deu cercar ventura</l>
                

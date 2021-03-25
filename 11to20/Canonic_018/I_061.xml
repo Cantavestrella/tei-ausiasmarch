@@ -80,7 +80,7 @@
       <body>
          <pb n="75r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_150.html"/>
-         <lg type="poem" xml:id="C018-I061">
+         <div type="poem" xml:id="C018-I061">
             <lg type="cobla" n="1" xml:id="C018-01">
                
                <l n="1" xml:id="C018-1"> FEntesiant<note type="editorial">Caplletra de gran tamany</note> / amor ami descobre
@@ -143,7 +143,7 @@
                <l n="18" xml:id="C018-18"> Eques trobas / de senyoria septre
                </l>
                
-               <l n="19" xml:id="C018-19"> Bens gordonant<del type="overstrike">s</del> / e punint los de merits
+               <l n="19" xml:id="C018-19"> Bens gordonant<del rend="overstrike">s</del> / e punint los de merits
                </l>
                
                <l n="20" xml:id="C018-20"> Entrels mellors / sol me trobara fénix
@@ -230,7 +230,7 @@
                <l n="45" xml:id="C018-45"> Jo per muntar / al delit perdurable
                </l>
                
-               <l n="46" xml:id="C018-46"> Tant quant al mon / <del type="overstrike">glo</del> gros plaher de mj lança
+               <l n="46" xml:id="C018-46"> Tant quant al mon / <del rend="overstrike">glo</del> gros plaher de mj lança
                </l>
                
                <l n="47" xml:id="C018-47"> Crehent de cert / quel gran delit me torba

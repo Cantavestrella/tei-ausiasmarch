@@ -78,7 +78,7 @@
         <body>                            
         <pb n="64r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_136.html"/>
-        <lg type="poem" xml:id="C008-b070">
+        <div type="poem" xml:id="C008-b070">
             <lg type="cobla" n="1" xml:id="C0008-1">
                 <l n="1" xml:id="C008-1"> <c rend="large">I</c>A tots mos cants / me plau, metr'en oblit</l>
                 <l n="2" xml:id="C008-2"> fora gitant / mon gentil pensament</l>

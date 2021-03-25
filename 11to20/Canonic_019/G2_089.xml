@@ -78,7 +78,7 @@
       <body>
          <pb n="129r"
             facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_268.html"/>
-         <lg type="poem" xml:id="C019-G2089">
+         <div type="poem" xml:id="C019-G2089">
             <lg type="cobla" n="1" xml:id="C019-01">
                
                <l n="1" xml:id="C019-1"> Hoiu hoiu / tots los qui be amats

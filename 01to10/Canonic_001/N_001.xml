@@ -75,7 +75,7 @@
       <body>
          <pb n="p1"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_3.html"/>
-         <lg type="poem" n="1" xml:id="C001-N001">
+         <div type="poem" n="1" xml:id="C001-N001">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1"><c rend="large">A</c>xi com cell qujn lo somnjs delita</l>
                <l n="2" xml:id="C001-2">E son delit de foll pensament ve</l>

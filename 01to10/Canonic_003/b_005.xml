@@ -77,7 +77,7 @@
       <body>
          <pb n="4v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_17.html"/>
-         <lg type="poem" n="3" xml:id="C003-b005">
+         <div type="poem" n="3" xml:id="C003-b005">
             <lg type="cobla" n="1" xml:id="C0003-1">
                <l n="1" xml:id="C003-1">Alt he, amor / d'on <choice><abbr>grȃ</abbr><expan>gran</expan></choice> desig sengendra</l>
                <l n="2" xml:id="C003-2">y <choice><abbr>experimȇt</abbr><expan>experiment</expan></choice> / per tots aquests grahons</l>

@@ -74,7 +74,7 @@
       <body>
          <pb n="13r"
             facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/> 
-         <lg type="poem" xml:id="C014-D014">
+         <div type="poem" xml:id="C014-D014">
             <lg type="cobla" n="1" xml:id="C014-01">
                
                <l n="1" xml:id="C014-1"> Malventuros / no deu cercarventura
@@ -83,7 +83,7 @@
                <l n="2" xml:id="C014-2"> creubar sedeu lo front com l'anomenen
                </l>
                
-               <l n="3" xml:id="C014-3"> no des<del type="overstrike">f</del>lo<del type="overstrike">r</del>ar los qui fauor ne prenen
+               <l n="3" xml:id="C014-3"> no des<del rend="overstrike">f</del>lo<del rend="overstrike">r</del>ar los qui fauor ne prenen
                </l>               
                
                <l n="4" xml:id="C014-4"> entreposant lur bon enginy / e cura
@@ -116,7 +116,7 @@
                <l n="12" xml:id="C014-12"> sique fugis / a son peu molt leuger
                </l>
                
-               <l n="13" xml:id="C014-13"> <choice><abbr>Señor</abbr><expan>senyor</expan></choice> es gran<del type="overstrike">s</del> <del type="overstrike">bens</del> <add place="above">dels</add> mundans regidor
+               <l n="13" xml:id="C014-13"> <choice><abbr>Señor</abbr><expan>senyor</expan></choice> es gran<del rend="overstrike">s</del> <del rend="overstrike">bens</del> <add place="above">dels</add> mundans regidor
                </l>
                               
                <l n="14" xml:id="C014-14"> e son juhi / es alull amagatat

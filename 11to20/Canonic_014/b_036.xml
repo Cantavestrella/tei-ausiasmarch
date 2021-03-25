@@ -77,7 +77,7 @@
       <body>
          <pb n="28r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_64.html"/>
-         <lg type="poem" xml:id="C014-b_036">
+         <div type="poem" xml:id="C014-b_036">
             <lg type="cobla" n="1" xml:id="C014-01">
                <l n="1" xml:id="C014-1">M <c rend="large">a</c>l venturos / no deu cercar ventura</l>
                

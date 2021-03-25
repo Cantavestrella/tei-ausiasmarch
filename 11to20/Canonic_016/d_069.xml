@@ -79,7 +79,7 @@
       <body>
          <pb n="84r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_172.html"/>
-         <lg type="poem" xml:id="C016-d069">
+         <div type="poem" xml:id="C016-d069">
             <lg type="cobla" n="1" xml:id="C016-01">
                
                <l n="1" xml:id="C016-1"> I<c rend="large">v</c>nt es lo temps / que mon goig es complit

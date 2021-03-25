@@ -79,7 +79,7 @@
       <body>
          <pb n="27r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_62.html"/>
-         <lg type="poem" xml:id="C011-b035">
+         <div type="poem" xml:id="C011-b035">
             <lg type="cobla" n="1" xml:id="C011-01">
                
                <l n="1" xml:id="C011-1"> Q<c rend="large">v</c>ins <choice><abbr>tȃ</abbr><expan>tan</expan></choice> segurs / <choice><abbr>cȏsells</abbr><expan>consells</expan></choice> vas, en cercant
