@@ -98,14 +98,14 @@
                <l n="14" xml:id="C003-14">Tot affeblit ab lengua mal diserta</l>
                <l n="15" xml:id="C003-15">Gests e color assats fan descuberta</l>
                <l n="16" xml:id="C003-16">Part del affany <choice><abbr>ꝗ</abbr><expan>que</expan></choice> tant com lo dir val</l>
-            <lg>
+            </lg>
             <lg type="tornada">
                <l n="17" xml:id="C003-17">Plena de seny dirvos queus am no cal</l>
                <l n="18" xml:id="C003-18">Puys crech de cert que us neteniu <choice><abbr>per</abbr><expan>per</expan></choice> çerta</l>
                <l n="19" xml:id="C003-19">Si be mostrau queus sta molt cuberta</l>
                <l n="20" xml:id="C003-20">Cella per que amor es desigual</l>
             </lg>
-            </lg>           
+            </div>           
       </body>
    </text>
 </TEI>
