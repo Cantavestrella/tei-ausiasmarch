@@ -76,7 +76,7 @@
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_7.html"/>
          <div type="poem" n="3" xml:id="C003-F003">
             <lg type="cobla" n="1" xml:id="C0003-1">
-               <l n="1" xml:id="C003-1"><del rend="overstrike">Per moltamor</del><add place="above">Alt e amor</add><note type="x">Escrit d'una altra mà, problablement la mateixa que transcriu la poesia 1.</note>don gran desig sengen<add place="above">d</add>ra</l>
+               <l n="1" xml:id="C003-1"><del rend="overstrike">Per moltamor</del><add place="above">Alt e amor</add><note type="editorial" >Escrit d'una altra mà, problablement la mateixa que transcriu la poesia 1.</note>don gran desig sengen<add place="above">d</add>ra</l>
                <l n="2" xml:id="C003-2">Sper vinent per tots aquests graons</l>
                <l n="3" xml:id="C003-3">Me son delits mas donam passions</l>
                <l n="4" xml:id="C003-4">La por del mal quim fa magrir de carn tendra</l>

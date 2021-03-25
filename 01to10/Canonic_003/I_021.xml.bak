@@ -80,9 +80,9 @@
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_93.html"/>
          <lg type="poem" n="3" xml:id="C003-I021">
             <lg type="cobla" n="1" xml:id="C0003-1">
-               <l n="1" xml:id="C003-1">Per moltamor<note type="x">Es tracta del mateix poema que I 18, però ací amb
+               <l n="1" xml:id="C003-1">Per moltamor<note type="editorial" >Es tracta del mateix poema que I 18, però ací amb
                   una altra versió en el vers inicial.</note>/ don gran desig
-                  sengendre<note type="x">Al marge d'una altra mà: <add place="margin left">aquesta ya es scrita en
+                  sengendre<note type="editorial" >Al marge d'una altra mà: <add place="margin left">aquesta ya es scrita en
                   lo nombre dinou. 19.</add> Aquesta altra mà s'adona, doncs, de la
                   repetició del poema, que ara sols varia a l'inici.</note></l>
                <l n="2" xml:id="C003-2">Esper vinent / per tots aquests grahons</l>

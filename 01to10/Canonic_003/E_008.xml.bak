@@ -81,7 +81,7 @@
          <lg type="poem" n="3" xml:id="C003-E008">
             <lg type="cobla" n="1" xml:id="C0003-1">
                <l n="1" xml:id="C003-1">Vençut <choice><abbr>ꝑ</abbr><expan>per</expan></choice> alt / don gran desig sengendra</l>
-               <l n="2" xml:id="C003-2">viuent amor / per aquests Dos graons <note type="x">Aquest vers i els dos següents estan manipulats.</note></l>
+               <l n="2" xml:id="C003-2">viuent amor / per aquests Dos graons <note type="editorial" >Aquest vers i els dos següents estan manipulats.</note></l>
                <l n="3" xml:id="C003-3">me fa sentir / estranyes passions</l>
                <l n="4" xml:id="C003-4">si que mes carns / han pres color de çendra</l>
                <l n="5" xml:id="C003-5">E port alcor / sens fum continu foch</l>
