@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 16</title>
             <author>Ausiàs March </author>
@@ -41,8 +41,7 @@
             <date>2019-05-01</date>
          </publicationStmt>
          <sourceDesc>
-            <msDesc
-               corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+            <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
                <msIdentifier xml:id="D_Ms_2985_BnM">
                   <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                </msIdentifier>
@@ -62,168 +61,142 @@
       </encodingDesc>
    </teiHeader>
    <facsimile>
-      <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000117162"></graphic>
+      <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
       <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
    </facsimile>
    <text>
       <body>
-         <pb n="15r"
-            facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+
+         <pb n="15r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+         <div type="poem" xml:id="C016-D016">
             <lg type="cobla" n="1" xml:id="C016-01">
-               
-               <l n="1" xml:id="C016-1"> Junt es lo temps / que mongoig es cumplit
+
+               <l n="1" xml:id="C016-1"> Junt es lo temps / que mongoig es cumplit </l>
+
+               <l n="2" xml:id="C016-2"> en lo esguart / del que hedesijat </l>
+
+               <l n="3" xml:id="C016-3"> car vist he ço / d'on era despertat </l>
+
+               <l n="4" xml:id="C016-4"> e molt pus bell / que dins mi no fon dit </l>
+
+               <l n="5" xml:id="C016-5"> Mas de present / caych endolor nolenta </l>
+
+               <l n="6" xml:id="C016-6"> fort es etant / quel cap me fa mudar </l>
+
+               <l n="7" xml:id="C016-7"> torbat del tot / mos passos <choice>
+                     <abbr>hȇantar</abbr>
+                     <expan>henantar</expan>
+                  </choice>
                </l>
-               
-               <l n="2" xml:id="C016-2"> en lo esguart / del que hedesijat
-               </l>
-               
-               <l n="3" xml:id="C016-3"> car vist he ço / d'on era despertat
-               </l>
-               
-               <l n="4" xml:id="C016-4"> e molt pus bell / que dins mi no fon dit
-               </l>
-               
-               <l n="5" xml:id="C016-5"> Mas de present / caych endolor nolenta
-               </l>
-               
-               <l n="6" xml:id="C016-6"> fort es etant / quel cap me fa mudar
-               </l>
-               
-               <l n="7" xml:id="C016-7"> torbat del tot / mos passos <choice><abbr>hȇantar</abbr><expan>henantar</expan></choice>
-               </l>
-               
-               <l n="8" xml:id="C016-8"> etrop remey / mas demi nos<del rend="overstrike">s</del> absenta
-               </l>
-               
+
+               <l n="8" xml:id="C016-8"> etrop remey / mas demi nos<del rend="overstrike">s</del>
+                  absenta </l>
+
             </lg>
-           <lg type="cobla" n="2" xml:id="C016-02">
-               
-               <l n="9" xml:id="C016-9"> Sicom laxorch / qui adeu no esmenta
-               </l>
-               
-               <l n="10" xml:id="C016-10"> quelin don fills / assenats eadrets
-               </l>
-               
-               <l n="11" xml:id="C016-11"> equant los veu / esser folls / e contrets
-               </l>
-               
-               <l n="12" xml:id="C016-12"> noua dolor/ dauant <add place="above">se</add> Representa
-               </l>
-               
-               <pb n="15v"
-                  facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-               <l n="13" xml:id="C016-13"> Napres a mi / qui tostemps desigi
-               </l>
-               
-              <l n="14" xml:id="C016-14"> dona seruir / on cabes tot <choice><abbr>mȏ</abbr><expan>mo<add place="above">n</add></expan></choice><del rend="overstrike">lt</del> alt
-               </l>
-               
-               
-               <l n="15" xml:id="C016-15"> equant laveig / mon cor se jau malalt
-               </l>
-               
-               <l n="16" xml:id="C016-16"> crehent de cert / que nos dolrademi
-               </l>
-               
+            <lg type="cobla" n="2" xml:id="C016-02">
+
+               <l n="9" xml:id="C016-9"> Sicom laxorch / qui adeu no esmenta </l>
+
+               <l n="10" xml:id="C016-10"> quelin don fills / assenats eadrets </l>
+
+               <l n="11" xml:id="C016-11"> equant los veu / esser folls / e contrets </l>
+
+               <l n="12" xml:id="C016-12"> noua dolor/ dauant <add place="above">se</add> Representa </l>
+
+               <pb n="15v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+               <l n="13" xml:id="C016-13"> Napres a mi / qui tostemps desigi </l>
+
+               <l n="14" xml:id="C016-14"> dona seruir / on cabes tot <choice>
+                     <abbr>mȏ</abbr>
+                     <expan>mo<add place="above">n</add></expan>
+                  </choice><del rend="overstrike">lt</del> alt </l>
+
+
+               <l n="15" xml:id="C016-15"> equant laveig / mon cor se jau malalt </l>
+
+               <l n="16" xml:id="C016-16"> crehent de cert / que nos dolrademi </l>
+
             </lg>
             <lg type="cobla" n="3" xml:id="C016-03">
-               
-               <l n="17" xml:id="C016-17"> Degran tristor<note type="editorial">Entre les dues paraules trobem ratllat: /-/-/-/ </note> / dolor sobrat ne ve
-               </l>
-                             
-               <l n="18" xml:id="C016-18"> quem cal fugir / de cascun loch escur
-               </l>
-               
-               <l n="19" xml:id="C016-19"> edegran por / ma pensa fer tal mur
-               </l>
-               
-               <l n="20" xml:id="C016-20"> quels pensaments / damnosos lidete
-               </l>
-               
-               <l n="21" xml:id="C016-21"> Son aytals que / sidells nos deffenent
-               </l>
-               
-               <l n="22" xml:id="C016-22"> be enfortint / la força mal deffesa
-               </l>
-               
-               <l n="23" xml:id="C016-23"> tots entraran / sient a taula mesa
-               </l>
-               
-               <l n="24" xml:id="C016-24"> tremolar sent / ja mon enteniment
-               </l>
-               
+
+               <l n="17" xml:id="C016-17"> Degran tristor<note type="editorial">Entre les dues
+                     paraules trobem ratllat: /-/-/-/ </note> / dolor sobrat ne ve </l>
+
+               <l n="18" xml:id="C016-18"> quem cal fugir / de cascun loch escur </l>
+
+               <l n="19" xml:id="C016-19"> edegran por / ma pensa fer tal mur </l>
+
+               <l n="20" xml:id="C016-20"> quels pensaments / damnosos lidete </l>
+
+               <l n="21" xml:id="C016-21"> Son aytals que / sidells nos deffenent </l>
+
+               <l n="22" xml:id="C016-22"> be enfortint / la força mal deffesa </l>
+
+               <l n="23" xml:id="C016-23"> tots entraran / sient a taula mesa </l>
+
+               <l n="24" xml:id="C016-24"> tremolar sent / ja mon enteniment </l>
+
             </lg>
             <lg type="cobla" n="4" xml:id="C016-04">
-               
-               <l n="25" xml:id="C016-25"> Desservençut / o sobrat <del rend="overstrike">nos</del> deffenent
-               </l>
-               
-               <l n="26" xml:id="C016-26"> <add place="margin left">eslo</add><note type="editorial">Escrit per una altra mà.</note> <del rend="overstrike">ell es lo</del> <add place="inline">*</add> tardar / quels pensaments
-                  songlots
-               </l>
-                              
-               <l n="27" xml:id="C016-27"> sens fer se loch / entrarvolrien tots
-               </l>
-               
-               <l n="28" xml:id="C016-28"> dells nos pot fer / ensemps lo passament
-               </l>
-               
-               <l n="29" xml:id="C016-29"> Esil pus flach / pensament es primer
-               </l>
-               
-               <l n="30" xml:id="C016-30"> lenteniment / forçara deffugir
-               </l>
-               
-               <l n="31" xml:id="C016-31"> elur debat / es mon ben auenir
-               </l>
-               
-               <l n="32" xml:id="C016-32"> lur pau es port / daquell jorn meudarrer
-               </l>
-               
+
+               <l n="25" xml:id="C016-25"> Desservençut / o sobrat <del rend="overstrike">nos</del>
+                  deffenent </l>
+
+               <l n="26" xml:id="C016-26">
+                  <add place="margin left">eslo</add><note type="editorial">Escrit per una altra
+                     mà.</note>
+                  <del rend="overstrike">ell es lo</del>
+                  <add place="inline">*</add> tardar / quels pensaments songlots </l>
+
+               <l n="27" xml:id="C016-27"> sens fer se loch / entrarvolrien tots </l>
+
+               <l n="28" xml:id="C016-28"> dells nos pot fer / ensemps lo passament </l>
+
+               <l n="29" xml:id="C016-29"> Esil pus flach / pensament es primer </l>
+
+               <l n="30" xml:id="C016-30"> lenteniment / forçara deffugir </l>
+
+               <l n="31" xml:id="C016-31"> elur debat / es mon ben auenir </l>
+
+               <l n="32" xml:id="C016-32"> lur pau es port / daquell jorn meudarrer </l>
+
             </lg>
             <lg type="cobla" n="5" xml:id="C016-05">
-               
-               <l n="33" xml:id="C016-33"> Pijor que mort / es vida sens plaher
-               </l>
-               
-               <l n="34" xml:id="C016-34"> mas nom acus / que fenesca mavida
-               </l>
-               
-               <l n="35" xml:id="C016-35"> car mentrevisch / no pot esser perida
-               </l>
-               
-               <l n="36" xml:id="C016-36"> vna dolor / junct ab algun esper
-               </l>
-               
-               <l n="37" xml:id="C016-37"> No sedon <del rend="overstrike">se</del> ve / mas <del rend="overstrike">de</del> <add place="above">he</add> por de natura
-               </l>
-                              
-               <l n="38" xml:id="C016-38"> que no consent / contramort gran esforç
-               </l>
-               
-            <pb n="16r"
-               facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-               <l n="39" xml:id="C016-39"> eper aço / contra mon cas mesforç
-               </l>
-               
-               <l n="40" xml:id="C016-40"> per no cumplir / la mia desuentura
-               </l>
-               
+
+               <l n="33" xml:id="C016-33"> Pijor que mort / es vida sens plaher </l>
+
+               <l n="34" xml:id="C016-34"> mas nom acus / que fenesca mavida </l>
+
+               <l n="35" xml:id="C016-35"> car mentrevisch / no pot esser perida </l>
+
+               <l n="36" xml:id="C016-36"> vna dolor / junct ab algun esper </l>
+
+               <l n="37" xml:id="C016-37"> No sedon <del rend="overstrike">se</del> ve / mas <del
+                     rend="overstrike">de</del>
+                  <add place="above">he</add> por de natura </l>
+
+               <l n="38" xml:id="C016-38"> que no consent / contramort gran esforç </l>
+
+               <pb n="16r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+               <l n="39" xml:id="C016-39"> eper aço / contra mon cas mesforç </l>
+
+               <l n="40" xml:id="C016-40"> per no cumplir / la mia desuentura </l>
+
             </lg>
-           <lg type="cobla" n="6" xml:id="C016-06">
-               
-               <l n="41" xml:id="C016-41"> Plena de seny / en home foll atura
-               </l>
-               
-               <l n="42" xml:id="C016-42"> la moltamor / ab vana esperança
-               </l>
-               
-               <l n="43" xml:id="C016-43"> car prental born / que cercatota frança
-               </l>
-               
-              <l n="44" xml:id="C016-44"> d'aquestgranvol / <choice><abbr>larahȏ</abbr><expan>larahon</expan></choice> mj<note type="editorial">Corregit sobre me.</note> murmura
-               </l>               
+            <lg type="cobla" n="6" xml:id="C016-06">
+
+               <l n="41" xml:id="C016-41"> Plena de seny / en home foll atura </l>
+
+               <l n="42" xml:id="C016-42"> la moltamor / ab vana esperança </l>
+
+               <l n="43" xml:id="C016-43"> car prental born / que cercatota frança </l>
+
+               <l n="44" xml:id="C016-44"> d'aquestgranvol / <choice>
+                     <abbr>larahȏ</abbr>
+                     <expan>larahon</expan>
+                  </choice> mj<note type="editorial">Corregit sobre me.</note> murmura </l>
             </lg>
+         </div>
       </body>
    </text>
 </TEI>

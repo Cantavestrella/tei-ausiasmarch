@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            
+
             <titleStmt>
                 <title>Poema 11</title>
                 <author>Ausiàs March </author>
@@ -29,27 +29,29 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
                 <date> 2019-05-01</date>
             </publicationStmt>
             <sourceDesc>
-                <msDesc
-                    corresp="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175">
+                <msDesc corresp="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175">
                     <msIdentifier xml:id="L_Ms_9_BC">
                         <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 140r after end of previous poem, before this one: </locus>Altra</rubric>
+                                <locus>f. 140r after end of previous poem, before this one:
+                                </locus>Altra</rubric>
                             <rubric>
                                 <locus>f. 141r between lines 40 and 41 </locus>Tornada </rubric>
                         </msItem>
@@ -64,80 +66,81 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"></graphic>
+        <graphic url="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
         <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
     </facsimile>
     <text>
-        <body>                
-        <pb n="xxx"/>
-        <div type="poem" xml:id="C009-L007">
-            <lg type="cobla" n="1" xml:id="C0009-1">
-                <l n="1" xml:id="C009-1"> Amor se dol / com breument jo no muyr</l>
-                <l n="2" xml:id="C009-2"> Pus no li fall / per esser de mj fart</l>
-                <l n="3" xml:id="C009-3"> Car sos mals ginys / man portat en tal part</l>
-                <l n="4" xml:id="C009-4"> Que mon delit / es quant de plor abuyr</l>
-                <l n="5" xml:id="C009-5"> E de mon dan / jo no so malmirent</l>
-                <l n="6" xml:id="C009-6"> Car so forçat / dentrar dins tal preso</l>
-                <l n="7" xml:id="C009-7"> Quel seny tinch pres / larbitrey la raho</l>
-                <l n="8" xml:id="C009-8"> Amor ho te / per seu forçadamen</l>
+        <body>
+            <div type="poem" xml:id="C009-L007">
+                <pb n="139v" facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
+                <lg type="cobla" n="1" xml:id="C0009-1">
+                    <l n="1" xml:id="C009-1"> Amor se dol / com breument jo no muyr</l>
+                    <l n="2" xml:id="C009-2"> Pus no li fall / per esser de mj fart</l>
+                    <l n="3" xml:id="C009-3"> Car sos mals ginys / man portat en tal part</l>
+                    <l n="4" xml:id="C009-4"> Que mon delit / es quant de plor abuyr</l>
+                    <l n="5" xml:id="C009-5"> E de mon dan / jo no so malmirent</l>
+                    <l n="6" xml:id="C009-6"> Car so forçat / dentrar dins tal preso</l>
+                    <l n="7" xml:id="C009-7"> Quel seny tinch pres / larbitrey la raho</l>
+                    <l n="8" xml:id="C009-8"> Amor ho te / per seu forçadamen</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0009-2">
-                <l n="9" xml:id="C009-9"> Jo fas tot quant / me diu lo pensament</l>
-                <l n="10" xml:id="C009-10"> E si hagues / tant seny com salamo</l>
-                <l n="11" xml:id="C009-11"> Ffora tot poch / en dar occasio</l>
-                <l n="12" xml:id="C009-12"> Que no temes / a son gran <choice><abbr>manamȇt</abbr><expan>manament</expan></choice></l>
-                <l n="13" xml:id="C009-13"> Cell quj no sent / que pot fer molt amar</l>
-                <l n="14" xml:id="C009-14"> Jolj perdo / si demj va trufan</l>
-                <l n="15" xml:id="C009-15"> Piramus volch / morir passat dumbran</l>
-                <l n="16" xml:id="C009-16"> E per semblant / mort tisbe volch passar</l>
+                <lg type="cobla" n="2" xml:id="C0009-2">
+                    <l n="9" xml:id="C009-9"> Jo fas tot quant / me diu lo pensament</l>
+                    <l n="10" xml:id="C009-10"> E si hagues / tant seny com salamo</l>
+                    <l n="11" xml:id="C009-11"> Ffora tot poch / en dar occasio</l>
+                    <l n="12" xml:id="C009-12"> Que no temes / a son gran <choice>
+                            <abbr>manamȇt</abbr>
+                            <expan>manament</expan>
+                        </choice></l>
+                    <l n="13" xml:id="C009-13"> Cell quj no sent / que pot fer molt amar</l>
+                    <l n="14" xml:id="C009-14"> Jolj perdo / si demj va trufan</l>
+                    <l n="15" xml:id="C009-15"> Piramus volch / morir passat dumbran</l>
+                    <l n="16" xml:id="C009-16"> E per semblant / mort tisbe volch passar</l>
                 </lg>
-        <pb n="139v" 
-            facs="xxxx"/> 
-            <lg type="cobla" n="3" xml:id="C0009-3">
-                <l n="17" xml:id="C009-17"> Sino es pech / quis deu marauellar</l>
-                <l n="18" xml:id="C009-18"> Dalgun cars fort / ques deuengan laman</l>
-                <l n="19" xml:id="C009-19"> Lom fora seny / no pot ser ben husan</l>
-                <l n="20" xml:id="C009-20"> Tal me confes / donchs nom vullau reptar</l>
-                <l n="21" xml:id="C009-21"> Amor ha pres / lo carch sin res fallesch</l>
-                <l n="22" xml:id="C009-22"> Car so abstret / de seny e de saber</l>
-                <l n="23" xml:id="C009-23"> E res no fas / encontra son voler</l>
-                <l n="24" xml:id="C009-24"> Desigant be / la dolor lj graesch</l>
+                <pb n="139v" facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
+                <lg type="cobla" n="3" xml:id="C0009-3">
+                    <l n="17" xml:id="C009-17"> Sino es pech / quis deu marauellar</l>
+                    <l n="18" xml:id="C009-18"> Dalgun cars fort / ques deuengan laman</l>
+                    <l n="19" xml:id="C009-19"> Lom fora seny / no pot ser ben husan</l>
+                    <l n="20" xml:id="C009-20"> Tal me confes / donchs nom vullau reptar</l>
+                    <l n="21" xml:id="C009-21"> Amor ha pres / lo carch sin res fallesch</l>
+                    <l n="22" xml:id="C009-22"> Car so abstret / de seny e de saber</l>
+                    <l n="23" xml:id="C009-23"> E res no fas / encontra son voler</l>
+                    <l n="24" xml:id="C009-24"> Desigant be / la dolor lj graesch</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0009-4">
-                <l n="25" xml:id="C009-25"> Stant apart / esol jo menpeguesch</l>
-                <l n="26" xml:id="C009-26"> Ymaginant / ço que deuria fer</l>
-                <l n="27" xml:id="C009-27"> Dexecutar / no dech hauer esper</l>
-                <l n="28" xml:id="C009-28"> Puys lo primer / assaig no enseguesch</l>
-                <l n="29" xml:id="C009-29"> Limaginar / amor me vol rependre</l>
-                <l n="30" xml:id="C009-30"> Tant largament / ab vergonyam refrena</l>
-                <l n="31" xml:id="C009-31"> Com se fara / que ab cara serena</l>
-                <l n="32" xml:id="C009-32"> Haia poder / de ma raho estendre</l>
+                <lg type="cobla" n="4" xml:id="C0009-4">
+                    <l n="25" xml:id="C009-25"> Stant apart / esol jo menpeguesch</l>
+                    <l n="26" xml:id="C009-26"> Ymaginant / ço que deuria fer</l>
+                    <l n="27" xml:id="C009-27"> Dexecutar / no dech hauer esper</l>
+                    <l n="28" xml:id="C009-28"> Puys lo primer / assaig no enseguesch</l>
+                    <l n="29" xml:id="C009-29"> Limaginar / amor me vol rependre</l>
+                    <l n="30" xml:id="C009-30"> Tant largament / ab vergonyam refrena</l>
+                    <l n="31" xml:id="C009-31"> Com se fara / que ab cara serena</l>
+                    <l n="32" xml:id="C009-32"> Haia poder / de ma raho estendre</l>
                 </lg>
-            <lg type="cobla" n="5" xml:id="C0009-5">
-                <l n="33" xml:id="C009-33"> Los fets damor / jo no pusch ben entendre</l>
-                <l n="34" xml:id="C009-34"> De grans contrasts /mopinjo es plena</l>
-                <l n="35" xml:id="C009-35"> Horan lo jorn / que no sent vlla pena</l>
-                <l n="36" xml:id="C009-36"> Pensant enço / que vinch alarma rendre</l>
-                <l n="37" xml:id="C009-37"> Si altra ueu / limaginar mj porta</l>
-                <l n="38" xml:id="C009-38"> Per dar senyal / que jo sia cregut</l>
-                <l n="39" xml:id="C009-39"> Suplich la mort / quental cars me aiut</l>
-                <l n="40" xml:id="C009-40"> E si nom val / ma veritat jau morta</l>
+                <lg type="cobla" n="5" xml:id="C0009-5">
+                    <l n="33" xml:id="C009-33"> Los fets damor / jo no pusch ben entendre</l>
+                    <l n="34" xml:id="C009-34"> De grans contrasts /mopinjo es plena</l>
+                    <l n="35" xml:id="C009-35"> Horan lo jorn / que no sent vlla pena</l>
+                    <l n="36" xml:id="C009-36"> Pensant enço / que vinch alarma rendre</l>
+                    <l n="37" xml:id="C009-37"> Si altra ueu / limaginar mj porta</l>
+                    <l n="38" xml:id="C009-38"> Per dar senyal / que jo sia cregut</l>
+                    <l n="39" xml:id="C009-39"> Suplich la mort / quental cars me aiut</l>
+                    <l n="40" xml:id="C009-40"> E si nom val / ma veritat jau morta</l>
                 </lg>
-        <pb n="140r" 
-            facs="xxxx"/> 
-            <lg type="tornada">
-                <l n="41" xml:id="C009-41"> Lir entre carts / fins aveure la porta</l>
-                <l n="42" xml:id="C009-42"> De mos delits / sobirans so vengut</l>
-                <l n="43" xml:id="C009-43"> Noy he tocat / ans men torn com amut</l>
-                <l n="44" xml:id="C009-44"> E per tornar / ja trob la via torta</l>
+                <pb n="140r" facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
+                <lg type="tornada">
+                    <l n="41" xml:id="C009-41"> Lir entre carts / fins aveure la porta</l>
+                    <l n="42" xml:id="C009-42"> De mos delits / sobirans so vengut</l>
+                    <l n="43" xml:id="C009-43"> Noy he tocat / ans men torn com amut</l>
+                    <l n="44" xml:id="C009-44"> E per tornar / ja trob la via torta</l>
                 </lg>
-             </lg>
+            </div>
         </body>
     </text>
 </TEI>

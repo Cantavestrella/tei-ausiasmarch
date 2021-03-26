@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 18</title>
             <author>Ausiàs March </author>
@@ -70,10 +70,11 @@
    <facsimile>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_38.html"/>
-      <graphic 
+      <graphic
          url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_39.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_40.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_40.html"
+      />
    </facsimile>
    <text>
       <body>
@@ -81,205 +82,189 @@
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_38.html"/>
          <div type="poem" xml:id="C018-B019">
             <lg type="cobla" n="1" xml:id="C018-01">
-               
-               <l n="1" xml:id="C018-1"> fAntasiant amor ami descobre
-               </l>
-               
-               <l n="2" xml:id="C018-2"> Los grans secrets quals pus sobtils amaga
-               </l>
-               
-               <l n="3" xml:id="C018-3"> E mon jorn clar als altres par njt fosca
-               </l>
-               
-               <l n="4" xml:id="C018-4"> E visch daço que personas no tastan
-               </l>
-               
-               <l n="5" xml:id="C018-5"> Tant en amor lespirit meu contempla
-               </l>
-               
-               <l n="6" xml:id="C018-6"> Que par <choice><abbr>ƌl</abbr><expan>del</expan></choice> tot fora <choice><abbr>ƌl</abbr><expan>del</expan></choice> cos saparta
-               </l>
-               
-               <l n="7" xml:id="C018-7"> Car mos desitxs no son trobats en home
-               </l>
-               
-               <l n="8" xml:id="C018-8"> Si no ental qui la carn <choice><abbr>pȗt</abbr><expan>punt</expan></choice> nol torbe
-               </l>
+
+               <l n="1" xml:id="C018-1"> fAntasiant amor ami descobre </l>
+
+               <l n="2" xml:id="C018-2"> Los grans secrets quals pus sobtils amaga </l>
+
+               <l n="3" xml:id="C018-3"> E mon jorn clar als altres par njt fosca </l>
+
+               <l n="4" xml:id="C018-4"> E visch daço que personas no tastan </l>
+
+               <l n="5" xml:id="C018-5"> Tant en amor lespirit meu contempla </l>
+
+               <l n="6" xml:id="C018-6"> Que par <choice>
+                     <abbr>ƌl</abbr>
+                     <expan>del</expan>
+                  </choice> tot fora <choice>
+                     <abbr>ƌl</abbr>
+                     <expan>del</expan>
+                  </choice> cos saparta </l>
+
+               <l n="7" xml:id="C018-7"> Car mos desitxs no son trobats en home </l>
+
+               <l n="8" xml:id="C018-8"> Si no ental qui la carn <choice>
+                     <abbr>pȗt</abbr>
+                     <expan>punt</expan>
+                  </choice> nol torbe </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C018-02">
-               
-               <l n="9" xml:id="C018-9"> Ma carn no sent <choice><abbr>aꝗll</abbr><expan>aquell</expan></choice> desitx sensible
-               </l>
-               
-               <l n="10" xml:id="C018-10"> E lesperit obres damor cobeia
-               </l>
-               
-               <l n="11" xml:id="C018-11"> Daquell cech foch quils amados se calfen
-               </l>
-            <pb n="18r"
-               facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_39.html"/>
-               
-               <l n="12" xml:id="C018-12"> Pahor nom trop <choice><abbr>ꝗ</abbr><expan>que</expan></choice> yo men pogues ardre
-               </l>
-               
-               <l n="13" xml:id="C018-13"> Vn altresguart lo meu voler pratica
-               </l>
-               
-               <l n="14" xml:id="C018-14"> Quant en amar ves dona sa contenta
-               </l>
-               
-               <l n="15" xml:id="C018-15"> Que tots <choice><abbr>aꝗlls</abbr><expan>aquells</expan></choice> qui amados se mostran
-               </l>
-               
-               <l n="16" xml:id="C018-16"> Pationats e contramor no dignes
-               </l>
+
+               <l n="9" xml:id="C018-9"> Ma carn no sent <choice>
+                     <abbr>aꝗll</abbr>
+                     <expan>aquell</expan>
+                  </choice> desitx sensible </l>
+
+               <l n="10" xml:id="C018-10"> E lesperit obres damor cobeia </l>
+
+               <l n="11" xml:id="C018-11"> Daquell cech foch quils amados se calfen </l>
+               <pb n="18r"
+                  facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_39.html"/>
+
+               <l n="12" xml:id="C018-12"> Pahor nom trop <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> yo men pogues ardre </l>
+
+               <l n="13" xml:id="C018-13"> Vn altresguart lo meu voler pratica </l>
+
+               <l n="14" xml:id="C018-14"> Quant en amar ves dona sa contenta </l>
+
+               <l n="15" xml:id="C018-15"> Que tots <choice>
+                     <abbr>aꝗlls</abbr>
+                     <expan>aquells</expan>
+                  </choice> qui amados se mostran </l>
+
+               <l n="16" xml:id="C018-16"> Pationats e contramor no dignes </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C018-03">
-               
-               <l n="17" xml:id="C018-17"> Si fos amor sustantia raunable
-               </l>
-               
-               <l n="18" xml:id="C018-18"> E ques trobas de senyoria ceptre
-               </l>
-               
-               <l n="19" xml:id="C018-19"> Bens guardonant e punint los demerits
-               </l>
-               
-               <l n="20" xml:id="C018-20"> Entrels mellos sols me trobara fenjx
-               </l>
-               
-               <l n="21" xml:id="C018-21"> Car yo tot sol desempare la mescla
-               </l>
-               
-               <l n="22" xml:id="C018-22"> De letxs desitxs qui ab los bons senbolquen
-               </l>
-               
-               <l n="23" xml:id="C018-23"> Castich nom cal puys de assatx nom temten
-               </l>
-               
-               <l n="24" xml:id="C018-24"> La cusa lur en mi es feta nulle
-               </l>
+
+               <l n="17" xml:id="C018-17"> Si fos amor sustantia raunable </l>
+
+               <l n="18" xml:id="C018-18"> E ques trobas de senyoria ceptre </l>
+
+               <l n="19" xml:id="C018-19"> Bens guardonant e punint los demerits </l>
+
+               <l n="20" xml:id="C018-20"> Entrels mellos sols me trobara fenjx </l>
+
+               <l n="21" xml:id="C018-21"> Car yo tot sol desempare la mescla </l>
+
+               <l n="22" xml:id="C018-22"> De letxs desitxs qui ab los bons senbolquen </l>
+
+               <l n="23" xml:id="C018-23"> Castich nom cal puys de assatx nom temten </l>
+
+               <l n="24" xml:id="C018-24"> La cusa lur en mi es feta nulle </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C018-04">
-               
-               <l n="25" xml:id="C018-25"> Si com los sants <choice><abbr>sentȋt</abbr><expan>sentint</expan></choice> la lum diuina
-               </l>
-               
-               <l n="26" xml:id="C018-26"> La lum del mon conegueren per ficta
-               </l>
-               
-               <l n="27" xml:id="C018-27"> E menys preant la gloria mundana
-               </l>
-               
-               <l n="28" xml:id="C018-28"> Puix maior part de gloria sentiren
-               </l>
-               
-               <l n="29" xml:id="C018-29"> Tot en axi tinch en menys preu e fastitx
-               </l>
-               
-               <l n="30" xml:id="C018-30"> Aquells desitx qui cumplit amor minua
-               </l>
-               
-               <l n="31" xml:id="C018-31"> Prenint aquells que del sperit mouen
-               </l>
-               
-               <l n="32" xml:id="C018-32"> Qui nos lassat ans tot jorn <choice><abbr>mȗtiplica</abbr><expan>muntiplica</expan></choice>
+
+               <l n="25" xml:id="C018-25"> Si com los sants <choice>
+                     <abbr>sentȋt</abbr>
+                     <expan>sentint</expan>
+                  </choice> la lum diuina </l>
+
+               <l n="26" xml:id="C018-26"> La lum del mon conegueren per ficta </l>
+
+               <l n="27" xml:id="C018-27"> E menys preant la gloria mundana </l>
+
+               <l n="28" xml:id="C018-28"> Puix maior part de gloria sentiren </l>
+
+               <l n="29" xml:id="C018-29"> Tot en axi tinch en menys preu e fastitx </l>
+
+               <l n="30" xml:id="C018-30"> Aquells desitx qui cumplit amor minua </l>
+
+               <l n="31" xml:id="C018-31"> Prenint aquells que del sperit mouen </l>
+
+               <l n="32" xml:id="C018-32"> Qui nos lassat ans tot jorn <choice>
+                     <abbr>mȗtiplica</abbr>
+                     <expan>muntiplica</expan>
+                  </choice>
                </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C018-05">
-               
-               <l n="33" xml:id="C018-33"> Sicom sant pau deu li sostrague larma
-               </l>
-               
-               <l n="34" xml:id="C018-34"> Del cos perque ves diuinals misteris
-               </l>
-               
-               <l n="35" xml:id="C018-35"> Car es lo cos <choice><abbr>ƌl</abbr><expan>del</expan></choice> spirit lo carcre
-               </l>
-               
-               <l n="36" xml:id="C018-36"> E tant com viu ab ell es entenebres
-               </l>
-               
-               <l n="37" xml:id="C018-37"> Axi amor lesperit meu arrapa
-               </l>
-            <pb n="18v"
-               facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_40.html"/>
-               <l n="38" xml:id="C018-38"> E noy acull la maculada pensa
-               </l>
-               
-               <l n="39" xml:id="C018-39"> E per so sent lo delit qui nos canssa
-               </l>
-               
-               <l n="40" xml:id="C018-40"> Si que ma carn la veramor nom torba
-               </l>
+
+               <l n="33" xml:id="C018-33"> Sicom sant pau deu li sostrague larma </l>
+
+               <l n="34" xml:id="C018-34"> Del cos perque ves diuinals misteris </l>
+
+               <l n="35" xml:id="C018-35"> Car es lo cos <choice>
+                     <abbr>ƌl</abbr>
+                     <expan>del</expan>
+                  </choice> spirit lo carcre </l>
+
+               <l n="36" xml:id="C018-36"> E tant com viu ab ell es entenebres </l>
+
+               <l n="37" xml:id="C018-37"> Axi amor lesperit meu arrapa </l>
+               <pb n="18v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_40.html"/>
+               <l n="38" xml:id="C018-38"> E noy acull la maculada pensa </l>
+
+               <l n="39" xml:id="C018-39"> E per so sent lo delit qui nos canssa </l>
+
+               <l n="40" xml:id="C018-40"> Si que ma carn la veramor nom torba </l>
             </lg>
             <lg type="cobla" n="6" xml:id="C018-06">
-               
-               <l n="41" xml:id="C018-41"> Prenmen axi com aquell philosofe
-               </l>
-               
-               <l n="42" xml:id="C018-42"> Qui per <choice><abbr>mȗtar</abbr><expan>muntar</expan></choice> al be qui nos pot perdre
-               </l>
-               
-               <l n="43" xml:id="C018-43"> Los perdedos lança en mar profunda
-               </l>
-               
-               <l n="44" xml:id="C018-44"> Crehent aquells lenteniment torbassen
-               </l>
-               
-               <l n="45" xml:id="C018-45"> Yo per <choice><abbr>mȗtar</abbr><expan>muntar</expan></choice> al delit perdurable
-               </l>
-               
-               <l n="46" xml:id="C018-46"> Tant quant almon gros plaer de mj lançe
-               </l>
-               
-               <l n="47" xml:id="C018-47"> Crehent de cert quel gran delit me torba
-               </l>
-               
-               <l n="48" xml:id="C018-48"> Aquell plaer quen fastitx volant passa
-               </l>
+
+               <l n="41" xml:id="C018-41"> Prenmen axi com aquell philosofe </l>
+
+               <l n="42" xml:id="C018-42"> Qui per <choice>
+                     <abbr>mȗtar</abbr>
+                     <expan>muntar</expan>
+                  </choice> al be qui nos pot perdre </l>
+
+               <l n="43" xml:id="C018-43"> Los perdedos lança en mar profunda </l>
+
+               <l n="44" xml:id="C018-44"> Crehent aquells lenteniment torbassen </l>
+
+               <l n="45" xml:id="C018-45"> Yo per <choice>
+                     <abbr>mȗtar</abbr>
+                     <expan>muntar</expan>
+                  </choice> al delit perdurable </l>
+
+               <l n="46" xml:id="C018-46"> Tant quant almon gros plaer de mj lançe </l>
+
+               <l n="47" xml:id="C018-47"> Crehent de cert quel gran delit me torba </l>
+
+               <l n="48" xml:id="C018-48"> Aquell plaer quen fastitx volant passa </l>
             </lg>
             <lg type="cobla" n="7" xml:id="C018-07">
-               
-               <l n="49" xml:id="C018-49"> Als naturals no par <choice><abbr>ꝗ</abbr><expan>que</expan></choice> fer se pusquen
+
+               <l n="49" xml:id="C018-49"> Als naturals no par <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> fer se pusquen </l>
+
+               <l n="50" xml:id="C018-50"> Molts dels sacrets que la deitat sestoia </l>
+
+               <l n="51" xml:id="C018-51"> Que reuelats son stats amolts martres </l>
+
+               <l n="52" xml:id="C018-52"> No tan sobtils com los jgnorants aptes </l>
+
+               <l n="53" xml:id="C018-53"> Axi primos amor ami reuela </l>
+
+               <l n="54" xml:id="C018-54"> Tals quels sabents no bastan acompendre </l>
+
+               <l n="55" xml:id="C018-55"> E quant o dich de mos dits me <choice>
+                     <abbr>desmȇten</abbr>
+                     <expan>desmenten</expan>
+                  </choice>
                </l>
-               
-               <l n="50" xml:id="C018-50"> Molts dels sacrets que la deitat sestoia
-               </l>
-               
-               <l n="51" xml:id="C018-51"> Que reuelats son stats amolts martres
-               </l>
-               
-               <l n="52" xml:id="C018-52"> No tan sobtils com los jgnorants aptes
-               </l>
-               
-               <l n="53" xml:id="C018-53"> Axi primos amor ami reuela
-               </l>
-               
-               <l n="54" xml:id="C018-54"> Tals quels sabents no bastan acompendre
-               </l>
-               
-               <l n="55" xml:id="C018-55"> E quant o dich de mos dits me <choice><abbr>desmȇten</abbr><expan>desmenten</expan></choice>
-               </l>
-               
-               <l n="56" xml:id="C018-56"> Dant aparer que folles coses parle
-               </l>
+
+               <l n="56" xml:id="C018-56"> Dant aparer que folles coses parle </l>
             </lg>
             <lg type="cobla" n="8" xml:id="C018-08">
-               
-               <l n="57" xml:id="C018-57"> Lir entre carts lo meu voler se tempra
-               </l>
-               
-               <l n="58" xml:id="C018-58"> En ço que vull amador sab lo tempre
-               </l>
-               
-               <l n="59" xml:id="C018-59"> Amor ho fa plaentli <choice><abbr>ꝗ</abbr><expan>que</expan></choice> yo senta
-               </l>
-               
-               <l n="60" xml:id="C018-60"> Son gran secret ami sol se descobre
-               </l>
+
+               <l n="57" xml:id="C018-57"> Lir entre carts lo meu voler se tempra </l>
+
+               <l n="58" xml:id="C018-58"> En ço que vull amador sab lo tempre </l>
+
+               <l n="59" xml:id="C018-59"> Amor ho fa plaentli <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> yo senta </l>
+
+               <l n="60" xml:id="C018-60"> Son gran secret ami sol se descobre </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

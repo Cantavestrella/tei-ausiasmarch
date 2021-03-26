@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 13</title>
             <author>Ausiàs March </author>
@@ -83,106 +83,123 @@
          <div type="poem" xml:id="C013-N013">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">Colguen les gents ab alegria festes</l>
-               
+
                <l n="2" xml:id="C013-2">Loant adeu entrem sclant deports</l>
-               
+
                <l n="3" xml:id="C013-3">Places carres e delitables orts</l>
-               
+
                <l n="4" xml:id="C013-4">Sien cercats abrecomp degrans gestes</l>
-               
+
                <l n="5" xml:id="C013-5">E vaya yo los sepulcres cercant</l>
-               
+
                <l n="6" xml:id="C013-6">Jnterogant anjmes jnfernades</l>
-               
+
                <l n="7" xml:id="C013-7">E respondran car no son companyades</l>
-               
+
                <l n="8" xml:id="C013-8">Daltre que mj en son continuu plant</l>
             </lg>
             <lg type="cobla" n="2" xml:id="C013-02">
                <l n="9" xml:id="C013-9">Cascu requer euol ason semblant</l>
-               
-               <l n="10" xml:id="C013-10">Perco nom plau lapratica dels <choice><abbr>viꝯ</abbr><expan>vius</expan></choice></l>
-               
-               <l n="11" xml:id="C013-11">Dimaginar mon estat son <choice><abbr>esquiꝯ</abbr><expan>esquius</expan></choice></l>
-               
+
+               <l n="10" xml:id="C013-10">Perco nom plau lapratica dels <choice>
+                     <abbr>viꝯ</abbr>
+                     <expan>vius</expan>
+                  </choice></l>
+
+               <l n="11" xml:id="C013-11">Dimaginar mon estat son <choice>
+                     <abbr>esquiꝯ</abbr>
+                     <expan>esquius</expan>
+                  </choice></l>
+
                <l n="12" xml:id="C013-12">Si com dom mort demj prenen espant</l>
-               
-               <l n="13" xml:id="C013-13">Lo rey xipra presoner dum<note type="editorial">Per dun (d'un).</note> eretge</l>
-               
+
+               <l n="13" xml:id="C013-13">Lo rey xipra presoner dum<note type="editorial">Per dun
+                     (d'un).</note> eretge</l>
+
                <l n="14" xml:id="C013-14">En mon esguart no es maluyrat</l>
-               
+
                <l n="15" xml:id="C013-15">Car co que vull no sera may finat</l>
-               
+
                <l n="16" xml:id="C013-16">Demon desig nom pora guarir metge</l>
             </lg>
-            
+
             <lg type="cobla" n="3" xml:id="C013-03">
                <l n="17" xml:id="C013-17">Cell tixion buytrel menjal fetge</l>
-            
-               <l n="18" xml:id="C013-18">E per tostemps brota la carn de <del rend="overstrike">de</del> nou</l>
-               
+
+               <l n="18" xml:id="C013-18">E per tostemps brota la carn de <del rend="overstrike"
+                     >de</del> nou</l>
+
                <l n="19" xml:id="C013-19">En son menjar aquell ocel may clou</l>
-               
+
                <l n="20" xml:id="C013-20">Pus fort dolor daquestam te lo fetge</l>
-               
+
                <l n="21" xml:id="C013-21">Car es vn verm quj romp la mia pensa</l>
-               
+
                <l n="22" xml:id="C013-22">Altre lo cor quj may cessa de rompre</l>
-               
+
                <l n="23" xml:id="C013-23">Sino ab co que dauer se defensa</l>
-               
+
                <l n="24" xml:id="C013-24">Elur treball nos pora enterompre</l>
             </lg>
-           
+
             <pb n="27"
                facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_29.html"/>
             <lg type="cobla" n="4" xml:id="C013-04">
                <l n="25" xml:id="C013-25">E si la mort nom dugues tal offensa</l>
-            
+
                <l n="26" xml:id="C013-26">Ffermj absent duna tant plasent vista</l>
-               
+
                <l n="27" xml:id="C013-27">Nolj graesch que deterra no vista</l>
-               
+
                <l n="28" xml:id="C013-28">Lo meu cors nuu quj de pahor no pensa</l>
-               
-               <l n="29" xml:id="C013-29">De perdre <choice><abbr>pꝯ</abbr><expan>pus</expan></choice> que lo ymaginar</l>
-               
-               <l n="30" xml:id="C013-30">Los <choice><abbr>meꝯ</abbr><expan>meus</expan></choice> desigs no [*] poderse complir</l>
-               
+
+               <l n="29" xml:id="C013-29">De perdre <choice>
+                     <abbr>pꝯ</abbr>
+                     <expan>pus</expan>
+                  </choice> que lo ymaginar</l>
+
+               <l n="30" xml:id="C013-30">Los <choice>
+                     <abbr>meꝯ</abbr>
+                     <expan>meus</expan>
+                  </choice> desigs no [*] poderse complir</l>
+
                <l n="31" xml:id="C013-31">E sim coue lo derer jorn finir</l>
-               
+
                <l n="32" xml:id="C013-32">Seran donats termens aben amar</l>
             </lg>
-           
+
             <lg type="cobla" n="5" xml:id="C013-05">
                <l n="33" xml:id="C013-33">E sin lo cell deu me uol aloguar</l>
-            
+
                <l n="34" xml:id="C013-34">Vehent ha ell per complir mon delit</l>
-               
+
                <l n="35" xml:id="C013-35">Sera mester quem sia dellay dit</l>
-               
+
                <l n="36" xml:id="C013-36">Que desta mort uos ha plagut plorar</l>
-               
+
                <l n="37" xml:id="C013-37">Penedint vos com de poca merce</l>
-               
+
                <l n="38" xml:id="C013-38">Mor lignocent eper amar vos martre</l>
-               
+
                <l n="39" xml:id="C013-39">Cell quj lo cors de larme vol departre</l>
-               
-               <l n="40" xml:id="C013-40">Si ferm cregues <choice><abbr>queꝯ</abbr><expan>queus</expan></choice> dolrjeu de se</l>
+
+               <l n="40" xml:id="C013-40">Si ferm cregues <choice>
+                     <abbr>queꝯ</abbr>
+                     <expan>queus</expan>
+                  </choice> dolrjeu de se</l>
             </lg>
-            
+
             <lg type="cobla" n="6" xml:id="C013-06">
-            
+
                <l n="41" xml:id="C013-41">Lir entre carts vos sabeu e yo se</l>
-               
+
                <l n="42" xml:id="C013-42">Ques pot be fer hom morir per amor</l>
-               
+
                <l n="43" xml:id="C013-43">Creure demj que so ental dolor</l>
-               
+
                <l n="44" xml:id="C013-44">No fareu molt quey doneu plena fe</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

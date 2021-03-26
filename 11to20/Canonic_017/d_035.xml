@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 17</title>
             <author>Ausiàs March </author>
@@ -48,11 +48,12 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <rubric><locus>f. 43r after end of previous poem, before this one:</locus> DE AMOR CANTO. XXXV.</rubric>
+                     <rubric><locus>f. 43r after end of previous poem, before this one:</locus> DE
+                        AMOR CANTO. XXXV.</rubric>
                      <rubric>
                         <locus>f. 44r between lines 56 and 57</locus> TORNADA.</rubric>
                      <rubric>
-                        <locus>f. 44r after line 60</locus> FIN DEL CANTO. XXXV. </rubric>                     
+                        <locus>f. 44r after line 60</locus> FIN DEL CANTO. XXXV. </rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -73,10 +74,11 @@
    <facsimile>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_90.html"/>
-      <graphic 
+      <graphic
          url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_91.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_92.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_92.html"
+      />
    </facsimile>
    <text>
       <body>
@@ -84,206 +86,146 @@
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_90.html"/>
          <div type="poem" xml:id="C017-d035">
             <lg type="cobla" n="1" xml:id="C017-01">
-               
-               <l n="1" xml:id="C017-1"> S<c rend="large">i</c> Deu del cos / la mi arma sostráu
-               </l>
-               
-               <l n="2" xml:id="C017-2"> nom planyeran / sino mos cars parénts
-               </l>
-               
-               <l n="3" xml:id="C017-3"> car mos amants / nom son tanben uolénts
-               </l>
-               
-               <l n="4" xml:id="C017-4"> que'n aquell cas / nols calga dir / ploráu.
-               </l>
-               
-               <l n="5" xml:id="C017-5"> Escas lloguer / es dat amon trebáll
-               </l>
-               
-               <l n="6" xml:id="C017-6"> com no so plant / depena sostenguda
-               </l>
-               
-               <l n="7" xml:id="C017-7"> e si raho / nopot ser coneguda
-               </l>
-               
-               <l n="8" xml:id="C017-8"> culpa nom han / pus bon voler los call.
-               </l>
+
+               <l n="1" xml:id="C017-1"> S<c rend="large">i</c> Deu del cos / la mi arma sostráu </l>
+
+               <l n="2" xml:id="C017-2"> nom planyeran / sino mos cars parénts </l>
+
+               <l n="3" xml:id="C017-3"> car mos amants / nom son tanben uolénts </l>
+
+               <l n="4" xml:id="C017-4"> que'n aquell cas / nols calga dir / ploráu. </l>
+
+               <l n="5" xml:id="C017-5"> Escas lloguer / es dat amon trebáll </l>
+
+               <l n="6" xml:id="C017-6"> com no so plant / depena sostenguda </l>
+
+               <l n="7" xml:id="C017-7"> e si raho / nopot ser coneguda </l>
+
+               <l n="8" xml:id="C017-8"> culpa nom han / pus bon voler los call. </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C017-02">
-               
-               <l n="9" xml:id="C017-9"> &#182;  E d'açom'planch / e quedament trebáll
-               </l>
-               
-               <l n="10" xml:id="C017-10"> e dins mi plor / e calle com ha mút
-               </l>
-               
-               <l n="11" xml:id="C017-11"> e fir me çell / quim degra ser escut
-               </l>
-               
-               <l n="12" xml:id="C017-12"> trencant mon cor / he crit de mi no sáll.
-               </l>
-               
-               <l n="13" xml:id="C017-13"> Est es Amor / quim trenca lo pensar
-               </l>
-               
-               <l n="14" xml:id="C017-14"> que per null temps / sere per vos amát
-               </l>
-               
-               <l n="15" xml:id="C017-15"> e per aço / yom trob desesforçat
-               </l>
-               
-               <l n="16" xml:id="C017-16"> car tot asaig / porta'n vos lesperár.
-               </l>
+
+               <l n="9" xml:id="C017-9"> &#182; E d'açom'planch / e quedament trebáll </l>
+
+               <l n="10" xml:id="C017-10"> e dins mi plor / e calle com ha mút </l>
+
+               <l n="11" xml:id="C017-11"> e fir me çell / quim degra ser escut </l>
+
+               <l n="12" xml:id="C017-12"> trencant mon cor / he crit de mi no sáll. </l>
+
+               <l n="13" xml:id="C017-13"> Est es Amor / quim trenca lo pensar </l>
+
+               <l n="14" xml:id="C017-14"> que per null temps / sere per vos amát </l>
+
+               <l n="15" xml:id="C017-15"> e per aço / yom trob desesforçat </l>
+
+               <l n="16" xml:id="C017-16"> car tot asaig / porta'n vos lesperár. </l>
             </lg>
             <pb n="43v"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_91.html"/>
             <lg type="cobla" n="3" xml:id="C017-03">
-               
-               <l n="17" xml:id="C017-17"> &#182;  Dels amadors / me vull ben informar
-               </l>
-               
-               <l n="18" xml:id="C017-18"> si es Amor / en desesperat cor
-               </l>
-               
-               <l n="19" xml:id="C017-19"> e si es viu / perque defet no mor
-               </l>
-               
-               <l n="20" xml:id="C017-20"> com per amor / no pot Amor mostrar.
-               </l>
-               
-               <l n="21" xml:id="C017-21"> No dire pus / mas contemple cascú
-               </l>
-               
-               <l n="22" xml:id="C017-22"> l'estat d'aquell / qui en tal cas se veu
-               </l>
-               
-               <l n="23" xml:id="C017-23"> mas guay demi / que tot lo cas es meu
-               </l>
-               
-               <l n="24" xml:id="C017-24"> donchs no sera  / que no men plore algú.
-               </l>
+
+               <l n="17" xml:id="C017-17"> &#182; Dels amadors / me vull ben informar </l>
+
+               <l n="18" xml:id="C017-18"> si es Amor / en desesperat cor </l>
+
+               <l n="19" xml:id="C017-19"> e si es viu / perque defet no mor </l>
+
+               <l n="20" xml:id="C017-20"> com per amor / no pot Amor mostrar. </l>
+
+               <l n="21" xml:id="C017-21"> No dire pus / mas contemple cascú </l>
+
+               <l n="22" xml:id="C017-22"> l'estat d'aquell / qui en tal cas se veu </l>
+
+               <l n="23" xml:id="C017-23"> mas guay demi / que tot lo cas es meu </l>
+
+               <l n="24" xml:id="C017-24"> donchs no sera / que no men plore algú. </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C017-04">
-               
-               <l n="25" xml:id="C017-25"> &#182;  Los mals d'Amor / son pochs al iuhi comú
-               </l>
-               
-               <l n="26" xml:id="C017-26"> car en pochs cau / aquesta passio
-               </l>
-               
-               <l n="27" xml:id="C017-27"> e tal dolor / no la sent la raho
-               </l>
-               
-               <l n="28" xml:id="C017-28"> si no asi / no pot jutjar algú.
-               </l>
-               
-               <l n="29" xml:id="C017-29"> Aquell coneix / la dolor de la mort
-               </l>
-               
-               <l n="30" xml:id="C017-30"> quen forca es / volent li donar volta
-               </l>
-               
-               <l n="31" xml:id="C017-31"> çell qui a be / sa uida'ndelits volta
-               </l>
-               
-               <l n="32" xml:id="C017-32"> de tal dolor / no pot fer bon repórt.
-               </l>
+
+               <l n="25" xml:id="C017-25"> &#182; Los mals d'Amor / son pochs al iuhi comú </l>
+
+               <l n="26" xml:id="C017-26"> car en pochs cau / aquesta passio </l>
+
+               <l n="27" xml:id="C017-27"> e tal dolor / no la sent la raho </l>
+
+               <l n="28" xml:id="C017-28"> si no asi / no pot jutjar algú. </l>
+
+               <l n="29" xml:id="C017-29"> Aquell coneix / la dolor de la mort </l>
+
+               <l n="30" xml:id="C017-30"> quen forca es / volent li donar volta </l>
+
+               <l n="31" xml:id="C017-31"> çell qui a be / sa uida'ndelits volta </l>
+
+               <l n="32" xml:id="C017-32"> de tal dolor / no pot fer bon repórt. </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C017-05">
-               
-               <l n="33" xml:id="C017-33"> &#182;  Es veritat / si portam en rrecórt
-               </l>
-               
-               <l n="34" xml:id="C017-34"> que molts passats / morir ne sostengueren
-               </l>
-               
-               <l n="35" xml:id="C017-35"> coneixerem / quanta dolor hagueren
-               </l>
-               
-               <l n="36" xml:id="C017-36"> puis que morir / los fon millor soport.
-               </l>
-               
-               <l n="37" xml:id="C017-37"> Sens causa gran / null acte gran se fá
-               </l>
-               
-               <l n="38" xml:id="C017-38"> perço cascu  / pot hauer coneixença
-               </l>
-               
-               <l n="39" xml:id="C017-39"> quel hom hauent / d'Amor poca temença
-               </l>
-               
-               <l n="40" xml:id="C017-40"> tant ardiment / gran dolor li portá.
-               </l>
+
+               <l n="33" xml:id="C017-33"> &#182; Es veritat / si portam en rrecórt </l>
+
+               <l n="34" xml:id="C017-34"> que molts passats / morir ne sostengueren </l>
+
+               <l n="35" xml:id="C017-35"> coneixerem / quanta dolor hagueren </l>
+
+               <l n="36" xml:id="C017-36"> puis que morir / los fon millor soport. </l>
+
+               <l n="37" xml:id="C017-37"> Sens causa gran / null acte gran se fá </l>
+
+               <l n="38" xml:id="C017-38"> perço cascu / pot hauer coneixença </l>
+
+               <l n="39" xml:id="C017-39"> quel hom hauent / d'Amor poca temença </l>
+
+               <l n="40" xml:id="C017-40"> tant ardiment / gran dolor li portá. </l>
             </lg>
             <pb n="44r"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_92.html"/>
             <lg type="cobla" n="6" xml:id="C017-06">
-               
-               <l n="41" xml:id="C017-41"> &#182;  Metje'n lo mon / saber no li bastá
-               </l>
-               
-               <l n="42" xml:id="C017-42"> sentir lo mal / que lo malalt soferta
-               </l>
-               
-               <l n="43" xml:id="C017-43"> mas per senyals / en la part descuberta
-               </l>
-               
-               <l n="44" xml:id="C017-44"> pora jutjar / l'hom enquin punt está.
-               </l>
-               
-               <l n="45" xml:id="C017-45"> En axi pren / al hom d'Amor ponçéll
-               </l>
-               
-               <l n="46" xml:id="C017-46"> no pot sentir / passio mas veu l'acte
-               </l>
-               
-               <l n="47" xml:id="C017-47"> d'ay cell que'nsi / porta lo gran caracte
-               </l>
-               
-               <l n="48" xml:id="C017-48"> d'Amor que may / contra si vol conséll.
-               </l>
+
+               <l n="41" xml:id="C017-41"> &#182; Metje'n lo mon / saber no li bastá </l>
+
+               <l n="42" xml:id="C017-42"> sentir lo mal / que lo malalt soferta </l>
+
+               <l n="43" xml:id="C017-43"> mas per senyals / en la part descuberta </l>
+
+               <l n="44" xml:id="C017-44"> pora jutjar / l'hom enquin punt está. </l>
+
+               <l n="45" xml:id="C017-45"> En axi pren / al hom d'Amor ponçéll </l>
+
+               <l n="46" xml:id="C017-46"> no pot sentir / passio mas veu l'acte </l>
+
+               <l n="47" xml:id="C017-47"> d'ay cell que'nsi / porta lo gran caracte </l>
+
+               <l n="48" xml:id="C017-48"> d'Amor que may / contra si vol conséll. </l>
             </lg>
             <lg type="cobla" n="7" xml:id="C017-07">
-               
-               <l n="49" xml:id="C017-49"> &#182;  Si com enpeny / balesta lo quadréll
-               </l>
-               
-               <l n="50" xml:id="C017-50"> ay tant com pus / la sua força basta
-               </l>
-               
-               <l n="51" xml:id="C017-51"> la voluntat / del hom e dona casta
-               </l>
-               
-               <l n="52" xml:id="C017-52"> tant quant Amor / sa força'sten enéll.
-               </l>
-               
-               <l n="53" xml:id="C017-53"> En contra'mor / no valgue sauiesa
-               </l>
-               
-               <l n="54" xml:id="C017-54"> sino Dauid / sen fora be defés
-               </l>
-               
-               <l n="55" xml:id="C017-55"> e sauis molts / no agueren tant apres
-               </l>
-               
-               <l n="56" xml:id="C017-56"> si contra'mor  / valgues alguna enpresa.
-               </l>
+
+               <l n="49" xml:id="C017-49"> &#182; Si com enpeny / balesta lo quadréll </l>
+
+               <l n="50" xml:id="C017-50"> ay tant com pus / la sua força basta </l>
+
+               <l n="51" xml:id="C017-51"> la voluntat / del hom e dona casta </l>
+
+               <l n="52" xml:id="C017-52"> tant quant Amor / sa força'sten enéll. </l>
+
+               <l n="53" xml:id="C017-53"> En contra'mor / no valgue sauiesa </l>
+
+               <l n="54" xml:id="C017-54"> sino Dauid / sen fora be defés </l>
+
+               <l n="55" xml:id="C017-55"> e sauis molts / no agueren tant apres </l>
+
+               <l n="56" xml:id="C017-56"> si contra'mor / valgues alguna enpresa. </l>
             </lg>
             <lg type="cobla" n="8" xml:id="C017-08">
-               
-               <l n="57" xml:id="C017-57"> &#182;  Plena de seny / per no esser entesa
-               </l>
-               
-               <l n="58" xml:id="C017-58"> la mia'mor / pora escapar sens merit
-               </l>
-               
-               <l n="59" xml:id="C017-59"> e sabme greu / com no auran demerit
-               </l>
-               
-               <l n="60" xml:id="C017-60"> per mon parlar / no fahent laus palesa.
-               </l>
+
+               <l n="57" xml:id="C017-57"> &#182; Plena de seny / per no esser entesa </l>
+
+               <l n="58" xml:id="C017-58"> la mia'mor / pora escapar sens merit </l>
+
+               <l n="59" xml:id="C017-59"> e sabme greu / com no auran demerit </l>
+
+               <l n="60" xml:id="C017-60"> per mon parlar / no fahent laus palesa. </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

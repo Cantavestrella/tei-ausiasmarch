@@ -4,7 +4,7 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>       
+        <fileDesc>
             <titleStmt>
                 <title>Poema 11</title>
                 <author>Ausiàs March </author>
@@ -28,12 +28,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -61,8 +63,8 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
@@ -70,72 +72,84 @@
         <graphic
             url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_24.html"/>
         <graphic
-            url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_25.html"/>
+            url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_25.html"
+        />
     </facsimile>
     <text>
-        <body>             
-        <pb n="8r"
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_24.html"/>
-        <div type="poem" xml:id="C010-b009">
-            <lg type="cobla" n="1" xml:id="C0010-1">
-                <l n="1" xml:id="C010-1"> <c rend="large">S</c>I com vn Rey / senyor de tres ciutats</l>
-                <l n="2" xml:id="C010-2"> qui tot son temps / l'a plagut guerrejar</l>
-                <l n="3" xml:id="C010-3"> ab l'enemich / qui dell nos pot vantar</l>
-                <l n="4" xml:id="C010-4"> may lo vençes / menys de ser ne sobrats</l>
-                <l n="5" xml:id="C010-5"> ans, sil mati / l'enemich lo vencia</l>
-                <l n="6" xml:id="C010-6"> ans del sol post / pel Rey era vençut</l>
-                <l n="7" xml:id="C010-7"> fins qu'en les hosts / <choice><abbr>cȏtral</abbr><expan>contral</expan></choice> Rey <choice><abbr>fȏch</abbr><expan>fonch</expan></choice> <choice><abbr>vȇgut</abbr><expan>vengut</expan></choice></l>
-                <l n="8" xml:id="C010-8"> vn soldader / qui lo Rey desconfia</l>
+        <body>
+            <pb n="8r"
+                facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_24.html"/>
+            <div type="poem" xml:id="C010-b009">
+                <lg type="cobla" n="1" xml:id="C0010-1">
+                    <l n="1" xml:id="C010-1">
+                        <c rend="large">S</c>I com vn Rey / senyor de tres ciutats</l>
+                    <l n="2" xml:id="C010-2"> qui tot son temps / l'a plagut guerrejar</l>
+                    <l n="3" xml:id="C010-3"> ab l'enemich / qui dell nos pot vantar</l>
+                    <l n="4" xml:id="C010-4"> may lo vençes / menys de ser ne sobrats</l>
+                    <l n="5" xml:id="C010-5"> ans, sil mati / l'enemich lo vencia</l>
+                    <l n="6" xml:id="C010-6"> ans del sol post / pel Rey era vençut</l>
+                    <l n="7" xml:id="C010-7"> fins qu'en les hosts / <choice>
+                            <abbr>cȏtral</abbr>
+                            <expan>contral</expan>
+                        </choice> Rey <choice>
+                            <abbr>fȏch</abbr>
+                            <expan>fonch</expan>
+                        </choice>
+                        <choice>
+                            <abbr>vȇgut</abbr>
+                            <expan>vengut</expan>
+                        </choice></l>
+                    <l n="8" xml:id="C010-8"> vn soldader / qui lo Rey desconfia</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0010-2">
-                <l n="9" xml:id="C010-9"> Ladonchs lo Rey / perde la senyoria</l>
-                <l n="10" xml:id="C010-10"> deles ciutats / sens vlla posseyr</l>
-                <l n="11" xml:id="C010-11"> mas l'henemich / dues lin volch jaquir</l>
-                <l n="12" xml:id="C010-12"> dant fe, lo Rey / que bon compten retria</l>
-                <l n="13" xml:id="C010-13"> com ha vasall / la renda despenent</l>
-                <l n="14" xml:id="C010-14"> a voluntat / del despossehidor</l>
-                <l n="15" xml:id="C010-15"> del altre vol / que non sia senyor</l>
-                <l n="16" xml:id="C010-16"> ne sia vist / que lin vinga'n esment</l>
+                <lg type="cobla" n="2" xml:id="C0010-2">
+                    <l n="9" xml:id="C010-9"> Ladonchs lo Rey / perde la senyoria</l>
+                    <l n="10" xml:id="C010-10"> deles ciutats / sens vlla posseyr</l>
+                    <l n="11" xml:id="C010-11"> mas l'henemich / dues lin volch jaquir</l>
+                    <l n="12" xml:id="C010-12"> dant fe, lo Rey / que bon compten retria</l>
+                    <l n="13" xml:id="C010-13"> com ha vasall / la renda despenent</l>
+                    <l n="14" xml:id="C010-14"> a voluntat / del despossehidor</l>
+                    <l n="15" xml:id="C010-15"> del altre vol / que non sia senyor</l>
+                    <l n="16" xml:id="C010-16"> ne sia vist / que lin vinga'n esment</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0010-3">
-                <l n="17" xml:id="C010-17"> Lonch temps amor / per enemich lo sent</l>
-                <l n="18" xml:id="C010-18"> mas james fonch / quem donas vn mal jorn</l>
-        <pb n="8v" 
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_25.html"/> 
-                <l n="19" xml:id="C010-19"> que'n poch instant / no li fes pendre torn</l>
-                <l n="20" xml:id="C010-20"> fora gitant / son aspre pensament</l>
-                <l n="21" xml:id="C010-21"> ell ma vençut / ab sols lesforç d'un cos</l>
-                <l n="22" xml:id="C010-22"> nel'ha calgut / mostrar sa potent força</l>
-                <l n="23" xml:id="C010-23"> los tres poders / que'n la'rma son, me'sforça</l>
-                <l n="24" xml:id="C010-24"> dos men jaqueix / del altre'usar no gos</l>
+                <lg type="cobla" n="3" xml:id="C0010-3">
+                    <l n="17" xml:id="C010-17"> Lonch temps amor / per enemich lo sent</l>
+                    <l n="18" xml:id="C010-18"> mas james fonch / quem donas vn mal jorn</l>
+                    <pb n="8v"
+                        facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_25.html"/>
+                    <l n="19" xml:id="C010-19"> que'n poch instant / no li fes pendre torn</l>
+                    <l n="20" xml:id="C010-20"> fora gitant / son aspre pensament</l>
+                    <l n="21" xml:id="C010-21"> ell ma vençut / ab sols lesforç d'un cos</l>
+                    <l n="22" xml:id="C010-22"> nel'ha calgut / mostrar sa potent força</l>
+                    <l n="23" xml:id="C010-23"> los tres poders / que'n la'rma son, me'sforça</l>
+                    <l n="24" xml:id="C010-24"> dos men jaqueix / del altre'usar no gos</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0010-4">
-                <l n="25" xml:id="C010-25"> He no cuydeu / quem sia plasent mos</l>
-                <l n="26" xml:id="C010-26"> aquest vedat / ans ne'ndure \cite{ref15} de grat</l>
-                <l n="27" xml:id="C010-27"> si be no puch / remembrar lo passat</l>
-                <l n="28" xml:id="C010-28"> molt, es plasent / la carrega'mon dos</l>
-                <l n="29" xml:id="C010-29"> james venço \cite{ref16} / fon plaer del vençut</l>
-                <l n="30" xml:id="C010-30"> si no de mi / quem plau qu'amor me vença</l>
-                <l n="31" xml:id="C010-31"> hem tinga pres / ab sa'nuisible, lença</l>
-                <l n="32" xml:id="C010-32"> mas paren be / los colps, en mon scut</l>
+                <lg type="cobla" n="4" xml:id="C0010-4">
+                    <l n="25" xml:id="C010-25"> He no cuydeu / quem sia plasent mos</l>
+                    <l n="26" xml:id="C010-26"> aquest vedat / ans ne'ndure \cite{ref15} de grat</l>
+                    <l n="27" xml:id="C010-27"> si be no puch / remembrar lo passat</l>
+                    <l n="28" xml:id="C010-28"> molt, es plasent / la carrega'mon dos</l>
+                    <l n="29" xml:id="C010-29"> james venço \cite{ref16} / fon plaer del vençut</l>
+                    <l n="30" xml:id="C010-30"> si no de mi / quem plau qu'amor me vença</l>
+                    <l n="31" xml:id="C010-31"> hem tinga pres / ab sa'nuisible, lença</l>
+                    <l n="32" xml:id="C010-32"> mas paren be / los colps, en mon scut</l>
                 </lg>
-            <lg type="cobla" n="5" xml:id="C0010-5">
-                <l n="33" xml:id="C010-33"> Defet que fuy / a sa merçe vengut</l>
-                <l n="34" xml:id="C010-34"> lenteniment / per son conseller pres</l>
-                <l n="35" xml:id="C010-35"> e mon voler / per alguazir la mes</l>
-                <l n="36" xml:id="C010-36"> dant fe cascu / que may sera sabut</l>
-                <l n="37" xml:id="C010-37"> enlur merçe / lo companyo membrar </l>
-                <l n="38" xml:id="C010-38"> seruint cascu / lealment son offici</l>
-                <l n="39" xml:id="C010-39"> si qu'algu dells / no sera may tant nici</l>
-                <l n="40" xml:id="C010-40"> que'n res constrast / que sia, de amar</l>
+                <lg type="cobla" n="5" xml:id="C0010-5">
+                    <l n="33" xml:id="C010-33"> Defet que fuy / a sa merçe vengut</l>
+                    <l n="34" xml:id="C010-34"> lenteniment / per son conseller pres</l>
+                    <l n="35" xml:id="C010-35"> e mon voler / per alguazir la mes</l>
+                    <l n="36" xml:id="C010-36"> dant fe cascu / que may sera sabut</l>
+                    <l n="37" xml:id="C010-37"> enlur merçe / lo companyo membrar </l>
+                    <l n="38" xml:id="C010-38"> seruint cascu / lealment son offici</l>
+                    <l n="39" xml:id="C010-39"> si qu'algu dells / no sera may tant nici</l>
+                    <l n="40" xml:id="C010-40"> que'n res constrast / que sia, de amar</l>
                 </lg>
-            <lg type="tornada">
-                <l n="41" xml:id="C010-41"> Plena de seny / vullau vos acordar</l>
-                <l n="42" xml:id="C010-42"> com per amar / venen grans sentiments</l>
-                <l n="43" xml:id="C010-43"> e per amor / pot ser hom, ignocents</l>
-                <l n="44" xml:id="C010-44"> e mostreu yo / que ne perdut parlar</l>
+                <lg type="tornada">
+                    <l n="41" xml:id="C010-41"> Plena de seny / vullau vos acordar</l>
+                    <l n="42" xml:id="C010-42"> com per amar / venen grans sentiments</l>
+                    <l n="43" xml:id="C010-43"> e per amor / pot ser hom, ignocents</l>
+                    <l n="44" xml:id="C010-44"> e mostreu yo / que ne perdut parlar</l>
                 </lg>
-              </lg>
+            </div>
         </body>
     </text>
 </TEI>

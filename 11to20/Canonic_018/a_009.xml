@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 18</title>
             <author>Ausiàs March </author>
@@ -49,8 +49,9 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 19v second line </locus>&#182;  Capitulo.X<note type="editorial">Tot i que correspondria el IX.</note>
-                         </rubric>
+                        <locus>f. 19v second line </locus>&#182; Capitulo.X<note type="editorial"
+                           >Tot i que correspondria el IX.</note>
+                     </rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -70,66 +71,57 @@
    </teiHeader>
    <facsimile>
       <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_39.html"/>
+         url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_39.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="19v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_39.html"/>
          <div type="poem" xml:id="C018-a009">
-         <lg type="cobla" n="1" xml:id="C018-01">
-            
-            <l n="1" xml:id="C018-1"> F<c rend="large">a</c>ntasiant / amor ami descobre
-            </l>
-            
-            <l n="2" xml:id="C018-2"> los <choice><abbr>grȃs</abbr><expan>grans</expan></choice> secrets / <choice><abbr>ꝗ</abbr><expan>que</expan></choice> als pus subtils amaga
-            </l>
-            
-            <l n="3" xml:id="C018-3"> Lo meu jorn clar / als altres es nit fosca
-            </l>
-            
-            <l n="4" xml:id="C018-4"> Yo visch dasso / que persones no tasten
-            </l>
-            
-            <l n="5" xml:id="C018-5"> Tant en amor / mon sperit contempla
-            </l>
-            
-            <l n="6" xml:id="C018-6"> Que par del tot / fora del cos sa parte
-            </l>
-            
-            <l n="7" xml:id="C018-7"> Car mos desigs / no son trobats en home
-            </l>
-            
-            <l n="8" xml:id="C018-8"> Sino en tal / que punt la carn nol trobe.
-            </l>            
-         </lg>
-         <lg type="cobla" n="2" xml:id="C018-02">
-            
-            <l n="9" xml:id="C018-9"> &#182;  Ma carn no sent / aquell delit sensible
-            </l>
-            
-            <l n="10" xml:id="C018-10"> El esperit / obras damor cobeja
-            </l>
-            
-            <l n="11" xml:id="C018-11"> Daquell sech foch / quels amadors sescalfen
-            </l>
-            
-            <l n="12" xml:id="C018-12"> Pauor nom sent / que yo men pogués ardre:
-            </l>
-            
-            <l n="13" xml:id="C018-13"> Vn altre esguart / lo meu voler platica
-            </l>
-            
-            <l n="14" xml:id="C018-14"> Quant en amar / vos dona si contenta
-            </l>
-            
-            <l n="15" xml:id="C018-15"> Que no han cells / qui amadors se mostren
-            </l>
-            
-            <l n="16" xml:id="C018-16"> Passionats / e contra amor no dignes.
-            </l>
-         </lg>
-         </lg>
+            <lg type="cobla" n="1" xml:id="C018-01">
+
+               <l n="1" xml:id="C018-1"> F<c rend="large">a</c>ntasiant / amor ami descobre </l>
+
+               <l n="2" xml:id="C018-2"> los <choice>
+                     <abbr>grȃs</abbr>
+                     <expan>grans</expan>
+                  </choice> secrets / <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> als pus subtils amaga </l>
+
+               <l n="3" xml:id="C018-3"> Lo meu jorn clar / als altres es nit fosca </l>
+
+               <l n="4" xml:id="C018-4"> Yo visch dasso / que persones no tasten </l>
+
+               <l n="5" xml:id="C018-5"> Tant en amor / mon sperit contempla </l>
+
+               <l n="6" xml:id="C018-6"> Que par del tot / fora del cos sa parte </l>
+
+               <l n="7" xml:id="C018-7"> Car mos desigs / no son trobats en home </l>
+
+               <l n="8" xml:id="C018-8"> Sino en tal / que punt la carn nol trobe. </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C018-02">
+
+               <l n="9" xml:id="C018-9"> &#182; Ma carn no sent / aquell delit sensible </l>
+
+               <l n="10" xml:id="C018-10"> El esperit / obras damor cobeja </l>
+
+               <l n="11" xml:id="C018-11"> Daquell sech foch / quels amadors sescalfen </l>
+
+               <l n="12" xml:id="C018-12"> Pauor nom sent / que yo men pogués ardre: </l>
+
+               <l n="13" xml:id="C018-13"> Vn altre esguart / lo meu voler platica </l>
+
+               <l n="14" xml:id="C018-14"> Quant en amar / vos dona si contenta </l>
+
+               <l n="15" xml:id="C018-15"> Que no han cells / qui amadors se mostren </l>
+
+               <l n="16" xml:id="C018-16"> Passionats / e contra amor no dignes. </l>
+            </lg>
+         </div>
       </body>
    </text>
 </TEI>

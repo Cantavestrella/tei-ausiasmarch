@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 17</title>
             <author>Ausiàs March </author>
@@ -48,7 +48,8 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <rubric><locus>f. 34 after end of previous poem, before this one: </locus>Mossen Ausias march</rubric>
+                     <rubric><locus>f. 34 after end of previous poem, before this one:
+                        </locus>Mossen Ausias march</rubric>
                      <rubric>
                         <locus>f. 36 between lines 56 and 57</locus> Tornada</rubric>
                   </msItem>
@@ -71,10 +72,11 @@
    <facsimile>
       <graphic
          url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_36.html"/>
-      <graphic 
+      <graphic
          url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_37.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_38.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_38.html"
+      />
    </facsimile>
    <text>
       <body>
@@ -82,206 +84,151 @@
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_36.html"/>
          <div type="poem" xml:id="C017-N017">
             <lg type="cobla" n="1" xml:id="C017-01">
-               
-               <l n="1" xml:id="C017-1"> &#182;  Si deu del cors lamia arma sostrau
-               </l>
-               
-               <l n="2" xml:id="C017-2"> Nom planyeran sino mos cars parents
-               </l>
-               
-               <l n="3" xml:id="C017-3"> Car mos amats nom son tamben volents
-               </l>
-               
-               <l n="4" xml:id="C017-4"> Quen aquell cas nols calga dir plorau
-               </l>
-               
-               <l n="5" xml:id="C017-5"> Escas loguer es dat amon treball
-               </l>
-               
-               <l n="6" xml:id="C017-6"> Com no so plant de pena sostenguda
-               </l>
-               
-               <l n="7" xml:id="C017-7"> Esi raho pot esser coneguda
-               </l>
-               
-               <l n="8" xml:id="C017-8"> Culpa nom han pus bon voler los call
-               </l>
+
+               <l n="1" xml:id="C017-1"> &#182; Si deu del cors lamia arma sostrau </l>
+
+               <l n="2" xml:id="C017-2"> Nom planyeran sino mos cars parents </l>
+
+               <l n="3" xml:id="C017-3"> Car mos amats nom son tamben volents </l>
+
+               <l n="4" xml:id="C017-4"> Quen aquell cas nols calga dir plorau </l>
+
+               <l n="5" xml:id="C017-5"> Escas loguer es dat amon treball </l>
+
+               <l n="6" xml:id="C017-6"> Com no so plant de pena sostenguda </l>
+
+               <l n="7" xml:id="C017-7"> Esi raho pot esser coneguda </l>
+
+               <l n="8" xml:id="C017-8"> Culpa nom han pus bon voler los call </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C017-02">
-               
-               <l n="9" xml:id="C017-9"> E dacom planch eque dament treball
-               </l>
-               
-               <l n="10" xml:id="C017-10"> E dins mj plor ecalle com amut
-               </l>
-               
-               <l n="11" xml:id="C017-11"> E firme cell qujm degraser escut
-               </l>
-               
-               <l n="12" xml:id="C017-12"> Trencant mon cort e crit demj no sall
-               </l>
-               
-               <l n="13" xml:id="C017-13"> Damor ho dich quim trenca lo pensar
-               </l>
-               
-               <l n="14" xml:id="C017-14"> Que per null temps sere per vos amat
-               </l>
-               
-               <l n="15" xml:id="C017-15"> E peraco yom trob desesforcat
-               </l>
-               
-               <l n="16" xml:id="C017-16"> Car tot asag se causa desperar
-               </l>
+
+               <l n="9" xml:id="C017-9"> E dacom planch eque dament treball </l>
+
+               <l n="10" xml:id="C017-10"> E dins mj plor ecalle com amut </l>
+
+               <l n="11" xml:id="C017-11"> E firme cell qujm degraser escut </l>
+
+               <l n="12" xml:id="C017-12"> Trencant mon cort e crit demj no sall </l>
+
+               <l n="13" xml:id="C017-13"> Damor ho dich quim trenca lo pensar </l>
+
+               <l n="14" xml:id="C017-14"> Que per null temps sere per vos amat </l>
+
+               <l n="15" xml:id="C017-15"> E peraco yom trob desesforcat </l>
+
+               <l n="16" xml:id="C017-16"> Car tot asag se causa desperar </l>
             </lg>
             <pb n="35"
                facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_37.html"/>
             <lg type="cobla" n="3" xml:id="C017-03">
-               
-               <l n="17" xml:id="C017-17"> Dells amados me vull ben jnformar
-               </l>
-               
-               <l n="18" xml:id="C017-18"> Hon es amor en desesperat cor
-               </l>
-               
-               <l n="19" xml:id="C017-19"> He sies viu perque de fet no mor
-               </l>
-               
-               <l n="20" xml:id="C017-20"> Com per amor no pot amor mostrar
-               </l>
-               
-               <l n="21" xml:id="C017-21"> No dire pus mas contemple cascu
-               </l>
-               
-               <l n="22" xml:id="C017-22"> Lestat daquell quj ental cas se veu
-               </l>
-               
-               <l n="23" xml:id="C017-23"> Mas guay demj que tot lo cas es meu
-               </l>
-               
-               <l n="24" xml:id="C017-24"> Donchs nodeuser que nom plore algu
-               </l>
+
+               <l n="17" xml:id="C017-17"> Dells amados me vull ben jnformar </l>
+
+               <l n="18" xml:id="C017-18"> Hon es amor en desesperat cor </l>
+
+               <l n="19" xml:id="C017-19"> He sies viu perque de fet no mor </l>
+
+               <l n="20" xml:id="C017-20"> Com per amor no pot amor mostrar </l>
+
+               <l n="21" xml:id="C017-21"> No dire pus mas contemple cascu </l>
+
+               <l n="22" xml:id="C017-22"> Lestat daquell quj ental cas se veu </l>
+
+               <l n="23" xml:id="C017-23"> Mas guay demj que tot lo cas es meu </l>
+
+               <l n="24" xml:id="C017-24"> Donchs nodeuser que nom plore algu </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C017-04">
-               
-               <l n="25" xml:id="C017-25"> Los mals damor son pochs alguy<note type="editorial">Per al juí.</note> comu
-               </l>
-               
-               <l n="26" xml:id="C017-26"> Car en pochs es aquesta passio
-               </l>
-               
-               <l n="27" xml:id="C017-27"> E tal dolor nola sent la raho
-               </l>
-               
-               <l n="28" xml:id="C017-28"> Sino asi no pot jutgar algu
-               </l>
-               
-               <l n="29" xml:id="C017-29"> Aquell conex la dolor dela mort
-               </l>
-               
-               <l n="30" xml:id="C017-30"> Quin forca es volent li <del rend="overstrike">de</del> donar volta
-               </l>
-               
-               <l n="31" xml:id="C017-31"> E cell quj te sa vidan delits bolta
-               </l>
-               
-               <l n="32" xml:id="C017-32"> De tal dolor no pot fer bon report
-               </l>
+
+               <l n="25" xml:id="C017-25"> Los mals damor son pochs alguy<note type="editorial">Per
+                     al juí.</note> comu </l>
+
+               <l n="26" xml:id="C017-26"> Car en pochs es aquesta passio </l>
+
+               <l n="27" xml:id="C017-27"> E tal dolor nola sent la raho </l>
+
+               <l n="28" xml:id="C017-28"> Sino asi no pot jutgar algu </l>
+
+               <l n="29" xml:id="C017-29"> Aquell conex la dolor dela mort </l>
+
+               <l n="30" xml:id="C017-30"> Quin forca es volent li <del rend="overstrike">de</del>
+                  donar volta </l>
+
+               <l n="31" xml:id="C017-31"> E cell quj te sa vidan delits bolta </l>
+
+               <l n="32" xml:id="C017-32"> De tal dolor no pot fer bon report </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C017-05">
-               
-               <l n="33" xml:id="C017-33"> Es veritat si portam en recort
-               </l>
-               
-               <l n="34" xml:id="C017-34"> Que molts passats morir ne sostengueren
-               </l>
-               
-               <l n="35" xml:id="C017-35"> Conexarem quanta dolor agueren
-               </l>
-               
-               <l n="36" xml:id="C017-36"> Pusque morir los fon millor soport
-               </l>
-               
-               <l n="37" xml:id="C017-37"> Sens causa gran null acte gran sefa
-               </l>
-               
-               <l n="38" xml:id="C017-38"> Perco cascu pot hauer conexenca
-               </l>
-               
-               <l n="39" xml:id="C017-39"> Que lom hauent demort pocha temenca
-               </l>
-               
-               <l n="40" xml:id="C017-40"> Tan foll gossar gran dolor loli porta
-               </l>
+
+               <l n="33" xml:id="C017-33"> Es veritat si portam en recort </l>
+
+               <l n="34" xml:id="C017-34"> Que molts passats morir ne sostengueren </l>
+
+               <l n="35" xml:id="C017-35"> Conexarem quanta dolor agueren </l>
+
+               <l n="36" xml:id="C017-36"> Pusque morir los fon millor soport </l>
+
+               <l n="37" xml:id="C017-37"> Sens causa gran null acte gran sefa </l>
+
+               <l n="38" xml:id="C017-38"> Perco cascu pot hauer conexenca </l>
+
+               <l n="39" xml:id="C017-39"> Que lom hauent demort pocha temenca </l>
+
+               <l n="40" xml:id="C017-40"> Tan foll gossar gran dolor loli porta </l>
             </lg>
             <pb n="36"
                facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_38.html"/>
             <lg type="cobla" n="6" xml:id="C017-06">
-               
-               <l n="41" xml:id="C017-41"> Metge enlomon saber noli abasta
-               </l>
-               
-               <l n="42" xml:id="C017-42"> Sentir lo mal que lo malalt sorferta
-               </l>
-               
-               <l n="43" xml:id="C017-43"> Mas per senyals enla part descuberta
-               </l>
-               
-               <l n="44" xml:id="C017-44"> Pora jutgar lom enquin punt esta
-               </l>
-               
-               <l n="45" xml:id="C017-45"> En axin pren al hom damor poncell
-               </l>
-               
-               <l n="46" xml:id="C017-46"> No pot sentir passio mas veu lacte
-               </l>
-               
-               <l n="47" xml:id="C017-47"> Daycell quen si porta lo gran caracte
-               </l>
-               
-               <l n="48" xml:id="C017-48"> Damor que may contra si vol consell
-               </l>
+
+               <l n="41" xml:id="C017-41"> Metge enlomon saber noli abasta </l>
+
+               <l n="42" xml:id="C017-42"> Sentir lo mal que lo malalt sorferta </l>
+
+               <l n="43" xml:id="C017-43"> Mas per senyals enla part descuberta </l>
+
+               <l n="44" xml:id="C017-44"> Pora jutgar lom enquin punt esta </l>
+
+               <l n="45" xml:id="C017-45"> En axin pren al hom damor poncell </l>
+
+               <l n="46" xml:id="C017-46"> No pot sentir passio mas veu lacte </l>
+
+               <l n="47" xml:id="C017-47"> Daycell quen si porta lo gran caracte </l>
+
+               <l n="48" xml:id="C017-48"> Damor que may contra si vol consell </l>
             </lg>
             <lg type="cobla" n="7" xml:id="C017-07">
-               
-               <l n="49" xml:id="C017-49"> Si com enpeny ballesta lo quadrell
-               </l>
-               
-               <l n="50" xml:id="C017-50"> Aytant com pus la sua forca basta
-               </l>
-               
-               <l n="51" xml:id="C017-51"> La voluntat del hom ho donas casta
-               </l>
-               
-               <l n="52" xml:id="C017-52"> Tant quant amor sa forcasten en ell
-               </l>
-               
-               <l n="53" xml:id="C017-53"> En contramor no valgue saujessa
-               </l>
-               
-               <l n="54" xml:id="C017-54"> Sino dauid senfora be defes
-               </l>
-               
-               <l n="55" xml:id="C017-55"> E saujs molts no agren tant empres
-               </l>
-               
-               <l n="56" xml:id="C017-56"> Si contramor valgues algunanpressa
-               </l>
+
+               <l n="49" xml:id="C017-49"> Si com enpeny ballesta lo quadrell </l>
+
+               <l n="50" xml:id="C017-50"> Aytant com pus la sua forca basta </l>
+
+               <l n="51" xml:id="C017-51"> La voluntat del hom ho donas casta </l>
+
+               <l n="52" xml:id="C017-52"> Tant quant amor sa forcasten en ell </l>
+
+               <l n="53" xml:id="C017-53"> En contramor no valgue saujessa </l>
+
+               <l n="54" xml:id="C017-54"> Sino dauid senfora be defes </l>
+
+               <l n="55" xml:id="C017-55"> E saujs molts no agren tant empres </l>
+
+               <l n="56" xml:id="C017-56"> Si contramor valgues algunanpressa </l>
             </lg>
             <lg type="cobla" n="8" xml:id="C017-08">
-               
-               <l n="57" xml:id="C017-57"> Plena de seny perno esser entesa
-               </l>
-               
-               <l n="58" xml:id="C017-58"> La mia amor porascapar sens merit
-               </l>
-               
-               <l n="59" xml:id="C017-59"> E sabmegreu com no aureu demerit
-               </l>
-               
-               <l n="60" xml:id="C017-60"> Per mon parlar no fahent <choice><abbr>laꝯ</abbr><expan>laus</expan></choice> palessa
-               </l>
+
+               <l n="57" xml:id="C017-57"> Plena de seny perno esser entesa </l>
+
+               <l n="58" xml:id="C017-58"> La mia amor porascapar sens merit </l>
+
+               <l n="59" xml:id="C017-59"> E sabmegreu com no aureu demerit </l>
+
+               <l n="60" xml:id="C017-60"> Per mon parlar no fahent <choice>
+                     <abbr>laꝯ</abbr>
+                     <expan>laus</expan>
+                  </choice> palessa </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

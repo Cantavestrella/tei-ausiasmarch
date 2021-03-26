@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            
+
             <titleStmt>
                 <title>Poema 9</title>
                 <author>Ausiàs March </author>
@@ -29,12 +29,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -62,8 +64,8 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
@@ -72,75 +74,85 @@
             url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_142.html"/>
         <graphic
             url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_143.html"/>
-        <graphic 
-            url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_144.html"/>
+        <graphic
+            url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_144.html"
+        />
     </facsimile>
     <text>
         <body>
-        <pb n="70v"
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_142.html"/>
+            <pb n="70v"
+                facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_142.html"/>
             <div type="poem" xml:id="C009-c052">
-            <lg type="cobla" n="1" xml:id="C0009-1">
-                <l n="1" xml:id="C009-1"> Amor se dol/ com breument yo no muyr</l>
-                <l n="2" xml:id="C009-2"> puis noli fall / per esser demi fart</l>
-                <l n="3" xml:id="C009-3"> car sos mals ginys / m'an portat ental part</l>
-                <l n="4" xml:id="C009-4"> que mon delit / es quant deplor abuyr</l>
-                <l n="5" xml:id="C009-5"> e de mon dan / yo no so mal mirent</l>
-                <l n="6" xml:id="C009-6"> car so forcat / d'ahirar dins tal preso</l>
-                <l n="7" xml:id="C009-7"> quel seny tinch pres / l'arbitre y la raho</l>
-                <l n="8" xml:id="C009-8"> amor hote / per seu forçadament.</l>
+                <lg type="cobla" n="1" xml:id="C0009-1">
+                    <l n="1" xml:id="C009-1"> Amor se dol/ com breument yo no muyr</l>
+                    <l n="2" xml:id="C009-2"> puis noli fall / per esser demi fart</l>
+                    <l n="3" xml:id="C009-3"> car sos mals ginys / m'an portat ental part</l>
+                    <l n="4" xml:id="C009-4"> que mon delit / es quant deplor abuyr</l>
+                    <l n="5" xml:id="C009-5"> e de mon dan / yo no so mal mirent</l>
+                    <l n="6" xml:id="C009-6"> car so forcat / d'ahirar dins tal preso</l>
+                    <l n="7" xml:id="C009-7"> quel seny tinch pres / l'arbitre y la raho</l>
+                    <l n="8" xml:id="C009-8"> amor hote / per seu forçadament.</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0009-2">
-                <l n="9" xml:id="C009-9"> Yo fas tot quant / me diu lo <choice><abbr>pensamȇt</abbr><expan>pensament</expan></choice></l>
-                <l n="10" xml:id="C009-10"> e si hagues tan seny com salamo</l>
-                <l n="11" xml:id="C009-11"> fora tot poch / no dar occasio</l>
-                <l n="12" xml:id="C009-12"> que no temes / a son gran <choice><abbr>manamȇt</abbr><expan>manament</expan></choice></l>
-                <l n="13" xml:id="C009-13"> qui no sent ço que pot fer molt amar</l>
-                <l n="14" xml:id="C009-14"> yo li perdo / si demi ua truffant</l>
-                <l n="15" xml:id="C009-15"> Piramus volch / morir passat d'un <choice><abbr>brȃt</abbr><expan>brant</expan></choice></l>
-                <l n="16" xml:id="C009-16"> e per semblant / mort Tisbe uolch passar.</l>
+                <lg type="cobla" n="2" xml:id="C0009-2">
+                    <l n="9" xml:id="C009-9"> Yo fas tot quant / me diu lo <choice>
+                            <abbr>pensamȇt</abbr>
+                            <expan>pensament</expan>
+                        </choice></l>
+                    <l n="10" xml:id="C009-10"> e si hagues tan seny com salamo</l>
+                    <l n="11" xml:id="C009-11"> fora tot poch / no dar occasio</l>
+                    <l n="12" xml:id="C009-12"> que no temes / a son gran <choice>
+                            <abbr>manamȇt</abbr>
+                            <expan>manament</expan>
+                        </choice></l>
+                    <l n="13" xml:id="C009-13"> qui no sent ço que pot fer molt amar</l>
+                    <l n="14" xml:id="C009-14"> yo li perdo / si demi ua truffant</l>
+                    <l n="15" xml:id="C009-15"> Piramus volch / morir passat d'un <choice>
+                            <abbr>brȃt</abbr>
+                            <expan>brant</expan>
+                        </choice></l>
+                    <l n="16" xml:id="C009-16"> e per semblant / mort Tisbe uolch passar.</l>
                 </lg>
-        <pb n="71r" 
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_143.html"/>
-            <lg type="cobla" n="3" xml:id="C0009-3">
-                <l n="17" xml:id="C009-17">  Sino es pech / quis'deu marauillar</l>
-                <l n="18" xml:id="C009-18"> d'algun cas fort / quesdeuenga'n l'amant</l>
-                <l n="19" xml:id="C009-19"> l'hom fora seny / no pot ser ben usant</l>
-                <l n="20" xml:id="C009-20"> tal me confes / donchs nom uullau reptar</l>
-                <l n="21" xml:id="C009-21"> amor ha pres / lo carch si'n res fallesch</l>
-                <l n="22" xml:id="C009-22"> car so abstret / de seny, e de saber</l>
-                <l n="23" xml:id="C009-23"> e res no faç / en contra son uoler</l>
-                <l n="24" xml:id="C009-24"> desijant be / la dolor li graesch</l>
+                <pb n="71r"
+                    facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_143.html"/>
+                <lg type="cobla" n="3" xml:id="C0009-3">
+                    <l n="17" xml:id="C009-17"> Sino es pech / quis'deu marauillar</l>
+                    <l n="18" xml:id="C009-18"> d'algun cas fort / quesdeuenga'n l'amant</l>
+                    <l n="19" xml:id="C009-19"> l'hom fora seny / no pot ser ben usant</l>
+                    <l n="20" xml:id="C009-20"> tal me confes / donchs nom uullau reptar</l>
+                    <l n="21" xml:id="C009-21"> amor ha pres / lo carch si'n res fallesch</l>
+                    <l n="22" xml:id="C009-22"> car so abstret / de seny, e de saber</l>
+                    <l n="23" xml:id="C009-23"> e res no faç / en contra son uoler</l>
+                    <l n="24" xml:id="C009-24"> desijant be / la dolor li graesch</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0009-4">
-                <l n="25" xml:id="C009-25"> Estant apart / tot sol yom empeguesch</l>
-                <l n="26" xml:id="C009-26"> imginant /ço que deuria fer</l>
-                <l n="27" xml:id="C009-27"> deixecutar / no dech hauer sper</l>
-                <l n="28" xml:id="C009-28"> puis lo primer / assaig no enseguesch</l>
-                <l n="29" xml:id="C009-29"> l'imaginar / amor me uol rependre</l>
-                <l n="30" xml:id="C009-30"> tant largament / ab uergonya'm refrena</l>
-                <l n="31" xml:id="C009-31"> com se fara / que ab cara serena</l>
-                <l n="32" xml:id="C009-32"> haja poder / de ma raho stendre.</l>
+                <lg type="cobla" n="4" xml:id="C0009-4">
+                    <l n="25" xml:id="C009-25"> Estant apart / tot sol yom empeguesch</l>
+                    <l n="26" xml:id="C009-26"> imginant /ço que deuria fer</l>
+                    <l n="27" xml:id="C009-27"> deixecutar / no dech hauer sper</l>
+                    <l n="28" xml:id="C009-28"> puis lo primer / assaig no enseguesch</l>
+                    <l n="29" xml:id="C009-29"> l'imaginar / amor me uol rependre</l>
+                    <l n="30" xml:id="C009-30"> tant largament / ab uergonya'm refrena</l>
+                    <l n="31" xml:id="C009-31"> com se fara / que ab cara serena</l>
+                    <l n="32" xml:id="C009-32"> haja poder / de ma raho stendre.</l>
                 </lg>
-            <lg type="cobla" n="5" xml:id="C0009-5">
-                <l n="33" xml:id="C009-33"> Los fets d'amor / yo no puch be entendre</l>
-                <l n="34" xml:id="C009-34"> de grans contrasts / ma opinio es plena</l>
-                <l n="35" xml:id="C009-35"> honram lo jorn / que no sent ulla pena</l>
-                <l n="36" xml:id="C009-36"> pensant en ço / que uinch al arma rendre</l>
-        <pb n="71v" 
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_144.html"/>
-                <l n="37" xml:id="C009-37">  si altra ueu / l'imaginar mi porta</l>
-                <l n="38" xml:id="C009-38"> per dar senyal / que yo sia cregut</l>
-                <l n="39" xml:id="C009-39"> suplich la mort / que'n un tal cas m'ajut</l>
-                <l n="40" xml:id="C009-40"> e si nom ual / ma ueritat jau morta.</l>
+                <lg type="cobla" n="5" xml:id="C0009-5">
+                    <l n="33" xml:id="C009-33"> Los fets d'amor / yo no puch be entendre</l>
+                    <l n="34" xml:id="C009-34"> de grans contrasts / ma opinio es plena</l>
+                    <l n="35" xml:id="C009-35"> honram lo jorn / que no sent ulla pena</l>
+                    <l n="36" xml:id="C009-36"> pensant en ço / que uinch al arma rendre</l>
+                    <pb n="71v"
+                        facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_144.html"/>
+                    <l n="37" xml:id="C009-37"> si altra ueu / l'imaginar mi porta</l>
+                    <l n="38" xml:id="C009-38"> per dar senyal / que yo sia cregut</l>
+                    <l n="39" xml:id="C009-39"> suplich la mort / que'n un tal cas m'ajut</l>
+                    <l n="40" xml:id="C009-40"> e si nom ual / ma ueritat jau morta.</l>
                 </lg>
-            <lg type="cobla" n="6" xml:id="C0009-6">
-                <l n="41" xml:id="C009-41"> Lir entre carts / fins a ueure la porta</l>
-                <l n="42" xml:id="C009-42"> de mos delits / sobirans so uengat</l>
-                <l n="43" xml:id="C009-43"> noy he tocat / ans men torn com a mut</l>
-                <l n="44" xml:id="C009-44"> e per tornar / ia trob la uia torta.</l>
+                <lg type="cobla" n="6" xml:id="C0009-6">
+                    <l n="41" xml:id="C009-41"> Lir entre carts / fins a ueure la porta</l>
+                    <l n="42" xml:id="C009-42"> de mos delits / sobirans so uengat</l>
+                    <l n="43" xml:id="C009-43"> noy he tocat / ans men torn com a mut</l>
+                    <l n="44" xml:id="C009-44"> e per tornar / ia trob la uia torta.</l>
                 </lg>
-            </lg>
+            </div>
         </body>
     </text>
 </TEI>

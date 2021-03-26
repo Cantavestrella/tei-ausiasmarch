@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 16</title>
             <author>Ausiàs March </author>
@@ -48,7 +48,8 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <rubric><locus>f. 15v after end of previous poem, before this one:</locus>Altra</rubric>
+                     <rubric><locus>f. 15v after end of previous poem, before this
+                        one:</locus>Altra</rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -69,10 +70,11 @@
    <facsimile>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_34.html"/>
-      <graphic 
+      <graphic
          url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_35.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_36.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_36.html"
+      />
    </facsimile>
    <text>
       <body>
@@ -80,154 +82,114 @@
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_34.html"/>
          <div type="poem" xml:id="C016-F016">
             <lg type="cobla" n="1" xml:id="C016-01">
-               
-               <l n="1" xml:id="C016-1"> Junt es lo temps que mon goig es complit
-               </l>
-               
-               <l n="2" xml:id="C016-2"> En lo esguart del que yo desijat
-               </l>
-               
-               <l n="3" xml:id="C016-3"> Car vist he co don era desperat
-               </l>
-               
-               <l n="4" xml:id="C016-4"> E molt <choice><abbr>pꝯ</abbr><expan>pus</expan></choice> bell que dins mj no fon dit
-               </l>
-               
-               <l n="5" xml:id="C016-5"> Mas de present caych en dolor no llenta
-               </l>
-               
-               <l n="6" xml:id="C016-6"> Ffort es e tant quel cap me fa mudar
-               </l>
-               
-               <l n="7" xml:id="C016-7"> Torbat del tot mos passos he cuytat
-               </l>
-               
-               <l n="8" xml:id="C016-8"> E trob remey mas de mj nosabsenta
-               </l>
+
+               <l n="1" xml:id="C016-1"> Junt es lo temps que mon goig es complit </l>
+
+               <l n="2" xml:id="C016-2"> En lo esguart del que yo desijat </l>
+
+               <l n="3" xml:id="C016-3"> Car vist he co don era desperat </l>
+
+               <l n="4" xml:id="C016-4"> E molt <choice>
+                     <abbr>pꝯ</abbr>
+                     <expan>pus</expan>
+                  </choice> bell que dins mj no fon dit </l>
+
+               <l n="5" xml:id="C016-5"> Mas de present caych en dolor no llenta </l>
+
+               <l n="6" xml:id="C016-6"> Ffort es e tant quel cap me fa mudar </l>
+
+               <l n="7" xml:id="C016-7"> Torbat del tot mos passos he cuytat </l>
+
+               <l n="8" xml:id="C016-8"> E trob remey mas de mj nosabsenta </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C016-02">
-               
-               <l n="9" xml:id="C016-9"> Si com lexorch qui adeu no esmenta
-               </l>
-               
-               <l n="10" xml:id="C016-10"> Queli don fills asenats e adrets
-               </l>
-               
-               <l n="11" xml:id="C016-11"> E quant los ueu esser folls o contrets
-               </l>
-               
-               <l n="12" xml:id="C016-12"> Noua dolor dauant ell se pressenta
-               </l>
-               
-               <l n="13" xml:id="C016-13"> Napres ame quj <del rend="overstrike">tosts</del> tostemps desige
-               </l>
-               
-               <l n="14" xml:id="C016-14"> Dona seruir on cabes tot mon alt
-               </l>
-               
-               <l n="15" xml:id="C016-15"> E quant la ueg mon cor saiau malalt
-               </l>
-               
-               <l n="16" xml:id="C016-16"> Crehent de cert que nos dolrra de me
-               </l>
+
+               <l n="9" xml:id="C016-9"> Si com lexorch qui adeu no esmenta </l>
+
+               <l n="10" xml:id="C016-10"> Queli don fills asenats e adrets </l>
+
+               <l n="11" xml:id="C016-11"> E quant los ueu esser folls o contrets </l>
+
+               <l n="12" xml:id="C016-12"> Noua dolor dauant ell se pressenta </l>
+
+               <l n="13" xml:id="C016-13"> Napres ame quj <del rend="overstrike">tosts</del>
+                  tostemps desige </l>
+
+               <l n="14" xml:id="C016-14"> Dona seruir on cabes tot mon alt </l>
+
+               <l n="15" xml:id="C016-15"> E quant la ueg mon cor saiau malalt </l>
+
+               <l n="16" xml:id="C016-16"> Crehent de cert que nos dolrra de me </l>
             </lg>
             <pb n="16r"
                facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_35.html"/>
             <lg type="cobla" n="3" xml:id="C016-03">
-               
-               <l n="17" xml:id="C016-17"> De gran tristor sobres dolor me ue
-               </l>
-               
-               <l n="18" xml:id="C016-18"> Quem cal fugir de cascun loch escur
-               </l>
-               
-               <l n="19" xml:id="C016-19"> E de gran por ma pensa fet tal mur
-               </l>
-               
-               <l n="20" xml:id="C016-20"> Quels penssaments dapnosos li dete
-               </l>
-               
-               <l n="21" xml:id="C016-21"> E son aytals que si dells nos deffen
-               </l>
-               
-               <l n="22" xml:id="C016-22"> Ben enfortint la forca mal deffesa
-               </l>
-               
-               <l n="23" xml:id="C016-23"> Tots entraran sients ataula mesa
-               </l>
-               
-               <l n="24" xml:id="C016-24"> Tremolar sent iamon enteniment
-               </l>
+
+               <l n="17" xml:id="C016-17"> De gran tristor sobres dolor me ue </l>
+
+               <l n="18" xml:id="C016-18"> Quem cal fugir de cascun loch escur </l>
+
+               <l n="19" xml:id="C016-19"> E de gran por ma pensa fet tal mur </l>
+
+               <l n="20" xml:id="C016-20"> Quels penssaments dapnosos li dete </l>
+
+               <l n="21" xml:id="C016-21"> E son aytals que si dells nos deffen </l>
+
+               <l n="22" xml:id="C016-22"> Ben enfortint la forca mal deffesa </l>
+
+               <l n="23" xml:id="C016-23"> Tots entraran sients ataula mesa </l>
+
+               <l n="24" xml:id="C016-24"> Tremolar sent iamon enteniment </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C016-04">
-               
-               <l n="25" xml:id="C016-25"> Desser vencut o sobrat nos deffen
-               </l>
-               
-               <l n="26" xml:id="C016-26"> Es lo tardar quels pensaments son glots
-               </l>
-               
-               <l n="27" xml:id="C016-27"> Sens fer se loch entrar uolrrien tots
-               </l>
-               
-               <l n="28" xml:id="C016-28"> E nos pot fer dells ensemps passamen
-               </l>
-               
-               <l n="29" xml:id="C016-29"> E sil pus flach pensament es primer
-               </l>
-               
-               <l n="30" xml:id="C016-30"> Lenteniment forcara de fugir
-               </l>
-               
-               <l n="31" xml:id="C016-31"> En lur debat es mon ben auenir
-               </l>
-               
-               <l n="32" xml:id="C016-32"> Llur pau es port daquell iorn meu derrer
-               </l>
+
+               <l n="25" xml:id="C016-25"> Desser vencut o sobrat nos deffen </l>
+
+               <l n="26" xml:id="C016-26"> Es lo tardar quels pensaments son glots </l>
+
+               <l n="27" xml:id="C016-27"> Sens fer se loch entrar uolrrien tots </l>
+
+               <l n="28" xml:id="C016-28"> E nos pot fer dells ensemps passamen </l>
+
+               <l n="29" xml:id="C016-29"> E sil pus flach pensament es primer </l>
+
+               <l n="30" xml:id="C016-30"> Lenteniment forcara de fugir </l>
+
+               <l n="31" xml:id="C016-31"> En lur debat es mon ben auenir </l>
+
+               <l n="32" xml:id="C016-32"> Llur pau es port daquell iorn meu derrer </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C016-05">
-               
-               <l n="33" xml:id="C016-33"> Peior que mort es vida sens plaer
-               </l>
-               
-               <l n="34" xml:id="C016-34"> Mas nom acus que fenesqua ma vida
-               </l>
-               
-               <l n="35" xml:id="C016-35"> Car mentre visch ne pot esser perida
-               </l>
-               
-               <l n="36" xml:id="C016-36"> Vna dolor juntab algun esper
-               </l>
-               
-               <l n="37" xml:id="C016-37"> Ne se don ue mas de por de natura
-               </l>
-               
-               <l n="38" xml:id="C016-38"> Que no consent contra mort gran esforc
-               </l>
-               
-               <l n="39" xml:id="C016-39"> E per aco contra mon cas mesforc
-               </l>
-               
-               <l n="40" xml:id="C016-40"> Per no complir la mja desventura
-               </l>
+
+               <l n="33" xml:id="C016-33"> Peior que mort es vida sens plaer </l>
+
+               <l n="34" xml:id="C016-34"> Mas nom acus que fenesqua ma vida </l>
+
+               <l n="35" xml:id="C016-35"> Car mentre visch ne pot esser perida </l>
+
+               <l n="36" xml:id="C016-36"> Vna dolor juntab algun esper </l>
+
+               <l n="37" xml:id="C016-37"> Ne se don ue mas de por de natura </l>
+
+               <l n="38" xml:id="C016-38"> Que no consent contra mort gran esforc </l>
+
+               <l n="39" xml:id="C016-39"> E per aco contra mon cas mesforc </l>
+
+               <l n="40" xml:id="C016-40"> Per no complir la mja desventura </l>
             </lg>
             <pb n="16v"
                facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_36.html"/>
             <lg type="cobla" n="6" xml:id="C016-06">
-               
-               <l n="41" xml:id="C016-41"> Plena de seny en hom foll atura
-               </l>
-               
-               <l n="42" xml:id="C016-42"> La moltamor ab vna esperanca
-               </l>
-               
-               <l n="43" xml:id="C016-43"> Car pren tal born que cerca tota franca
-               </l>
-               
-               <l n="44" xml:id="C016-44"> Daquest gran uol la raho ne murmura
-               </l>
+
+               <l n="41" xml:id="C016-41"> Plena de seny en hom foll atura </l>
+
+               <l n="42" xml:id="C016-42"> La moltamor ab vna esperanca </l>
+
+               <l n="43" xml:id="C016-43"> Car pren tal born que cerca tota franca </l>
+
+               <l n="44" xml:id="C016-44"> Daquest gran uol la raho ne murmura </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            
+
             <titleStmt>
                 <title>Poema 10</title>
                 <author>Ausiàs March </author>
@@ -29,28 +29,31 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
                 <date> 2019-05-01</date>
             </publicationStmt>
             <sourceDesc>
-                <msDesc
-                    corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000149777">
+                <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000149777">
                     <msIdentifier xml:id="E_Ms_3695_BnM">
                         <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 143v after end of previous poem, before this one: </locus><choice><abbr>Moß</abbr><expan>Mossen</expan></choice>
-                                ausias march </rubric>
+                                <locus>f. 143v after end of previous poem, before this one: </locus><choice>
+                                    <abbr>Moß</abbr>
+                                    <expan>Mossen</expan>
+                                </choice> ausias march </rubric>
                             <rubric>
                                 <locus>f. 144v between lines 40 and 41 </locus>Tornada </rubric>
                         </msItem>
@@ -65,82 +68,81 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
     <facsimile>
-        <graphic
-            url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+        <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
         <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
     </facsimile>
     <text>
         <body>
-         <pb n="164r"
-             facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-        <div type="poem" xml:id="C010-E107">
-            <lg type="cobla" n="1" xml:id="C0010-1">
-                <l n="1" xml:id="C010-1"> Si com vn Rey / sen\textit{y}<choice><abbr></abbr><expan></expan></choice>or de tres ciutats</l>
-                <l n="2" xml:id="C010-2"> qui tot son temps / la plagut guerrejar</l>
-                <l n="3" xml:id="C010-3"> e lenemich / qui dell nos pot vantar</l>
-                <l n="4" xml:id="C010-4"> la ja vençut / menys de ser ne sobrats</l>
-                <l n="5" xml:id="C010-5"> Ans sil mati / lenemich lo vençia</l>
-                <l n="6" xml:id="C010-6"> ans del sol post / pel rey era vençut</l>
-                <l n="7" xml:id="C010-7"> fins quen les hosts / contral rey fon vengut</l>
-                <l n="8" xml:id="C010-8"> vn soldader / qui lo rey desconfia</l>
+            <pb n="164r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+            <div type="poem" xml:id="C010-E107">
+                <lg type="cobla" n="1" xml:id="C0010-1">
+                    <l n="1" xml:id="C010-1"> Si com vn Rey / sen\textit{y}<choice>
+                            <abbr/>
+                            <expan/>
+                        </choice>or de tres ciutats</l>
+                    <l n="2" xml:id="C010-2"> qui tot son temps / la plagut guerrejar</l>
+                    <l n="3" xml:id="C010-3"> e lenemich / qui dell nos pot vantar</l>
+                    <l n="4" xml:id="C010-4"> la ja vençut / menys de ser ne sobrats</l>
+                    <l n="5" xml:id="C010-5"> Ans sil mati / lenemich lo vençia</l>
+                    <l n="6" xml:id="C010-6"> ans del sol post / pel rey era vençut</l>
+                    <l n="7" xml:id="C010-7"> fins quen les hosts / contral rey fon vengut</l>
+                    <l n="8" xml:id="C010-8"> vn soldader / qui lo rey desconfia</l>
                 </lg>
-        <pb n="164v"
-            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/> 
-            <lg type="cobla" n="2" xml:id="C0010-2">
-                <l n="9" xml:id="C010-9"> Ladonchs lo Rey / perde la senyoria</l>
-                <l n="10" xml:id="C010-10"> deles çiutats / sens nulla possehir</l>
-                <l n="11" xml:id="C010-11"> mas lenemich / dues lin volch jaquir</l>
-                <l n="12" xml:id="C010-12"> dant fe lo Rey / que bon compten retria</l>
-                <l n="13" xml:id="C010-13"> Com a vassall / la renda despenent</l>
-                <l n="14" xml:id="C010-14"> a voluntat / del despossehidor</l>
-                <l n="15" xml:id="C010-15"> de laltra vol / que non sia senyor</l>
-                <l n="16" xml:id="C010-16"> ne sia vist / que li vinga nesment</l>
+                <pb n="164v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+                <lg type="cobla" n="2" xml:id="C0010-2">
+                    <l n="9" xml:id="C010-9"> Ladonchs lo Rey / perde la senyoria</l>
+                    <l n="10" xml:id="C010-10"> deles çiutats / sens nulla possehir</l>
+                    <l n="11" xml:id="C010-11"> mas lenemich / dues lin volch jaquir</l>
+                    <l n="12" xml:id="C010-12"> dant fe lo Rey / que bon compten retria</l>
+                    <l n="13" xml:id="C010-13"> Com a vassall / la renda despenent</l>
+                    <l n="14" xml:id="C010-14"> a voluntat / del despossehidor</l>
+                    <l n="15" xml:id="C010-15"> de laltra vol / que non sia senyor</l>
+                    <l n="16" xml:id="C010-16"> ne sia vist / que li vinga nesment</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0010-3">
-                <l n="17" xml:id="C010-17"> Lonch temps amor / per enemich lo sent</l>
-                <l n="18" xml:id="C010-18"> mas james fon / quem donas vn mal jorn</l>
-                <l n="19" xml:id="C010-19"> quen poch instant / no li fes pendre torn</l>
-                <l n="20" xml:id="C010-20"> foragitant / son aspre pensament</l>
-                <l n="21" xml:id="C010-21"> Er ma vençut / ab sol esforç dun cos</l>
-                <l n="22" xml:id="C010-22"> nel ha calgut / mostrar sa potent força</l>
-                <l n="23" xml:id="C010-23"> los tres poders / quen larma son me força</l>
-                <l n="24" xml:id="C010-24"> dos men jaqueix / del altrusar no gos</l>
+                <lg type="cobla" n="3" xml:id="C0010-3">
+                    <l n="17" xml:id="C010-17"> Lonch temps amor / per enemich lo sent</l>
+                    <l n="18" xml:id="C010-18"> mas james fon / quem donas vn mal jorn</l>
+                    <l n="19" xml:id="C010-19"> quen poch instant / no li fes pendre torn</l>
+                    <l n="20" xml:id="C010-20"> foragitant / son aspre pensament</l>
+                    <l n="21" xml:id="C010-21"> Er ma vençut / ab sol esforç dun cos</l>
+                    <l n="22" xml:id="C010-22"> nel ha calgut / mostrar sa potent força</l>
+                    <l n="23" xml:id="C010-23"> los tres poders / quen larma son me força</l>
+                    <l n="24" xml:id="C010-24"> dos men jaqueix / del altrusar no gos</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0010-4">
-                <l n="25" xml:id="C010-25"> E no cuydets / quem sia plasent mos</l>
-                <l n="26" xml:id="C010-26"> aquest vedat / ans nendure degrat</l>
-                <l n="27" xml:id="C010-27"> si be no pusch / remembrar lo passat</l>
-                <l n="28" xml:id="C010-28"> molt es plasent / çesta carga mon dos</l>
-                <l n="29" xml:id="C010-29"> James venço / fon plaher del vençut</l>
-                <l n="30" xml:id="C010-30"> sino de mi / quem plau quamor me vença</l>
-                <l n="31" xml:id="C010-31"> hem tinga pres / ab sa vensible llença</l>
-                <l n="32" xml:id="C010-32"> mas parem be / sos colps en mon escut</l>
+                <lg type="cobla" n="4" xml:id="C0010-4">
+                    <l n="25" xml:id="C010-25"> E no cuydets / quem sia plasent mos</l>
+                    <l n="26" xml:id="C010-26"> aquest vedat / ans nendure degrat</l>
+                    <l n="27" xml:id="C010-27"> si be no pusch / remembrar lo passat</l>
+                    <l n="28" xml:id="C010-28"> molt es plasent / çesta carga mon dos</l>
+                    <l n="29" xml:id="C010-29"> James venço / fon plaher del vençut</l>
+                    <l n="30" xml:id="C010-30"> sino de mi / quem plau quamor me vença</l>
+                    <l n="31" xml:id="C010-31"> hem tinga pres / ab sa vensible llença</l>
+                    <l n="32" xml:id="C010-32"> mas parem be / sos colps en mon escut</l>
                 </lg>
-        <pb n="165r" 
-            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/> 
-            <lg type="cobla" n="5" xml:id="C0010-5">
-                <l n="33" xml:id="C010-33"> De fet que fuy / a sa merçe vengut</l>
-                <l n="34" xml:id="C010-34"> lenteniment / person conseller pres</l>
-                <l n="35" xml:id="C010-35"> e mon voler / per alguazir lames</l>
-                <l n="36" xml:id="C010-36"> dant fe cascu / que may sera rebut</l>
-                <l n="37" xml:id="C010-37"> En llur merçe / lo companyo membrar</l>
-                <l n="38" xml:id="C010-38"> seruint cascu / llealment son offici</l>
-                <l n="39" xml:id="C010-39"> si que degu / dells no sera tan niçi</l>
-                <l n="40" xml:id="C010-40"> quen res contrast / que sia de amar</l>
+                <pb n="165r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+                <lg type="cobla" n="5" xml:id="C0010-5">
+                    <l n="33" xml:id="C010-33"> De fet que fuy / a sa merçe vengut</l>
+                    <l n="34" xml:id="C010-34"> lenteniment / person conseller pres</l>
+                    <l n="35" xml:id="C010-35"> e mon voler / per alguazir lames</l>
+                    <l n="36" xml:id="C010-36"> dant fe cascu / que may sera rebut</l>
+                    <l n="37" xml:id="C010-37"> En llur merçe / lo companyo membrar</l>
+                    <l n="38" xml:id="C010-38"> seruint cascu / llealment son offici</l>
+                    <l n="39" xml:id="C010-39"> si que degu / dells no sera tan niçi</l>
+                    <l n="40" xml:id="C010-40"> quen res contrast / que sia de amar</l>
                 </lg>
-            <lg type="cobla" n="6" xml:id="C0010-6">
-                <l n="41" xml:id="C010-41"> Plena de seny / vullau vos acordar</l>
-                <l n="42" xml:id="C010-42"> comper amar / venen grans sentiments</l>
-                <l n="43" xml:id="C010-43"> e per amor / pot ser hom ignoçents</l>
-                <l n="44" xml:id="C010-44"> e mostreu yo / quin he perdut parlar</l>
+                <lg type="cobla" n="6" xml:id="C0010-6">
+                    <l n="41" xml:id="C010-41"> Plena de seny / vullau vos acordar</l>
+                    <l n="42" xml:id="C010-42"> comper amar / venen grans sentiments</l>
+                    <l n="43" xml:id="C010-43"> e per amor / pot ser hom ignoçents</l>
+                    <l n="44" xml:id="C010-44"> e mostreu yo / quin he perdut parlar</l>
                 </lg>
-             </lg>
+            </div>
         </body>
     </text>
 </TEI>

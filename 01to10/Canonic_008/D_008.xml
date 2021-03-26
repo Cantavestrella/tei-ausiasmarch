@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            
+
             <titleStmt>
                 <title>Poema 8</title>
                 <author>Ausiàs March </author>
@@ -29,31 +29,30 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
                 <date> 2019-05-01</date>
             </publicationStmt>
             <sourceDesc>
-                <msDesc
-                    corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+                <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
                     <msIdentifier xml:id="D_Ms_2985_BnM">
                         <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 11 after end of previous poem, before this one:</locus> C
-                            </rubric>
+                                <locus>f. 11 after end of previous poem, before this one:</locus> C </rubric>
                             <rubric>
-                                <locus>f. 11v between lines 40 and 41</locus> Tornada
-                            </rubric>
+                                <locus>f. 11v between lines 40 and 41</locus> Tornada </rubric>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -66,8 +65,8 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
@@ -77,68 +76,70 @@
     </facsimile>
     <text>
         <body>
-<pb n="8r"
-    facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-        <div type="poem" xml:id="C008-D008">
-            <lg type="cobla" n="1" xml:id="C0008-1">
-                <l n="1" xml:id="C008-1"> Ja tots mos cants meplau metren oblit</l>
-                <l n="2" xml:id="C008-2"> foragitant mongentil pensament</l>
-                <l n="3" xml:id="C008-3"> efin amor de mis part\interlin{r}abreument</l>
-                <l n="4" xml:id="C008-4"> <del rend="overstrike">E</del> sicom fals dent yo cercaredelit</l>
-                <l n="5" xml:id="C008-5"> axis conquer enaquest temps aymia</l>
-                <l n="6" xml:id="C008-6"> cobles e leys dances e bon saber</l>
-                <l n="7" xml:id="C008-7"> lo dret damor no poden conquerer</l>
-                <l n="8" xml:id="C008-8"> passa lo temps quel bo fauor hauia</l>
+            <pb n="8r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+            <div type="poem" xml:id="C008-D008">
+                <lg type="cobla" n="1" xml:id="C0008-1">
+                    <l n="1" xml:id="C008-1"> Ja tots mos cants meplau metren oblit</l>
+                    <l n="2" xml:id="C008-2"> foragitant mongentil pensament</l>
+                    <l n="3" xml:id="C008-3"> efin amor de mis part\interlin{r}abreument</l>
+                    <l n="4" xml:id="C008-4">
+                        <del rend="overstrike">E</del> sicom fals dent yo cercaredelit</l>
+                    <l n="5" xml:id="C008-5"> axis conquer enaquest temps aymia</l>
+                    <l n="6" xml:id="C008-6"> cobles e leys dances e bon saber</l>
+                    <l n="7" xml:id="C008-7"> lo dret damor no poden conquerer</l>
+                    <l n="8" xml:id="C008-8"> passa lo temps quel bo fauor hauia</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0008-2">
-                <l n="9" xml:id="C008-9"> Seguirel temps ab afanyos despit</l>
-                <l n="10" xml:id="C008-10"> sicol dançant segueix al esturment</l>
-                <l n="11" xml:id="C008-11"> e mostra be hauer poch sentiment</l>
-                <l n="12" xml:id="C008-12"> siper vn temps dança rostit bollit</l>
-                <l n="13" xml:id="C008-13"> entemps passat mudança no sentia</l>
-                <l n="14" xml:id="C008-14"> daçom reprench hem tinch per molt grosser</l>
-                <l n="15" xml:id="C008-15"> cuydant saber totquant era mester</l>
-                <l n="16" xml:id="C008-16"> foll es perfet quis veu menys de follia</l>
+                <lg type="cobla" n="2" xml:id="C0008-2">
+                    <l n="9" xml:id="C008-9"> Seguirel temps ab afanyos despit</l>
+                    <l n="10" xml:id="C008-10"> sicol dançant segueix al esturment</l>
+                    <l n="11" xml:id="C008-11"> e mostra be hauer poch sentiment</l>
+                    <l n="12" xml:id="C008-12"> siper vn temps dança rostit bollit</l>
+                    <l n="13" xml:id="C008-13"> entemps passat mudança no sentia</l>
+                    <l n="14" xml:id="C008-14"> daçom reprench hem tinch per molt grosser</l>
+                    <l n="15" xml:id="C008-15"> cuydant saber totquant era mester</l>
+                    <l n="16" xml:id="C008-16"> foll es perfet quis veu menys de follia</l>
                 </lg>
-        <pb n="8v"
-            facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/> 
-            <lg type="cobla" n="3" xml:id="C0008-3">
-                <l n="17" xml:id="C008-17"> Sicom linfant / qui tem mal esperit</l>
-                <l n="18" xml:id="C008-18"> com lidefall / <choice><abbr>compȃyia</abbr><expan>companyia</expan></choice> degent</l>
-                <l n="19" xml:id="C008-19"> preniami / qui dubtaual turment</l>
-                <l n="20" xml:id="C008-20"> quemdauaamor / acostantse la nit</l>
-                <l n="21" xml:id="C008-21"> Edesije / ço quesser no poria</l>
-                <l n="22" xml:id="C008-22"> car fermetat enell / no pot hauer</l>
-                <l n="23" xml:id="C008-23"> puix no es pus / que destemprat voler</l>
-                <l n="24" xml:id="C008-24"> eduratant / com la passiol guia</l>
+                <pb n="8v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+                <lg type="cobla" n="3" xml:id="C0008-3">
+                    <l n="17" xml:id="C008-17"> Sicom linfant / qui tem mal esperit</l>
+                    <l n="18" xml:id="C008-18"> com lidefall / <choice>
+                            <abbr>compȃyia</abbr>
+                            <expan>companyia</expan>
+                        </choice> degent</l>
+                    <l n="19" xml:id="C008-19"> preniami / qui dubtaual turment</l>
+                    <l n="20" xml:id="C008-20"> quemdauaamor / acostantse la nit</l>
+                    <l n="21" xml:id="C008-21"> Edesije / ço quesser no poria</l>
+                    <l n="22" xml:id="C008-22"> car fermetat enell / no pot hauer</l>
+                    <l n="23" xml:id="C008-23"> puix no es pus / que destemprat voler</l>
+                    <l n="24" xml:id="C008-24"> eduratant / com la passiol guia</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0008-4">
-                <l n="25" xml:id="C008-25"> Sicom aquell / quistal bosch escondit</l>
-                <l n="26" xml:id="C008-26"> robant les gents / matant lo defenent</l>
-                <l n="27" xml:id="C008-27"> ecuyda ser adeu / humil seruent</l>
-                <l n="28" xml:id="C008-28"> fayent retret / del temps quel ha seruit</l>
-                <l n="29" xml:id="C008-29"> na pres ami / que avos amor seruia</l>
-                <l n="30" xml:id="C008-30"> passant afanys / esperant lo plaer</l>
-                <l n="31" xml:id="C008-31"> amant molt ferm / ab vn scur esper</l>
-                <l n="32" xml:id="C008-32"> puix he pecat / yo meresch punit sia</l>
+                <lg type="cobla" n="4" xml:id="C0008-4">
+                    <l n="25" xml:id="C008-25"> Sicom aquell / quistal bosch escondit</l>
+                    <l n="26" xml:id="C008-26"> robant les gents / matant lo defenent</l>
+                    <l n="27" xml:id="C008-27"> ecuyda ser adeu / humil seruent</l>
+                    <l n="28" xml:id="C008-28"> fayent retret / del temps quel ha seruit</l>
+                    <l n="29" xml:id="C008-29"> na pres ami / que avos amor seruia</l>
+                    <l n="30" xml:id="C008-30"> passant afanys / esperant lo plaer</l>
+                    <l n="31" xml:id="C008-31"> amant molt ferm / ab vn scur esper</l>
+                    <l n="32" xml:id="C008-32"> puix he pecat / yo meresch punit sia</l>
                 </lg>
-            <lg type="cobla" n="5" xml:id="C0008-5">
-                <l n="33" xml:id="C008-33"> Molt me reprench / com damor he mal dit</l>
-                <l n="34" xml:id="C008-34"> ne dire mal / de donal mon viuent</l>
-                <l n="35" xml:id="C008-35"> esilosol es calt naturalment</l>
-                <l n="36" xml:id="C008-36"> sino es fret / nondeu ser corregit</l>
-                <l n="37" xml:id="C008-37"> perque d'amor / yo mal ja no diria</l>
-                <l n="38" xml:id="C008-38"> quen ell no es / de ben fer lo poder</l>
-                <l n="39" xml:id="C008-39"> car fermetat / de donay es mester</l>
-                <l n="40" xml:id="C008-40"> sila vehes / perdeu ladoraria</l>
+                <lg type="cobla" n="5" xml:id="C0008-5">
+                    <l n="33" xml:id="C008-33"> Molt me reprench / com damor he mal dit</l>
+                    <l n="34" xml:id="C008-34"> ne dire mal / de donal mon viuent</l>
+                    <l n="35" xml:id="C008-35"> esilosol es calt naturalment</l>
+                    <l n="36" xml:id="C008-36"> sino es fret / nondeu ser corregit</l>
+                    <l n="37" xml:id="C008-37"> perque d'amor / yo mal ja no diria</l>
+                    <l n="38" xml:id="C008-38"> quen ell no es / de ben fer lo poder</l>
+                    <l n="39" xml:id="C008-39"> car fermetat / de donay es mester</l>
+                    <l n="40" xml:id="C008-40"> sila vehes / perdeu ladoraria</l>
                 </lg>
-            <lg type="tornada">
-                <l n="41" xml:id="C008-41"> Persa bondat / prech la verge maria</l>
-                <l n="42" xml:id="C008-42"> quen sonseruir / cambie mon voler</l>
-                <l n="43" xml:id="C008-43"> mostrant me clar / com han perdut carrer</l>
-                <l n="44" xml:id="C008-44"> los quin amor / deles dones han via</l>
+                <lg type="tornada">
+                    <l n="41" xml:id="C008-41"> Persa bondat / prech la verge maria</l>
+                    <l n="42" xml:id="C008-42"> quen sonseruir / cambie mon voler</l>
+                    <l n="43" xml:id="C008-43"> mostrant me clar / com han perdut carrer</l>
+                    <l n="44" xml:id="C008-44"> los quin amor / deles dones han via</l>
                 </lg>
-             </lg>
+            </div>
         </body>
     </text>
 </TEI>

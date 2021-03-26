@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            
+
             <titleStmt>
                 <title>Poema 11</title>
                 <author>Ausiàs March </author>
@@ -29,12 +29,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -49,8 +51,8 @@
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 40r after end of previous poem, before this one:</locus> DE AMOR CANTO. LXI.
-                            </rubric>
+                                <locus>f. 40r after end of previous poem, before this one:</locus>
+                                DE AMOR CANTO. LXI. </rubric>
                             <rubric>
                                 <locus>f. 41r between lines 40 and 41 </locus>TORNADA. </rubric>
                             <rubric><locus>f. 41r after line 44</locus> Fin del Canto.lxj.</rubric>
@@ -66,8 +68,8 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
@@ -76,75 +78,78 @@
             url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_154.html"/>
         <graphic
             url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_155.html"/>
-        <graphic 
-            url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_156.html"/>
+        <graphic
+            url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_156.html"
+        />
     </facsimile>
     <text>
-        <body>                
-        <pb n="75r"
-            facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_154.html"/>
-        <div type="poem" xml:id="C008-d061">
-            <lg type="cobla" n="1" xml:id="C0008-1">
-                <l n="1" xml:id="C008-1"> <c rend="large">I</c> A tots mos cants / me plau metre'n oblit</l>
-                <l n="2" xml:id="C008-2"> fora gitant / mon gentil pensament</l>
-                <l n="3" xml:id="C008-3"> e fin Amor / de mi'spartrá breument</l>
-                <l n="4" xml:id="C008-4"> si com fals dient / yo cercare delit.</l>
-                <l n="5" xml:id="C008-5"> Axis conquer / en aquest temps Aymía</l>
-                <l n="6" xml:id="C008-6"> cobles,sospirs / dançes,e bon saber</l>
-                <l n="7" xml:id="C008-7"> lo dret d'Amor / no poden conquerer,</l>
-                <l n="8" xml:id="C008-8"> pasá lo temps / que'l bo fauor hauia.</l>
+        <body>
+            <pb n="75r"
+                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_154.html"/>
+            <div type="poem" xml:id="C008-d061">
+                <lg type="cobla" n="1" xml:id="C0008-1">
+                    <l n="1" xml:id="C008-1">
+                        <c rend="large">I</c> A tots mos cants / me plau metre'n oblit</l>
+                    <l n="2" xml:id="C008-2"> fora gitant / mon gentil pensament</l>
+                    <l n="3" xml:id="C008-3"> e fin Amor / de mi'spartrá breument</l>
+                    <l n="4" xml:id="C008-4"> si com fals dient / yo cercare delit.</l>
+                    <l n="5" xml:id="C008-5"> Axis conquer / en aquest temps Aymía</l>
+                    <l n="6" xml:id="C008-6"> cobles,sospirs / dançes,e bon saber</l>
+                    <l n="7" xml:id="C008-7"> lo dret d'Amor / no poden conquerer,</l>
+                    <l n="8" xml:id="C008-8"> pasá lo temps / que'l bo fauor hauia.</l>
                 </lg>
-        <pb n="75v" 
-            facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_155.html"/>
-            <lg type="cobla" n="2" xml:id="C0008-2">
-                <l n="9" xml:id="C008-9"> Seguire'ltemps / ab affanyos despit</l>
-                <l n="10" xml:id="C008-10"> si col dançant / segueix al esturment</l>
-                <l n="11" xml:id="C008-11"> e mostras be / hauer poch sentiment</l>
-                <l n="12" xml:id="C008-12"> si per vn temps / dança rostit bollit.</l>
-                <l n="13" xml:id="C008-13"> En temps passat / mudança no sentia</l>
-                <l n="14" xml:id="C008-14"> d'açom reprench / em tinch per molt grosser</l>
-                <l n="15" xml:id="C008-15"> cuytant saber / tot quant era mester</l>
-                <l n="16" xml:id="C008-16"> foll es perfet / qui vs veu menys de follia.</l>
+                <pb n="75v"
+                    facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_155.html"/>
+                <lg type="cobla" n="2" xml:id="C0008-2">
+                    <l n="9" xml:id="C008-9"> Seguire'ltemps / ab affanyos despit</l>
+                    <l n="10" xml:id="C008-10"> si col dançant / segueix al esturment</l>
+                    <l n="11" xml:id="C008-11"> e mostras be / hauer poch sentiment</l>
+                    <l n="12" xml:id="C008-12"> si per vn temps / dança rostit bollit.</l>
+                    <l n="13" xml:id="C008-13"> En temps passat / mudança no sentia</l>
+                    <l n="14" xml:id="C008-14"> d'açom reprench / em tinch per molt grosser</l>
+                    <l n="15" xml:id="C008-15"> cuytant saber / tot quant era mester</l>
+                    <l n="16" xml:id="C008-16"> foll es perfet / qui vs veu menys de follia.</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0008-3">
-                <l n="17" xml:id="C008-17"> Si com l'infant / qui tem mal espiri</l>
-                <l n="18" xml:id="C008-18"> com li defall / companyia de gent</l>
-                <l n="19" xml:id="C008-19"> prenia'mi / qui dubtaua el turment</l>
-                <l n="20" xml:id="C008-20"> quem daua'mor / acostant se la nit.</l>    
-                <l n="21" xml:id="C008-21"> E desije / ço que fer no poria</l>
-                <l n="22" xml:id="C008-22"> car fermetat / en ell no pot hauer</l>
-                <l n="23" xml:id="C008-23"> puis no es pus / que destemprat voler</l>
-                <l n="24" xml:id="C008-24"> e dura tant / con la passio le guia.</l>
+                <lg type="cobla" n="3" xml:id="C0008-3">
+                    <l n="17" xml:id="C008-17"> Si com l'infant / qui tem mal espiri</l>
+                    <l n="18" xml:id="C008-18"> com li defall / companyia de gent</l>
+                    <l n="19" xml:id="C008-19"> prenia'mi / qui dubtaua el turment</l>
+                    <l n="20" xml:id="C008-20"> quem daua'mor / acostant se la nit.</l>
+                    <l n="21" xml:id="C008-21"> E desije / ço que fer no poria</l>
+                    <l n="22" xml:id="C008-22"> car fermetat / en ell no pot hauer</l>
+                    <l n="23" xml:id="C008-23"> puis no es pus / que destemprat voler</l>
+                    <l n="24" xml:id="C008-24"> e dura tant / con la passio le guia.</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0008-4">
-                <l n="25" xml:id="C008-25"> Si com aquell / qui'sta'l bosch ascondit</l>
-                <l n="26" xml:id="C008-26"> robant les gens / matant lo defenent</l>
-                <l n="27" xml:id="C008-27"> e cuyda ser / a Deu humil seruent</l>
-                <l n="28" xml:id="C008-28"> faent retret / del temps quel'a seruít.</l>
-                <l n="29" xml:id="C008-29"> Na prés ami / que auos e Amor seruia</l>
-                <l n="30" xml:id="C008-30"> passant affany / esperant lo plaher</l>
-                <l n="31" xml:id="C008-31"> amant molt ferm / ab vn escur esper</l>
-                <l n="32" xml:id="C008-32"> puix he peccat / yo meresch punit sia</l>
+                <lg type="cobla" n="4" xml:id="C0008-4">
+                    <l n="25" xml:id="C008-25"> Si com aquell / qui'sta'l bosch ascondit</l>
+                    <l n="26" xml:id="C008-26"> robant les gens / matant lo defenent</l>
+                    <l n="27" xml:id="C008-27"> e cuyda ser / a Deu humil seruent</l>
+                    <l n="28" xml:id="C008-28"> faent retret / del temps quel'a seruít.</l>
+                    <l n="29" xml:id="C008-29"> Na prés ami / que auos e Amor seruia</l>
+                    <l n="30" xml:id="C008-30"> passant affany / esperant lo plaher</l>
+                    <l n="31" xml:id="C008-31"> amant molt ferm / ab vn escur esper</l>
+                    <l n="32" xml:id="C008-32"> puix he peccat / yo meresch punit sia</l>
                 </lg>
-        <pb n="76r" 
-            facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_156.html"/>
-            <lg type="cobla" n="5" xml:id="C0008-5">
-                <l n="33" xml:id="C008-33"> Molt me reprench / com d'amor e maldit</l>
-                <l n="34" xml:id="C008-34"> ne dire mal / de dona al mon viuent:</l>
-                <l n="35" xml:id="C008-35"> e si lo Sol / es calt naturalment</l>
-                <l n="36" xml:id="C008-36"> sino es fret / non deu ser corregit.</l>
-                <l n="37" xml:id="C008-37"> Perque d'Amor / yo mal ia no diria</l>
-                <l n="38" xml:id="C008-38"> quen ell no es / de ben fer lo poder</l>
-                <l n="39" xml:id="C008-39"> car fermetat / de dona y es mester</l>
-                <l n="40" xml:id="C008-40"> si la vehes / per Deu l'adoraria.</l>
+                <pb n="76r"
+                    facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_156.html"/>
+                <lg type="cobla" n="5" xml:id="C0008-5">
+                    <l n="33" xml:id="C008-33"> Molt me reprench / com d'amor e maldit</l>
+                    <l n="34" xml:id="C008-34"> ne dire mal / de dona al mon viuent:</l>
+                    <l n="35" xml:id="C008-35"> e si lo Sol / es calt naturalment</l>
+                    <l n="36" xml:id="C008-36"> sino es fret / non deu ser corregit.</l>
+                    <l n="37" xml:id="C008-37"> Perque d'Amor / yo mal ia no diria</l>
+                    <l n="38" xml:id="C008-38"> quen ell no es / de ben fer lo poder</l>
+                    <l n="39" xml:id="C008-39"> car fermetat / de dona y es mester</l>
+                    <l n="40" xml:id="C008-40"> si la vehes / per Deu l'adoraria.</l>
                 </lg>
-            <lg type="tornada">
-                <l n="41" xml:id="C008-41"> Per sa bondat / prech la verge Maria</l>
-                <l n="42" xml:id="C008-42"> que'n son servey / cambie mon velor<note type="editorial"> Per voler</note></l>
-                <l n="43" xml:id="C008-43"> mostrant me clar / com han perdut carrer</l>
-                <l n="44" xml:id="C008-44"> lo qúe'n Amor / de les dones han via.</l>
+                <lg type="tornada">
+                    <l n="41" xml:id="C008-41"> Per sa bondat / prech la verge Maria</l>
+                    <l n="42" xml:id="C008-42"> que'n son servey / cambie mon velor<note
+                            type="editorial"> Per voler</note></l>
+                    <l n="43" xml:id="C008-43"> mostrant me clar / com han perdut carrer</l>
+                    <l n="44" xml:id="C008-44"> lo qúe'n Amor / de les dones han via.</l>
                 </lg>
-             </lg>
+            </div>
         </body>
     </text>
 </TEI>

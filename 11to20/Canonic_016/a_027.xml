@@ -86,10 +86,9 @@
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_91.html"/>
          <div type="poem" xml:id="C016-C033-a027">
             <lg type="cobla" n="1" xml:id="C033-01">
-               <note
-                  type="editorial">Poesia composta per fragments de dues poesies. Segons les
-                  edicions crítiques actuals, aquesta poesia està formada per 32 versos de la
-                  poesia 33 i 40 de la poesia 16.</note>
+               <note type="editorial">Poesia composta per fragments de dues poesies. Segons les
+                  edicions crítiques actuals, aquesta poesia està formada per 32 versos de la poesia
+                  33 i 40 de la poesia 16.</note>
                <l n="1" xml:id="C033-1"> &#182; Sens lo desig / de cosa desonesta</l>
 
                <l n="2" xml:id="C033-2"> Don ve dolor / a tot enamorat </l>
@@ -278,7 +277,7 @@
 
                <l n="72" xml:id="C016-40"> Per no complir / la mia desuentura </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

@@ -82,157 +82,120 @@
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_24.html"/>
          <div type="poem" xml:id="C013-A061">
             <lg type="cobla" n="1" xml:id="C011-01">
-               
-               <l n="1" xml:id="C011-1"> &#182;  Quins tals segurs consells vas acertant
+
+               <l n="1" xml:id="C011-1"> &#182; Quins tals segurs consells vas acertant </l>
+
+               <l n="2" xml:id="C011-2"> Cors malestruc enfastijat de viure </l>
+
+               <l n="3" xml:id="C011-3"> Amich de plor e desamjch de Riure </l>
+
+               <l n="4" xml:id="C011-4"> Com sofferras los mals quit son dauant </l>
+
+               <l n="5" xml:id="C011-5"> Acuytat donchs alamort quit espera </l>
+
+               <l n="6" xml:id="C011-6"> Que per tos mals te alongues los gors <note
+                     type="editorial">Per jorns.</note>
                </l>
-               
-               <l n="2" xml:id="C011-2"> Cors malestruc enfastijat de viure
+
+               <l n="7" xml:id="C011-7"> Aytant es luny ton delitos <choice>
+                     <abbr>sogořs</abbr>
+                     <expan>sogorns</expan>
+                  </choice>
                </l>
-               
-               <l n="3" xml:id="C011-3"> Amich de plor e desamjch de Riure
-               </l>
-               
-               <l n="4" xml:id="C011-4"> Com sofferras los mals quit son dauant
-               </l>
-               
-               <l n="5" xml:id="C011-5"> Acuytat donchs alamort quit espera
-               </l>
-               
-               <l n="6" xml:id="C011-6"> Que per tos mals te alongues los gors <note type="editorial">Per jorns.</note>
-               </l>
-               
-               <l n="7" xml:id="C011-7"> Aytant es luny ton delitos <choice><abbr>sogořs</abbr><expan>sogorns</expan></choice>
-               </l>
-               
-               <l n="8" xml:id="C011-8"> Com vols fugir alamort falaguera
-               </l>
-               
+
+               <l n="8" xml:id="C011-8"> Com vols fugir alamort falaguera </l>
+
             </lg>
             <lg type="cobla" n="2" xml:id="C011-02">
-               
-               <l n="9" xml:id="C011-9"> Bracos uberts es exida carrera
-               </l>
-               
-               <l n="10" xml:id="C011-10"> Plorant sos vlls per sobres de gran goig
-               </l>
-               
-               <l n="11" xml:id="C011-11"> Melodios cantar de sa veu oig
-               </l>
-               
-               <l n="12" xml:id="C011-12"> Dient amich ix decassastrangera
-               </l>
-               
-               <l n="13" xml:id="C011-13"> Quen delit prench donarte ma fauor
-               </l>
-               
-               <l n="14" xml:id="C011-14"> Que per null temps home nat la sentida
-               </l>
-               
-               <l n="15" xml:id="C011-15"> Car yo defug atot home quim crida
-               </l>
-               
-               <l n="16" xml:id="C011-16"> Prenint aquell quj fuig dema rigor
-               </l>
+
+               <l n="9" xml:id="C011-9"> Bracos uberts es exida carrera </l>
+
+               <l n="10" xml:id="C011-10"> Plorant sos vlls per sobres de gran goig </l>
+
+               <l n="11" xml:id="C011-11"> Melodios cantar de sa veu oig </l>
+
+               <l n="12" xml:id="C011-12"> Dient amich ix decassastrangera </l>
+
+               <l n="13" xml:id="C011-13"> Quen delit prench donarte ma fauor </l>
+
+               <l n="14" xml:id="C011-14"> Que per null temps home nat la sentida </l>
+
+               <l n="15" xml:id="C011-15"> Car yo defug atot home quim crida </l>
+
+               <l n="16" xml:id="C011-16"> Prenint aquell quj fuig dema rigor </l>
             </lg>
-            
+
             <lg type="cobla" n="3" xml:id="C011-03">
-               
-               <l n="17" xml:id="C011-17"> Ab vlls plorants e carra de <del rend="overstrike">dolor</del> terror
-               </l>
-               
-               <l n="18" xml:id="C011-18"> Cabells rompent ab grans hudolaments
-               </l>
-               
-               <l n="19" xml:id="C011-19"> La vidam vol donar eretaments
-               </l>
-               
-               <l n="20" xml:id="C011-20"> E daquests dons vull que sia senyor
-               </l>
-               
-               <l n="21" xml:id="C011-21"> Cridant ab veu horible y dolorossa
-               </l>
-               
-               <l n="22" xml:id="C011-22"> Tal com lamort cridal benuyrat
-               </l>
-               
-               <l n="23" xml:id="C011-23"> Car silom es als mals aperellat
-               </l>
-               
-               <l n="24" xml:id="C011-24"> La veu deplor lies melodiosa
-               </l>
-               
+
+               <l n="17" xml:id="C011-17"> Ab vlls plorants e carra de <del rend="overstrike"
+                     >dolor</del> terror </l>
+
+               <l n="18" xml:id="C011-18"> Cabells rompent ab grans hudolaments </l>
+
+               <l n="19" xml:id="C011-19"> La vidam vol donar eretaments </l>
+
+               <l n="20" xml:id="C011-20"> E daquests dons vull que sia senyor </l>
+
+               <l n="21" xml:id="C011-21"> Cridant ab veu horible y dolorossa </l>
+
+               <l n="22" xml:id="C011-22"> Tal com lamort cridal benuyrat </l>
+
+               <l n="23" xml:id="C011-23"> Car silom es als mals aperellat </l>
+
+               <l n="24" xml:id="C011-24"> La veu deplor lies melodiosa </l>
+
             </lg>
             <pb n="23"
                facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_25.html"/>
             <lg type="cobla" n="4" xml:id="C011-04">
-               
-               <l n="25" xml:id="C011-25"> Bem marrauell com es tan ergullossa
-               </l>
-               
-               <l n="26" xml:id="C011-26"> La voluntat de cascun amador
-               </l>
-               
-               <l n="27" xml:id="C011-27"> No demanant amj que es amor
-               </l>
-               
-               <l n="28" xml:id="C011-28"> En mj sabran sa forca poderosa
-               </l>
-               
-               <l n="29" xml:id="C011-29"> Tots mal dient sagrementajaran
-               </l>
-               
-               <l n="30" xml:id="C011-30"> Que may amor los tindran son poder
-               </l>
-               
-               <l n="31" xml:id="C011-31"> E sils recont lacolorat plaer
-               </l>
-               
-               <l n="32" xml:id="C011-32"> Lo temps perdut sospirant mal diran
-               </l>
-               
+
+               <l n="25" xml:id="C011-25"> Bem marrauell com es tan ergullossa </l>
+
+               <l n="26" xml:id="C011-26"> La voluntat de cascun amador </l>
+
+               <l n="27" xml:id="C011-27"> No demanant amj que es amor </l>
+
+               <l n="28" xml:id="C011-28"> En mj sabran sa forca poderosa </l>
+
+               <l n="29" xml:id="C011-29"> Tots mal dient sagrementajaran </l>
+
+               <l n="30" xml:id="C011-30"> Que may amor los tindran son poder </l>
+
+               <l n="31" xml:id="C011-31"> E sils recont lacolorat plaer </l>
+
+               <l n="32" xml:id="C011-32"> Lo temps perdut sospirant mal diran </l>
+
             </lg>
-           <lg type="cobla" n="5" xml:id="C011-05">
-               
-               <l n="33" xml:id="C011-33"> Null hom conech ho donalmeu semblan
-               </l>
-               
-               <l n="34" xml:id="C011-34"> Que dolorit per amor faca player
-               </l>
-               
-               <l n="35" xml:id="C011-35"> Yo son aquell de qujs deu hom complanyer
-               </l>
-               
-               <l n="36" xml:id="C011-36"> Car demon cor la sanch se va luyan
-               </l>
-               
-               <l n="37" xml:id="C011-37"> Per gran tristor que lies acostada
-               </l>
-               
-               <l n="38" xml:id="C011-38"> Seques tot jorn lumit quim soste vida
-               </l>
-               
-               <l n="39" xml:id="C011-39"> E la tristor es contra mj ardida
-               </l>
-               
-               <l n="40" xml:id="C011-40"> En mon socors ma nosi trobarmada
-               </l>
-               
-            </lg>            
+            <lg type="cobla" n="5" xml:id="C011-05">
+
+               <l n="33" xml:id="C011-33"> Null hom conech ho donalmeu semblan </l>
+
+               <l n="34" xml:id="C011-34"> Que dolorit per amor faca player </l>
+
+               <l n="35" xml:id="C011-35"> Yo son aquell de qujs deu hom complanyer </l>
+
+               <l n="36" xml:id="C011-36"> Car demon cor la sanch se va luyan </l>
+
+               <l n="37" xml:id="C011-37"> Per gran tristor que lies acostada </l>
+
+               <l n="38" xml:id="C011-38"> Seques tot jorn lumit quim soste vida </l>
+
+               <l n="39" xml:id="C011-39"> E la tristor es contra mj ardida </l>
+
+               <l n="40" xml:id="C011-40"> En mon socors ma nosi trobarmada </l>
+
+            </lg>
             <lg type="cobla" n="6" xml:id="C011-06">
-               
-               <l n="41" xml:id="C011-41"> Lir entre carts lora ses acostada
-               </l>
-               
-               <l n="42" xml:id="C011-42"> Que ciuilment es ma vida finida
-               </l>
-               
-               <l n="43" xml:id="C011-43"> Pusque del tot masperanca es fugida
-               </l>
-               
-               <l n="44" xml:id="C011-44"> Marma roman en aquest mon dampnada
-               </l>               
+
+               <l n="41" xml:id="C011-41"> Lir entre carts lora ses acostada </l>
+
+               <l n="42" xml:id="C011-42"> Que ciuilment es ma vida finida </l>
+
+               <l n="43" xml:id="C011-43"> Pusque del tot masperanca es fugida </l>
+
+               <l n="44" xml:id="C011-44"> Marma roman en aquest mon dampnada </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 

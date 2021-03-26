@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            
+
             <titleStmt>
                 <title>Poema 8</title>
                 <author>Ausiàs March </author>
@@ -29,12 +29,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -62,8 +64,8 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
@@ -72,75 +74,133 @@
             url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_24.html"/>
         <graphic
             url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_25.html"/>
-        <graphic 
-            url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_26.html"></graphic>
+        <graphic
+            url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_26.html"
+        />
     </facsimile>
     <text>
-        <body>                           
-        <pb n="9r"
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_24.html"/>
-        <div type="poem" xml:id="C008-K008">
-            <lg type="cobla" n="1" xml:id="C0008-1">
-                <l n="1" xml:id="C008-1"> i A tots mos cants me plau metranoblit</l>
-                <l n="2" xml:id="C008-2"> Foragitant mon gentil pensament</l>
-                <l n="3" xml:id="C008-3"> E finamor de mis partra breu ment</l>
-                <l n="4" xml:id="C008-4"> E si com fals drut sercare delit</l>
-                <l n="5" xml:id="C008-5"> Axis conquer en <choice><abbr>ꝗast</abbr><expan>aquest</expan></choice> <choice><abbr>ŧps</abbr><expan>temps</expan></choice> aymia</l>
-                <l n="6" xml:id="C008-6"> Cobles e leys<note>Es refereix a lays, un tipus de composiciópoética molt usada en el segle XIV (Andreu Febrer, Jordi de sant Jordi). Elcopista sembla no conéixer aquest tipus de metre i interpreta llei, la qualcosa no té sentit</note> dançes e bon saber</l>
-                <l n="7" xml:id="C008-7"> Lo dret damor no podent <choice><abbr>cȏquerer</abbr><expan>conquerer</expan></choice></l>
-                <l n="8" xml:id="C008-8"> Passa lo temps quel bo fauor hauia</l>
+        <body>
+            <pb n="9r"
+                facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_24.html"/>
+            <div type="poem" xml:id="C008-K008">
+                <lg type="cobla" n="1" xml:id="C0008-1">
+                    <l n="1" xml:id="C008-1"> i A tots mos cants me plau metranoblit</l>
+                    <l n="2" xml:id="C008-2"> Foragitant mon gentil pensament</l>
+                    <l n="3" xml:id="C008-3"> E finamor de mis partra breu ment</l>
+                    <l n="4" xml:id="C008-4"> E si com fals drut sercare delit</l>
+                    <l n="5" xml:id="C008-5"> Axis conquer en <choice>
+                            <abbr>ꝗast</abbr>
+                            <expan>aquest</expan>
+                        </choice>
+                        <choice>
+                            <abbr>ŧps</abbr>
+                            <expan>temps</expan>
+                        </choice> aymia</l>
+                    <l n="6" xml:id="C008-6"> Cobles e leys<note>Es refereix a lays, un tipus de
+                            composiciópoética molt usada en el segle XIV (Andreu Febrer, Jordi de
+                            sant Jordi). Elcopista sembla no conéixer aquest tipus de metre i
+                            interpreta llei, la qualcosa no té sentit</note> dançes e bon saber</l>
+                    <l n="7" xml:id="C008-7"> Lo dret damor no podent <choice>
+                            <abbr>cȏquerer</abbr>
+                            <expan>conquerer</expan>
+                        </choice></l>
+                    <l n="8" xml:id="C008-8"> Passa lo temps quel bo fauor hauia</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0008-2">
-                <l n="9" xml:id="C008-9"> Segui<del rend="overstrike">e</del>rel ab affanyos despit</l>
-                <l n="10" xml:id="C008-10"> Sicol <choice><abbr>dȃçant</abbr><expan>dançant</expan></choice> seguex al jnstrument</l>
-                <l n="11" xml:id="C008-11"> E mostra be hauer poch sentiment</l>
-                <l n="12" xml:id="C008-12"> Si per vn temps dança rostit bollit</l>
-                <l n="13" xml:id="C008-13"> En temps passat mudança no sentia</l>
-                <l n="14" xml:id="C008-14"> Daçom reprench em tinch per molt grocer</l>
-                <l n="15" xml:id="C008-15"> Cuydant saber tot <choice><abbr>quȃt</abbr><expan>quant</expan></choice> era mester</l>
-                <l n="16" xml:id="C008-16"> Foll es perfet quis veu menys <choice><abbr>ƌ</abbr><expan>de</expan></choice> follia</l>
+                <lg type="cobla" n="2" xml:id="C0008-2">
+                    <l n="9" xml:id="C008-9"> Segui<del rend="overstrike">e</del>rel ab affanyos
+                        despit</l>
+                    <l n="10" xml:id="C008-10"> Sicol <choice>
+                            <abbr>dȃçant</abbr>
+                            <expan>dançant</expan>
+                        </choice> seguex al jnstrument</l>
+                    <l n="11" xml:id="C008-11"> E mostra be hauer poch sentiment</l>
+                    <l n="12" xml:id="C008-12"> Si per vn temps dança rostit bollit</l>
+                    <l n="13" xml:id="C008-13"> En temps passat mudança no sentia</l>
+                    <l n="14" xml:id="C008-14"> Daçom reprench em tinch per molt grocer</l>
+                    <l n="15" xml:id="C008-15"> Cuydant saber tot <choice>
+                            <abbr>quȃt</abbr>
+                            <expan>quant</expan>
+                        </choice> era mester</l>
+                    <l n="16" xml:id="C008-16"> Foll es perfet quis veu menys <choice>
+                            <abbr>ƌ</abbr>
+                            <expan>de</expan>
+                        </choice> follia</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0008-3">
-                <l n="17" xml:id="C008-17"> Si com linfant qui tem mal sperit</l>
-                <l n="18" xml:id="C008-18"> Com li defall companyia de gent</l>
-        <pb n="9v" 
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_25.html"/> 
-                <l n="19" xml:id="C008-19"> Preniamj qui dubtaual turment</l>
-                <l n="20" xml:id="C008-20"> Quem dauamor acostantsa la njt</l>
-                <l n="21" xml:id="C008-21"> E desije so <choice><abbr>ꝗ</abbr><expan>que</expan></choice> ser no poria</l>
-                <l n="22" xml:id="C008-22"> Car fermament en ell no pot hauer</l>
-                <l n="23" xml:id="C008-23"> Puys no es pus <choice><abbr>ꝗ</abbr><expan>que</expan></choice> destemprat voler</l>
-                <l n="24" xml:id="C008-24"> E dura tant com la patiol guia</l>
+                <lg type="cobla" n="3" xml:id="C0008-3">
+                    <l n="17" xml:id="C008-17"> Si com linfant qui tem mal sperit</l>
+                    <l n="18" xml:id="C008-18"> Com li defall companyia de gent</l>
+                    <pb n="9v"
+                        facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_25.html"/>
+                    <l n="19" xml:id="C008-19"> Preniamj qui dubtaual turment</l>
+                    <l n="20" xml:id="C008-20"> Quem dauamor acostantsa la njt</l>
+                    <l n="21" xml:id="C008-21"> E desije so <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> ser no poria</l>
+                    <l n="22" xml:id="C008-22"> Car fermament en ell no pot hauer</l>
+                    <l n="23" xml:id="C008-23"> Puys no es pus <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> destemprat voler</l>
+                    <l n="24" xml:id="C008-24"> E dura tant com la patiol guia</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0008-4">
-                <l n="25" xml:id="C008-25"> Si com <choice><abbr>aꝗll</abbr><expan>aquell</expan></choice> quistal bosch scondit</l>
-                <l n="26" xml:id="C008-26"> Robant les gents matant lo <choice><abbr>defenȇt</abbr><expan>defenent</expan></choice></l>
-                <l n="27" xml:id="C008-27"> E cuydas fer adeu humjl <choice><abbr>seruȇt</abbr><expan>seruent</expan></choice></l>
-                <l n="28" xml:id="C008-28"> Faent retret del temps quela seruit</l>
-                <l n="29" xml:id="C008-29"> Na pres ami quauos amor seruia</l>
-                <l n="30" xml:id="C008-30"> Passant affanys sperant lo plaer</l>
-                <l n="31" xml:id="C008-31"> Amant molt ferm ab vn scur sper</l>
-                <l n="32" xml:id="C008-32"> Puys he peccat yo meresch punit sia</l>
+                <lg type="cobla" n="4" xml:id="C0008-4">
+                    <l n="25" xml:id="C008-25"> Si com <choice>
+                            <abbr>aꝗll</abbr>
+                            <expan>aquell</expan>
+                        </choice> quistal bosch scondit</l>
+                    <l n="26" xml:id="C008-26"> Robant les gents matant lo <choice>
+                            <abbr>defenȇt</abbr>
+                            <expan>defenent</expan>
+                        </choice></l>
+                    <l n="27" xml:id="C008-27"> E cuydas fer adeu humjl <choice>
+                            <abbr>seruȇt</abbr>
+                            <expan>seruent</expan>
+                        </choice></l>
+                    <l n="28" xml:id="C008-28"> Faent retret del temps quela seruit</l>
+                    <l n="29" xml:id="C008-29"> Na pres ami quauos amor seruia</l>
+                    <l n="30" xml:id="C008-30"> Passant affanys sperant lo plaer</l>
+                    <l n="31" xml:id="C008-31"> Amant molt ferm ab vn scur sper</l>
+                    <l n="32" xml:id="C008-32"> Puys he peccat yo meresch punit sia</l>
                 </lg>
-            <lg type="cobla" n="5" xml:id="C0008-5">
-                <l n="33" xml:id="C008-33"> Molt me reprench <choice><abbr>cȏ</abbr><expan>com</expan></choice> damor he mal dit</l>
-                <l n="34" xml:id="C008-34"> Ne dire mal de dona al <choice><abbr>mȏ</abbr><expan>mon</expan></choice> viuent</l>
-                <l n="35" xml:id="C008-35"> E si lo sol es calt naturalment</l>
-                <l n="36" xml:id="C008-36"> Si no es fret no deu ser corregit</l>
-                <l n="37" xml:id="C008-37"> Per <choice><abbr>ꝗ</abbr><expan>que</expan></choice> damor yo mal ya no diria</l>
-                <l n="38" xml:id="C008-38"> Quenell no es de ben fer lo poder</l>
-                <l n="39" xml:id="C008-39"> Car femetat de donay es mester</l>
-                <l n="40" xml:id="C008-40"> En sila ves per deu ladoraria</l>
+                <lg type="cobla" n="5" xml:id="C0008-5">
+                    <l n="33" xml:id="C008-33"> Molt me reprench <choice>
+                            <abbr>cȏ</abbr>
+                            <expan>com</expan>
+                        </choice> damor he mal dit</l>
+                    <l n="34" xml:id="C008-34"> Ne dire mal de dona al <choice>
+                            <abbr>mȏ</abbr>
+                            <expan>mon</expan>
+                        </choice> viuent</l>
+                    <l n="35" xml:id="C008-35"> E si lo sol es calt naturalment</l>
+                    <l n="36" xml:id="C008-36"> Si no es fret no deu ser corregit</l>
+                    <l n="37" xml:id="C008-37"> Per <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> damor yo mal ya no diria</l>
+                    <l n="38" xml:id="C008-38"> Quenell no es de ben fer lo poder</l>
+                    <l n="39" xml:id="C008-39"> Car femetat de donay es mester</l>
+                    <l n="40" xml:id="C008-40"> En sila ves per deu ladoraria</l>
                 </lg>
-            <lg type="cobla" n="6" xml:id="C0008-6">
-                <l n="41" xml:id="C008-41"> Per sa bondat prech la verge maria</l>
-        <pb n="10r" 
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_26.html"/> 
-                <l n="42" xml:id="C008-42"> Quen son seruir <choice><abbr>cȃbie</abbr><expan>cambie</expan></choice> mon voler</l>
-                <l n="43" xml:id="C008-43"> <choice><abbr>Mostrȃt</abbr><expan>Mostrant</expan></choice> me clar com han <choice><abbr>ꝑdut</abbr><expan>perdut</expan></choice> carrer</l>
-                <l n="44" xml:id="C008-44"> Los quin amor de dones an via</l>
+                <lg type="cobla" n="6" xml:id="C0008-6">
+                    <l n="41" xml:id="C008-41"> Per sa bondat prech la verge maria</l>
+                    <pb n="10r"
+                        facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_26.html"/>
+                    <l n="42" xml:id="C008-42"> Quen son seruir <choice>
+                            <abbr>cȃbie</abbr>
+                            <expan>cambie</expan>
+                        </choice> mon voler</l>
+                    <l n="43" xml:id="C008-43">
+                        <choice>
+                            <abbr>Mostrȃt</abbr>
+                            <expan>Mostrant</expan>
+                        </choice> me clar com han <choice>
+                            <abbr>ꝑdut</abbr>
+                            <expan>perdut</expan>
+                        </choice> carrer</l>
+                    <l n="44" xml:id="C008-44"> Los quin amor de dones an via</l>
                 </lg>
-              </lg>
+            </div>
         </body>
     </text>
 </TEI>

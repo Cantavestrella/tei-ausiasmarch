@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 15</title>
             <author>Ausiàs March </author>
@@ -49,7 +49,7 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 23v first line</locus>DE AMOR CANTO  XVII.</rubric>
+                        <locus>f. 23v first line</locus>DE AMOR CANTO XVII.</rubric>
                      <rubric>
                         <locus>f. 24v between lines 48 and 49 </locus>TORNADA.</rubric>
                      <rubric>
@@ -76,8 +76,9 @@
          url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_51.html"/>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_52.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_53.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_53.html"
+      />
    </facsimile>
    <text>
       <body>
@@ -85,180 +86,148 @@
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_51.html"/>
          <div type="poem" xml:id="C015-d017">
             <lg type="cobla" n="1" xml:id="C015-01">
-               
-               <l n="1" xml:id="C015-1"> S<c rend="large">i</c> pres grans mals / <choice><abbr>hȗ</abbr><expan>hun</expan></choice> bem sera guardat
+
+               <l n="1" xml:id="C015-1"> S<c rend="large">i</c> pres grans mals / <choice>
+                     <abbr>hȗ</abbr>
+                     <expan>hun</expan>
+                  </choice> bem sera guardat </l>
+
+               <l n="2" xml:id="C015-2"> mos guanys / e <choice>
+                     <abbr>plȃts</abbr>
+                     <expan>plants</expan>
+                  </choice>:delits se <choice>
+                     <abbr>cȏuertrȃ</abbr>
+                     <expan>conuertran</expan>
+                  </choice>
                </l>
-               
-               <l n="2" xml:id="C015-2"> mos guanys / e <choice><abbr>plȃts</abbr><expan>plants</expan></choice>:delits se <choice><abbr>cȏuertrȃ</abbr><expan>conuertran</expan></choice>
-               </l>
-               
-               <l n="3" xml:id="C015-3"> a pres los mals / los bens millor parran
-               </l>
-               
-               <l n="4" xml:id="C015-4"> e be no val / pas tant com es preat.
-               </l>
-               
-               <l n="5" xml:id="C015-5"> Rey pot ser dit / lo pobre dins la pensa
-               </l>
-               
-               <l n="6" xml:id="C015-6"> per vn petit / do: quel sia ofert
-               </l>
-               
-               <l n="7" xml:id="C015-7"> e lo rich hom / de llarguesa desert
-               </l>
-               
-               <l n="8" xml:id="C015-8"> gran suma d'or / pobretat nol defensa.
-               </l>
+
+               <l n="3" xml:id="C015-3"> a pres los mals / los bens millor parran </l>
+
+               <l n="4" xml:id="C015-4"> e be no val / pas tant com es preat. </l>
+
+               <l n="5" xml:id="C015-5"> Rey pot ser dit / lo pobre dins la pensa </l>
+
+               <l n="6" xml:id="C015-6"> per vn petit / do: quel sia ofert </l>
+
+               <l n="7" xml:id="C015-7"> e lo rich hom / de llarguesa desert </l>
+
+               <l n="8" xml:id="C015-8"> gran suma d'or / pobretat nol defensa. </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C015-02">
-               
-               <l n="9" xml:id="C015-9"> &#182;  Mon <choice><abbr>pensamȇt</abbr><expan>pensament</expan></choice> / enbolt en Amor pensa
-               </l>
-               
-               <l n="10" xml:id="C015-10"> com tot son be / d'<choice><abbr>aꝗst</abbr><expan>aquest</expan></choice> lloch puscha tráure
-               </l>
-               
-               <l n="11" xml:id="C015-11"> no piados / Amor lo veu mort jáure
-               </l>
-               
-               <l n="12" xml:id="C015-12"> durar no deu / lo comport desta offensa
-               </l>
-               
-               <l n="13" xml:id="C015-13"> Per mal demi / romp sos costums Amor:
-               </l>
-               
-               <l n="14" xml:id="C015-14"> e fa mentir / los que dell han escrit
-               </l>
-               
-               <l n="15" xml:id="C015-15"> esperiment / en mi esdefallit
-               </l>
-               
-               <l n="16" xml:id="C015-16"> Amor desdiu / ser en tal cas senyor.
-               </l>
+
+               <l n="9" xml:id="C015-9"> &#182; Mon <choice>
+                     <abbr>pensamȇt</abbr>
+                     <expan>pensament</expan>
+                  </choice> / enbolt en Amor pensa </l>
+
+               <l n="10" xml:id="C015-10"> com tot son be / d'<choice>
+                     <abbr>aꝗst</abbr>
+                     <expan>aquest</expan>
+                  </choice> lloch puscha tráure </l>
+
+               <l n="11" xml:id="C015-11"> no piados / Amor lo veu mort jáure </l>
+
+               <l n="12" xml:id="C015-12"> durar no deu / lo comport desta offensa </l>
+
+               <l n="13" xml:id="C015-13"> Per mal demi / romp sos costums Amor: </l>
+
+               <l n="14" xml:id="C015-14"> e fa mentir / los que dell han escrit </l>
+
+               <l n="15" xml:id="C015-15"> esperiment / en mi esdefallit </l>
+
+               <l n="16" xml:id="C015-16"> Amor desdiu / ser en tal cas senyor. </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C015-03">
-               
-               <l n="17" xml:id="C015-17"> &#182;  Si com lo Sol /escalfa'b sa calor
-               </l>
-               
-               <l n="18" xml:id="C015-18"> totes les parts / que son dejus lo çel
-               </l>
-               
-               <l n="19" xml:id="C015-19"> escalf'Amor / cascun cor de bon zel
-               </l>
-               
-               <l n="20" xml:id="C015-20"> sino'l de vos / qui es ple de fredor.
-               </l>
-               
-               <l n="21" xml:id="C015-21"> D'on ve lo glaç / qui tanta fredor porta
-               </l>
-               
-               <l n="22" xml:id="C015-22"> faent contrast / al calt que Amor gita?
-               </l>
-               
-               <l n="23" xml:id="C015-23"> als hermitanys / fa sortir'de la hermita
-               </l>
-               
-               <l n="24" xml:id="C015-24"> los grans delits / se'ntran per esta porta.
-               </l>
+
+               <l n="17" xml:id="C015-17"> &#182; Si com lo Sol /escalfa'b sa calor </l>
+
+               <l n="18" xml:id="C015-18"> totes les parts / que son dejus lo çel </l>
+
+               <l n="19" xml:id="C015-19"> escalf'Amor / cascun cor de bon zel </l>
+
+               <l n="20" xml:id="C015-20"> sino'l de vos / qui es ple de fredor. </l>
+
+               <l n="21" xml:id="C015-21"> D'on ve lo glaç / qui tanta fredor porta </l>
+
+               <l n="22" xml:id="C015-22"> faent contrast / al calt que Amor gita? </l>
+
+               <l n="23" xml:id="C015-23"> als hermitanys / fa sortir'de la hermita </l>
+
+               <l n="24" xml:id="C015-24"> los grans delits / se'ntran per esta porta. </l>
             </lg>
             <pb n="24r"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_52.html"/>
             <lg type="cobla" n="4" xml:id="C015-04">
-               
-               <l n="25" xml:id="C015-25"> Del foch de Amor / Fedra nofonch estorta
-               </l>
-               
-               <l n="26" xml:id="C015-26"> requerre volch / Y polit son fillastre
-               </l>
-               
-               <l n="27" xml:id="C015-27"> e Lançalot / hac en Amor tal astre
-               </l>
-               
-               <l n="28" xml:id="C015-28"> que fon request / per dona quin fo morta.
-               </l>
-               
-               <l n="29" xml:id="C015-29"> O cruels fats / vos qui fes jutjamént
-               </l>
-               
-               <l n="30" xml:id="C015-30"> queyo amas / hun cor de carn tan dur
-               </l>
-               
-               <l n="31" xml:id="C015-31"> feu lo ser moll / manauli que no dur
-               </l>
-               
-               <l n="32" xml:id="C015-32"> que ab vll cast / denegue mon talent.
-               </l>
+
+               <l n="25" xml:id="C015-25"> Del foch de Amor / Fedra nofonch estorta </l>
+
+               <l n="26" xml:id="C015-26"> requerre volch / Y polit son fillastre </l>
+
+               <l n="27" xml:id="C015-27"> e Lançalot / hac en Amor tal astre </l>
+
+               <l n="28" xml:id="C015-28"> que fon request / per dona quin fo morta. </l>
+
+               <l n="29" xml:id="C015-29"> O cruels fats / vos qui fes jutjamént </l>
+
+               <l n="30" xml:id="C015-30"> queyo amas / hun cor de carn tan dur </l>
+
+               <l n="31" xml:id="C015-31"> feu lo ser moll / manauli que no dur </l>
+
+               <l n="32" xml:id="C015-32"> que ab vll cast / denegue mon talent. </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C015-05">
-               
-               <l n="33" xml:id="C015-33"> &#182;  Amor es tal / que fests injusts consent
-               </l>
-               
-               <l n="34" xml:id="C015-34"> mas james fon / tan injust com aquest
-               </l>
-               
-               <l n="35" xml:id="C015-35"> car yo guaiment / mon cor e romp lo test
-               </l>
-               
-               <l n="36" xml:id="C015-36"> e vos sou prop / quem siau mal volent.
-               </l>
-               
-               <l n="37" xml:id="C015-37"> Ma pensa es / en vos pensar enbolta
-               </l>
-               
-               <l n="38" xml:id="C015-38"> es li forçat / d'altra part no la tiren
-               </l>
-               
-               <l n="39" xml:id="C015-39"> e vostres vlls / en guardar mi nos'giren
-               </l>
-               
-               <l n="40" xml:id="C015-40"> e mostren be / sa pensa tenir solta.
-               </l>
+
+               <l n="33" xml:id="C015-33"> &#182; Amor es tal / que fests injusts consent </l>
+
+               <l n="34" xml:id="C015-34"> mas james fon / tan injust com aquest </l>
+
+               <l n="35" xml:id="C015-35"> car yo guaiment / mon cor e romp lo test </l>
+
+               <l n="36" xml:id="C015-36"> e vos sou prop / quem siau mal volent. </l>
+
+               <l n="37" xml:id="C015-37"> Ma pensa es / en vos pensar enbolta </l>
+
+               <l n="38" xml:id="C015-38"> es li forçat / d'altra part no la tiren </l>
+
+               <l n="39" xml:id="C015-39"> e vostres vlls / en guardar mi nos'giren </l>
+
+               <l n="40" xml:id="C015-40"> e mostren be / sa pensa tenir solta. </l>
             </lg>
             <lg type="cobla" n="6" xml:id="C015-06">
-               
-               <l n="41" xml:id="C015-41"> &#182;  Si amat so / festam'deu esser colta
-               </l>
-               
-               <l n="42" xml:id="C015-42"> car enlo mon / vn cos sera guanyat
-               </l>
-               
-               <l n="43" xml:id="C015-43"> axi lo çel / fa gran solemnitat
-               </l>
-               
-               <l n="44" xml:id="C015-44"> com del infern / hun'arma pot ser tolta.
-               </l>
-               
-               <l n="45" xml:id="C015-45"> Los cantadors / ab melodia canten
-               </l>
-               
-               <l n="46" xml:id="C015-46"> los trobadors / a fer dictats acuiten
-               </l>
-               
-               <l n="47" xml:id="C015-47"> los aldeans / salten corran e luyten
-               </l>
-               
-               <l n="48" xml:id="C015-48"> los amadors / d'amar be no sespanten
-               </l>
+
+               <l n="41" xml:id="C015-41"> &#182; Si amat so / festam'deu esser colta </l>
+
+               <l n="42" xml:id="C015-42"> car enlo mon / vn cos sera guanyat </l>
+
+               <l n="43" xml:id="C015-43"> axi lo çel / fa gran solemnitat </l>
+
+               <l n="44" xml:id="C015-44"> com del infern / hun'arma pot ser tolta. </l>
+
+               <l n="45" xml:id="C015-45"> Los cantadors / ab melodia canten </l>
+
+               <l n="46" xml:id="C015-46"> los trobadors / a fer dictats acuiten </l>
+
+               <l n="47" xml:id="C015-47"> los aldeans / salten corran e luyten </l>
+
+               <l n="48" xml:id="C015-48"> los amadors / d'amar be no sespanten </l>
             </lg>
             <pb n="24v"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_53.html"/>
             <lg type="cobla" n="7" xml:id="C015-07">
-               
-               <l n="49" xml:id="C015-49"> Plena de seny / molts homes son quis <choice><abbr>vȃtȇ</abbr><expan>vanten</expan></choice>
+
+               <l n="49" xml:id="C015-49"> Plena de seny / molts homes son quis <choice>
+                     <abbr>vȃtȇ</abbr>
+                     <expan>vanten</expan>
+                  </choice>
                </l>
-               
-               <l n="50" xml:id="C015-50"> que han ben vist / Amor e conegut
-               </l>
-               
-               <l n="51" xml:id="C015-51"> por tants de aquell / scrits en llur escut
-               </l>
-               
-               <l n="52" xml:id="C015-52"> nol'han sentit / e de sos fets se'spanten
-               </l>
+
+               <l n="50" xml:id="C015-50"> que han ben vist / Amor e conegut </l>
+
+               <l n="51" xml:id="C015-51"> por tants de aquell / scrits en llur escut </l>
+
+               <l n="52" xml:id="C015-52"> nol'han sentit / e de sos fets se'spanten </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

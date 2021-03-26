@@ -84,95 +84,96 @@
          <div type="poem" xml:id="C013-a006">
             <lg type="cobla" n="1" xml:id="C013-01">
 
-               <l n="1" xml:id="C013-1">C<c rend="large">o</c>lguen les gents / ab molt alegres festes</l>
-               
+               <l n="1" xml:id="C013-1">C<c rend="large">o</c>lguen les gents / ab molt alegres
+                  festes</l>
+
                <l n="2" xml:id="C013-2">Lloant a deu / entremesclant deports</l>
-               
+
                <l n="3" xml:id="C013-3">Plasses / carrers / e delitables orts</l>
-               
+
                <l n="4" xml:id="C013-4">Sien sercats / ab recort de grans gestes</l>
-               
+
                <l n="5" xml:id="C013-5">E vaja yo / los sepulchres sercant</l>
-               
+
                <l n="6" xml:id="C013-6">Interrogant / animes infernades</l>
-               
+
                <l n="7" xml:id="C013-7">E respondran / car no son comparades</l>
-               
+
                <l n="8" xml:id="C013-8">Daltre que mi / en son continu plant.</l>
             </lg>
             <pb n="9r"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_18.html"/>
-            <lg type="cobla" n="2" xml:id="C013-02">               
+            <lg type="cobla" n="2" xml:id="C013-02">
                <l n="9" xml:id="C013-9">Cascu requer / e vol a son semblant</l>
-               
+
                <l n="10" xml:id="C013-10">Per so nom plau / la pratica dels vius</l>
-               
+
                <l n="11" xml:id="C013-11">Dimaginar / mon estat son esquius</l>
-               
+
                <l n="12" xml:id="C013-12">Si com dom mort / prenen de mi espant</l>
-               
+
                <l n="13" xml:id="C013-13">Lo rey Chipra / presoner dun heretge</l>
-               
+
                <l n="14" xml:id="C013-14">En mon esguart / no es mal ahuyrat</l>
-               
+
                <l n="15" xml:id="C013-15">Car so que vull / no sera may finat</l>
-               
+
                <l n="16" xml:id="C013-16">De mon desig / nom pora guarir metge</l>
             </lg>
             <lg type="cobla" n="3" xml:id="C013-03">
                <l n="17" xml:id="C013-17">Cell Exion / quil buytrel menjal fetge</l>
-               
+
                <l n="18" xml:id="C013-18">E per tostemps / brota la carn de nou</l>
-               
+
                <l n="19" xml:id="C013-19">E son menjar / aquell ossell may clou</l>
-               
+
                <l n="20" xml:id="C013-20">Pus fort dolor / daquestam te lo setge</l>
-               
+
                <l n="21" xml:id="C013-21">Car es vn verm / quem rou la mia pensa</l>
-               
+
                <l n="22" xml:id="C013-22">Altre lo cor / que may cessen de rompre</l>
-               
+
                <l n="23" xml:id="C013-23">E llur treball / nos pora enterrompre</l>
-               
+
                <l n="24" xml:id="C013-24">Sino ab so / que dauer nos dispensa.</l>
             </lg>
             <pb n="9v"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_19.html"/>
             <lg type="cobla" n="4" xml:id="C013-04">
                <l n="25" xml:id="C013-25">E si la mort / nom dugues tal ofensa</l>
-               
+
                <l n="26" xml:id="C013-26">Fer mi absent / duna tan plaent vista</l>
-               
+
                <l n="27" xml:id="C013-27">No li agraexch / que de terra no vista</l>
-               
+
                <l n="28" xml:id="C013-28">Lo meu cos nuu / qui de pahor no pensa:</l>
-               
+
                <l n="29" xml:id="C013-29">De perdre pus / que lo ymaginar</l>
-               
+
                <l n="30" xml:id="C013-30">Los meus desigs / no poderse complir</l>
-               
+
                <l n="31" xml:id="C013-31">E sin coue / mon darrer jorn finir</l>
-               
+
                <l n="32" xml:id="C013-32">Seran donats / termens a ben amar.</l>
             </lg>
             <lg type="cobla" n="5" xml:id="C013-05">
                <l n="33" xml:id="C013-33">E si en lo cel / deu me vol allojar</l>
-               
+
                <l n="34" xml:id="C013-34">A hon lo be / es ab tot compliment</l>
-               
+
                <l n="35" xml:id="C013-35">Alli sabre / de vos complidament</l>
-               
+
                <l n="36" xml:id="C013-36">Si desta mort / vos ha calgut plorar</l>
-               
+
                <l n="37" xml:id="C013-37">Penedintuos / com per poca merce</l>
-               
+
                <l n="38" xml:id="C013-38">Mor lignosent / e per amaruos martre</l>
-               
+
                <l n="39" xml:id="C013-39">Cell qui lo cos / del arma vol departre</l>
-               
+
                <l n="40" xml:id="C013-40">Si ferm cregues / queus dolrieu de se</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

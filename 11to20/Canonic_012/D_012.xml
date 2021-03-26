@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 12</title>
             <author>Ausiàs March </author>
@@ -41,8 +41,7 @@
             <date>2019-05-01</date>
          </publicationStmt>
          <sourceDesc>
-            <msDesc
-               corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+            <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
                <msIdentifier xml:id="D_Ms_2985_BnM">
                   <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                </msIdentifier>
@@ -67,157 +66,110 @@
    </facsimile>
    <text>
       <body>
-         <pb n="11v"
-            facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+         <pb n="11v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
          <div type="poem" xml:id="C012-D012">
             <lg type="cobla" n="1" xml:id="C012-01">
-               
-               <l n="1" xml:id="C012-1"> Ja no esper / que sia mat
-               </l>
-               
-               <l n="2" xml:id="C012-2"> car mon voler / nous ven report
-               </l>
-               
-               <l n="3" xml:id="C012-3"> per mon esforç / qui no stan fort
-               </l>
-               
-               <l n="4" xml:id="C012-4"> que dir queus am / hajagosat
-               </l>
-               
-               <l n="5" xml:id="C012-5"> Per vos me so / mes en amar
-               </l>
-               
-               <l n="6" xml:id="C012-6"> e monvllnomvol descobrir
-               </l>
-               
-               <l n="7" xml:id="C012-7"> molt menys malengua / volradir
-               </l>
-               
-               <l n="8" xml:id="C012-8"> ço quel gest / nogosa mostrar
-               </l>
+
+               <l n="1" xml:id="C012-1"> Ja no esper / que sia mat </l>
+
+               <l n="2" xml:id="C012-2"> car mon voler / nous ven report </l>
+
+               <l n="3" xml:id="C012-3"> per mon esforç / qui no stan fort </l>
+
+               <l n="4" xml:id="C012-4"> que dir queus am / hajagosat </l>
+
+               <l n="5" xml:id="C012-5"> Per vos me so / mes en amar </l>
+
+               <l n="6" xml:id="C012-6"> e monvllnomvol descobrir </l>
+
+               <l n="7" xml:id="C012-7"> molt menys malengua / volradir </l>
+
+               <l n="8" xml:id="C012-8"> ço quel gest / nogosa mostrar </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C012-02">
-               
-               <l n="9" xml:id="C012-9"> Volgrauer lull / tan esforçat
-               </l>
-               
-               <l n="10" xml:id="C012-10"> ab queus mostras / lo que dins port
-               </l>
-               
-               <l n="11" xml:id="C012-11"> equeus fes venir / en acort
-               </l>
-               
-               <l n="12" xml:id="C012-12"> que diu lesguart / enamorat
-               </l>
-               
-               <l n="13" xml:id="C012-13"> De mon cor no puch / compte far
-               </l>
-               
-               <l n="14" xml:id="C012-14"> ne dema lengua / per lo dir
-               </l>
-               
-               <l n="15" xml:id="C012-15"> dien ques deu / lull atreuir
-               </l>
-               
-               <l n="16" xml:id="C012-16"> car mils / senpot atras tornar
-               </l>
+
+               <l n="9" xml:id="C012-9"> Volgrauer lull / tan esforçat </l>
+
+               <l n="10" xml:id="C012-10"> ab queus mostras / lo que dins port </l>
+
+               <l n="11" xml:id="C012-11"> equeus fes venir / en acort </l>
+
+               <l n="12" xml:id="C012-12"> que diu lesguart / enamorat </l>
+
+               <l n="13" xml:id="C012-13"> De mon cor no puch / compte far </l>
+
+               <l n="14" xml:id="C012-14"> ne dema lengua / per lo dir </l>
+
+               <l n="15" xml:id="C012-15"> dien ques deu / lull atreuir </l>
+
+               <l n="16" xml:id="C012-16"> car mils / senpot atras tornar </l>
             </lg>
-            <pb n="12r"
-               facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+            <pb n="12r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
             <lg type="cobla" n="3" xml:id="C012-03">
-               
-               <l n="17" xml:id="C012-17"> Sobrevos / es tot becarregat
-               </l>
-               
-               <l n="18" xml:id="C012-18"> mas feu semblant / no voler port
-               </l>
-               
-               <l n="19" xml:id="C012-19"> de la merce quil carrech tort
-               </l>
-               
-               <l n="20" xml:id="C012-20"> ab son bellginy / haredreçat
-               </l>
-               
-               <l n="21" xml:id="C012-21"> Qui pot ne deu / tal feix portar
-               </l>
-               
-               <l n="22" xml:id="C012-22"> volent tal pena / sofferir
-               </l>
-               
-               <l n="23" xml:id="C012-23"> e la merce noy val soplir
-               </l>
-               
-               <l n="24" xml:id="C012-24"> perlogran carrech parençar
-               </l>
+
+               <l n="17" xml:id="C012-17"> Sobrevos / es tot becarregat </l>
+
+               <l n="18" xml:id="C012-18"> mas feu semblant / no voler port </l>
+
+               <l n="19" xml:id="C012-19"> de la merce quil carrech tort </l>
+
+               <l n="20" xml:id="C012-20"> ab son bellginy / haredreçat </l>
+
+               <l n="21" xml:id="C012-21"> Qui pot ne deu / tal feix portar </l>
+
+               <l n="22" xml:id="C012-22"> volent tal pena / sofferir </l>
+
+               <l n="23" xml:id="C012-23"> e la merce noy val soplir </l>
+
+               <l n="24" xml:id="C012-24"> perlogran carrech parençar </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C012-04">
-               
-               <l n="25" xml:id="C012-25"> Qui es aquell / tan mal fadat
-               </l>
-               
-               <l n="26" xml:id="C012-26"> que sens esper / li fall conort
-               </l>
-               
-               <l n="27" xml:id="C012-27"> e no sesforç contral cas fort
-               </l>
-               
-               <l n="28" xml:id="C012-28"> puis en aquell es desperat
-               </l>
-               
-               <l n="29" xml:id="C012-29"> Eyo nom puch aconortar
-               </l>
-               
-               <l n="30" xml:id="C012-30"> ans prench tot giny per no sentir
-               </l>
-               
-               <l n="31" xml:id="C012-31"> los grans affanys quem sent venir
-               </l>
-               
-               <l n="32" xml:id="C012-32"> enparts venguts / per no gosar
-               </l>
+
+               <l n="25" xml:id="C012-25"> Qui es aquell / tan mal fadat </l>
+
+               <l n="26" xml:id="C012-26"> que sens esper / li fall conort </l>
+
+               <l n="27" xml:id="C012-27"> e no sesforç contral cas fort </l>
+
+               <l n="28" xml:id="C012-28"> puis en aquell es desperat </l>
+
+               <l n="29" xml:id="C012-29"> Eyo nom puch aconortar </l>
+
+               <l n="30" xml:id="C012-30"> ans prench tot giny per no sentir </l>
+
+               <l n="31" xml:id="C012-31"> los grans affanys quem sent venir </l>
+
+               <l n="32" xml:id="C012-32"> enparts venguts / per no gosar </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C012-05">
-               
-               <l n="33" xml:id="C012-33"> No pusch recollir lo desgrat
-               </l>
-               
-               <l n="34" xml:id="C012-34"> quemve de mi sens ferme tort
-               </l>
-               
-               <l n="35" xml:id="C012-35"> fahent menys mal / veig passar mort
-               </l>
-               
-               <l n="36" xml:id="C012-36"> a molt mesqui / desuenturat
-               </l>
-               
-               <l n="37" xml:id="C012-37"> Car nom so mes / en assatiar
-               </l>
-               
-               <l n="38" xml:id="C012-38"> desser lo mils / nat en ahuir
-               </l>
-               
-               <l n="39" xml:id="C012-39"> per no poder mi / euadir
-               </l>
-               
-               <l n="40" xml:id="C012-40"> enpassions / damor mostrar
-               </l>
+
+               <l n="33" xml:id="C012-33"> No pusch recollir lo desgrat </l>
+
+               <l n="34" xml:id="C012-34"> quemve de mi sens ferme tort </l>
+
+               <l n="35" xml:id="C012-35"> fahent menys mal / veig passar mort </l>
+
+               <l n="36" xml:id="C012-36"> a molt mesqui / desuenturat </l>
+
+               <l n="37" xml:id="C012-37"> Car nom so mes / en assatiar </l>
+
+               <l n="38" xml:id="C012-38"> desser lo mils / nat en ahuir </l>
+
+               <l n="39" xml:id="C012-39"> per no poder mi / euadir </l>
+
+               <l n="40" xml:id="C012-40"> enpassions / damor mostrar </l>
             </lg>
             <lg type="cobla" n="6" xml:id="C012-06">
-               
-               <l n="41" xml:id="C012-41"> Les dones prech / vullen pensar
-               </l>
-               
-               <l n="42" xml:id="C012-42"> cascunab quinesguart / la mir
-               </l>
-            <pb n="12v"
-               facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/> 
-               <l n="43" xml:id="C012-43"> enlo gest mevull enardir
-               </l>
-               
-               <l n="44" xml:id="C012-44"> puix que amor me hatolt parlar
-               </l>
+
+               <l n="41" xml:id="C012-41"> Les dones prech / vullen pensar </l>
+
+               <l n="42" xml:id="C012-42"> cascunab quinesguart / la mir </l>
+               <pb n="12v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+               <l n="43" xml:id="C012-43"> enlo gest mevull enardir </l>
+
+               <l n="44" xml:id="C012-44"> puix que amor me hatolt parlar </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

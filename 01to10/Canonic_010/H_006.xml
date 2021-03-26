@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            
+
             <titleStmt>
                 <title>Poema 6</title>
                 <author>Ausiàs March </author>
@@ -29,12 +29,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -49,7 +51,10 @@
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 10r after end of previous poem, before this one: </locus><choice><abbr>moß</abbr><expan>mossen</expan></choice> auzias march </rubric>
+                                <locus>f. 10r after end of previous poem, before this one: </locus><choice>
+                                    <abbr>moß</abbr>
+                                    <expan>mossen</expan>
+                                </choice> auzias march </rubric>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -62,85 +67,117 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
     <facsimile>
         <graphic
             url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_12.html"/>
-        <graphic 
+        <graphic
             url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_13.html"/>
-        <graphic 
-            url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_14.html"></graphic>
+        <graphic
+            url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_14.html"
+        />
     </facsimile>
     <text>
-        <body>                
-       <pb n="9r" 
-           facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_12.html"/>
-       <div type="poem" xml:id="C010-H006">
-            <lg type="cobla" n="1" xml:id="C0010-1">
-                <l n="1" xml:id="C010-1"> i com hun rey senyor de tres ciutats</l>
-                <l n="2" xml:id="C010-2"> Que tot son temps la plagut gareiar</l>
-                <l n="3" xml:id="C010-3"> Ab lenemjch <choice><abbr>ꝗ</abbr><expan>qui</expan></choice> dell nos pot ventar</l>
-                <l n="4" xml:id="C010-4"> May lo vençes / menys desser ne sobrats</l>
-                <l n="5" xml:id="C010-5"> Ans sil mati lenemjch lo vencia</l>
-                <l n="6" xml:id="C010-6"> Ans del sol post pel rey era vençut</l>
-        <pb n="9v" 
-            facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_13.html"/> 
-                <l n="7" xml:id="C010-7"> Ffins quen les osts contral rey fo vengut</l>
-                <l n="8" xml:id="C010-8"> Vn soldader <choice><abbr>ꝗ</abbr><expan>qui</expan></choice> lo rey desconfia</l>
+        <body>
+            <pb n="9r"
+                facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_12.html"/>
+            <div type="poem" xml:id="C010-H006">
+                <lg type="cobla" n="1" xml:id="C0010-1">
+                    <l n="1" xml:id="C010-1"> i com hun rey senyor de tres ciutats</l>
+                    <l n="2" xml:id="C010-2"> Que tot son temps la plagut gareiar</l>
+                    <l n="3" xml:id="C010-3"> Ab lenemjch <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>qui</expan>
+                        </choice> dell nos pot ventar</l>
+                    <l n="4" xml:id="C010-4"> May lo vençes / menys desser ne sobrats</l>
+                    <l n="5" xml:id="C010-5"> Ans sil mati lenemjch lo vencia</l>
+                    <l n="6" xml:id="C010-6"> Ans del sol post pel rey era vençut</l>
+                    <pb n="9v"
+                        facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_13.html"/>
+                    <l n="7" xml:id="C010-7"> Ffins quen les osts contral rey fo vengut</l>
+                    <l n="8" xml:id="C010-8"> Vn soldader <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>qui</expan>
+                        </choice> lo rey desconfia</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0010-2">
-                <l n="9" xml:id="C010-9"> Ladoncs lo rey perde la senyoria</l>
-                <l n="10" xml:id="C010-10"> Dellas ciutats sens vlla possahir</l>
-                <l n="11" xml:id="C010-11"> Mas lenemjch duas linch volch iaqujr</l>
-                <l n="12" xml:id="C010-12"> Dant fe lo rey <choice><abbr>ꝗ</abbr><expan>que</expan></choice> bon comtan retria</l>
-                <l n="13" xml:id="C010-13"> Com auassall la renda despenent</l>
-                <l n="14" xml:id="C010-14"> A uolentat del desposaydor</l>
-                <l n="15" xml:id="C010-15"> De laltre vol <choice><abbr>ꝗ</abbr><expan>que</expan></choice> non sia senyor</l>
-                <l n="16" xml:id="C010-16"> Ne sia vist que lin vinganesment</l>
+                <lg type="cobla" n="2" xml:id="C0010-2">
+                    <l n="9" xml:id="C010-9"> Ladoncs lo rey perde la senyoria</l>
+                    <l n="10" xml:id="C010-10"> Dellas ciutats sens vlla possahir</l>
+                    <l n="11" xml:id="C010-11"> Mas lenemjch duas linch volch iaqujr</l>
+                    <l n="12" xml:id="C010-12"> Dant fe lo rey <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> bon comtan retria</l>
+                    <l n="13" xml:id="C010-13"> Com auassall la renda despenent</l>
+                    <l n="14" xml:id="C010-14"> A uolentat del desposaydor</l>
+                    <l n="15" xml:id="C010-15"> De laltre vol <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> non sia senyor</l>
+                    <l n="16" xml:id="C010-16"> Ne sia vist que lin vinganesment</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0010-3">
-                <l n="17" xml:id="C010-17"> Lonch temps amor <choice><abbr>ꝑ</abbr><expan>per</expan></choice> enemjch lo sent</l>
-                <l n="18" xml:id="C010-18"> Mas james fou quem donas hun mal iorn</l>
-                <l n="19" xml:id="C010-19"> Quenpoch histant / no li fes pendre torn</l>
-                <l n="20" xml:id="C010-20"> Fforagitant / son aspre pensament</l>
-                <l n="21" xml:id="C010-21"> Ell ma vençut ab soll esforç dun cos</l>
-                <l n="22" xml:id="C010-22"> Nell ha calgut mostrar sa potent força</l>
-                <l n="23" xml:id="C010-23"> Los tres poders / quen larma son masforça</l>
-                <l n="24" xml:id="C010-24"> Dos men iaquejx del altrossar<note type="editorial"> Per altreussar.</note> no gos</l>
+                <lg type="cobla" n="3" xml:id="C0010-3">
+                    <l n="17" xml:id="C010-17"> Lonch temps amor <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>per</expan>
+                        </choice> enemjch lo sent</l>
+                    <l n="18" xml:id="C010-18"> Mas james fou quem donas hun mal iorn</l>
+                    <l n="19" xml:id="C010-19"> Quenpoch histant / no li fes pendre torn</l>
+                    <l n="20" xml:id="C010-20"> Fforagitant / son aspre pensament</l>
+                    <l n="21" xml:id="C010-21"> Ell ma vençut ab soll esforç dun cos</l>
+                    <l n="22" xml:id="C010-22"> Nell ha calgut mostrar sa potent força</l>
+                    <l n="23" xml:id="C010-23"> Los tres poders / quen larma son masforça</l>
+                    <l n="24" xml:id="C010-24"> Dos men iaquejx del altrossar<note type="editorial">
+                            Per altreussar.</note> no gos</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0010-4">
-                <l n="25" xml:id="C010-25"> E no cuydeu quem sia plassent mos</l>
-                <l n="26" xml:id="C010-26"> Aquest vedat ans nendure <choice><abbr>ƌ</abbr><expan>de</expan></choice> grat</l>
-                <l n="27" xml:id="C010-27"> Si be no puch remembrar lo passat</l>
-                <l n="28" xml:id="C010-28"> Molt es plassent la carrega mon dos</l>
-                <l n="29" xml:id="C010-29"> James venço fou plaent del vençut</l>
-                <l n="30" xml:id="C010-30"> Sino de mj / quem plau quemor me vença</l>
-                <l n="31" xml:id="C010-31"> Em tinga pres ab sanujsible lança</l>
-                <l n="32" xml:id="C010-32"> Mas paren be sos collps en mon escut</l>
+                <lg type="cobla" n="4" xml:id="C0010-4">
+                    <l n="25" xml:id="C010-25"> E no cuydeu quem sia plassent mos</l>
+                    <l n="26" xml:id="C010-26"> Aquest vedat ans nendure <choice>
+                            <abbr>ƌ</abbr>
+                            <expan>de</expan>
+                        </choice> grat</l>
+                    <l n="27" xml:id="C010-27"> Si be no puch remembrar lo passat</l>
+                    <l n="28" xml:id="C010-28"> Molt es plassent la carrega mon dos</l>
+                    <l n="29" xml:id="C010-29"> James venço fou plaent del vençut</l>
+                    <l n="30" xml:id="C010-30"> Sino de mj / quem plau quemor me vença</l>
+                    <l n="31" xml:id="C010-31"> Em tinga pres ab sanujsible lança</l>
+                    <l n="32" xml:id="C010-32"> Mas paren be sos collps en mon escut</l>
                 </lg>
-       <pb n="10r" 
-           facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_14.html"/> 
-            <lg type="cobla" n="5" xml:id="C0010-5">
-                <l n="33" xml:id="C010-33"> De ffet que fuy asa merçe vengut</l>
-                <l n="34" xml:id="C010-34"> Lentenjment / <choice><abbr>ꝑ</abbr><expan>per</expan></choice> son consaler pres</l>
-                <l n="35" xml:id="C010-35"> E mon voler / per algozir la mes</l>
-                <l n="36" xml:id="C010-36"> Dant fe cascu que may sera rabut</l>
-                <l n="37" xml:id="C010-37"> En lur merçe / lo compayo membrar</l>
-                <l n="38" xml:id="C010-38"> Serujnt cascu leyalment son offici</l>
-                <l n="39" xml:id="C010-39"> Si que algu dels no sera tan njci</l>
-                <l n="40" xml:id="C010-40"> Quen res contrast que sia <choice><abbr>ƌ</abbr><expan>de</expan></choice> amar</l>
+                <pb n="10r"
+                    facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_14.html"/>
+                <lg type="cobla" n="5" xml:id="C0010-5">
+                    <l n="33" xml:id="C010-33"> De ffet que fuy asa merçe vengut</l>
+                    <l n="34" xml:id="C010-34"> Lentenjment / <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>per</expan>
+                        </choice> son consaler pres</l>
+                    <l n="35" xml:id="C010-35"> E mon voler / per algozir la mes</l>
+                    <l n="36" xml:id="C010-36"> Dant fe cascu que may sera rabut</l>
+                    <l n="37" xml:id="C010-37"> En lur merçe / lo compayo membrar</l>
+                    <l n="38" xml:id="C010-38"> Serujnt cascu leyalment son offici</l>
+                    <l n="39" xml:id="C010-39"> Si que algu dels no sera tan njci</l>
+                    <l n="40" xml:id="C010-40"> Quen res contrast que sia <choice>
+                            <abbr>ƌ</abbr>
+                            <expan>de</expan>
+                        </choice> amar</l>
                 </lg>
-            <lg type="tornada">
-                <l n="41" xml:id="C010-41"> Plena de seny vullau vos acordar</l>
-                <l n="42" xml:id="C010-42"> Com <choice><abbr>ꝑ</abbr><expan>per</expan></choice> amor venen grans sentiments</l>
-                <l n="43" xml:id="C010-43"> E per amor pot ser hom ignosçents</l>
-                <l n="44" xml:id="C010-44"> E mostreu yo <choice><abbr>ꝗ</abbr><expan>qui</expan></choice> ne perdut perlar</l>
+                <lg type="tornada">
+                    <l n="41" xml:id="C010-41"> Plena de seny vullau vos acordar</l>
+                    <l n="42" xml:id="C010-42"> Com <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>per</expan>
+                        </choice> amor venen grans sentiments</l>
+                    <l n="43" xml:id="C010-43"> E per amor pot ser hom ignosçents</l>
+                    <l n="44" xml:id="C010-44"> E mostreu yo <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>qui</expan>
+                        </choice> ne perdut perlar</l>
                 </lg>
-            </lg>
+            </div>
         </body>
     </text>
 </TEI>

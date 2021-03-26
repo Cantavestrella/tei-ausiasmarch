@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 12</title>
             <author>Ausiàs March </author>
@@ -49,7 +49,10 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 15r first line </locus><choice><abbr>Moß</abbr><expan>Mossen</expan></choice>  auzias march</rubric>
+                        <locus>f. 15r first line </locus><choice>
+                           <abbr>Moß</abbr>
+                           <expan>Mossen</expan>
+                        </choice> auzias march</rubric>
                      <rubric>
                         <locus>f. 15v between lines 40 and 41 </locus>Tornada </rubric>
                   </msItem>
@@ -82,153 +85,142 @@
             facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_40.html"/>
          <div type="poem" xml:id="C012-G4015">
             <lg type="cobla" n="1" xml:id="C012-01">
-               
-               <l n="1" xml:id="C012-1"> Ja no sper / quesiamat
-               </l>
-               
-               <l n="2" xml:id="C012-2"> car monvoler / nous veureport
-               </l>
-               
-               <l n="3" xml:id="C012-3"> per monforç /qui nos tant fort
-               </l>
-               
-               <l n="4" xml:id="C012-4"> quedir <choice><abbr>queꝯ</abbr><expan>queus</expan></choice> am / ajagosat
-               </l>
-               
-               <l n="5" xml:id="C012-5"> Per vos meso /mes enamar
-               </l>
-               
-               <l n="6" xml:id="C012-6"> emon vll / nomvol descobrir
-               </l>
-               
-               <l n="7" xml:id="C012-7"> molt menys / mallengua volrradir
-               </l>
-               
-               <l n="8" xml:id="C012-8"> <del rend="overstrike">volrra dir /</del> Ço<note type="editorial">Corregit sobre So.</note> quel<add place="above">o</add>gest / nogosamostrar
-               </l>
-               
+
+               <l n="1" xml:id="C012-1"> Ja no sper / quesiamat </l>
+
+               <l n="2" xml:id="C012-2"> car monvoler / nous veureport </l>
+
+               <l n="3" xml:id="C012-3"> per monforç /qui nos tant fort </l>
+
+               <l n="4" xml:id="C012-4"> quedir <choice>
+                     <abbr>queꝯ</abbr>
+                     <expan>queus</expan>
+                  </choice> am / ajagosat </l>
+
+               <l n="5" xml:id="C012-5"> Per vos meso /mes enamar </l>
+
+               <l n="6" xml:id="C012-6"> emon vll / nomvol descobrir </l>
+
+               <l n="7" xml:id="C012-7"> molt menys / mallengua volrradir </l>
+
+               <l n="8" xml:id="C012-8">
+                  <del rend="overstrike">volrra dir /</del> Ço<note type="editorial">Corregit sobre
+                     So.</note> quel<add place="above">o</add>gest / nogosamostrar </l>
+
             </lg>
             <lg type="cobla" n="2" xml:id="C012-02">
-               
-               <l n="9" xml:id="C012-9"> Volgrauerllull / tan esforçat
-               </l>
-               
-               <l n="10" xml:id="C012-10"> ab <choice><abbr>queꝯ</abbr><expan>queus</expan></choice> mostras / lo <choice><abbr>ꝗ</abbr><expan>que</expan></choice> dinsporta
-               </l>
-               
-               <l n="11" xml:id="C012-11"> <choice><abbr>equeꝯ</abbr><expan>equeus</expan></choice> fes venir / enacort
-               </l>
-               
-               <l n="12" xml:id="C012-12"> que<del rend="overstrike">s</del> diu lesguart / enamorat
-               </l>
-               
-               <l n="13" xml:id="C012-13"> Demoncor no puch / contefar
-               </l>
-               
-               <l n="14" xml:id="C012-14"> nedemallengua /<choice><abbr>ꝑlo</abbr><expan>perlo</expan></choice> dir
-               </l>
-               
-               <l n="15" xml:id="C012-15"> dien ques deu / lull atreuir
-               </l>
-               
-               <l n="16" xml:id="C012-16"> car mils senpot / atras tornar
-               </l>
+
+               <l n="9" xml:id="C012-9"> Volgrauerllull / tan esforçat </l>
+
+               <l n="10" xml:id="C012-10"> ab <choice>
+                     <abbr>queꝯ</abbr>
+                     <expan>queus</expan>
+                  </choice> mostras / lo <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> dinsporta </l>
+
+               <l n="11" xml:id="C012-11">
+                  <choice>
+                     <abbr>equeꝯ</abbr>
+                     <expan>equeus</expan>
+                  </choice> fes venir / enacort </l>
+
+               <l n="12" xml:id="C012-12"> que<del rend="overstrike">s</del> diu lesguart / enamorat </l>
+
+               <l n="13" xml:id="C012-13"> Demoncor no puch / contefar </l>
+
+               <l n="14" xml:id="C012-14"> nedemallengua /<choice>
+                     <abbr>ꝑlo</abbr>
+                     <expan>perlo</expan>
+                  </choice> dir </l>
+
+               <l n="15" xml:id="C012-15"> dien ques deu / lull atreuir </l>
+
+               <l n="16" xml:id="C012-16"> car mils senpot / atras tornar </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C012-03">
-               
-               <l n="17" xml:id="C012-17"> Sobre vos es / tot be cargat
-               </l>
-               
-               <l n="18" xml:id="C012-18"> masfeusenblant / no volerport
-               </l>
-               
-               <l n="19" xml:id="C012-19"> dela merce / que lo carch tort
-               </l>
-               
-               <l n="20" xml:id="C012-20"> ab son bellginy /aredrecat
-               </l>
-               
-               <l n="21" xml:id="C012-21"> Qui pot nedeu / tal feix portar
-               </l>
-               
-               <l n="22" xml:id="C012-22"> volent talpena / soferir
-               </l>
-               
-               <l n="23" xml:id="C012-23"> elamerçe  / noy vol supplir
-               </l>
-               
-               <l n="24" xml:id="C012-24"> per lo grancarch /aparençar
-               </l>
+
+               <l n="17" xml:id="C012-17"> Sobre vos es / tot be cargat </l>
+
+               <l n="18" xml:id="C012-18"> masfeusenblant / no volerport </l>
+
+               <l n="19" xml:id="C012-19"> dela merce / que lo carch tort </l>
+
+               <l n="20" xml:id="C012-20"> ab son bellginy /aredrecat </l>
+
+               <l n="21" xml:id="C012-21"> Qui pot nedeu / tal feix portar </l>
+
+               <l n="22" xml:id="C012-22"> volent talpena / soferir </l>
+
+               <l n="23" xml:id="C012-23"> elamerçe / noy vol supplir </l>
+
+               <l n="24" xml:id="C012-24"> per lo grancarch /aparençar </l>
             </lg>
             <pb n="15v"
                facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_41.html"/>
             <lg type="cobla" n="4" xml:id="C012-04">
-               
-               <l n="25" xml:id="C012-25"> Quies aquell / tan mal fadat
-               </l>
-               
-               <l n="26" xml:id="C012-26"> quesens sper / li fall conort
-               </l>
-               
-               <l n="27" xml:id="C012-27"> enosesforç / contral casfort
-               </l>
-               
-               <l n="28" xml:id="C012-28"> puix en aquell / es desperat
-               </l>
-               
-               <l n="29" xml:id="C012-29"> Eyonompuch / aconortar
-               </l>
-               
-               <l n="30" xml:id="C012-30"> ans prench / totginy / <choice><abbr>ꝑ</abbr><expan>per</expan></choice> no sentir
-               </l>
-               
-               <l n="31" xml:id="C012-31"> los grans afanys / quemsent venir
-               </l>
-               
-               <l n="32" xml:id="C012-32"> enpart venguts / <choice><abbr>ꝑ</abbr><expan>per</expan></choice> no gosar
-               </l>
+
+               <l n="25" xml:id="C012-25"> Quies aquell / tan mal fadat </l>
+
+               <l n="26" xml:id="C012-26"> quesens sper / li fall conort </l>
+
+               <l n="27" xml:id="C012-27"> enosesforç / contral casfort </l>
+
+               <l n="28" xml:id="C012-28"> puix en aquell / es desperat </l>
+
+               <l n="29" xml:id="C012-29"> Eyonompuch / aconortar </l>
+
+               <l n="30" xml:id="C012-30"> ans prench / totginy / <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> no sentir </l>
+
+               <l n="31" xml:id="C012-31"> los grans afanys / quemsent venir </l>
+
+               <l n="32" xml:id="C012-32"> enpart venguts / <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> no gosar </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C012-05">
-               
-               <l n="33" xml:id="C012-33"> No pusch recollir / lo desgrat
-               </l>
-               
-               <l n="34" xml:id="C012-34"> quem ve demi / sens fer me tort
-               </l>
-               
-               <l n="35" xml:id="C012-35"> faent menys mal / vey pasar mort
-               </l>
-               
-               <l n="36" xml:id="C012-36"> amolt mesqui / desuenturat
-               </l>
-               
-               <l n="37" xml:id="C012-37"> Car nom so mes / enasajar
-               </l>
-               
-               <l n="38" xml:id="C012-38"> <choice><abbr>deß</abbr><expan>desser</expan></choice> lo mils / nat en ahuyr
-               </l>
-               
-               <l n="39" xml:id="C012-39"> <choice><abbr>ꝑ</abbr><expan>per</expan></choice> no podermi / enardir
-               </l>
-               
-               <l n="40" xml:id="C012-40"> enpassions / damor mostrar
-               </l>
+
+               <l n="33" xml:id="C012-33"> No pusch recollir / lo desgrat </l>
+
+               <l n="34" xml:id="C012-34"> quem ve demi / sens fer me tort </l>
+
+               <l n="35" xml:id="C012-35"> faent menys mal / vey pasar mort </l>
+
+               <l n="36" xml:id="C012-36"> amolt mesqui / desuenturat </l>
+
+               <l n="37" xml:id="C012-37"> Car nom so mes / enasajar </l>
+
+               <l n="38" xml:id="C012-38">
+                  <choice>
+                     <abbr>deß</abbr>
+                     <expan>desser</expan>
+                  </choice> lo mils / nat en ahuyr </l>
+
+               <l n="39" xml:id="C012-39">
+                  <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> no podermi / enardir </l>
+
+               <l n="40" xml:id="C012-40"> enpassions / damor mostrar </l>
             </lg>
             <lg type="cobla" n="6" xml:id="C012-06">
-               
-               <l n="41" xml:id="C012-41"> Les dones pre<del rend="overstrike">n</del>y / vullenpensar
-               </l>
-               
-               <l n="42" xml:id="C012-42"> cascunabquin / esguart la mire
-               </l>
-               
-               <l n="43" xml:id="C012-43"> enlo gest me / vullenardir
-               </l>
-               
-               <l n="44" xml:id="C012-44"> puix queamor / matolt parlar
-               </l>
+
+               <l n="41" xml:id="C012-41"> Les dones pre<del rend="overstrike">n</del>y /
+                  vullenpensar </l>
+
+               <l n="42" xml:id="C012-42"> cascunabquin / esguart la mire </l>
+
+               <l n="43" xml:id="C012-43"> enlo gest me / vullenardir </l>
+
+               <l n="44" xml:id="C012-44"> puix queamor / matolt parlar </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

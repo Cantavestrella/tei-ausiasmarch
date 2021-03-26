@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 19</title>
             <author>Ausiàs March </author>
@@ -83,152 +83,111 @@
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_430.html"/>
          <div type="poem" xml:id="C019-A041">
             <lg type="cobla" n="1" xml:id="C019-01">
-               
-               <l n="1" xml:id="C019-1"> Oyu hoyu / tots los qui be amats
-               </l>
-               
-               <l n="2" xml:id="C019-2"> E planyen mj / si dech esser plangut
-               </l>
-               
-               <l n="3" xml:id="C019-3"> E puys veheu / si es tal cas vengut
-               </l>
-               
-               <l n="4" xml:id="C019-4"> En los presents / nen los qui son passats
-               </l>
-               
-               <l n="5" xml:id="C019-5"> Doleu vos donchs / demj vostre semblant
-               </l>
-               
-               <l n="6" xml:id="C019-6"> En sofferir / la dolor delitable
-               </l>
-               
-               <l n="7" xml:id="C019-7"> Car tost demj / se dolra lo diable
-               </l>
-               
-               <l n="8" xml:id="C019-8"> Com veura mj / semblant mal dell passant
-               </l>
+
+               <l n="1" xml:id="C019-1"> Oyu hoyu / tots los qui be amats </l>
+
+               <l n="2" xml:id="C019-2"> E planyen mj / si dech esser plangut </l>
+
+               <l n="3" xml:id="C019-3"> E puys veheu / si es tal cas vengut </l>
+
+               <l n="4" xml:id="C019-4"> En los presents / nen los qui son passats </l>
+
+               <l n="5" xml:id="C019-5"> Doleu vos donchs / demj vostre semblant </l>
+
+               <l n="6" xml:id="C019-6"> En sofferir / la dolor delitable </l>
+
+               <l n="7" xml:id="C019-7"> Car tost demj / se dolra lo diable </l>
+
+               <l n="8" xml:id="C019-8"> Com veura mj / semblant mal dell passant </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C019-02">
-               
-               <l n="9" xml:id="C019-9"> Qui es lom viu / tal dolor suffertant
-               </l>
-               
-               <l n="10" xml:id="C019-10"> Que desig ço / deque se desespera
-               </l>
-               
-               <l n="11" xml:id="C019-11"> Aytant es greu / que no par cosa vera
-               </l>
-               
-               <l n="12" xml:id="C019-12"> Desigar ço / deques desesperant
-               </l>
-               
-               <l n="13" xml:id="C019-13"> No songanat / demon mal estament
-               </l>
-               
-               <l n="14" xml:id="C019-14"> Tot quant pretich / tornar me sent en dan
-               </l>
-               
-               <l n="15" xml:id="C019-15"> Menys depoder / me trob hauent lo gran
-               </l>
-               
-               <l n="16" xml:id="C019-16"> Car nom esforç / per mostrar mon talent
-               </l>
+
+               <l n="9" xml:id="C019-9"> Qui es lom viu / tal dolor suffertant </l>
+
+               <l n="10" xml:id="C019-10"> Que desig ço / deque se desespera </l>
+
+               <l n="11" xml:id="C019-11"> Aytant es greu / que no par cosa vera </l>
+
+               <l n="12" xml:id="C019-12"> Desigar ço / deques desesperant </l>
+
+               <l n="13" xml:id="C019-13"> No songanat / demon mal estament </l>
+
+               <l n="14" xml:id="C019-14"> Tot quant pretich / tornar me sent en dan </l>
+
+               <l n="15" xml:id="C019-15"> Menys depoder / me trob hauent lo gran </l>
+
+               <l n="16" xml:id="C019-16"> Car nom esforç / per mostrar mon talent </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C019-03">
-               
-               <l n="17" xml:id="C019-17"> Mon primer mal / es mon esperdiment
-               </l>
-               
-               <l n="18" xml:id="C019-18"> Perquem ajr / eper no res maccus
-               </l>
-               
-               <l n="19" xml:id="C019-19"> E lo segon / es terrible reffus
-               </l>
-               
-               <l n="20" xml:id="C019-20"> Que vos mostrau / sius feyanquerjment
-               </l>
-               
-               <l n="21" xml:id="C019-21"> Portar me trob / amolt prop de ma fi
-               </l>
-               
-               <l n="22" xml:id="C019-22"> Puys mon voler / cars jmpossible guarda
-               </l>
-               
-               <l n="23" xml:id="C019-23"> No tardara / lora que ja fos tarda
-               </l>
-               
-               <l n="24" xml:id="C019-24"> Que tendrels / <choice><abbr>peꝯ</abbr><expan>peus</expan></choice> en lauorrit camj
-               </l>
+
+               <l n="17" xml:id="C019-17"> Mon primer mal / es mon esperdiment </l>
+
+               <l n="18" xml:id="C019-18"> Perquem ajr / eper no res maccus </l>
+
+               <l n="19" xml:id="C019-19"> E lo segon / es terrible reffus </l>
+
+               <l n="20" xml:id="C019-20"> Que vos mostrau / sius feyanquerjment </l>
+
+               <l n="21" xml:id="C019-21"> Portar me trob / amolt prop de ma fi </l>
+
+               <l n="22" xml:id="C019-22"> Puys mon voler / cars jmpossible guarda </l>
+
+               <l n="23" xml:id="C019-23"> No tardara / lora que ja fos tarda </l>
+
+               <l n="24" xml:id="C019-24"> Que tendrels / <choice>
+                     <abbr>peꝯ</abbr>
+                     <expan>peus</expan>
+                  </choice> en lauorrit camj </l>
             </lg>
             <pb n="189v"
                facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_431.html"/>
             <lg type="cobla" n="4" xml:id="C019-04">
-               
-               <l n="25" xml:id="C019-25"> Si per null temps / encontramor falli
-               </l>
-               
-               <l n="26" xml:id="C019-26"> Jom so repres / planyentmen lenamich
-               </l>
-               
-               <l n="27" xml:id="C019-27"> E may vers mj / poguisser enamich
-               </l>
-               
-               <l n="28" xml:id="C019-28"> Car per null temps / poder hi despengui
-               </l>
-               
-               <l n="29" xml:id="C019-29"> Och lo voler / me trob en abundança
-               </l>
-               
-               <l n="30" xml:id="C019-30"> Mas del poder / no se pus empobrit
-               </l>
-               
-               <l n="31" xml:id="C019-31"> Car jo paresch / eso tant deffalit
-               </l>
-               
-               <l n="32" xml:id="C019-32"> Que no puch dir / en vos es mesperança
-               </l>
+
+               <l n="25" xml:id="C019-25"> Si per null temps / encontramor falli </l>
+
+               <l n="26" xml:id="C019-26"> Jom so repres / planyentmen lenamich </l>
+
+               <l n="27" xml:id="C019-27"> E may vers mj / poguisser enamich </l>
+
+               <l n="28" xml:id="C019-28"> Car per null temps / poder hi despengui </l>
+
+               <l n="29" xml:id="C019-29"> Och lo voler / me trob en abundança </l>
+
+               <l n="30" xml:id="C019-30"> Mas del poder / no se pus empobrit </l>
+
+               <l n="31" xml:id="C019-31"> Car jo paresch / eso tant deffalit </l>
+
+               <l n="32" xml:id="C019-32"> Que no puch dir / en vos es mesperança </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C019-05">
-               
-               <l n="33" xml:id="C019-33"> Una sabor / dagradolç amor lança
-               </l>
-               
-               <l n="34" xml:id="C019-34"> Que lo meu gust / depertir les no sab
-               </l>
-               
-               <l n="35" xml:id="C019-35"> Dins mos delits / dolor mortal hi cap
-               </l>
-               
-               <l n="36" xml:id="C019-36"> E tal dolor / ab delit ha ligança
-               </l>
-               
-               <l n="37" xml:id="C019-37"> Mas jom reprench / com parlar ma plagut
-               </l>
-               
-               <l n="38" xml:id="C019-38"> Daço quen mj / no basta la sciença
-               </l>
-               
-               <l n="39" xml:id="C019-39"> Sobres amor / me porte ignocença
-               </l>
-               
-               <l n="40" xml:id="C019-40"> Vull e desuull / sens cas esdeuengut
-               </l>
+
+               <l n="33" xml:id="C019-33"> Una sabor / dagradolç amor lança </l>
+
+               <l n="34" xml:id="C019-34"> Que lo meu gust / depertir les no sab </l>
+
+               <l n="35" xml:id="C019-35"> Dins mos delits / dolor mortal hi cap </l>
+
+               <l n="36" xml:id="C019-36"> E tal dolor / ab delit ha ligança </l>
+
+               <l n="37" xml:id="C019-37"> Mas jom reprench / com parlar ma plagut </l>
+
+               <l n="38" xml:id="C019-38"> Daço quen mj / no basta la sciença </l>
+
+               <l n="39" xml:id="C019-39"> Sobres amor / me porte ignocença </l>
+
+               <l n="40" xml:id="C019-40"> Vull e desuull / sens cas esdeuengut </l>
             </lg>
             <lg type="cobla" n="6" xml:id="C019-06">
-               
-               <l n="41" xml:id="C019-41"> Lir entre carts / creheu lamador mut
-               </l>
-               
-               <l n="42" xml:id="C019-42"> El cambiant / depunt en punt color
-               </l>
-               
-               <l n="43" xml:id="C019-43"> E lo pauruch / com se membre damor
-               </l>
-               
-               <l n="44" xml:id="C019-44"> Del atrauit / sia son temps perdut
-               </l>
+
+               <l n="41" xml:id="C019-41"> Lir entre carts / creheu lamador mut </l>
+
+               <l n="42" xml:id="C019-42"> El cambiant / depunt en punt color </l>
+
+               <l n="43" xml:id="C019-43"> E lo pauruch / com se membre damor </l>
+
+               <l n="44" xml:id="C019-44"> Del atrauit / sia son temps perdut </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

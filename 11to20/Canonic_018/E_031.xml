@@ -48,7 +48,10 @@
                <msContents>
                   <msItem>
                      <rubric><locus>f. 46r after end of previous poem, before this one: </locus>
-                        <choice><abbr>Moß</abbr><expan>Mossen</expan></choice> ausias march</rubric>
+                        <choice>
+                           <abbr>Moß</abbr>
+                           <expan>Mossen</expan>
+                        </choice> ausias march</rubric>
                      <rubric>
                         <locus>f. 47v between lines 56 and 57</locus> Tornada</rubric>
                   </msItem>
@@ -97,8 +100,8 @@
             <pb n="46v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
             <lg type="cobla" n="2" xml:id="C018-02">
 
-               <l n="9" xml:id="C018-9">Ma carn no sent / aquell desig sensible  </l>
-                                   
+               <l n="9" xml:id="C018-9">Ma carn no sent / aquell desig sensible </l>
+
                <l n="10" xml:id="C018-10"> elesperit / obres damor cobeia </l>
 
                <l n="11" xml:id="C018-11"> daquell çech foch / quils amadors sescalfen </l>
@@ -151,21 +154,22 @@
             </lg>
             <pb n="47r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
             <lg type="cobla" n="5" xml:id="C018-05">
-              
-               <l n="33" xml:id="C018-33"> Si col Sent Pau / Deu li sostrasque<note type="editorial">Per sostrague.</note> larma</l>
-                                 
+
+               <l n="33" xml:id="C018-33"> Si col Sent Pau / Deu li sostrasque<note type="editorial"
+                     >Per sostrague.</note> larma</l>
+
                <l n="34" xml:id="C018-34"> del cos per que / ves diuinals misteris </l>
-               
+
                <l n="35" xml:id="C018-35"> car es lo cos / del sperit lo carçer </l>
-               
+
                <l n="36" xml:id="C018-36"> e tant com viu / ab ell es en tenebres </l>
-               
+
                <l n="37" xml:id="C018-37"> Axi amor / lenteniment marrapa </l>
-               
+
                <l n="38" xml:id="C018-38"> e noy acull / la macolada pensa </l>
-               
+
                <l n="39" xml:id="C018-39"> e per ço sent / lo delit qui nos cansa </l>
-               
+
                <l n="40" xml:id="C018-40"> si que ma carn / la ver amor nom torba </l>
             </lg>
             <lg type="cobla" n="6" xml:id="C018-06">
@@ -215,7 +219,7 @@
 
                <l n="60" xml:id="C018-60"> sos grans tresors / sol amils manifesta </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>
