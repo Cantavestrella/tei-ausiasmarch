@@ -75,7 +75,7 @@
       <body>
          <pb n="p1"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_3.html"/>
-         <div type="poem" n="1" xml:id="C001-N001">
+         <div type="poem" xml:id="C001-N001">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1"><c rend="large">A</c>xi com cell qujn lo somnjs delita</l>
                <l n="2" xml:id="C001-2">E son delit de foll pensament ve</l>
@@ -128,7 +128,7 @@
                <l n="39" xml:id="C001-39">Mas com sen part les forcat congoxar</l>
                <l n="40" xml:id="C001-40">Lo be com fug ab grans crits mal apella</l>
             </lg>
-            <lg type="tornada">
+            <lg type="tornada" n="6" xml:id="C0001-6">
                <l n="41" xml:id="C001-41">Plena de seny quant amor es molt vella</l>
                <l n="42" xml:id="C001-42">Absencia es lo uerme que la gaste</l>
                <l n="43" xml:id="C001-43">Si fermetat durament no contrasta</l>

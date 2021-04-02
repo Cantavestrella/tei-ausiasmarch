@@ -85,7 +85,7 @@
          <div type="poem" xml:id="C020-N020">
             <lg type="cobla" n="1" xml:id="C020-01">
 
-               <l n="1" xml:id="C020-1"> &#182; Alsguns passats donarensi amort </l>
+               <l n="1" xml:id="C020-1"> ¶ Alsguns passats donarensi amort </l>
 
                <l n="2" xml:id="C020-2"> Per escapar als mals quel mon aporta </l>
 
@@ -181,7 +181,7 @@
 
                <l n="40" xml:id="C020-40"> En estamar me trobare negat </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C020-06">
+            <lg type="tornada" n="6" xml:id="C020-06">
 
                <l n="41" xml:id="C020-41"> Lir entre carts dich vos la veritat </l>
 

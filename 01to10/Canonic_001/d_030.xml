@@ -81,66 +81,66 @@
       <body>
          <pb n="37v"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_79.html"/>
-         <div type="poem" n="1" xml:id="C001-d030">
-            <lg type="cobla" n="1" xml:id="C0001-1">
-               <l n="1" xml:id="C001-1">¶A<c rend="large">x</c>i com çell / qui'n lo somni'sdelita</l>
-               <l n="2" xml:id="C001-2">e son delit / de foll pensament ve</l>
-               <l n="3" xml:id="C001-3">ne pren ami/ qui'l temps passat me te</l>
-               <l n="4" xml:id="C001-4">l'imaginar / qu'altre be noy habita.</l>
-               <l n="5" xml:id="C001-5">Sentint venir / l'aguait de ma dolor</l>
-               <l n="6" xml:id="C001-6">sabent deçert / quen ses mans he dejaure</l>
-               <l n="7" xml:id="C001-7">temps de venir / en ningun bem'pot caure</l>
-               <l n="8" xml:id="C001-8">ço que's no res / en mi es lo millor.</l>
+         <div type="poem" xml:id="C001-d030">
+            <lg type="cobla" n="1" xml:id="C001-lg1">
+               <l n="1" xml:id="C001-l1">¶A<c rend="large">x</c>i com çell / qui'n lo somni'sdelita</l>
+               <l n="2" xml:id="C001-l2">e son delit / de foll pensament ve</l>
+               <l n="3" xml:id="C001-l3">ne pren ami/ qui'l temps passat me te</l>
+               <l n="4" xml:id="C001-l4">l'imaginar / qu'altre be noy habita.</l>
+               <l n="5" xml:id="C001-l5">Sentint venir / l'aguait de ma dolor</l>
+               <l n="6" xml:id="C001-l6">sabent deçert / quen ses mans he dejaure</l>
+               <l n="7" xml:id="C001-l7">temps de venir / en ningun bem'pot caure</l>
+               <l n="8" xml:id="C001-l8">ço que's no res / en mi es lo millor.</l>
             </lg>
             <pb n="38r"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_80.html"/>
-            <lg type="cobla" n="2" xml:id="C0001-2">
-               <l n="9" xml:id="C001-9">¶Al temps passat / me trobe gran Amor</l>
-               <l n="10" xml:id="C001-10">amant no res / puix es tot ja finit</l>
-               <l n="11" xml:id="C001-11">de aquest pensar / me sojorn em'delit</l>
-               <l n="12" xml:id="C001-12">mas com lo pert / se'sforça ma dolor.</l>
-               <l n="13" xml:id="C001-13">Si com aquell / qui es jutjat a mort</l>
-               <l n="14" xml:id="C001-14">e de llonch temps / la sab e se aconorta</l>
-               <l n="15" xml:id="C001-15">e creure'l fan / que li sera estorta</l>
-               <l n="16" xml:id="C001-16">el fan morir / sens vn punt de recort.</l>
+            <lg type="cobla" n="2" xml:id="C001-lg2">
+               <l n="9" xml:id="C001-l9">¶Al temps passat / me trobe gran Amor</l>
+               <l n="10" xml:id="C001-l10">amant no res / puix es tot ja finit</l>
+               <l n="11" xml:id="C001-l11">de aquest pensar / me sojorn em'delit</l>
+               <l n="12" xml:id="C001-l12">mas com lo pert / se'sforça ma dolor.</l>
+               <l n="13" xml:id="C001-l13">Si com aquell / qui es jutjat a mort</l>
+               <l n="14" xml:id="C001-l14">e de llonch temps / la sab e se aconorta</l>
+               <l n="15" xml:id="C001-l15">e creure'l fan / que li sera estorta</l>
+               <l n="16" xml:id="C001-l16">el fan morir / sens vn punt de recort.</l>
             </lg>
-            <lg type="cobla" n="3" xml:id="C0001-3">
-               <l n="17" xml:id="C001-17">¶Plagues a Deu / que mon pensar fos mort</l>
-               <l n="18" xml:id="C001-18">e que passas / ma vida en durment</l>
-               <l n="19" xml:id="C001-19">malament viu / qui te son pensament</l>
-               <l n="20" xml:id="C001-20">per enemich / fent li de'nuigs report.</l>
-               <l n="21" xml:id="C001-21">E com lo vol / d'algun plaher seruir</l>
-               <l n="22" xml:id="C001-22">lin pren axi / com dona'b son infánt</l>
-               <l n="23" xml:id="C001-23">que si veri / li demana ploránt</l>
-               <l n="24" xml:id="C001-24">ha tan poch seny / que nol sab contradir.</l>
+            <lg type="cobla" n="3" xml:id="C001-lg3">
+               <l n="17" xml:id="C001-l17">¶Plagues a Deu / que mon pensar fos mort</l>
+               <l n="18" xml:id="C001-l18">e que passas / ma vida en durment</l>
+               <l n="19" xml:id="C001-l19">malament viu / qui te son pensament</l>
+               <l n="20" xml:id="C001-l20">per enemich / fent li de'nuigs report.</l>
+               <l n="21" xml:id="C001-l21">E com lo vol / d'algun plaher seruir</l>
+               <l n="22" xml:id="C001-l22">lin pren axi / com dona'b son infánt</l>
+               <l n="23" xml:id="C001-l23">que si veri / li demana ploránt</l>
+               <l n="24" xml:id="C001-l24">ha tan poch seny / que nol sab contradir.</l>
             </lg>
-            <lg type="cobla" n="4" xml:id="C0001-4">
-               <l n="25" xml:id="C001-25">¶Fora millor / ma dolor soferir</l>
-               <l n="26" xml:id="C001-26">que no mesclar / poca part de plaher</l>
-               <l n="27" xml:id="C001-27">entr'aquells mals / quim giten desaber</l>
-               <l n="28" xml:id="C001-28">com del plaher / passat  me conue'xir.</l>
-               <l n="29" xml:id="C001-29">Llas mon delit / dolor se conuerteix</l>
-               <l n="30" xml:id="C001-30">dobles l'affany / apres d'un poch repós</l>
-               <l n="31" xml:id="C001-31">si col malat / qui per vn plahent mós</l>
-               <l n="32" xml:id="C001-32">tot son menjar / en dolor se nodreix.</l>
+            <lg type="cobla" n="4" xml:id="C001-lg4">
+               <l n="25" xml:id="C001-l25">¶Fora millor / ma dolor soferir</l>
+               <l n="26" xml:id="C001-l26">que no mesclar / poca part de plaher</l>
+               <l n="27" xml:id="C001-l27">entr'aquells mals / quim giten desaber</l>
+               <l n="28" xml:id="C001-l28">com del plaher / passat  me conue'xir.</l>
+               <l n="29" xml:id="C001-l29">Llas mon delit / dolor se conuerteix</l>
+               <l n="30" xml:id="C001-l30">dobles l'affany / apres d'un poch repós</l>
+               <l n="31" xml:id="C001-l31">si col malat / qui per vn plahent mós</l>
+               <l n="32" xml:id="C001-l32">tot son menjar / en dolor se nodreix.</l>
             </lg>
             <pb n="38v"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_81.html"/>
-            <lg type="cobla" n="5" xml:id="C0001-5">
-               <l n="33" xml:id="C001-33">¶Com l'hermita / que'nyorament nol creix</l>
-               <l n="34" xml:id="C001-34">d'aquells amichs / que tenia'n lomon</l>
-               <l n="35" xml:id="C001-35"><choice><abbr>tȃts</abbr><expan>tants</expan></choice> ha <choice><abbr>llȏch</abbr><expan>llonch</expan></choice> temps / que'n lloch poblat no <choice><abbr>fȏ</abbr><expan>fon</expan></choice></l>
-               <l n="36" xml:id="C001-36">per fortuit cas / vn dells li apareix.</l>
-               <l n="37" xml:id="C001-37">Qui los plahers / passats li rrenouella,</l>
-               <l n="38" xml:id="C001-38">si quel passat / present li fa tornar.</l>
-               <l n="39" xml:id="C001-39">mas com sen part / l'es forçat congoixar</l>
-               <l n="40" xml:id="C001-40">lo be com fujg / ab grans crits mal apella.</l>
+            <lg type="cobla" n="5" xml:id="C001-lg5">
+               <l n="33" xml:id="C001-l33">¶Com l'hermita / que'nyorament nol creix</l>
+               <l n="34" xml:id="C001-l34">d'aquells amichs / que tenia'n lomon</l>
+               <l n="35" xml:id="C001-l35"><choice><abbr>tȃts</abbr><expan>tants</expan></choice> ha <choice><abbr>llȏch</abbr><expan>llonch</expan></choice> temps / que'n lloch poblat no <choice><abbr>fȏ</abbr><expan>fon</expan></choice></l>
+               <l n="36" xml:id="C001-l36">per fortuit cas / vn dells li apareix.</l>
+               <l n="37" xml:id="C001-l37">Qui los plahers / passats li rrenouella,</l>
+               <l n="38" xml:id="C001-l38">si quel passat / present li fa tornar.</l>
+               <l n="39" xml:id="C001-l39">mas com sen part / l'es forçat congoixar</l>
+               <l n="40" xml:id="C001-l40">lo be com fujg / ab grans crits mal apella.</l>
             </lg>
-            <lg type="tornada">
-               <l n="41" xml:id="C001-41">¶Plena de seny / quant Amor es molt vella</l>
-               <l n="42" xml:id="C001-42">absença es / lo verme qui la guasta</l>
-               <l n="43" xml:id="C001-43">si fermetat / durament no constrasta<note type="editorial">Per contrasta.</note></l>
-               <l n="44" xml:id="C001-44">e creure poch / si'l enuejos consella.</l>
+            <lg type="tornada" n="6" xml:id="C0001-6">
+               <l n="41" xml:id="C001-l41">¶Plena de seny / quant Amor es molt vella</l>
+               <l n="42" xml:id="C001-l42">absença es / lo verme qui la guasta</l>
+               <l n="43" xml:id="C001-l43">si fermetat / durament no constrasta<note type="editorial">Per contrasta.</note></l>
+               <l n="44" xml:id="C001-l44">e creure poch / si'l enuejos consella.</l>
             </lg>
          </div>
       </body>

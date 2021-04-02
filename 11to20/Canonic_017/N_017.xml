@@ -85,7 +85,7 @@
          <div type="poem" xml:id="C017-N017">
             <lg type="cobla" n="1" xml:id="C017-01">
 
-               <l n="1" xml:id="C017-1"> &#182; Si deu del cors lamia arma sostrau </l>
+               <l n="1" xml:id="C017-1"> ¶ Si deu del cors lamia arma sostrau </l>
 
                <l n="2" xml:id="C017-2"> Nom planyeran sino mos cars parents </l>
 
@@ -215,7 +215,7 @@
 
                <l n="56" xml:id="C017-56"> Si contramor valgues algunanpressa </l>
             </lg>
-            <lg type="cobla" n="8" xml:id="C017-08">
+            <lg type="tornada" n="8" xml:id="C017-08">
 
                <l n="57" xml:id="C017-57"> Plena de seny perno esser entesa </l>
 

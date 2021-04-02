@@ -89,7 +89,7 @@
                <note type="editorial">Poesia composta per fragments de dues poesies. Segons les
                   edicions crítiques actuals, aquesta poesia està formada per 32 versos de la poesia
                   33 i 40 de la poesia 16.</note>
-               <l n="1" xml:id="C033-1"> &#182; Sens lo desig / de cosa desonesta</l>
+               <l n="1" xml:id="C033-1"> ¶ Sens lo desig / de cosa desonesta</l>
 
                <l n="2" xml:id="C033-2"> Don ve dolor / a tot enamorat </l>
 
@@ -107,7 +107,7 @@
             </lg>
             <lg type="cobla" n="2" xml:id="C033-03">
 
-               <l n="9" xml:id="C033-17"> &#182; No cessara / lo meu egual talent </l>
+               <l n="9" xml:id="C033-17"> ¶ No cessara / lo meu egual talent </l>
 
                <l n="10" xml:id="C033-18"> Per mon depart / que nos cansa nes farta </l>
 
@@ -127,7 +127,7 @@
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_92.html"/>
             <lg type="cobla" n="3" xml:id="C033-04">
 
-               <l n="17" xml:id="C033-25"> &#182; Si com lo foch / creix la sua flamada </l>
+               <l n="17" xml:id="C033-25"> ¶ Si com lo foch / creix la sua flamada </l>
 
                <l n="18" xml:id="C033-26">
                   <choice>
@@ -175,7 +175,7 @@
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_93.html"/>
             <lg type="cobla" n="5" xml:id="C016-01">
 
-               <l n="33" xml:id="C016-1"> &#182; Junt es lo temps / que mon goig es <choice>
+               <l n="33" xml:id="C016-1"> ¶ Junt es lo temps / que mon goig es <choice>
                      <abbr>cȏplit</abbr>
                      <expan>complit</expan>
                   </choice><note type="editorial">Els versos 33-72 constitueixen el poema 16 (tret
@@ -200,9 +200,9 @@
 
                <l n="40" xml:id="C016-8"> E trop remey / mas de mi no sabsenta </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C016-02">
+            <lg type="tornada" n="6" xml:id="C016-02">
 
-               <l n="41" xml:id="C016-9"> &#182; Si com lo xorch / qui deu souint smenta </l>
+               <l n="41" xml:id="C016-9"> ¶ Si com lo xorch / qui deu souint smenta </l>
 
                <l n="42" xml:id="C016-10"> Que li don fills / assenats y adrets </l>
 
@@ -261,7 +261,7 @@
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_95.html"/>
             <lg type="cobla" n="9" xml:id="C016-05">
 
-               <l n="65" xml:id="C016-33"> &#182; Pijor que mort / es vida sens plaher </l>
+               <l n="65" xml:id="C016-33"> ¶ Pijor que mort / es vida sens plaher </l>
 
                <l n="66" xml:id="C016-34"> Mas nom acus / que fenexca ma vida </l>
 

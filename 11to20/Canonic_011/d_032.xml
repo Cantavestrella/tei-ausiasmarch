@@ -109,7 +109,7 @@
             </lg>
             <lg type="cobla" n="2" xml:id="C011-02">
 
-               <l n="9" xml:id="C011-9"> &#182; Braços vberts / es exida'en carrera </l>
+               <l n="9" xml:id="C011-9"> ¶ Braços vberts / es exida'en carrera </l>
 
                <l n="10" xml:id="C011-10"> plorant sos vlls / per sobres de gran goig </l>
 
@@ -129,7 +129,7 @@
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_85.html"/>
             <lg type="cobla" n="3" xml:id="C011-03">
 
-               <l n="17" xml:id="C011-17"> &#182; Ab vlls plorant / e cara de terror </l>
+               <l n="17" xml:id="C011-17"> ¶ Ab vlls plorant / e cara de terror </l>
 
                <l n="18" xml:id="C011-18"> cabells rompent / ab grans hudulaménts </l>
 
@@ -147,7 +147,7 @@
             </lg>
             <lg type="cobla" n="4" xml:id="C011-04">
 
-               <l n="25" xml:id="C011-25"> &#182; Bem marauell / com es tan ergullosa </l>
+               <l n="25" xml:id="C011-25"> ¶ Bem marauell / com es tan ergullosa </l>
 
                <l n="26" xml:id="C011-26"> la voluntat / de cascun amador </l>
 
@@ -165,7 +165,7 @@
             </lg>
             <lg type="cobla" n="5" xml:id="C011-05">
 
-               <l n="33" xml:id="C011-33"> &#182; Null hom conech / ho dona mon semblánt </l>
+               <l n="33" xml:id="C011-33"> ¶ Null hom conech / ho dona mon semblánt </l>
 
                <l n="34" xml:id="C011-34"> que dolorit / per Amor faça planyer </l>
 
@@ -183,9 +183,9 @@
             </lg>
             <pb n="41r"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_86.html"/>
-            <lg type="cobla" n="6" xml:id="C011-06">
+            <lg type="tornada" n="6" xml:id="C011-06">
 
-               <l n="41" xml:id="C011-41"> &#182; Lir entre carts / la hora sent acostada </l>
+               <l n="41" xml:id="C011-41"> ¶ Lir entre carts / la hora sent acostada </l>
 
                <l n="42" xml:id="C011-42"> que çiuilment / es ma vida finida </l>
 

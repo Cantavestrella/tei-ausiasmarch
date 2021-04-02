@@ -84,7 +84,7 @@
          <div type="poem" xml:id="C018-N018">
             <lg type="cobla" n="1" xml:id="C018-01">
 
-               <l n="1" xml:id="C018-1"> &#182; Ffantasiant amor amj descobre</l>
+               <l n="1" xml:id="C018-1"> ¶ Ffantasiant amor amj descobre</l>
 
                <l n="2" xml:id="C018-2"> Los grans secrets quals <choice>
                      <abbr>pꝯ</abbr>
@@ -229,7 +229,7 @@
 
                <l n="56" xml:id="C018-56"> Dant aparer que folles cosses parle</l>
             </lg>
-            <lg type="cobla" n="8" xml:id="C018-08">
+            <lg type="tornada" n="8" xml:id="C018-08">
 
                <l n="57" xml:id="C018-57"> Lir entre carts lomeu voler se tempra</l>
 

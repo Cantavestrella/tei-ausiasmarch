@@ -4,7 +4,7 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>           
+        <fileDesc>
             <titleStmt>
                 <title>Poema 1</title>
                 <author>Ausiàs March </author>
@@ -28,12 +28,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -45,9 +47,7 @@
                     <msIdentifier xml:id="H_Ms_110_BUZ">
                         <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                     </msIdentifier>
-                    <msContents>
-                        
-                    </msContents>
+                    <msContents> </msContents>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -58,104 +58,213 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
     <facsimile>
         <graphic
             url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_4.html"/>
-        <graphic 
+        <graphic
             url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_5.html"/>
-        <graphic 
-            url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_6.html"></graphic>
+        <graphic
+            url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_6.html"
+        />
     </facsimile>
     <text>
-        <body>                                
-       
-        <div type="poem" xml:id="C007-H001">
-            <pb n="5r" 
-                facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_4.html"></pb>
-            <lg type="cobla" n="1" xml:id="C0007-1">
-                <l n="1" xml:id="C007-1"> Amor no pot auer desordenat<note>Fragment de la poesia</note> Si com rictat no porta bens ab si</l>
-                <l n="2" xml:id="C007-2"> Co <choice><abbr>ꝗ</abbr><expan>que</expan></choice> deus feu natura mjtyensant</l>
-                <l n="3" xml:id="C007-3"> Car home pech no pot ser fin amant</l>
-                <l n="4" xml:id="C007-4"> Ne lo subtill contra sa calitat</l>
-                <l n="5" xml:id="C007-5"> Mall pendra pint en laygua sa figura</l>
-                <l n="6" xml:id="C007-6"> Molt menys amor pendra lo no dispost</l>
-                <l n="7" xml:id="C007-7"> No pot star laygua dins <choice><abbr>hȗ</abbr><expan>hun</expan></choice> loch rost</l>
-                <l n="8" xml:id="C007-8"> Tan poch amor en cap dom foll atura</l>
+        <body>
+
+            <div type="poem" xml:id="C007-H001">
+                <pb n="5r"
+                    facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_4.html"/>
+                <lg type="cobla" n="1" xml:id="C007-lg2">
+                    <l n="1" xml:id="C007-l9"> Amor no pot auer desordenat<note type="editorial"
+                            >Fragment de la poesia</note> Si com rictat no porta bens ab si</l>
+                    <l n="2" xml:id="C007-l10"> Co <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> deus feu natura mjtyensant</l>
+                    <l n="3" xml:id="C007-l11"> Car home pech no pot ser fin amant</l>
+                    <l n="4" xml:id="C007-l12"> Ne lo subtill contra sa calitat</l>
+                    <l n="5" xml:id="C007-l13"> Mall pendra pint en laygua sa figura</l>
+                    <l n="6" xml:id="C007-l14"> Molt menys amor pendra lo no dispost</l>
+                    <l n="7" xml:id="C007-l15"> No pot star laygua dins <choice>
+                            <abbr>hȗ</abbr>
+                            <expan>hun</expan>
+                        </choice> loch rost</l>
+                    <l n="8" xml:id="C007-l16"> Tan poch amor en cap dom foll atura</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0007-2">
-                <l n="9" xml:id="C007-9"> <choice><abbr>ꝑ</abbr><expan>Per</expan></choice> ben amar ab engoxossa cura</l>
-                <l n="10" xml:id="C007-10"> En temps passat eram ladonchs vulguts</l>
-                <l n="11" xml:id="C007-11"> Oujdill prous dix quemor es crescuts</l>
-                <l n="12" xml:id="C007-12"> <choice><abbr>ꝑ</abbr><expan>Per</expan></choice> altramor demostrant sa factura</l>
-                <l n="13" xml:id="C007-13"> Vertader fonch sos dits e sos presichs</l>
-                <l n="14" xml:id="C007-14"> Tant <choice><abbr>ꝗnt</abbr><expan>quant</expan></choice> amor ffon prop <choice><abbr>ƌ</abbr><expan>de</expan></choice> conexensa</l>
-                <l n="15" xml:id="C007-15"> Mes en est cas entrells ha maluolens</l>
-                <l n="16" xml:id="C007-16"> Tall <choice><abbr>ꝗ</abbr><expan>que</expan></choice> no creu null temps sian amjchs</l>
+                <lg type="cobla" n="2" xml:id="C007-lg3">
+                    <l n="9" xml:id="C007-l17">
+                        <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>Per</expan>
+                        </choice> ben amar ab engoxossa cura</l>
+                    <l n="10" xml:id="C007-l18"> En temps passat eram ladonchs vulguts</l>
+                    <l n="11" xml:id="C007-l19"> Oujdill prous dix quemor es crescuts</l>
+                    <l n="12" xml:id="C007-l20">
+                        <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>Per</expan>
+                        </choice> altramor demostrant sa factura</l>
+                    <l n="13" xml:id="C007-l21"> Vertader fonch sos dits e sos presichs</l>
+                    <l n="14" xml:id="C007-l22"> Tant <choice>
+                            <abbr>ꝗnt</abbr>
+                            <expan>quant</expan>
+                        </choice> amor ffon prop <choice>
+                            <abbr>ƌ</abbr>
+                            <expan>de</expan>
+                        </choice> conexensa</l>
+                    <l n="15" xml:id="C007-l23"> Mes en est cas entrells ha maluolensa</l>
+                    <l n="16" xml:id="C007-l24"> Tall <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> no creu null temps sian amjchs</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0007-3">
-                <l n="17" xml:id="C007-17"> Si fossem nats vos eyoentrells antichs</l>
-                <l n="18" xml:id="C007-18"> Lay <choice><abbr>quȃt</abbr><expan>quant</expan></choice>t amor amant se conqueria</l>
-                <l n="19" xml:id="C007-19"> Sens pratiquar alguna maestria</l>
-                <l n="20" xml:id="C007-20"> Lo vostre cor no fora tan enjchs</l>
-                <l n="21" xml:id="C007-21"> En vos conech gran disposicio</l>
-                <l n="22" xml:id="C007-22"> De ffer tot ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> gentilessa mana</l>
-                <l n="23" xml:id="C007-23"> Mas criament veig<note>El copista de H traça habitualment la g final com si esmenés una ch</note> naturangana</l>
-                <l n="24" xml:id="C007-24"> Car viureb malls es dom <choice><abbr>ꝑdicio</abbr><expan>perdicio</expan></choice></l>
+                <lg type="cobla" n="3" xml:id="C007-lg4">
+                    <l n="17" xml:id="C007-l25"> Si fossem nats vos eyoentrells antichs</l>
+                    <l n="18" xml:id="C007-l26"> Lay <choice>
+                            <abbr>quȃt</abbr>
+                            <expan>quant</expan>
+                        </choice>t amor amant se conqueria</l>
+                    <l n="19" xml:id="C007-l27"> Sens pratiquar alguna maestria</l>
+                    <l n="20" xml:id="C007-l28"> Lo vostre cor no fora tan enjchs</l>
+                    <l n="21" xml:id="C007-l29"> En vos conech gran disposicio</l>
+                    <l n="22" xml:id="C007-l30"> De ffer tot ço <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> gentilessa mana</l>
+                    <l n="23" xml:id="C007-l31"> Mas criament veig<note type="editorial">El copista de H traça
+                            habitualment la g final com si esmenés una ch</note> naturangana</l>
+                    <l n="24" xml:id="C007-l32"> Car viureb malls es dom <choice>
+                            <abbr>ꝑdicio</abbr>
+                            <expan>perdicio</expan>
+                        </choice></l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0007-4">
-                <l n="25" xml:id="C007-25"> Per mall grahir ne <choice><abbr>ꝑ</abbr><expan>per</expan></choice> mala raho</l>
-                <l n="26" xml:id="C007-26"> Mon cor no pot amor desemperar</l>
-        <pb n="5v" 
-            facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_5.html"/> 
-                <l n="27" xml:id="C007-27"> Deuotament los me plau remenbrar</l>
-                <l n="28" xml:id="C007-28"> Aquels passats <choice><abbr>aꝗi</abbr><expan>aqui</expan></choice> deus don perdo</l>
-                <l n="29" xml:id="C007-29"> E com <choice><abbr>şe</abbr><expan>sere</expan></choice> traspassat daquest mon</l>
-                <l n="30" xml:id="C007-30"> Letres diran sobre la mja tomba</l>
-                <l n="31" xml:id="C007-31"> Plena <choice><abbr>ƌ</abbr><expan>de</expan></choice> seny nom tingau agran bomba</l>
-                <l n="32" xml:id="C007-32"> Car <choice><abbr>ꝑ</abbr><expan>per</expan></choice> vos muyr e vaig no sabent hon</l>
+                <lg type="cobla" n="4" xml:id="C007-lg5">
+                    <l n="25" xml:id="C007-l33"> Per mall grahir ne <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>per</expan>
+                        </choice> mala raho</l>
+                    <l n="26" xml:id="C007-l34"> Mon cor no pot amor desemperar</l>
+                    <pb n="5v"
+                        facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_5.html"/>
+                    <l n="27" xml:id="C007-l35"> Deuotament los me plau remenbrar</l>
+                    <l n="28" xml:id="C007-l36"> Aquels passats <choice>
+                            <abbr>aꝗi</abbr>
+                            <expan>aqui</expan>
+                        </choice> deus don perdo</l>
+                    <l n="29" xml:id="C007-l37"> E com <choice>
+                            <abbr>şe</abbr>
+                            <expan>sere</expan>
+                        </choice> traspassat daquest mon</l>
+                    <l n="30" xml:id="C007-l38"> Letres diran sobre la mja tomba</l>
+                    <l n="31" xml:id="C007-l39"> Plena <choice>
+                            <abbr>ƌ</abbr>
+                            <expan>de</expan>
+                        </choice> seny nom tingau agran bomba</l>
+                    <l n="32" xml:id="C007-l40"> Car <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>per</expan>
+                        </choice> vos muyr e vaig no sabent hon</l>
                 </lg>
-            <lg type="cobla" n="5" xml:id="C0007-5">
-                <l n="33" xml:id="C007-33"> Enuegastall <choice><abbr>ꝗ</abbr><expan>que</expan></choice> tot <choice><abbr>ꝑmer</abbr><expan>primer</expan></choice> confon</l>
-                <l n="34" xml:id="C007-34"> A tots <choice><abbr>ꝗells</abbr><expan>aquells</expan></choice> <choice><abbr>ꝗ</abbr><expan>qui</expan></choice> ab si lasaiustan</l>
-                <l n="35" xml:id="C007-35"> Los enueiats <choice><abbr>hȗ</abbr><expan>hun</expan></choice> poch ne molt no gusten</l>
-                <l n="36" xml:id="C007-36"> Aquell mall tast quells enuegossos fon</l>
-                <l n="37" xml:id="C007-37"> Tall es amor / car yo <choice><abbr>ꝗ</abbr><expan>qui</expan></choice> lam ayust</l>
-                <l n="38" xml:id="C007-38"> Sent grans dolors dant me ffols moujments</l>
-                <l n="39" xml:id="C007-39"> E uos aueu daço talls sentiments</l>
-                <l n="40" xml:id="C007-40"> Com ffort destrall ha <choice><abbr>ƌ</abbr><expan>de</expan></choice> tallar molt fust</l>
+                <lg type="cobla" n="5" xml:id="C007-lg6">
+                    <l n="33" xml:id="C007-l41"> Enuegastall <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> tot <choice>
+                            <abbr>ṕmer</abbr>
+                            <expan>primer</expan>
+                        </choice> confon</l>
+                    <l n="34" xml:id="C007-l42"> A tots <choice>
+                            <abbr>ꝗells</abbr>
+                            <expan>aquells</expan>
+                        </choice>
+                        <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>qui</expan>
+                        </choice> ab si lasaiustan</l>
+                    <l n="35" xml:id="C007-l43"> Los enueiats <choice>
+                            <abbr>hȗ</abbr>
+                            <expan>hun</expan>
+                        </choice> poch ne molt no gusten</l>
+                    <l n="36" xml:id="C007-l44"> Aquell mall tast quells enuegossos fon</l>
+                    <l n="37" xml:id="C007-l45"> Tall es amor / car yo <choice>
+                        <abbr>ꝙ</abbr>
+                            <expan>qui</expan>
+                        </choice> lam ayust</l>
+                    <l n="38" xml:id="C007-l46"> Sent grans dolors dant me ffols moujments</l>
+                    <l n="39" xml:id="C007-l47"> E uos aueu daço talls sentiments</l>
+                    <l n="40" xml:id="C007-l48"> Com ffort destrall ha <choice>
+                            <abbr>ƌ</abbr>
+                            <expan>de</expan>
+                        </choice> tallar molt fust</l>
                 </lg>
-            <lg type="cobla" n="6" xml:id="C0007-6">
-                <l n="41" xml:id="C007-41"> Si com adam pres mall del vendat gust</l>
-                <l n="42" xml:id="C007-42"> Com sa muller li mostra mall camj</l>
-                <l n="43" xml:id="C007-43"> Dient adam meniem daquest bosi</l>
-                <l n="44" xml:id="C007-44"> E semblerem adeu <choice><abbr>ꝗ</abbr><expan>qui</expan></choice> es tot just</l>
-                <l n="45" xml:id="C007-45"> Ne pren amj / car <choice><abbr>mȏ</abbr><expan>mon</expan></choice> seny ha cregut</l>
-                <l n="46" xml:id="C007-46"> La volentat ffent li <choice><abbr>ꝑmjssio</abbr><expan>promjssio</expan></choice></l>
-                <l n="47" xml:id="C007-47"> Que be serujnt aconsegujra do</l>
-                <l n="48" xml:id="C007-48"> Que <choice><abbr>ꝑnull</abbr><expan>pernull</expan></choice> temps tall non fo conagut</l>
+                <lg type="cobla" n="6" xml:id="C007-lg7">
+                    <l n="41" xml:id="C007-l49"> Si com adam pres mall del vendat gust</l>
+                    <l n="42" xml:id="C007-l50"> Com sa muller li mostra mall camj</l>
+                    <l n="43" xml:id="C007-l51"> Dient adam meniem daquest bosi</l>
+                    <l n="44" xml:id="C007-l52"> E semblerem adeu <choice>
+                        <abbr>ꝙ</abbr>
+                            <expan>qui</expan>
+                        </choice> es tot just</l>
+                    <l n="45" xml:id="C007-l53"> Ne pren amj / car <choice>
+                            <abbr>mȏ</abbr>
+                            <expan>mon</expan>
+                        </choice> seny ha cregut</l>
+                    <l n="46" xml:id="C007-l54"> La volentat ffent li <choice>
+                        <abbr>ṗmjssio</abbr>
+                            <expan>promjssio</expan>
+                        </choice></l>
+                    <l n="47" xml:id="C007-l55"> Que be serujnt aconsegujra do</l>
+                    <l n="48" xml:id="C007-l56"> Que <choice>
+                            <abbr>ꝑnull</abbr>
+                            <expan>pernull</expan>
+                        </choice> temps tall non fo conagut</l>
                 </lg>
-            <lg type="cobla" n="7" xml:id="C0007-7">
-                <l n="49" xml:id="C007-49"> Per mall <choice><abbr>şujr</abbr><expan>serujr</expan></choice> no crech laya perdut</l>
-                <l n="50" xml:id="C007-50"> Car sills treballs / ages sufferts <choice><abbr>ꝑ</abbr><expan>per</expan></choice> deu</l>
-                <l n="51" xml:id="C007-51"> Cos glorios / foranlo regne seu</l>
-                <l n="52" xml:id="C007-52"> E ia plorant soujnt me trobe mut</l>
-        <pb n="6r" 
-            facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_6.html"/> 
-                <l n="53" xml:id="C007-53"> Sim fos donat aquest temps en entendre</l>
-                <l n="54" xml:id="C007-54"> Los grans secrets enclossos en natura</l>
-                <l n="55" xml:id="C007-55"> No fforall mon cossa <choice><abbr>ꝗm</abbr><expan>quim</expan></choice> fos scura</l>
-                <l n="56" xml:id="C007-56"> Dels fets diujns / gran part ne pograntendra</l>
+                <lg type="cobla" n="7" xml:id="C007-lg8">
+                    <l n="49" xml:id="C007-l57"> Per mall <choice>
+                            <abbr>şujr</abbr>
+                            <expan>serujr</expan>
+                        </choice> no crech laya perdut</l>
+                    <l n="50" xml:id="C007-l58"> Car sills treballs / ages sufferts <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>per</expan>
+                        </choice> deu</l>
+                    <l n="51" xml:id="C007-l59"> Cos glorios / foranlo regne seu</l>
+                    <l n="52" xml:id="C007-l60"> E ia plorant soujnt me trobe mut</l>
+                    <pb n="6r"
+                        facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_6.html"/>
+                    <l n="53" xml:id="C007-l61"> Sim fos donat aquest temps en entendre</l>
+                    <l n="54" xml:id="C007-l62"> Los grans secrets enclossos en natura</l>
+                    <l n="55" xml:id="C007-l63"> No fforall mon cossa <choice>
+                        <abbr>ꝙm</abbr>
+                            <expan>quim</expan>
+                        </choice> fos scura</l>
+                    <l n="56" xml:id="C007-l64"> Dels fets diujns / gran part ne pograntendra</l>
                 </lg>
-            <lg type="tornada">
-                <l n="57" xml:id="C007-57"> Plena <choice><abbr>ƌ</abbr><expan>de</expan></choice> seny tot <choice><abbr>mȏ</abbr><expan>mon</expan></choice> <choice><abbr>ŧps</abbr><expan>temps</expan></choice> vull despendre</l>
-                <l n="58" xml:id="C007-58"> Amant auos sens algun grat consegre</l>
-                <l n="59" xml:id="C007-59"> E dura ffins <choice><abbr>ꝗ</abbr><expan>que</expan></choice> del riu <choice><abbr>ƌ</abbr><expan>de</expan></choice> segre</l>
-                <l n="60" xml:id="C007-60"> Layga corrent amunt se puga stendra</l>
+                <lg type="tornada" n="8" xml:id="C007-lg9">
+                    <l n="57" xml:id="C007-l65"> Plena <choice>
+                            <abbr>ƌ</abbr>
+                            <expan>de</expan>
+                        </choice> seny tot <choice>
+                            <abbr>mȏ</abbr>
+                            <expan>mon</expan>
+                        </choice>
+                        <choice>
+                            <abbr>ŧps</abbr>
+                            <expan>temps</expan>
+                        </choice> vull despendre</l>
+                    <l n="58" xml:id="C007-l66"> Amant auos sens algun grat consegre</l>
+                    <l n="59" xml:id="C007-l67"> E dura ffins <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> del riu <choice>
+                            <abbr>ƌ</abbr>
+                            <expan>de</expan>
+                        </choice> segre</l>
+                    <l n="60" xml:id="C007-l68"> Layga corrent amunt se puga stendra</l>
                 </lg>
             </div>
         </body>

@@ -83,7 +83,7 @@
          <div type="poem" xml:id="C014-N014">
             <lg type="cobla" n="1" xml:id="C014-01">
 
-               <l n="1" xml:id="C014-1"> &#182; Mal venturos no deu cerquar ventura </l>
+               <l n="1" xml:id="C014-1"> ¶ Mal venturos no deu cerquar ventura </l>
 
                <l n="2" xml:id="C014-2"> Croar se deu lo front com lanomenen </l>
 
@@ -179,7 +179,7 @@
                         <expan>perseguex</expan>
                      </choice> amor ema gran cura </l>
                </lg>
-               <lg type="cobla" n="6" xml:id="C014-06">
+               <lg type="tornada" n="6" xml:id="C014-06">
 
                   <l n="41" xml:id="C014-41"> Lir entre carts del mon deu perdre cura </l>
 

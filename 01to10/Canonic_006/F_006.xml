@@ -80,75 +80,75 @@
             <pb n="4v"
                 facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_12.html"/>  
         <div type="poem" xml:id="C006-F006">
-            <lg type="cobla" n="1" xml:id="C0006-1">
-                <l n="1" xml:id="C006-1"> Molt he tardat en descobrir ma falta</l>
-                <l n="2" xml:id="C006-2"> Per jouentut quem negasperiment</l>
-                <l n="3" xml:id="C006-3"> E hun cas nou lom es mal conexent</l>
-                <l n="4" xml:id="C006-4"> E ia pus fort hauent raho malalta</l>
-                <l n="5" xml:id="C006-5"> Per gran esforc de folla uoluntat</l>
-                <l n="6" xml:id="C006-6"> Car tant com es la uoluntat moguda</l>
-                <l n="7" xml:id="C006-7"> Hom deu hauer del seny maior ajuda</l>
-                <l n="8" xml:id="C006-8"> Si uirtuos deu esser nomenat</l>
+            <lg type="cobla" n="1" xml:id="C006-lg1">
+                <l n="1" xml:id="C006-l1"> Molt he tardat en descobrir ma falta</l>
+                <l n="2" xml:id="C006-l2"> Per jouentut quem negasperiment</l>
+                <l n="3" xml:id="C006-l3"> E hun cas nou lom es mal conexent</l>
+                <l n="4" xml:id="C006-l4"> E ia pus fort hauent raho malalta</l>
+                <l n="5" xml:id="C006-l5"> Per gran esforc de folla uoluntat</l>
+                <l n="6" xml:id="C006-l6"> Car tant com es la uoluntat moguda</l>
+                <l n="7" xml:id="C006-l7"> Hom deu hauer del seny maior ajuda</l>
+                <l n="8" xml:id="C006-l8"> Si uirtuos deu esser nomenat</l>
                 </lg>
     <pb n="5r" 
         facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_13.html"/> 
-            <lg type="cobla" n="2" xml:id="C0006-2">
-                <l n="9" xml:id="C006-9"> Qui son camj uerdader ha erat</l>
-                <l n="10" xml:id="C006-10"> Per anar lla hon uol soiorn hauer</l>
-                <l n="11" xml:id="C006-11"> Es li forcat que prengua mal sender</l>
-                <l n="12" xml:id="C006-12"> E may venir ason loch desijat</l>
-                <l n="13" xml:id="C006-13"> Tal cas mapres uolent me contentar</l>
-                <l n="14" xml:id="C006-14"> Mon ferm uoler per altre tal amant</l>
-                <l n="15" xml:id="C006-15"> No ha trobat lo seu <choice><abbr>ƥpij</abbr><expan>propij</expan></choice> senblant</l>
-                <l n="16" xml:id="C006-16"> Car son esguart es uerament amar</l>
+            <lg type="cobla" n="2" xml:id="C006-lg2">
+                <l n="9" xml:id="C006-l9"> Qui son camj uerdader ha erat</l>
+                <l n="10" xml:id="C006-l10"> Per anar lla hon uol soiorn hauer</l>
+                <l n="11" xml:id="C006-l11"> Es li forcat que prengua mal sender</l>
+                <l n="12" xml:id="C006-l12"> E may venir ason loch desijat</l>
+                <l n="13" xml:id="C006-l13"> Tal cas mapres uolent me contentar</l>
+                <l n="14" xml:id="C006-l14"> Mon ferm uoler per altre tal amant</l>
+                <l n="15" xml:id="C006-l15"> No ha trobat lo seu <choice><abbr>ƥpij</abbr><expan>propij</expan></choice> senblant</l>
+                <l n="16" xml:id="C006-l16"> Car son esguart es uerament amar</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0006-3">
-                <l n="17" xml:id="C006-17"> Lenteniment en quil juhy nos clar</l>
-                <l n="18" xml:id="C006-18"> fforcadament ha pendropinions</l>
-                <l n="19" xml:id="C006-19"> Voluntat mou sufistiques rahons</l>
-                <l n="20" xml:id="C006-20"> Ffent les ualer e per bastants passar</l>
-                <l n="21" xml:id="C006-21"> Si com flori qui bona calor ha</l>
-                <l n="22" xml:id="C006-22"> E no ual res coneguda sa ley</l>
-                <l n="23" xml:id="C006-23"> Na pres amj quen pensa munti rey</l>
-                <l n="24" xml:id="C006-24"> Ffahent rahons quals ueritat desfa</l>
+            <lg type="cobla" n="3" xml:id="C006-lg3">
+                <l n="17" xml:id="C006-l17"> Lenteniment en quil juhy nos clar</l>
+                <l n="18" xml:id="C006-l18"> fforcadament ha pendropinions</l>
+                <l n="19" xml:id="C006-l19"> Voluntat mou sufistiques rahons</l>
+                <l n="20" xml:id="C006-l20"> Ffent les ualer e per bastants passar</l>
+                <l n="21" xml:id="C006-l21"> Si com flori qui bona calor ha</l>
+                <l n="22" xml:id="C006-l22"> E no ual res coneguda sa ley</l>
+                <l n="23" xml:id="C006-l23"> Na pres amj quen pensa munti rey</l>
+                <l n="24" xml:id="C006-l24"> Ffahent rahons quals ueritat desfa</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0006-4">
-                <l n="25" xml:id="C006-25"> Si pas mal bon dret ho consentra</l>
-                <l n="26" xml:id="C006-26"> Puys es dit foll cell qui serueix senyor</l>
-                <l n="27" xml:id="C006-27"> Qui no pot fer content bon seruidor</l>
-                <l n="28" xml:id="C006-28"> E per null temps negun dret juhy fa</l>
-                <l n="29" xml:id="C006-29"> E mes que mal administrador es</l>
-                <l n="30" xml:id="C006-30"> Al cauador dona loguer de metge</l>
-                <l n="31" xml:id="C006-31"> En los lochs plans fa durar lestret setge</l>
-                <l n="32" xml:id="C006-32"> E fort castell entera tost la mes</l>
+            <lg type="cobla" n="4" xml:id="C006-lg4">
+                <l n="25" xml:id="C006-l25"> Si pas mal bon dret ho consentra</l>
+                <l n="26" xml:id="C006-l26"> Puys es dit foll cell qui serueix senyor</l>
+                <l n="27" xml:id="C006-l27"> Qui no pot fer content bon seruidor</l>
+                <l n="28" xml:id="C006-l28"> E per null temps negun dret juhy fa</l>
+                <l n="29" xml:id="C006-l29"> E mes que mal administrador es</l>
+                <l n="30" xml:id="C006-l30"> Al cauador dona loguer de metge</l>
+                <l n="31" xml:id="C006-l31"> En los lochs plans fa durar lestret setge</l>
+                <l n="32" xml:id="C006-l32"> E fort castell entera tost la mes</l>
                 </lg>
         <pb n="5v" 
             facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_14.html"/> 
-            <lg type="cobla" n="5" xml:id="C0006-5">
-                <l n="33" xml:id="C006-33"> Pren men axi com al grosser pages</l>
-                <l n="34" xml:id="C006-34"> Que bon sement en mala terra met</l>
-                <l n="35" xml:id="C006-35"> Altrecuydat pensauer bon splet</l>
-                <l n="36" xml:id="C006-36"> Daquell terreny qui buyda los graners</l>
-                <l n="37" xml:id="C006-37"> Assats ha seny qui noha sentiment</l>
-                <l n="38" xml:id="C006-38"> Per enterguar e trobar la raho</l>
-                <l n="39" xml:id="C006-39"> Ca prenesment de mal del companyo</l>
-                <l n="40" xml:id="C006-40"> Per cas passat jutia lo seu pressent</l>
+            <lg type="cobla" n="5" xml:id="C006-lg5">
+                <l n="33" xml:id="C006-l33"> Pren men axi com al grosser pages</l>
+                <l n="34" xml:id="C006-l34"> Que bon sement en mala terra met</l>
+                <l n="35" xml:id="C006-l35"> Altrecuydat pensauer bon splet</l>
+                <l n="36" xml:id="C006-l36"> Daquell terreny qui buyda los graners</l>
+                <l n="37" xml:id="C006-l37"> Assats ha seny qui noha sentiment</l>
+                <l n="38" xml:id="C006-l38"> Per enterguar e trobar la raho</l>
+                <l n="39" xml:id="C006-l39"> Ca prenesment de mal del companyo</l>
+                <l n="40" xml:id="C006-l40"> Per cas passat jutia lo seu pressent</l>
                 </lg>
-            <lg type="cobla" n="6" xml:id="C0006-6">
-                <l n="41" xml:id="C006-41"> Seguint lestil que natura consent</l>
-                <l n="42" xml:id="C006-42"> E co quel seny en ueure clar abasta</l>
-                <l n="43" xml:id="C006-43"> Negre forment no dona blancha pasta</l>
-                <l n="44" xml:id="C006-44"> Ne lase ranch es animal corrent</l>
-                <l n="45" xml:id="C006-45"> Tanpoch sera que nulla dona senta</l>
-                <l n="46" xml:id="C006-46"> Ne ueia prim lo fin secret damor</l>
-                <l n="47" xml:id="C006-47"> Si per amar no sofir gran dolor</l>
-                <l n="48" xml:id="C006-48"> Y en sentiment triadan millers trenta</l>
+            <lg type="cobla" n="6" xml:id="C006-lg6">
+                <l n="41" xml:id="C006-l41"> Seguint lestil que natura consent</l>
+                <l n="42" xml:id="C006-l42"> E co quel seny en ueure clar abasta</l>
+                <l n="43" xml:id="C006-l43"> Negre forment no dona blancha pasta</l>
+                <l n="44" xml:id="C006-l44"> Ne lase ranch es animal corrent</l>
+                <l n="45" xml:id="C006-l45"> Tanpoch sera que nulla dona senta</l>
+                <l n="46" xml:id="C006-l46"> Ne ueia prim lo fin secret damor</l>
+                <l n="47" xml:id="C006-l47"> Si per amar no sofir gran dolor</l>
+                <l n="48" xml:id="C006-l48"> Y en sentiment triadan millers trenta</l>
                 </lg>
-            <lg type="cobla" n="7" xml:id="C0006-7">
-                <l n="49" xml:id="C006-49"> Plena de seny si algu mjesmenta</l>
-                <l n="50" xml:id="C006-50"> Tots los hoents dien que so mellor</l>
-                <l n="51" xml:id="C006-51"> Pus flach e fort e callant amador</l>
-                <l n="52" xml:id="C006-52"> Ma uoluntat faent damor siruenta</l>
+            <lg type="tornada" n="7" xml:id="C006-lg7">
+                <l n="49" xml:id="C006-l49"> Plena de seny si algu mjesmenta</l>
+                <l n="50" xml:id="C006-l50"> Tots los hoents dien que so mellor</l>
+                <l n="51" xml:id="C006-l51"> Pus flach e fort e callant amador</l>
+                <l n="52" xml:id="C006-l52"> Ma uoluntat faent damor siruenta</l>
                 </lg>
              </div>
         </body>

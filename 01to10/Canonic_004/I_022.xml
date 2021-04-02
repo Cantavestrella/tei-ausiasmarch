@@ -80,82 +80,82 @@
             <pb n="47r"
                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_94.html"/>
            <div type="poem" xml:id="C004-I022">
-            <lg type="cobla" n="1" xml:id="C0004-1">              
-                <l n="1" xml:id="C004-1"> Xi com cell / qui desiga vianda</l>
-                <l n="2" xml:id="C004-2"> Per apagar / sa perillosa fam</l>
-                <l n="3" xml:id="C004-3"> E veu dos poms / de fruyt en vn bell ram</l>
-                <l n="4" xml:id="C004-4"> E son desig / egualment los demanda</l>
-                <l n="5" xml:id="C004-5"> Nol complira / fins part haia legida</l>
-                <l n="6" xml:id="C004-6"> Siquel desig / vers lun fruyt se decant</l>
-                <l n="7" xml:id="C004-7"> Axi ma pres / dues dones amant</l>
-                <l n="8" xml:id="C004-8"> Mas elegesch / per hauer damor vida</l>
+            <lg type="cobla" n="1" xml:id="C004-lg1">              
+                <l n="1" xml:id="C004-l1"> Xi com cell / qui desiga vianda</l>
+                <l n="2" xml:id="C004-l2"> Per apagar / sa perillosa fam</l>
+                <l n="3" xml:id="C004-l3"> E veu dos poms / de fruyt en vn bell ram</l>
+                <l n="4" xml:id="C004-l4"> E son desig / egualment los demanda</l>
+                <l n="5" xml:id="C004-l5"> Nol complira / fins part haia legida</l>
+                <l n="6" xml:id="C004-l6"> Siquel desig / vers lun fruyt se decant</l>
+                <l n="7" xml:id="C004-l7"> Axi ma pres / dues dones amant</l>
+                <l n="8" xml:id="C004-l8"> Mas elegesch / per hauer damor vida</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0004-2">
-                <l n="9" xml:id="C004-9"> Si com la mar / se plany fortment e crida</l>
-                <l n="10" xml:id="C004-10"> Com dos forts vents / labaten egualment</l>
-                <l n="11" xml:id="C004-11"> Vn de leuant / e altre de ponent</l>
-                <l n="12" xml:id="C004-12"> Edura tant / fins lun vent ha jaquida</l>
-                <l n="13" xml:id="C004-13"> Sa força gran / per lo mes poderos</l>
-                <l n="14" xml:id="C004-14"> Dos grans desigs / han combatut ma pensa</l>
-                <l n="15" xml:id="C004-15"> Mas lo voler / vers vn seguir dispens</l>
-                <l n="16" xml:id="C004-16"> Jal vos publich / amar dretament vos</l>
+            <lg type="cobla" n="2" xml:id="C004-lg2">
+                <l n="9" xml:id="C004-l9"> Si com la mar / se plany fortment e crida</l>
+                <l n="10" xml:id="C004-l10"> Com dos forts vents / labaten egualment</l>
+                <l n="11" xml:id="C004-l11"> Vn de leuant / e altre de ponent</l>
+                <l n="12" xml:id="C004-l12"> Edura tant / fins lun vent ha jaquida</l>
+                <l n="13" xml:id="C004-l13"> Sa força gran / per lo mes poderos</l>
+                <l n="14" xml:id="C004-l14"> Dos grans desigs / han combatut ma pensa</l>
+                <l n="15" xml:id="C004-l15"> Mas lo voler / vers vn seguir dispens</l>
+                <l n="16" xml:id="C004-l16"> Jal vos publich / amar dretament vos</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0004-3">
-                <l n="17" xml:id="C004-17"> E no cuydeu / que tant jgnocent fos</l>
-                <l n="18" xml:id="C004-18"> Que no vehes / vostrauentatge gran</l>
-                <l n="19" xml:id="C004-19"> Mon cors no cast / estaue congoxan</l>
-                <l n="20" xml:id="C004-20"> De perdre loch / quil era delitos</l>
-                <l n="21" xml:id="C004-21"> Vna raho / fon ab ell de sa part</l>
-                <l n="22" xml:id="C004-22"> Dient quen ell / se pren aquestamor</l>
-                <l n="23" xml:id="C004-23"> Sentint lo mal / o lo delit maior</l>
-                <l n="24" xml:id="C004-24"> Si quel content / cascu pot esser fart</l>
+            <lg type="cobla" n="3" xml:id="C004-lg3">
+                <l n="17" xml:id="C004-l17"> E no cuydeu / que tant jgnocent fos</l>
+                <l n="18" xml:id="C004-l18"> Que no vehes / vostrauentatge gran</l>
+                <l n="19" xml:id="C004-l19"> Mon cors no cast / estaue congoxan</l>
+                <l n="20" xml:id="C004-l20"> De perdre loch / quil era delitos</l>
+                <l n="21" xml:id="C004-l21"> Vna raho / fon ab ell de sa part</l>
+                <l n="22" xml:id="C004-l22"> Dient quen ell / se pren aquestamor</l>
+                <l n="23" xml:id="C004-l23"> Sentint lo mal / o lo delit maior</l>
+                <l n="24" xml:id="C004-l24"> Si quel content / cascu pot esser fart</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0004-4">
-                <l n="25" xml:id="C004-25"> Lentenjment / aparlar no vench tart</l>
-                <l n="26" xml:id="C004-26"> E planament / desfeu esta raho</l>
-                <l n="27" xml:id="C004-27"> Dient quel cos / ab sa compleccio</l>
-                <l n="28" xml:id="C004-28"> Ha tal amor / com vn lop o renart</l>
-                <l n="29" xml:id="C004-29"> Que llur poder / damar es limitat</l>
-                <l n="30" xml:id="C004-30"> Car no es pus / que apetit brutal</l>
-                <l n="31" xml:id="C004-31"> E si lamant / veheu dins la fornal</l>
-                <l n="32" xml:id="C004-32"> No sera plant / e molt menys deffensat</l>
+            <lg type="cobla" n="4" xml:id="C004-lg4">
+                <l n="25" xml:id="C004-l25"> Lentenjment / aparlar no vench tart</l>
+                <l n="26" xml:id="C004-l26"> E planament / desfeu esta raho</l>
+                <l n="27" xml:id="C004-l27"> Dient quel cos / ab sa compleccio</l>
+                <l n="28" xml:id="C004-l28"> Ha tal amor / com vn lop o renart</l>
+                <l n="29" xml:id="C004-l29"> Que llur poder / damar es limitat</l>
+                <l n="30" xml:id="C004-l30"> Car no es pus / que apetit brutal</l>
+                <l n="31" xml:id="C004-l31"> E si lamant / veheu dins la fornal</l>
+                <l n="32" xml:id="C004-l32"> No sera plant / e molt menys deffensat</l>
                 </lg>
             <pb n="47v" 
                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_95.html"/>
-            <lg type="cobla" n="5" xml:id="C0004-5">
-                <l n="33" xml:id="C004-33">  Ell es qui venç / la censualitat</l>
-                <l n="34" xml:id="C004-34"> Si be no es / en ell prim moujment</l>
-                <l n="35" xml:id="C004-35"> En ell esta / detot lo jutgament</l>
-                <l n="36" xml:id="C004-36"> Cert guiador / es dela voluntat</l>
-                <l n="37" xml:id="C004-37"> Quj es aquell / qui encontra dell reny</l>
-                <l n="38" xml:id="C004-38"> Que voluntat / perquil fet sexecuta</l>
-                <l n="39" xml:id="C004-39"> Latorch senyor / esiab ell disputa</l>
-                <l n="40" xml:id="C004-40"> Ala perfi / seguia <choice><abbr>ꝑ</abbr><expan>per</expan></choice> son seny</l></lg>
-            <lg type="cobla" n="6" xml:id="C0004-6">
-                <l n="41" xml:id="C004-41"> Diu mes auant / al cors ab gran endeny</l>
-                <l n="42" xml:id="C004-42"> Vanament vols / e vans son tos desigs</l>
-                <l n="43" xml:id="C004-43"> Car dins vn punt / tos delits son festigs</l>
-                <l n="44" xml:id="C004-44"> Romans ne las / tots jorns ne prens enseny</l>
-                <l n="45" xml:id="C004-45"> Ab tu mateix / delit no pots hauer</l>
-                <l n="46" xml:id="C004-46"> Tant est grosser / quemor non es seruit</l>
-                <l n="47" xml:id="C004-47"> Volenteros / acte debe es dit</l>
-                <l n="48" xml:id="C004-48"> Edaquest be / tu no sabs lo carrer</l>
+            <lg type="cobla" n="5" xml:id="C004-lg5">
+                <l n="33" xml:id="C004-l33">  Ell es qui venç / la censualitat</l>
+                <l n="34" xml:id="C004-l34"> Si be no es / en ell prim moujment</l>
+                <l n="35" xml:id="C004-l35"> En ell esta / detot lo jutgament</l>
+                <l n="36" xml:id="C004-l36"> Cert guiador / es dela voluntat</l>
+                <l n="37" xml:id="C004-l37"> Quj es aquell / qui encontra dell reny</l>
+                <l n="38" xml:id="C004-l38"> Que voluntat / perquil fet sexecuta</l>
+                <l n="39" xml:id="C004-l39"> Latorch senyor / esiab ell disputa</l>
+                <l n="40" xml:id="C004-l40"> Ala perfi / seguia <choice><abbr>ꝑ</abbr><expan>per</expan></choice> son seny</l></lg>
+            <lg type="cobla" n="6" xml:id="C004-lg6">
+                <l n="41" xml:id="C004-l41"> Diu mes auant / al cors ab gran endeny</l>
+                <l n="42" xml:id="C004-l42"> Vanament vols / e vans son tos desigs</l>
+                <l n="43" xml:id="C004-l43"> Car dins vn punt / tos delits son festigs</l>
+                <l n="44" xml:id="C004-l44"> Romans ne las / tots jorns ne prens enseny</l>
+                <l n="45" xml:id="C004-l45"> Ab tu mateix / delit no pots hauer</l>
+                <l n="46" xml:id="C004-l46"> Tant est grosser / quemor non es seruit</l>
+                <l n="47" xml:id="C004-l47"> Volenteros / acte debe es dit</l>
+                <l n="48" xml:id="C004-l48"> Edaquest be / tu no sabs lo carrer</l>
                 </lg>
-            <lg type="cobla" n="7" xml:id="C0004-7">
-                <l n="49" xml:id="C004-49"> Si be complit / lo mon pot retener</l>
-                <l n="50" xml:id="C004-50"> Per mj es lom / ental sobiran be</l>
-                <l n="51" xml:id="C004-51"> Equj sens mj / esperançal rete</l>
-                <l n="52" xml:id="C004-52"> Es foll epech / o terrible grosser</l>
-                <l n="53" xml:id="C004-53"> Aytant com es / lenteniment pus clar</l>
-                <l n="54" xml:id="C004-54"> Es gran delit / lo que per ell se pren</l>
-                <l n="55" xml:id="C004-55"> E son pillart / es soptil pensament</l>
-                <l n="56" xml:id="C004-56"> Que defins pasts / nol jaqueix endurar</l>
+            <lg type="cobla" n="7" xml:id="C004-lg7">
+                <l n="49" xml:id="C004-l49"> Si be complit / lo mon pot retener</l>
+                <l n="50" xml:id="C004-l50"> Per mj es lom / ental sobiran be</l>
+                <l n="51" xml:id="C004-l51"> Equj sens mj / esperançal rete</l>
+                <l n="52" xml:id="C004-l52"> Es foll epech / o terrible grosser</l>
+                <l n="53" xml:id="C004-l53"> Aytant com es / lenteniment pus clar</l>
+                <l n="54" xml:id="C004-l54"> Es gran delit / lo que per ell se pren</l>
+                <l n="55" xml:id="C004-l55"> E son pillart / es soptil pensament</l>
+                <l n="56" xml:id="C004-l56"> Que defins pasts / nol jaqueix endurar</l>
                 </lg>
-            <lg type="tornada">
-                <l n="57" xml:id="C004-57"> Plena de seny / no pot deu ami dar</l>
-                <l n="58" xml:id="C004-58"> Ffora de vos / que descontent no camp</l>
-                <l n="59" xml:id="C004-59"> Tots mos desigs / sobre vos los scamp</l>
-                <l n="60" xml:id="C004-60"> Tot es dins vos / lo quem fa desigar</l>
+               <lg type="tornada" n="8" xml:id="C004-lg8">
+                <l n="57" xml:id="C004-l57"> Plena de seny / no pot deu ami dar</l>
+                <l n="58" xml:id="C004-l58"> Ffora de vos / que descontent no camp</l>
+                <l n="59" xml:id="C004-l59"> Tots mos desigs / sobre vos los scamp</l>
+                <l n="60" xml:id="C004-l60"> Tot es dins vos / lo quem fa desigar</l>
                 </lg>
            </div>
         </body>

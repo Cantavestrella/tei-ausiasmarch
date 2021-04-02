@@ -115,7 +115,7 @@
             </lg>
             <lg type="cobla" n="2" xml:id="C015-02">
 
-               <l n="9" xml:id="C015-9"> &#182; Mon <choice>
+               <l n="9" xml:id="C015-9"> ¶ Mon <choice>
                      <abbr>pensamȇt</abbr>
                      <expan>pensament</expan>
                   </choice> / enbolt en Amor pensa </l>
@@ -139,7 +139,7 @@
             </lg>
             <lg type="cobla" n="3" xml:id="C015-03">
 
-               <l n="17" xml:id="C015-17"> &#182; Si com lo Sol /escalfa'b sa calor </l>
+               <l n="17" xml:id="C015-17"> ¶ Si com lo Sol /escalfa'b sa calor </l>
 
                <l n="18" xml:id="C015-18"> totes les parts / que son dejus lo çel </l>
 
@@ -177,7 +177,7 @@
             </lg>
             <lg type="cobla" n="5" xml:id="C015-05">
 
-               <l n="33" xml:id="C015-33"> &#182; Amor es tal / que fests injusts consent </l>
+               <l n="33" xml:id="C015-33"> ¶ Amor es tal / que fests injusts consent </l>
 
                <l n="34" xml:id="C015-34"> mas james fon / tan injust com aquest </l>
 
@@ -195,7 +195,7 @@
             </lg>
             <lg type="cobla" n="6" xml:id="C015-06">
 
-               <l n="41" xml:id="C015-41"> &#182; Si amat so / festam'deu esser colta </l>
+               <l n="41" xml:id="C015-41"> ¶ Si amat so / festam'deu esser colta </l>
 
                <l n="42" xml:id="C015-42"> car enlo mon / vn cos sera guanyat </l>
 
@@ -213,7 +213,7 @@
             </lg>
             <pb n="24v"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_53.html"/>
-            <lg type="cobla" n="7" xml:id="C015-07">
+            <lg type="tornada" n="7" xml:id="C015-07">
 
                <l n="49" xml:id="C015-49"> Plena de seny / molts homes son quis <choice>
                      <abbr>vȃtȇ</abbr>

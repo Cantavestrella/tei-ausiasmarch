@@ -105,7 +105,7 @@
             </lg>
             <lg type="cobla" n="2" xml:id="C017-02">
 
-               <l n="9" xml:id="C017-9"> &#182; E d'açom'planch / e quedament trebáll </l>
+               <l n="9" xml:id="C017-9"> ¶ E d'açom'planch / e quedament trebáll </l>
 
                <l n="10" xml:id="C017-10"> e dins mi plor / e calle com ha mút </l>
 
@@ -125,7 +125,7 @@
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_91.html"/>
             <lg type="cobla" n="3" xml:id="C017-03">
 
-               <l n="17" xml:id="C017-17"> &#182; Dels amadors / me vull ben informar </l>
+               <l n="17" xml:id="C017-17"> ¶ Dels amadors / me vull ben informar </l>
 
                <l n="18" xml:id="C017-18"> si es Amor / en desesperat cor </l>
 
@@ -143,7 +143,7 @@
             </lg>
             <lg type="cobla" n="4" xml:id="C017-04">
 
-               <l n="25" xml:id="C017-25"> &#182; Los mals d'Amor / son pochs al iuhi comú </l>
+               <l n="25" xml:id="C017-25"> ¶ Los mals d'Amor / son pochs al iuhi comú </l>
 
                <l n="26" xml:id="C017-26"> car en pochs cau / aquesta passio </l>
 
@@ -161,7 +161,7 @@
             </lg>
             <lg type="cobla" n="5" xml:id="C017-05">
 
-               <l n="33" xml:id="C017-33"> &#182; Es veritat / si portam en rrecórt </l>
+               <l n="33" xml:id="C017-33"> ¶ Es veritat / si portam en rrecórt </l>
 
                <l n="34" xml:id="C017-34"> que molts passats / morir ne sostengueren </l>
 
@@ -181,7 +181,7 @@
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_92.html"/>
             <lg type="cobla" n="6" xml:id="C017-06">
 
-               <l n="41" xml:id="C017-41"> &#182; Metje'n lo mon / saber no li bastá </l>
+               <l n="41" xml:id="C017-41"> ¶ Metje'n lo mon / saber no li bastá </l>
 
                <l n="42" xml:id="C017-42"> sentir lo mal / que lo malalt soferta </l>
 
@@ -199,7 +199,7 @@
             </lg>
             <lg type="cobla" n="7" xml:id="C017-07">
 
-               <l n="49" xml:id="C017-49"> &#182; Si com enpeny / balesta lo quadréll </l>
+               <l n="49" xml:id="C017-49"> ¶ Si com enpeny / balesta lo quadréll </l>
 
                <l n="50" xml:id="C017-50"> ay tant com pus / la sua força basta </l>
 
@@ -215,9 +215,9 @@
 
                <l n="56" xml:id="C017-56"> si contra'mor / valgues alguna enpresa. </l>
             </lg>
-            <lg type="cobla" n="8" xml:id="C017-08">
+            <lg type="tornada" n="8" xml:id="C017-08">
 
-               <l n="57" xml:id="C017-57"> &#182; Plena de seny / per no esser entesa </l>
+               <l n="57" xml:id="C017-57"> ¶ Plena de seny / per no esser entesa </l>
 
                <l n="58" xml:id="C017-58"> la mia'mor / pora escapar sens merit </l>
 

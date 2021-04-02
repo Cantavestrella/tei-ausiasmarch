@@ -77,9 +77,9 @@
       <body>
          <pb n="3r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_12.html"/>
-         <div type="poem" n="3" xml:id="C003-K003">
-            <lg type="cobla" n="1" xml:id="C0003-1">
-               <l n="1" xml:id="C003-1">pEr moltamor don <choice>
+         <div type="poem" xml:id="C003-K003">
+            <lg type="cobla" n="1" xml:id="C003-lg1">
+               <l n="1" xml:id="C003-l1">pEr moltamor don <choice>
                      <abbr>grȃ</abbr>
                      <expan>gran</expan>
                   </choice>
@@ -87,52 +87,52 @@
                      <abbr>ƌsitx</abbr>
                      <expan>desitx</expan>
                   </choice> seniendra</l>
-               <l n="2" xml:id="C003-2">Sper vinent per tots aquests graons</l>
-               <l n="3" xml:id="C003-3">Me son delits mas <choice>
+               <l n="2" xml:id="C003-l2">Sper vinent per tots aquests graons</l>
+               <l n="3" xml:id="C003-l3">Me son delits mas <choice>
                      <abbr>donȃ</abbr>
                      <expan>donam</expan>
                   </choice> pations</l>
-               <l n="4" xml:id="C003-4">La por del mal quim fa magrir carn <choice>
+               <l n="4" xml:id="C003-l4">La por del mal quim fa magrir carn <choice>
                      <abbr>tȇdra</abbr>
                      <expan>tendra</expan>
                   </choice></l>
-               <l n="5" xml:id="C003-5">E port alcor sens fum continuu foch</l>
-               <l n="6" xml:id="C003-6">E la calor nom surt apart dafora</l>
-               <l n="7" xml:id="C003-7">Soccorreume dins lo temps <choice>
+               <l n="5" xml:id="C003-l5">E port alcor sens fum continuu foch</l>
+               <l n="6" xml:id="C003-l6">E la calor nom surt apart dafora</l>
+               <l n="7" xml:id="C003-l7">Soccorreume dins lo temps <choice>
                      <abbr>ƌunora</abbr>
                      <expan>deunora</expan>
                   </choice></l>
-               <l n="8" xml:id="C003-8">Car mos senyals demostra viure poch</l>
+               <l n="8" xml:id="C003-l8">Car mos senyals demostra viure poch</l>
             </lg>
-            <lg type="cobla" n="2" xml:id="C0003-2">
-               <l n="9" xml:id="C003-9">Metge scient no te lo cas per joch</l>
-               <l n="10" xml:id="C003-10">Com la calor no surt apart estrema</l>
-               <l n="11" xml:id="C003-11">Lignorant veu <choice>
+            <lg type="cobla" n="2" xml:id="C003-lg2">
+               <l n="9" xml:id="C003-l9">Metge scient no te lo cas per joch</l>
+               <l n="10" xml:id="C003-l10">Com la calor no surt apart estrema</l>
+               <l n="11" xml:id="C003-l11">Lignorant veu <choice>
                      <abbr>ꝗ</abbr>
                      <expan>que</expan>
                   </choice> lo malalt no crema</l>
-               <l n="12" xml:id="C003-12">E iutial sa puys <choice>
+               <l n="12" xml:id="C003-l12">E iutial sa puys <choice>
                      <abbr>ꝗ</abbr>
                      <expan>que</expan>
                   </choice> mostra bon toch</l>
                <pb n="3v"
                   facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_13.html"/>
-               <l n="13" xml:id="C003-13">Lo patient no pora dir son mal</l>
-               <l n="14" xml:id="C003-14">Tot affeblit ab lengua mal diserta</l>
-               <l n="15" xml:id="C003-15">Gests e color assats fan descuberta</l>
-               <l n="16" xml:id="C003-16">Part del affany <choice>
+               <l n="13" xml:id="C003-l13">Lo patient no pora dir son mal</l>
+               <l n="14" xml:id="C003-l14">Tot affeblit ab lengua mal diserta</l>
+               <l n="15" xml:id="C003-l15">Gests e color assats fan descuberta</l>
+               <l n="16" xml:id="C003-l16">Part del affany <choice>
                      <abbr>ꝗ</abbr>
                      <expan>que</expan>
                   </choice> tant com lo dir val</l>
             </lg>
-            <lg type="tornada">
-               <l n="17" xml:id="C003-17">Plena de seny dirvos queus am no cal</l>
-               <l n="18" xml:id="C003-18">Puys crech de cert que us neteniu <choice>
+            <lg type="tornada" n="3" xml:id="C003-lg3">
+               <l n="17" xml:id="C003-l17">Plena de seny dirvos queus am no cal</l>
+               <l n="18" xml:id="C003-l18">Puys crech de cert que us neteniu <choice>
                      <abbr>per</abbr>
                      <expan>per</expan>
                   </choice> çerta</l>
-               <l n="19" xml:id="C003-19">Si be mostrau queus sta molt cuberta</l>
-               <l n="20" xml:id="C003-20">Cella per que amor es desigual</l>
+               <l n="19" xml:id="C003-l19">Si be mostrau queus sta molt cuberta</l>
+               <l n="20" xml:id="C003-l20">Cella per que amor es desigual</l>
             </lg>
          </div>
       </body>

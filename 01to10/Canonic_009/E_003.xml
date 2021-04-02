@@ -50,12 +50,10 @@
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 143v after end of previous poem, before this one: </locus><choice>
-                                    <abbr>Moß</abbr>
-                                    <expan>Mossen</expan>
-                                </choice> ausias march </rubric>
+                                <locus>f. 3r after end of previous poem, before this one:
+                                </locus>Mossen Ausias march</rubric>
                             <rubric>
-                                <locus>f. 144v between lines 40 and 41 </locus>Tornada </rubric>
+                                <locus>f. 4r between lines 40 and 41 </locus>Tornada </rubric>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -81,63 +79,63 @@
         <body>
             <pb n="3r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
             <div type="poem" xml:id="C009-E003">
-                <lg type="cobla" n="1" xml:id="C0009-1">
-                    <l n="1" xml:id="C009-1"> Amor se dol / com breument yo no muyr</l>
-                    <l n="2" xml:id="C009-2"> e pus nol fall / per esser demi fart</l>
-                    <l n="3" xml:id="C009-3"> car sos enginys / man duyt en aytal part</l>
-                    <l n="4" xml:id="C009-4"> que mon delit / es quant deplor abuyr</l>
-                    <l n="5" xml:id="C009-5"> E de mon dan / yo non so mal mirent</l>
-                    <l n="6" xml:id="C009-6"> carsuy forçat / dintrar jus tal preso</l>
-                    <l n="7" xml:id="C009-7"> quel seny tinch pres / larbitre y raho</l>
-                    <l n="8" xml:id="C009-8"> amor hote / per seu forcadament</l>
+                <lg type="cobla" n="1" xml:id="C009-lg1">
+                    <l n="1" xml:id="C009-l1"> Amor se dol / com breument yo no muyr</l>
+                    <l n="2" xml:id="C009-l2"> e pus nol fall / per esser demi fart</l>
+                    <l n="3" xml:id="C009-l3"> car sos enginys / man duyt en aytal part</l>
+                    <l n="4" xml:id="C009-l4"> que mon delit / es quant deplor abuyr</l>
+                    <l n="5" xml:id="C009-l5"> E de mon dan / yo non so mal mirent</l>
+                    <l n="6" xml:id="C009-l6"> carsuy forçat / dintrar jus tal preso</l>
+                    <l n="7" xml:id="C009-l7"> quel seny tinch pres / larbitre y raho</l>
+                    <l n="8" xml:id="C009-l8"> amor hote / per seu forcadament</l>
                 </lg>
                 <pb n="3v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-                <lg type="cobla" n="2" xml:id="C0009-2">
-                    <l n="9" xml:id="C009-9"> Tot ayço fau / quem venlo pensament</l>
-                    <l n="10" xml:id="C009-10"> e si hagues / tant seny com Salamo</l>
-                    <l n="11" xml:id="C009-11"> fora tot poch / en dar ocasio</l>
-                    <l n="12" xml:id="C009-12"> que no temes / a son gran manament</l>
-                    <l n="13" xml:id="C009-13"> Cell qui no sent / que pot fer molt amar</l>
-                    <l n="14" xml:id="C009-14"> yo li perdon / side mi va trufan</l>
-                    <l n="15" xml:id="C009-15"> Piramus volch / morir passat dun bran</l>
-                    <l n="16" xml:id="C009-16"> e semblant mort / naTisbe volch passar</l>
+                <lg type="cobla" n="2" xml:id="C009-lg2">
+                    <l n="9" xml:id="C009-l9"> Tot ayço fau / quem venlo pensament</l>
+                    <l n="10" xml:id="C009-l10"> e si hagues / tant seny com Salamo</l>
+                    <l n="11" xml:id="C009-l11"> fora tot poch / en dar ocasio</l>
+                    <l n="12" xml:id="C009-l12"> que no temes / a son gran manament</l>
+                    <l n="13" xml:id="C009-l13"> Cell qui no sent / que pot fer molt amar</l>
+                    <l n="14" xml:id="C009-l14"> yo li perdon / side mi va trufan</l>
+                    <l n="15" xml:id="C009-l15"> Piramus volch / morir passat dun bran</l>
+                    <l n="16" xml:id="C009-l16"> e semblant mort / naTisbe volch passar</l>
                 </lg>
-                <lg type="cobla" n="3" xml:id="C0009-3">
-                    <l n="17" xml:id="C009-17"> Si no es pech / quis deu marauellar</l>
-                    <l n="18" xml:id="C009-18"> dalgun cas fort / quesdeuengal amant</l>
-                    <l n="19" xml:id="C009-19"> lom fora seny / nopot ser ben vsant</l>
-                    <l n="20" xml:id="C009-20"> tal me confes / donchs nom vullau reptar</l>
-                    <l n="21" xml:id="C009-21"> Amor ha pres / lo carrch sin res fallesch</l>
-                    <l n="22" xml:id="C009-22"> car fuy abstret / de seny e de saber</l>
-                    <l n="23" xml:id="C009-23"> e res no fas / en contra son voler</l>
-                    <l n="24" xml:id="C009-24"> desijant be / la dolor li graesc</l>
+                <lg type="cobla" n="3" xml:id="C009-lg3">
+                    <l n="17" xml:id="C009-l17"> Si no es pech / quis deu marauellar</l>
+                    <l n="18" xml:id="C009-l18"> dalgun cas fort / quesdeuengal amant</l>
+                    <l n="19" xml:id="C009-l19"> lom fora seny / nopot ser ben vsant</l>
+                    <l n="20" xml:id="C009-l20"> tal me confes / donchs nom vullau reptar</l>
+                    <l n="21" xml:id="C009-l21"> Amor ha pres / lo carrch sin res fallesch</l>
+                    <l n="22" xml:id="C009-l22"> car fuy abstret / de seny e de saber</l>
+                    <l n="23" xml:id="C009-l23"> e res no fas / en contra son voler</l>
+                    <l n="24" xml:id="C009-l24"> desijant be / la dolor li graesc</l>
                 </lg>
-                <lg type="cobla" n="4" xml:id="C0009-4">
-                    <l n="25" xml:id="C009-25"> Estant apart / e tot sol mempeguesch</l>
-                    <l n="26" xml:id="C009-26"> ymaginant / ço que deguera fer</l>
-                    <l n="27" xml:id="C009-27"> de xecutar / no dech hauer sper</l>
-                    <l n="28" xml:id="C009-28"> puis lo primer / assaig no enseguesch</l>
-                    <l n="29" xml:id="C009-29"> Limaginar / amor me vol rependre</l>
-                    <l n="30" xml:id="C009-30"> tant largament / ab vergonyam refrena</l>
-                    <l n="31" xml:id="C009-31"> com se fara / que ab cara serena</l>
-                    <l n="32" xml:id="C009-32"> haia poder / de ma raho stendre</l>
+                <lg type="cobla" n="4" xml:id="C009-lg4">
+                    <l n="25" xml:id="C009-l25"> Estant apart / e tot sol mempeguesch</l>
+                    <l n="26" xml:id="C009-l26"> ymaginant / ço que deguera fer</l>
+                    <l n="27" xml:id="C009-l27"> de xecutar / no dech hauer sper</l>
+                    <l n="28" xml:id="C009-l28"> puis lo primer / assaig no enseguesch</l>
+                    <l n="29" xml:id="C009-l29"> Limaginar / amor me vol rependre</l>
+                    <l n="30" xml:id="C009-l30"> tant largament / ab vergonyam refrena</l>
+                    <l n="31" xml:id="C009-l31"> com se fara / que ab cara serena</l>
+                    <l n="32" xml:id="C009-l32"> haia poder / de ma raho stendre</l>
                 </lg>
                 <pb n="4r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-                <lg type="cobla" n="5" xml:id="C0009-5">
-                    <l n="33" xml:id="C009-33"> Los fets damor / yo no pusch ben entendre</l>
-                    <l n="34" xml:id="C009-34"> degran contrasts / moppinio es plena</l>
-                    <l n="35" xml:id="C009-35"> horan lo jorn / que no sent vlla pena</l>
-                    <l n="36" xml:id="C009-36"> pensant enço / que vench alarma rendre</l>
-                    <l n="37" xml:id="C009-37"> Si altra veus / limaginar mi porta</l>
-                    <l n="38" xml:id="C009-38"> per dar senyal / que yo sia cregut</l>
-                    <l n="39" xml:id="C009-39"> soppley la mort / quen tal cas mi aiut</l>
-                    <l n="40" xml:id="C009-40"> e si nom val / ma veritat jau morta</l>
+                <lg type="cobla" n="5" xml:id="C009-lg5">
+                    <l n="33" xml:id="C009-l33"> Los fets damor / yo no pusch ben entendre</l>
+                    <l n="34" xml:id="C009-l34"> degran contrasts / moppinio es plena</l>
+                    <l n="35" xml:id="C009-l35"> horan lo jorn / que no sent vlla pena</l>
+                    <l n="36" xml:id="C009-l36"> pensant enço / que vench alarma rendre</l>
+                    <l n="37" xml:id="C009-l37"> Si altra veus / limaginar mi porta</l>
+                    <l n="38" xml:id="C009-l38"> per dar senyal / que yo sia cregut</l>
+                    <l n="39" xml:id="C009-l39"> soppley la mort / quen tal cas mi aiut</l>
+                    <l n="40" xml:id="C009-l40"> e si nom val / ma veritat jau morta</l>
                 </lg>
-                <lg type="cobla" n="6" xml:id="C0009-6">
-                    <l n="41" xml:id="C009-41"> Lir entre carts / fins a veure la porta</l>
-                    <l n="42" xml:id="C009-42"> de mos delits / sobirans so vengut</l>
-                    <l n="43" xml:id="C009-43"> noy hetocat / ans men torn com amut</l>
-                    <l n="44" xml:id="C009-44"> e per tornar / ja trob la via torta</l>
+                <lg type="tornada" n="6" xml:id="C009-lg6">
+                    <l n="41" xml:id="C009-l41"> Lir entre carts / fins a veure la porta</l>
+                    <l n="42" xml:id="C009-l42"> de mos delits / sobirans so vengut</l>
+                    <l n="43" xml:id="C009-l43"> noy hetocat / ans men torn com amut</l>
+                    <l n="44" xml:id="C009-l44"> e per tornar / ja trob la via torta</l>
                 </lg>
             </div>
         </body>

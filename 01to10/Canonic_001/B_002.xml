@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-        <titleStmt>
+         <titleStmt>
             <title>Poema 1</title>
             <author>Ausiàs March </author>
             <respStmt xml:id="RC">
@@ -47,7 +47,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     
+
                      <rubric>
                         <locus>f. 3v between lines 40 and 41 </locus>Tornada </rubric>
                   </msItem>
@@ -72,73 +72,96 @@
          url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_8.html"/>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_9.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_10.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_10.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="2v"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_8.html"/>
-         <div type="poem" n="1" xml:id="C001-B002">
-            <lg type="cobla" n="1" xml:id="C0001-1">
-               <l n="1" xml:id="C001-1">sI com <choice><abbr>aꝗll</abbr><expan>aquell</expan></choice> quin lo sompnis delita</l>
-               <l n="2" xml:id="C001-2">E son delit de foll pensament ve</l>
-               <l n="3" xml:id="C001-3">Ne pren ami quil temps passat me te</l>
-               <l n="4" xml:id="C001-4">Limaginar qualtre be noy habita</l>
-               <l n="5" xml:id="C001-5">Vehent star en aguayt ma dolor</l>
-               <l n="6" xml:id="C001-6">Sabent de cert quen ses <choice><abbr>mȃs</abbr><expan>mans></expan></choice>s he de jaure</l>
-         <pb n="3r"
-              facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_9.html"/>
-               <l n="7" xml:id="C001-7">Temps de venir<gap reason="illegible" extent="several characters"/>caure</l>
-               <l n="8" xml:id="C001-8"><gap reason="illegible" extent="several characters"/></l>
+         <div type="poem" xml:id="C001-B002">
+            <lg type="cobla" n="1" xml:id="C001-lg1">
+               <l n="1" xml:id="C001-l1">sI com <choice>
+                     <abbr>aꝗll</abbr>
+                     <expan>aquell</expan>
+                  </choice> quin lo sompnis delita</l>
+               <l n="2" xml:id="C001-l2">E son delit de foll pensament ve</l>
+               <l n="3" xml:id="C001-l3">Ne pren ami quil temps passat me te</l>
+               <l n="4" xml:id="C001-l4">Limaginar qualtre be noy habita</l>
+               <l n="5" xml:id="C001-l5">Vehent star en aguayt ma dolor</l>
+               <l n="6" xml:id="C001-l6">Sabent de cert quen ses <choice>
+                     <abbr>mȃs</abbr>
+                     <expan>mans></expan>
+                  </choice>s he de jaure</l>
+               <pb n="3r"
+                  facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_9.html"/>
+               <l n="7" xml:id="C001-l7">Temps de venir<gap reason="illegible"
+                     extent="several characters"/>caure</l>
+               <l n="8" xml:id="C001-l8"><gap reason="illegible" extent="several characters"/></l>
             </lg>
-            <lg type="cobla" n="2" xml:id="C0001-2">
-               <l n="9" xml:id="C001-9">Al temps passat<gap reason="illegible" extent="several characters"/></l>
-               <l n="10" xml:id="C001-10">Amant no res pus<gap reason="illegible" extent="several characters"/></l>
-               <l n="11" xml:id="C001-11">Daquest pensar volent<gap reason="illegible" extent="one or two letters"/></l>
-               <l n="12" xml:id="C001-12">Mas quant iopert sesforça<gap reason="illegible" extent="one or two letters"/></l>
-               <l n="13" xml:id="C001-13">Com es aquell qui es jutjat amort</l>
-               <l n="14" xml:id="C001-14">E creurel fan que dellascaparia</l>
-               <l n="15" xml:id="C001-15">E per lonch temps en tal pensasta</l>
-               <l n="16" xml:id="C001-16">El fan morir sens un punt de recort</l>
+            <lg type="cobla" n="2" xml:id="C001-lg2">
+               <l n="9" xml:id="C001-l9">Al temps passat<gap reason="illegible"
+                     extent="several characters"/></l>
+               <l n="10" xml:id="C001-l10">Amant no res pus<gap reason="illegible"
+                     extent="several characters"/></l>
+               <l n="11" xml:id="C001-l11">Daquest pensar volent<gap reason="illegible"
+                     extent="one or two letters"/></l>
+               <l n="12" xml:id="C001-l12">Mas quant iopert sesforça<gap reason="illegible"
+                     extent="one or two letters"/></l>
+               <l n="13" xml:id="C001-l13">Com es aquell qui es jutjat amort</l>
+               <l n="14" xml:id="C001-l14">E creurel fan que dellascaparia</l>
+               <l n="15" xml:id="C001-l15">E per lonch temps en tal pensasta</l>
+               <l n="16" xml:id="C001-l16">El fan morir sens un punt de recort</l>
             </lg>
-            <lg type="cobla" n="3" xml:id="C0001-3">
-               <l n="17" xml:id="C001-17">Plagues adeu que mon pensar fos<gap reason="illegible" extent="one or two letters"/>t</l>
-               <l n="18" xml:id="C001-18">E que passas ma vida en durment</l>
-               <l n="19" xml:id="C001-19">Malament viu qui te son pensament</l>
-               <l n="20" xml:id="C001-20">Per enemich fentli danutxs aport</l>
-               <l n="21" xml:id="C001-21">E com lo vol dalgun plaer ser<gap reason="illegible" extent="one or two letters"/></l>
-               <l n="22" xml:id="C001-22">Li pren axi com donab son jnfant</l>
-               <l n="23" xml:id="C001-23">Que si veri li demana <choice><abbr>plorȃt</abbr><expan>plorant</expan></choice></l>
-               <l n="24" xml:id="C001-24">Ha tanpoch seny que no sap contradir</l>
+            <lg type="cobla" n="3" xml:id="C001-lg3">
+               <l n="17" xml:id="C001-l17">Plagues adeu que mon pensar fos<gap reason="illegible"
+                     extent="one or two letters"/>t</l>
+               <l n="18" xml:id="C001-l18">E que passas ma vida en durment</l>
+               <l n="19" xml:id="C001-l19">Malament viu qui te son pensament</l>
+               <l n="20" xml:id="C001-l20">Per enemich fentli danutxs aport</l>
+               <l n="21" xml:id="C001-l21">E com lo vol dalgun plaer ser<gap reason="illegible"
+                     extent="one or two letters"/></l>
+               <l n="22" xml:id="C001-l22">Li pren axi com donab son jnfant</l>
+               <l n="23" xml:id="C001-l23">Que si veri li demana <choice>
+                     <abbr>plorȃt</abbr>
+                     <expan>plorant</expan>
+                  </choice></l>
+               <l n="24" xml:id="C001-l24">Ha tanpoch seny que no sap contradir</l>
             </lg>
-            <lg type="cobla" n="4" xml:id="C0001-4">
-               <l n="25" xml:id="C001-25">Fora millor ma dolor soferir</l>
-               <l n="26" xml:id="C001-26">Que no mesclar poca part de plaer</l>
-               <l n="27" xml:id="C001-27">Entra quells mals quem giten de saber</l>
-               <l n="28" xml:id="C001-28">Com del penssat plaer me couexir</l>
-               <l n="29" xml:id="C001-29">Las mon delit dolor se conuertex</l>
-               <l n="30" xml:id="C001-30">Dobles la fam apres dun poch repos</l>
-               <l n="31" xml:id="C001-31">Sicol malalt quiper vn plaent mos</l>
-               <l n="32" xml:id="C001-32">Tot son manjar en dolor se nodrex</l>
+            <lg type="cobla" n="4" xml:id="C001-lg4">
+               <l n="25" xml:id="C001-l25">Fora millor ma dolor soferir</l>
+               <l n="26" xml:id="C001-l26">Que no mesclar poca part de plaer</l>
+               <l n="27" xml:id="C001-l27">Entra quells mals quem giten de saber</l>
+               <l n="28" xml:id="C001-l28">Com del penssat plaer me couexir</l>
+               <l n="29" xml:id="C001-l29">Las mon delit dolor se conuertex</l>
+               <l n="30" xml:id="C001-l30">Dobles la fam apres dun poch repos</l>
+               <l n="31" xml:id="C001-l31">Sicol malalt quiper vn plaent mos</l>
+               <l n="32" xml:id="C001-l32">Tot son manjar en dolor se nodrex</l>
             </lg>
             <pb n="3v"
                facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_10.html"/>
-            <lg type="cobla" n="5" xml:id="C0001-5">
-               <l n="33" xml:id="C001-33"><gap reason="illegible" extent="several characters"/></l>
-               <l n="34" xml:id="C001-34"><gap reason="illegible" extent="several characters"/></l>
-               <l n="35" xml:id="C001-35">Essent lonch temps quen loch poblat no fon</l>
-               <l n="36" xml:id="C001-36"><gap reason="illegible" extent="several characters"/>dells li parex</l>
-               <l n="37" xml:id="C001-37">Queles<gap reason="illegible" extent="several characters"/>renovella</l>
-               <l n="38" xml:id="C001-38"><gap reason="illegible" extent="one or two letters"/>passat present li fa tornar</l>
-               <l n="39" xml:id="C001-39">Mas com sen part les forçat congoxar</l>
-               <l n="40" xml:id="C001-40">lo be dell futx ab <choice><abbr>grȃs</abbr><expan>grans</expan></choice> crits mal apella</l>
+            <lg type="cobla" n="5" xml:id="C001-lg5">
+               <l n="33" xml:id="C001-l33"><gap reason="illegible" extent="several characters"/></l>
+               <l n="34" xml:id="C001-l34"><gap reason="illegible" extent="several characters"/></l>
+               <l n="35" xml:id="C001-l35">Essent lonch temps quen loch poblat no fon</l>
+               <l n="36" xml:id="C001-l36"><gap reason="illegible" extent="several characters"
+                  />dells li parex</l>
+               <l n="37" xml:id="C001-l37">Queles<gap reason="illegible" extent="several characters"
+                  />renovella</l>
+               <l n="38" xml:id="C001-l38"><gap reason="illegible" extent="one or two letters"
+                  />passat present li fa tornar</l>
+               <l n="39" xml:id="C001-l39">Mas com sen part les forçat congoxar</l>
+               <l n="40" xml:id="C001-l40">lo be dell futx ab <choice>
+                     <abbr>grȃs</abbr>
+                     <expan>grans</expan>
+                  </choice> crits mal apella</l>
             </lg>
-            <lg type="tornada">
-               <l n="41" xml:id="C001-41">Plena de seny quant amor es molt vella</l>
-               <l n="42" xml:id="C001-42">Absença es lo verme quila gasta</l>
-               <l n="43" xml:id="C001-43">Si fermetat durament no contrasta</l>
-               <l n="44" xml:id="C001-44">E creure poch si lenueios consella</l>
+            <lg type="tornada" n="6" xml:id="C0001-6">
+               <l n="41" xml:id="C001-l41">Plena de seny quant amor es molt vella</l>
+               <l n="42" xml:id="C001-l42">Absença es lo verme quila gasta</l>
+               <l n="43" xml:id="C001-l43">Si fermetat durament no contrasta</l>
+               <l n="44" xml:id="C001-l44">E creure poch si lenueios consella</l>
             </lg>
          </div>
       </body>

@@ -51,9 +51,9 @@
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 22 first line </locus>Mossen Ausias march</rubric>
+                                <locus>f. 18 first line </locus>Mossen Ausias march</rubric>
                             <rubric>
-                                <locus>f. 23 between lines 40 and 41 </locus>Tornada </rubric>
+                                <locus>f. 19 between lines 40 and 41 </locus>Tornada </rubric>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -84,67 +84,67 @@
             <div type="poem" xml:id="C009-N009">
                 <pb n="18"
                     facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_20.html"/>
-                <lg type="cobla" n="1" xml:id="C0009-1">
-                    <l n="1" xml:id="C009-1"> ¶ Amor se dol com breument yo no muyr</l>
-                    <l n="2" xml:id="C009-2"> Pus nolj fall per esser demj fart</l>
-                    <l n="3" xml:id="C009-3"> Car sos mals gins man portat ental part</l>
-                    <l n="4" xml:id="C009-4"> Que mon delit es quant deplor abuyr</l>
-                    <l n="5" xml:id="C009-5"> E de mon dan ya noso malmjrent</l>
-                    <l n="6" xml:id="C009-6"> Car so forcat dentrar ental preso</l>
-                    <l n="7" xml:id="C009-7"> Quel seny tinch pres larbritrey laraho</l>
-                    <l n="8" xml:id="C009-8"> Amor hote per seu forcadament</l>
+                <lg type="cobla" n="1" xml:id="C009-lg1">
+                    <l n="1" xml:id="C009-l1"> ¶ Amor se dol com breument yo no muyr</l>
+                    <l n="2" xml:id="C009-l2"> Pus nolj fall per esser demj fart</l>
+                    <l n="3" xml:id="C009-l3"> Car sos mals gins man portat ental part</l>
+                    <l n="4" xml:id="C009-l4"> Que mon delit es quant deplor abuyr</l>
+                    <l n="5" xml:id="C009-l5"> E de mon dan ya noso malmjrent</l>
+                    <l n="6" xml:id="C009-l6"> Car so forcat dentrar ental preso</l>
+                    <l n="7" xml:id="C009-l7"> Quel seny tinch pres larbritrey laraho</l>
+                    <l n="8" xml:id="C009-l8"> Amor hote per seu forcadament</l>
                 </lg>
-                <lg type="cobla" n="2" xml:id="C0009-2">
-                    <l n="9" xml:id="C009-9"> Yo fac tot quant me diu lo pensament</l>
-                    <l n="10" xml:id="C009-10"> E si agues tant seny com salamo</l>
-                    <l n="11" xml:id="C009-11"> Ffora tot pech endar ocasio</l>
-                    <l n="12" xml:id="C009-12"> Que no temes ason gran manament</l>
-                    <l n="13" xml:id="C009-13"> Cell quj no sent que pot fer molt amar</l>
-                    <l n="14" xml:id="C009-14"> Yo li perdo si demj va trufan</l>
-                    <l n="15" xml:id="C009-15">
+                <lg type="cobla" n="2" xml:id="C009-lg2">
+                    <l n="9" xml:id="C009-l9"> Yo fac tot quant me diu lo pensament</l>
+                    <l n="10" xml:id="C009-l10"> E si agues tant seny com salamo</l>
+                    <l n="11" xml:id="C009-l11"> Ffora tot pech endar ocasio</l>
+                    <l n="12" xml:id="C009-l12"> Que no temes ason gran manament</l>
+                    <l n="13" xml:id="C009-l13"> Cell quj no sent que pot fer molt amar</l>
+                    <l n="14" xml:id="C009-l14"> Yo li perdo si demj va trufan</l>
+                    <l n="15" xml:id="C009-l15">
                         <choice>
-                            <abbr>Piraṁ</abbr>
+                            <abbr>Piramꝯ</abbr>
                             <expan>Piramus</expan>
                         </choice> volch morir passat dun bran</l>
-                    <l n="16" xml:id="C009-16"> E per semblant mort tisbe voch passar</l>
+                    <l n="16" xml:id="C009-l16"> E per semblant mort tisbe voch passar</l>
                 </lg>
-                <lg type="cobla" n="3" xml:id="C0009-3">
-                    <l n="17" xml:id="C009-17"> Si no es pech qujs deu marauellar</l>
-                    <l n="18" xml:id="C009-18"> Dalgun cas fort quesdeuengen laman</l>
-                    <l n="19" xml:id="C009-19"> Lom fora seny no pot ser ben vsan</l>
-                    <l n="20" xml:id="C009-20"> Tal me confes donchs nom vullau reptar</l>
-                    <l n="21" xml:id="C009-21"> Amor hapres lo carrech sin res fallesch</l>
-                    <l n="22" xml:id="C009-22"> Car so abstret de seny ede saber</l>
-                    <l n="23" xml:id="C009-23"> E res no fac encontra son voler</l>
-                    <l n="24" xml:id="C009-24"> Desijant be la dolor li grahesch</l>
+                <lg type="cobla" n="3" xml:id="C009-lg3">
+                    <l n="17" xml:id="C009-l17"> Si no es pech qujs deu marauellar</l>
+                    <l n="18" xml:id="C009-l18"> Dalgun cas fort quesdeuengen laman</l>
+                    <l n="19" xml:id="C009-l19"> Lom fora seny no pot ser ben vsan</l>
+                    <l n="20" xml:id="C009-l20"> Tal me confes donchs nom vullau reptar</l>
+                    <l n="21" xml:id="C009-l21"> Amor hapres lo carrech sin res fallesch</l>
+                    <l n="22" xml:id="C009-l22"> Car so abstret de seny ede saber</l>
+                    <l n="23" xml:id="C009-l23"> E res no fac encontra son voler</l>
+                    <l n="24" xml:id="C009-l24"> Desijant be la dolor li grahesch</l>
                 </lg>
                 <pb n="19"
                     facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_21.html"/>
-                <lg type="cobla" n="4" xml:id="C0009-4">
-                    <l n="25" xml:id="C009-25"> Estant apart esol yomenpeguesch</l>
-                    <l n="26" xml:id="C009-26"> Ymaginant co que deuria fer</l>
-                    <l n="27" xml:id="C009-27"> Dexecutar no dech hauer esper</l>
-                    <l n="28" xml:id="C009-28"> Pus lo primer asag no enseguesch</l>
-                    <l n="29" xml:id="C009-29"> Limaginar amor me vol reprendre</l>
-                    <l n="30" xml:id="C009-30"> Tan longament ab vergonyam refrena</l>
-                    <l n="31" xml:id="C009-31"> Com se fara que ab cara serena</l>
-                    <l n="32" xml:id="C009-32"> Aya poder dema raho estendre</l>
+                <lg type="cobla" n="4" xml:id="C009-lg4">
+                    <l n="25" xml:id="C009-l25"> Estant apart esol yomenpeguesch</l>
+                    <l n="26" xml:id="C009-l26"> Ymaginant co que deuria fer</l>
+                    <l n="27" xml:id="C009-l27"> Dexecutar no dech hauer esper</l>
+                    <l n="28" xml:id="C009-l28"> Pus lo primer asag no enseguesch</l>
+                    <l n="29" xml:id="C009-l29"> Limaginar amor me vol reprendre</l>
+                    <l n="30" xml:id="C009-l30"> Tan longament ab vergonyam refrena</l>
+                    <l n="31" xml:id="C009-l31"> Com se fara que ab cara serena</l>
+                    <l n="32" xml:id="C009-l32"> Aya poder dema raho estendre</l>
                 </lg>
-                <lg type="cobla" n="5" xml:id="C0009-5">
-                    <l n="33" xml:id="C009-33"> Los fets damor yo nopusch ben entendre</l>
-                    <l n="34" xml:id="C009-34"> Degrans contrasts mopinio es plena</l>
-                    <l n="35" xml:id="C009-35"> Horan lo jorn que no sen vulla pena</l>
-                    <l n="36" xml:id="C009-36"> Pensant enco que vinch halarma rendre</l>
-                    <l n="37" xml:id="C009-37"> Si altra veu limaginar mj porta</l>
-                    <l n="38" xml:id="C009-38"> Per dar senyal que yo sia cregut</l>
-                    <l n="39" xml:id="C009-39"> Suplich lamort quen tal cas me agut</l>
-                    <l n="40" xml:id="C009-40"> E si nom val ma veritat jaumorta</l>
+                <lg type="cobla" n="5" xml:id="C009-lg5">
+                    <l n="33" xml:id="C009-l33"> Los fets damor yo nopusch ben entendre</l>
+                    <l n="34" xml:id="C009-l34"> Degrans contrasts mopinio es plena</l>
+                    <l n="35" xml:id="C009-l35"> Horan lo jorn que no sen vulla pena</l>
+                    <l n="36" xml:id="C009-l36"> Pensant enco que vinch halarma rendre</l>
+                    <l n="37" xml:id="C009-l37"> Si altra veu limaginar mj porta</l>
+                    <l n="38" xml:id="C009-l38"> Per dar senyal que yo sia cregut</l>
+                    <l n="39" xml:id="C009-l39"> Suplich lamort quen tal cas me agut</l>
+                    <l n="40" xml:id="C009-l40"> E si nom val ma veritat jaumorta</l>
                 </lg>
-                <lg type="tornada">
-                    <l n="41" xml:id="C009-41"> Lir entre carts fins haueure laporta</l>
-                    <l n="42" xml:id="C009-42"> Demos delits sobirans son vengut</l>
-                    <l n="43" xml:id="C009-43"> Noy he tocat ans men torn com amut</l>
-                    <l n="44" xml:id="C009-44"> E per tornar ja trob lavia torta</l>
+                <lg type="tornada" n="6" xml:id="C009-lg6">
+                    <l n="41" xml:id="C009-l41"> Lir entre carts fins haueure laporta</l>
+                    <l n="42" xml:id="C009-l42"> Demos delits sobirans son vengut</l>
+                    <l n="43" xml:id="C009-l43"> Noy he tocat ans men torn com amut</l>
+                    <l n="44" xml:id="C009-l44"> E per tornar ja trob lavia torta</l>
                 </lg>
             </div>
         </body>

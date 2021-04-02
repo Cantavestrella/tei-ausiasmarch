@@ -51,8 +51,10 @@
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 26v after end of previous poem, before this one: </locus>
+                                <locus>f. 78v after end of previous poem, before this one: </locus>
                                 Mossen Auzias march </rubric>
+                            <rubric>
+                                <locus>f. 79r between lines 40 and 41</locus> Tornada </rubric>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -82,63 +84,63 @@
             <pb n="78v"
                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_157.html"/>
             <div type="poem" xml:id="C010-I066">
-                <lg type="cobla" n="1" xml:id="C0010-1">
-                    <l n="1" xml:id="C010-1"> SJ com vn Rey / senyor de tres ciutats</l>
-                    <l n="2" xml:id="C010-2"> Qui tot son temps / la plagut garregar</l>
-                    <l n="3" xml:id="C010-3"> Ab lenamjch / quj dell nos pot venjar</l>
-                    <l n="4" xml:id="C010-4"> Lexa vençut / menys desser ne sobrats</l>
-                    <l n="5" xml:id="C010-5"> Ans sil mati / lenamich lo vencia</l>
-                    <l n="6" xml:id="C010-6"> Ans del sol post / pel Rey era vençut</l>
-                    <l n="7" xml:id="C010-7"> Ffins quen les osts / contral Rey es vengut</l>
-                    <l n="8" xml:id="C010-8"> Vn soldader / qui lo Rey desconfia</l>
+                <lg type="cobla" n="1" xml:id="C0010-lg1">
+                    <l n="1" xml:id="C010-l1"> SJ com vn Rey / senyor de tres ciutats</l>
+                    <l n="2" xml:id="C010-l2"> Qui tot son temps / la plagut garregar</l>
+                    <l n="3" xml:id="C010-l3"> Ab lenamjch / quj dell nos pot venjar</l>
+                    <l n="4" xml:id="C010-l4"> Lexa vençut / menys desser ne sobrats</l>
+                    <l n="5" xml:id="C010-l5"> Ans sil mati / lenamich lo vencia</l>
+                    <l n="6" xml:id="C010-l6"> Ans del sol post / pel Rey era vençut</l>
+                    <l n="7" xml:id="C010-l7"> Ffins quen les osts / contral Rey es vengut</l>
+                    <l n="8" xml:id="C010-l8"> Vn soldader / qui lo Rey desconfia</l>
                 </lg>
-                <lg type="cobla" n="2" xml:id="C0010-2">
-                    <l n="9" xml:id="C010-9"> Ladonchs lo Rey / perde la senyoria</l>
-                    <l n="10" xml:id="C010-10"> Deles ciutats / sens nulla possehir</l>
-                    <l n="11" xml:id="C010-11"> Mas lenamich / duues lin vol jaquir</l>
-                    <l n="12" xml:id="C010-12"> Dant fe lo Rey / que bon compten retia</l>
-                    <l n="13" xml:id="C010-13"> Com auahent / la renda despanent</l>
-                    <l n="14" xml:id="C010-14"> Auoluntat / del dit possehidor</l>
-                    <l n="15" xml:id="C010-15"> Del vna vol / que non sia senyor</l>
-                    <l n="16" xml:id="C010-16"> Ne sia vist / quelin vinguen esment</l>
+                <lg type="cobla" n="2" xml:id="C0010-lg2">
+                    <l n="9" xml:id="C010-l9"> Ladonchs lo Rey / perde la senyoria</l>
+                    <l n="10" xml:id="C010-l10"> Deles ciutats / sens nulla possehir</l>
+                    <l n="11" xml:id="C010-l11"> Mas lenamich / duues lin vol jaquir</l>
+                    <l n="12" xml:id="C010-l12"> Dant fe lo Rey / que bon compten retia</l>
+                    <l n="13" xml:id="C010-l13"> Com auahent / la renda despanent</l>
+                    <l n="14" xml:id="C010-l14"> Auoluntat / del dit possehidor</l>
+                    <l n="15" xml:id="C010-l15"> Del vna vol / que non sia senyor</l>
+                    <l n="16" xml:id="C010-l16"> Ne sia vist / quelin vinguen esment</l>
                 </lg>
                 <pb n="79r"
                     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_158.html"/>
-                <lg type="cobla" n="3" xml:id="C0010-3">
-                    <l n="17" xml:id="C010-17"> Lonch temps amor / per enamich la sent</l>
-                    <l n="18" xml:id="C010-18"> Mas james fon / quem donas vn mal jorn</l>
-                    <l n="19" xml:id="C010-19"> Quen poch jnstant / no li fes perdre torn</l>
-                    <l n="20" xml:id="C010-20"> Fforagitant / son aspre pensament</l>
-                    <l n="21" xml:id="C010-21"> Erma vençut / ab sol esforç dun cors</l>
-                    <l n="22" xml:id="C010-22"> Nel ha calgut / mostrar se potent força</l>
-                    <l n="23" xml:id="C010-23"> Los tres poders / quen larma son e força</l>
-                    <l n="24" xml:id="C010-24"> Dos men jaqueix / daltre vsar nongo</l>
+                <lg type="cobla" n="3" xml:id="C0010-lg3">
+                    <l n="17" xml:id="C010-l17"> Lonch temps amor / per enamich la sent</l>
+                    <l n="18" xml:id="C010-l18"> Mas james fon / quem donas vn mal jorn</l>
+                    <l n="19" xml:id="C010-l19"> Quen poch jnstant / no li fes perdre torn</l>
+                    <l n="20" xml:id="C010-l20"> Fforagitant / son aspre pensament</l>
+                    <l n="21" xml:id="C010-l21"> Erma vençut / ab sol esforç dun cors</l>
+                    <l n="22" xml:id="C010-l22"> Nel ha calgut / mostrar se potent força</l>
+                    <l n="23" xml:id="C010-l23"> Los tres poders / quen larma son e força</l>
+                    <l n="24" xml:id="C010-l24"> Dos men jaqueix / daltre vsar nongo</l>
                 </lg>
-                <lg type="cobla" n="4" xml:id="C0010-4">
-                    <l n="25" xml:id="C010-25"> E noy cuydets / quem sia plasent mos</l>
-                    <l n="26" xml:id="C010-26"> Aquest vedat / ans nandura de grat</l>
-                    <l n="27" xml:id="C010-27"> Si be no puch / remembrar lo passat</l>
-                    <l n="28" xml:id="C010-28"> Molt es plasent / tant es cargat mon dos</l>
-                    <l n="29" xml:id="C010-29"> James venço / fon plaher del vençut</l>
-                    <l n="30" xml:id="C010-30"> Sino de mj / qujm plau quamor me vença</l>
-                    <l n="31" xml:id="C010-31"> Em tingua / pres ab sa visibla pença</l>
-                    <l n="32" xml:id="C010-32"> E paren be / sos colps ab mon escut</l>
+                <lg type="cobla" n="4" xml:id="C0010-lg4">
+                    <l n="25" xml:id="C010-l25"> E noy cuydets / quem sia plasent mos</l>
+                    <l n="26" xml:id="C010-l26"> Aquest vedat / ans nandura de grat</l>
+                    <l n="27" xml:id="C010-l27"> Si be no puch / remembrar lo passat</l>
+                    <l n="28" xml:id="C010-l28"> Molt es plasent / tant es cargat mon dos</l>
+                    <l n="29" xml:id="C010-l29"> James venço / fon plaher del vençut</l>
+                    <l n="30" xml:id="C010-l30"> Sino de mj / qujm plau quamor me vença</l>
+                    <l n="31" xml:id="C010-l31"> Em tingua / pres ab sa visibla pença</l>
+                    <l n="32" xml:id="C010-l32"> E paren be / sos colps ab mon escut</l>
                 </lg>
-                <lg type="cobla" n="5" xml:id="C0010-5">
-                    <l n="33" xml:id="C010-33"> Deffet que so / asa merçe vengut</l>
-                    <l n="34" xml:id="C010-34"> Lentenjment / per conseller me pres</l>
-                    <l n="35" xml:id="C010-35"> E mon voler / per algutzir lo mes</l>
-                    <l n="36" xml:id="C010-36"> Dant fe cascu / que may sera rebut</l>
-                    <l n="37" xml:id="C010-37"> En lur merce / son companyo membrar</l>
-                    <l n="38" xml:id="C010-38"> Serujnt cascu / leyalment son offici</l>
-                    <l n="39" xml:id="C010-39"> Si que negu / dells no sera tant nici</l>
-                    <l n="40" xml:id="C010-40"> Quen res contrast / que sia de amar</l>
+                <lg type="cobla" n="5" xml:id="C0010-lg5">
+                    <l n="33" xml:id="C010-l33"> Deffet que so / asa merçe vengut</l>
+                    <l n="34" xml:id="C010-l34"> Lentenjment / per conseller me pres</l>
+                    <l n="35" xml:id="C010-l35"> E mon voler / per algutzir lo mes</l>
+                    <l n="36" xml:id="C010-l36"> Dant fe cascu / que may sera rebut</l>
+                    <l n="37" xml:id="C010-l37"> En lur merce / son companyo membrar</l>
+                    <l n="38" xml:id="C010-l38"> Serujnt cascu / leyalment son offici</l>
+                    <l n="39" xml:id="C010-l39"> Si que negu / dells no sera tant nici</l>
+                    <l n="40" xml:id="C010-l40"> Quen res contrast / que sia de amar</l>
                 </lg>
-                <lg type="cobla" n="6" xml:id="C0010-6">
-                    <l n="41" xml:id="C010-41"> Lir entre carts / vullats vos acordar</l>
-                    <l n="42" xml:id="C010-42"> Com per amor / venen grans sentiments</l>
-                    <l n="43" xml:id="C010-43"> E per amar / pot ser lom ignocents</l>
-                    <l n="44" xml:id="C010-44"> Emostreu io / quin he perdut parlar</l>
+                <lg type="tornada" n="6" xml:id="C0010-lg6">
+                    <l n="41" xml:id="C010-l41"> Lir entre carts / vullats vos acordar</l>
+                    <l n="42" xml:id="C010-l42"> Com per amor / venen grans sentiments</l>
+                    <l n="43" xml:id="C010-l43"> E per amar / pot ser lom ignocents</l>
+                    <l n="44" xml:id="C010-l44"> Emostreu io / quin he perdut parlar</l>
                 </lg>
             </div>
         </body>

@@ -83,7 +83,7 @@
          <div type="poem" xml:id="C013-A061">
             <lg type="cobla" n="1" xml:id="C011-01">
 
-               <l n="1" xml:id="C011-1"> &#182; Quins tals segurs consells vas acertant </l>
+               <l n="1" xml:id="C011-1"> ¶ Quins tals segurs consells vas acertant </l>
 
                <l n="2" xml:id="C011-2"> Cors malestruc enfastijat de viure </l>
 
@@ -185,7 +185,7 @@
                <l n="40" xml:id="C011-40"> En mon socors ma nosi trobarmada </l>
 
             </lg>
-            <lg type="cobla" n="6" xml:id="C011-06">
+            <lg type="tornada" n="6" xml:id="C011-06">
 
                <l n="41" xml:id="C011-41"> Lir entre carts lora ses acostada </l>
 

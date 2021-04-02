@@ -49,7 +49,7 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 19v second line </locus>&#182; Capitulo.X<note type="editorial"
+                        <locus>f. 19v second line </locus>¶ Capitulo.X<note type="editorial"
                            >Tot i que correspondria el IX.</note>
                      </rubric>
                   </msItem>
@@ -105,7 +105,7 @@
             </lg>
             <lg type="cobla" n="2" xml:id="C018-02">
 
-               <l n="9" xml:id="C018-9"> &#182; Ma carn no sent / aquell delit sensible </l>
+               <l n="9" xml:id="C018-9"> ¶ Ma carn no sent / aquell delit sensible </l>
 
                <l n="10" xml:id="C018-10"> El esperit / obras damor cobeja </l>
 

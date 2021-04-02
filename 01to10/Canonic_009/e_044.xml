@@ -51,14 +51,19 @@
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 34r after end of previous poem, before this one:</locus>
+                                <locus>f. 48r after end of previous poem, before this one:</locus>
                                 DE AMOR CANT. XLIIII. </rubric>
                             <rubric>
-                                <locus>f. 35r between lines 40 and 41 </locus><c rend="large"
-                                    >tornada.</c>
+                                <locus>f. 48v header</locus>DE AMOR CANT. XLIIII.
                             </rubric>
                             <rubric>
-                                <locus>f. 35r after line 44</locus> Fi del Cant. xliiij. </rubric>
+                                <locus>f. 49r header</locus>DE AMOR CANT. XLV.
+                            </rubric>
+                            <rubric>
+                                <locus>f. 49r between lines 40 and 41 </locus>TORNADA.
+                            </rubric>
+                            <rubric>
+                                <locus>f. 49r after line 44</locus> Fi del Cant. xliiij. </rubric>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -90,7 +95,7 @@
             <pb n="48r"
                 facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_114.html"/>
             <div type="poem" xml:id="C009-e044">
-                <lg type="cobla" n="1" xml:id="C0009-1">
+                <lg type="cobla" n="1" xml:id="C009-lg1">
                     <l n="1" xml:id="C009-1">
                         <c rend="large">A</c>Mor se dol / com breument yo no muir</l>
                     <l n="2" xml:id="C009-2"> puix no li fall / per esser de mi fart</l>
@@ -103,7 +108,7 @@
                 </lg>
                 <pb n="48v"
                     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_115.html"/>
-                <lg type="cobla" n="2" xml:id="C0009-2">
+                <lg type="cobla" n="2" xml:id="C009-lg2">
                     <l n="9" xml:id="C009-9"> Yo fas tot quant / me diu lo pensament</l>
                     <l n="10" xml:id="C009-10"> e si hagues / tant seny com Salamó</l>
                     <l n="11" xml:id="C009-11"> fora tot poch / no dar ocasió</l>
@@ -113,7 +118,7 @@
                     <l n="15" xml:id="C009-15"> Piramus volch / morir passat d'un brant</l>
                     <l n="16" xml:id="C009-16"> e per semblant / mort Tisbe volch passar.</l>
                 </lg>
-                <lg type="cobla" n="3" xml:id="C0009-3">
+                <lg type="cobla" n="3" xml:id="C009-lg3">
                     <l n="17" xml:id="C009-17"> Sino es pech / quis deu marauellár</l>
                     <l n="18" xml:id="C009-18"> d'algun cas fort / ques devenga'n l'amánt?</l>
                     <l n="19" xml:id="C009-19"> l'hom fora seny / no pot ser ben vsánt</l>
@@ -123,7 +128,7 @@
                     <l n="23" xml:id="C009-23"> e res no faç / en contra son voler</l>
                     <l n="24" xml:id="C009-24"> desijant be / la dolor li graésch.</l>
                 </lg>
-                <lg type="cobla" n="4" xml:id="C0009-4">
+                <lg type="cobla" n="4" xml:id="C009-lg4">
                     <l n="25" xml:id="C009-25"> Estant apart / tot sol yo m'empeguésch</l>
                     <l n="26" xml:id="C009-26"> imaginant / ço que deuria fer</l>
                     <l n="27" xml:id="C009-27"> d'executar / no dech auer espér</l>
@@ -135,7 +140,7 @@
                 </lg>
                 <pb n="49r"
                     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_116.html"/>
-                <lg type="cobla" n="5" xml:id="C0009-5">
+                <lg type="cobla" n="5" xml:id="C009-lg5">
                     <l n="33" xml:id="C009-33"> Los fets d'Amor / yo no puch ben <choice>
                             <abbr>entȇdre</abbr>
                             <expan>entendre</expan>
@@ -148,7 +153,7 @@
                     <l n="39" xml:id="C009-39"> suplich la mort / qu'en talcas m'ajut</l>
                     <l n="40" xml:id="C009-40"> e si nom val / ma veritat jau morta.</l>
                 </lg>
-                <lg type="cobla" n="6" xml:id="C0009-6">
+                <lg type="tornada" n="6" xml:id="C009-lg6">
                     <l n="41" xml:id="C009-41"> Lir entre carts / fins a veure la porta</l>
                     <l n="42" xml:id="C009-42"> de mos desigs / sobirans so vengút</l>
                     <l n="43" xml:id="C009-43"> noy e tocat / ans me torn com'a mút</l>

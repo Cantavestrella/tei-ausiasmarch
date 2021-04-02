@@ -131,7 +131,7 @@
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_60.html"/>
             <lg type="cobla" n="3" xml:id="C018-03">
 
-               <l n="17" xml:id="C018-17"> &#182; Si fos Amor / sustançia rahonable </l>
+               <l n="17" xml:id="C018-17"> ¶ Si fos Amor / sustançia rahonable </l>
 
                <l n="18" xml:id="C018-18"> e ques trobas / de senyoria çeptre </l>
 
@@ -182,7 +182,7 @@
             </lg>
             <lg type="cobla" n="5" xml:id="C018-05">
 
-               <l n="33" xml:id="C018-33"> &#182; Si com sant Pau / Deu li sostrage l'arma </l>
+               <l n="33" xml:id="C018-33"> ¶ Si com sant Pau / Deu li sostrage l'arma </l>
 
                <l n="34" xml:id="C018-34"> del cos: perque / v'hes diuinals misteris </l>
 
@@ -220,7 +220,7 @@
             </lg>
             <lg type="cobla" n="7" xml:id="C018-07">
 
-               <l n="49" xml:id="C018-49"> &#182; Als naturals / no par que fer se pusquen </l>
+               <l n="49" xml:id="C018-49"> ¶ Als naturals / no par que fer se pusquen </l>
 
                <l n="50" xml:id="C018-50"> molts dels secrets / que la deitat se'stoja, </l>
 
@@ -236,9 +236,9 @@
 
                <l n="56" xml:id="C018-56"> dant aparer / que folles coses parle. </l>
             </lg>
-            <lg type="cobla" n="8" xml:id="C018-08">
+            <lg type="tornada" n="8" xml:id="C018-08">
 
-               <l n="57" xml:id="C018-57"> &#182; Lir entre carts / lo meu voler se tempra </l>
+               <l n="57" xml:id="C018-57"> ¶ Lir entre carts / lo meu voler se tempra </l>
 
                <l n="58" xml:id="C018-58"> en ço que null / amador sab lo tempre </l>
 

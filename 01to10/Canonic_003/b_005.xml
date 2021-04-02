@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 11</title>
             <author>Ausiàs March </author>
@@ -71,40 +71,67 @@
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_17.html"/>
       <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_18.html"/>
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_18.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="4v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_17.html"/>
-         <div type="poem" n="3" xml:id="C003-b005">
-            <lg type="cobla" n="1" xml:id="C0003-1">
-               <l n="1" xml:id="C003-1">Alt he, amor / d'on <choice><abbr>grȃ</abbr><expan>gran</expan></choice> desig sengendra</l>
-               <l n="2" xml:id="C003-2">y <choice><abbr>experimȇt</abbr><expan>experiment</expan></choice> / per tots aquests grahons</l>
-               <l n="3" xml:id="C003-3">me son delits / mas donam passsions</l>
-               <l n="4" xml:id="C003-4">la por <choice><abbr>ƌl</abbr><expan>del</expan></choice> mal / quim fa magrir carn <choice><abbr>tȇdra</abbr><expan>tendra</expan></choice></l>
-               <l n="5" xml:id="C003-5">he, port'al cor / sens fum continu foch</l>
-               <l n="6" xml:id="C003-6">e, la calor / nom surt, apart de fora</l>
-               <l n="7" xml:id="C003-7">socorreume / dins los tremens d'un ora</l>
-               <l n="8" xml:id="C003-8">car mos senyals / demostren viure poch</l>
+         <div type="poem" xml:id="C003-b005">
+            <lg type="cobla" n="1" xml:id="C003-lg1">
+               <l n="1" xml:id="C003-l1">Alt he, amor / d'on <choice>
+                     <abbr>grȃ</abbr>
+                     <expan>gran</expan>
+                  </choice> desig sengendra</l>
+               <l n="2" xml:id="C003-l2">y <choice>
+                     <abbr>experimȇt</abbr>
+                     <expan>experiment</expan>
+                  </choice> / per tots aquests grahons</l>
+               <l n="3" xml:id="C003-l3">me son delits / mas donam passsions</l>
+               <l n="4" xml:id="C003-l4">la por <choice>
+                     <abbr>ƌl</abbr>
+                     <expan>del</expan>
+                  </choice> mal / quim fa magrir carn <choice>
+                     <abbr>tȇdra</abbr>
+                     <expan>tendra</expan>
+                  </choice></l>
+               <l n="5" xml:id="C003-l5">he, port'al cor / sens fum continu foch</l>
+               <l n="6" xml:id="C003-l6">e, la calor / nom surt, apart de fora</l>
+               <l n="7" xml:id="C003-l7">socorreume / dins los tremens d'un ora</l>
+               <l n="8" xml:id="C003-l8">car mos senyals / demostren viure poch</l>
             </lg>
-            <lg type="cobla" n="2" xml:id="C0003-2">
-               <l n="9" xml:id="C003-9">Metge scient / no te, locas per joch</l>
-               <l n="10" xml:id="C003-10">com la calor / nosurt / apart, estrema</l>
-           <pb n="5r"
-              facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_18.html"/>
-               <l n="11" xml:id="C003-11"><choice><abbr>Lignorȃt</abbr><expan>Lignorant</expan></choice> veu / que lo malalt no crema</l>
-               <l n="12" xml:id="C003-12">he, jutjal, sa / puix que, mostra bon, toch</l>
-               <l n="13" xml:id="C003-13">lo pacient / no pora dir son mal</l>
-               <l n="14" xml:id="C003-14"><add place="margint left">affeblit<add place="below">debilitat</add></add>tot, affeblit  / ab lengua mal diserta</l>
-               <l n="15" xml:id="C003-15">gests, he / color / assats san descuberta</l>
-               <l n="16" xml:id="C003-16">part del affany / que, tant com lo, dir val</l>
+            <lg type="cobla" n="2" xml:id="C003-lg2">
+               <l n="9" xml:id="C003-l9">Metge scient / no te, locas per joch</l>
+               <l n="10" xml:id="C003-l10">com la calor / nosurt / apart, estrema</l>
+               <pb n="5r"
+                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_18.html"/>
+               <l n="11" xml:id="C003-l11"><choice>
+                     <abbr>Lignorȃt</abbr>
+                     <expan>Lignorant</expan>
+                  </choice> veu / que lo malalt no crema</l>
+               <l n="12" xml:id="C003-l12">he, jutjal, sa / puix que, mostra bon, toch</l>
+               <l n="13" xml:id="C003-l13">lo pacient / no pora dir son mal</l>
+               <l n="14" xml:id="C003-l14">tot, affeblit<note type="gloss" place="margin left"
+                     >affeblit <choice>
+                        <abbr>ṗ</abbr>
+                        <expan>per</expan>
+                     </choice> per debilitat</note> / ab lengua mal diserta</l>
+               <l n="15" xml:id="C003-l15">gests, he / color / assats san descuberta</l>
+               <l n="16" xml:id="C003-l16">part del affany / que, tant com lo, dir val</l>
             </lg>
-            <lg type="tornada">
-               <l n="41" xml:id="C003-41">Plena de seny / dir vos queus am, no cal</l>
-               <l n="42" xml:id="C003-42">puis crech de cerr<note type="editorial">Per cert.</note> / <choice><abbr>quꝯ</abbr><expan>queus</expan></choice>'ne, teniu <choice><abbr>ꝑ</abbr><expan>per</expan></choice> certa</l>
-               <l n="43" xml:id="C003-43">sibe, mostrau / queus; esta molt cuberta</l>
-               <l n="44" xml:id="C003-44">cella, per que / amor, es desigual</l>
+            <lg type="tornada" n="3" xml:id="C003-lg3">
+               <l n="17" xml:id="C003-l17">Plena de seny / dir vos queus am, no cal</l>
+               <l n="18" xml:id="C003-l18">puis crech de cerr<note type="editorial">Per cert.</note>
+                  / <choice>
+                     <abbr>quꝯ</abbr>
+                     <expan>queus</expan>
+                  </choice>'ne, teniu <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> certa</l>
+               <l n="29" xml:id="C003-l19">sibe, mostrau / queus; esta molt cuberta</l>
+               <l n="20" xml:id="C003-l20">cella, per que / amor, es desigual</l>
             </lg>
          </div>
       </body>

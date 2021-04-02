@@ -79,7 +79,7 @@
       <body>
          <pb n="1r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_8.html"/>
-         <div type="poem" n="1" xml:id="C001-K001">
+         <div type="poem" xml:id="C001-K001">
             <lg type="cobla" n="1" xml:id="C0001-1">
                <l n="1" xml:id="C001-1">a Xi com çell quin lo sompnis <choice><abbr>ƌlita</abbr><expan>delita</expan></choice></l>
                <l n="2" xml:id="C001-2">E son delit de foll pensament ve</l>
@@ -134,7 +134,7 @@
                <l n="39" xml:id="C001-39">Mas com sen part les forçat congoxar</l>
                <l n="40" xml:id="C001-40">Lo be com futg ab grans crits mal apella</l>
             </lg>
-            <lg type="tornada">
+            <lg type="tornada" n="6" xml:id="C0001-6">
                <l n="41" xml:id="C001-41">Plena de seny quant amor es molt vella</l>
                <l n="42" xml:id="C001-42">Absensa es lo verme qui la gasta</l>
                <l n="43" xml:id="C001-43">Si fermetat <choice><abbr>durmȇt</abbr><expan>durment</expan></choice> no contrasta</l>

@@ -86,7 +86,7 @@
          <div type="poem" xml:id="C019-N019">
             <lg type="cobla" n="1" xml:id="C019-01">
 
-               <l n="1" xml:id="C019-1"> &#182; Hoiu hoiu tots los quj be amats </l>
+               <l n="1" xml:id="C019-1"> ¶ Hoiu hoiu tots los quj be amats </l>
 
                <l n="2" xml:id="C019-2"> E planyeu mj si dech esser plangut </l>
 
@@ -184,7 +184,7 @@
 
                <l n="40" xml:id="C019-40"> Vull e desuull sens cas esdeuengut </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C019-06">
+            <lg type="tornada" n="6" xml:id="C019-06">
 
                <l n="41" xml:id="C019-41"> Lir entre carts creu lamador mut </l>
 

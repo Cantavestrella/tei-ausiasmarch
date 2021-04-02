@@ -86,7 +86,7 @@
          <div type="poem" xml:id="C016-N016">
             <lg type="cobla" n="1" xml:id="C016-01">
 
-               <l n="1" xml:id="C016-1"> &#182; <del rend="overstrike">Quant</del> Junt es lo temps
+               <l n="1" xml:id="C016-1"> ¶ <del rend="overstrike">Quant</del> Junt es lo temps
                   que mon goig es complit</l>
 
                <l n="2" xml:id="C016-2"> En lo esguart del que yo desijat</l>
@@ -182,7 +182,7 @@
             </lg>
             <pb n="34"
                facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_36.html"/>
-            <lg type="cobla" n="6" xml:id="C016-06">
+            <lg type="tornada" n="6" xml:id="C016-06">
 
                <l n="41" xml:id="C016-41"> Plena de seny enhome foll atura</l>
 

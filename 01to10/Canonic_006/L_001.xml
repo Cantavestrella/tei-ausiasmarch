@@ -45,15 +45,15 @@
             <sourceDesc>
                 <msDesc corresp="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175">
                     <msIdentifier xml:id="L_Ms_9_BC">
-                        <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+                        <repository>Biblioteca de Catalunya</repository>
                     </msIdentifier>
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 140r after end of previous poem, before this one: </locus>
-                                Moss\textit{en }Auzias march</rubric>
+                                <locus>f. 14r after end of previous poem, before this one: </locus>
+                                Mossen Auzias march</rubric>
                             <rubric>
-                                <locus>f. 141r between lines 40 and 41 </locus>Tornada </rubric>
+                                <locus>f. 15v between lines 40 and 41 </locus>Tornada </rubric>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -72,120 +72,123 @@
         </encodingDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-        <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
-    </facsimile>
+        <graphic url="https://mdc.csuc.cat/digital/collection/manuscritBC/id/271887"/>
+        <graphic url="https://mdc.csuc.cat/digital/collection/manuscritBC/id/271888"/>
+        <graphic url="https://mdc.csuc.cat/digital/collection/manuscritBC/id/271889"/>
+        <graphic url="https://mdc.csuc.cat/digital/collection/manuscritBC/id/271890"/>
+            </facsimile>
     <text>
         <body>
             <div type="poem" xml:id="C006-L001">
-                <pb n="14r" facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-                <lg type="cobla" n="1" xml:id="C0006-1">
-                    <l n="1" xml:id="C006-1"> Molt he tardat / en descobrir ma falta</l>
-                    <l n="2" xml:id="C006-2"> Per jouentut / quim <choice>
+                <pb n="14r" facs="https://mdc.csuc.cat/digital/collection/manuscritBC/id/271887"/>
+                <lg type="cobla" n="1" xml:id="C006-lg1">
+                    <l n="1" xml:id="C006-l1"><add place="margin left">m</add>olt he tardat / en descobrir ma falta</l>
+                    <l n="2" xml:id="C006-l2"> Per jouentut / quim <choice>
                             <abbr>negasperimȇt</abbr>
                             <expan>negasperimet</expan>
                         </choice></l>
-                    <l n="3" xml:id="C006-3"> En vn cas nou / lom no es conexent</l>
-                    <pb n="14v" facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-                    <l n="4" xml:id="C006-4"> E <choice>
+                    <l n="3" xml:id="C006-l3"> En vn cas nou / lom no es conexent</l>
+                    <pb n="14v" facs="https://mdc.csuc.cat/digital/collection/manuscritBC/id/271888"/>
+                    <l n="4" xml:id="C006-l4"> E <choice>
                             <abbr>maiotmȇt</abbr>
                             <expan>maiorment</expan>
                         </choice> / siha raho malalta</l>
-                    <l n="5" xml:id="C006-5"> Per gran sforç / de folla voluntat</l>
-                    <l n="6" xml:id="C006-6"> Car tant com es / la voluntat moguda</l>
-                    <l n="7" xml:id="C006-7"> Lom deu hauer / del seny maior aiuda</l>
-                    <l n="8" xml:id="C006-8"> Si virtuos / vol esser nomenat</l>
+                    <l n="5" xml:id="C006-l5"> Per gran sforç / de folla voluntat</l>
+                    <l n="6" xml:id="C006-l6"> Car tant com es / la voluntat moguda</l>
+                    <l n="7" xml:id="C006-l7"> Lom deu hauer / del seny maior aiuda</l>
+                    <l n="8" xml:id="C006-l8"> Si virtuos / vol esser nomenat</l>
                 </lg>
-                <lg type="cobla" n="2" xml:id="C0006-2">
-                    <l n="9" xml:id="C006-9"> Quj son camj / ha vertader errat</l>
-                    <l n="10" xml:id="C006-10"> Per anar la<del rend="overstrike">y</del> / hon vol
+                <lg type="cobla" n="2" xml:id="C006-lg2">
+                    <l n="9" xml:id="C006-l9"> Quj son camj / ha vertader errat</l>
+                    <l n="10" xml:id="C006-l10"> Per anar la<del rend="overstrike">y</del> / hon vol
                         soiorn hauer</l>
-                    <l n="11" xml:id="C006-11"> Es lj forsat / que prengue mal sender</l>
-                    <l n="12" xml:id="C006-12"> E may<del rend="overstrike">s</del> venjr / ason
+                    <l n="11" xml:id="C006-l11"> Es lj forsat / que prengue mal sender</l>
+                    <l n="12" xml:id="C006-l12"> E may<del rend="overstrike">s</del> venjr / ason
                         loch desijat</l>
-                    <l n="13" xml:id="C006-13"> Tal cars ma pres / volent me contentar</l>
-                    <l n="14" xml:id="C006-14"> Lentenjment / en amor contemplant</l>
-                    <l n="15" xml:id="C006-15"> No ha trobat / lo seu <choice>
+                    <l n="13" xml:id="C006-l13"> Tal cars ma pres / volent me contentar</l>
+                    <l n="14" xml:id="C006-l14"> Lentenjment / en amor contemplant</l>
+                    <l n="15" xml:id="C006-l15"> No ha trobat / lo seu <choice>
                             <abbr>ƥprj</abbr>
                             <expan>proprj</expan>
                         </choice> semblant</l>
-                    <l n="16" xml:id="C006-16"> Car son sguard / es verament amar</l>
+                    <l n="16" xml:id="C006-l16"> Car son sguard / es verament amar</l>
                 </lg>
-                <lg type="cobla" n="3" xml:id="C0006-3">
-                    <l n="17" xml:id="C006-17">
+                <lg type="cobla" n="3" xml:id="C006-lg3">
+                    <l n="17" xml:id="C006-l17">
                         <choice>
                             <abbr>Lentamjȇt</abbr>
                             <expan>Lentamjent</expan>
                         </choice> / en tal juy nos clar</l>
-                    <l n="18" xml:id="C006-18"> Fforsadament / ha pendropinjons</l>
-                    <l n="19" xml:id="C006-19"> Voluntat mou / soffistiques rahons</l>
-                    <l n="20" xml:id="C006-20"> Ffent los valer / e <choice>
+                    <l n="18" xml:id="C006-l18"> Fforsadament / ha pendropinjons</l>
+                    <l n="19" xml:id="C006-l19"> Voluntat mou / soffistiques rahons</l>
+                    <l n="20" xml:id="C006-l20"> Ffent los valer / e <choice>
                             <abbr>ꝑ</abbr>
                             <expan>per</expan>
                         </choice> bastants passar</l>
-                    <pb n="15r" facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-                    <l n="21" xml:id="C006-21"> Si col florj / quj bona color ha</l>
-                    <l n="22" xml:id="C006-22"> E no val res / coneguda sa ley</l>
-                    <l n="23" xml:id="C006-23"> Na pres amj / <choice>
+                    <pb n="15r" facs="https://mdc.csuc.cat/digital/collection/manuscritBC/id/271889"/>
+                    <l n="21" xml:id="C006-l21"> Si col florj / quj bona color ha</l>
+                    <l n="22" xml:id="C006-l22"> E no val res / coneguda sa ley</l>
+                    <l n="23" xml:id="C006-l23"> Na pres amj / <choice>
                             <abbr>ꝗn</abbr>
                             <expan>quen</expan>
                         </choice> pensa munti rey</l>
-                    <l n="24" xml:id="C006-24"> Ffahent rahons / cuu Jnfant poch desfa</l>
+                    <l n="24" xml:id="C006-l24"> Ffahent rahons / cuu Jnfant poch desfa</l>
+                    <l><del rend="overstrike">E si pas mal</del></l>
                 </lg>
-                <lg type="cobla" n="4" xml:id="C0006-4">
-                    <l n="25" xml:id="C006-25">
-                        <del rend="overstrike">E si pas mal</del>E si pas mal /bon dret ho
+                <lg type="cobla" n="4" xml:id="C006-lg4">
+                    <l n="25" xml:id="C006-l25">
+                        E si pas mal /bon dret ho
                         consentra</l>
-                    <l n="26" xml:id="C006-26"> Puys es dit foll / cell quj serueix senyor</l>
-                    <l n="27" xml:id="C006-27"> Que no pot fer / content bon serujdor</l>
-                    <l n="28" xml:id="C006-28"> E per null temps / negun dret juy fa</l>
-                    <l n="29" xml:id="C006-29"> E pus que mal / adminjstrador es</l>
-                    <l n="30" xml:id="C006-30"> Al cauador / done loguer de metge</l>
-                    <l n="31" xml:id="C006-31"> En los plans lochs / fa durar lestret setge</l>
-                    <l n="32" xml:id="C006-32"> Lo fort castell / enterra tost la mes</l>
+                    <l n="26" xml:id="C006-l26"> Puys es dit foll / cell quj serueix senyor</l>
+                    <l n="27" xml:id="C006-l27"> Que no pot fer / content bon serujdor</l>
+                    <l n="28" xml:id="C006-l28"> E per null temps / negun dret juy fa</l>
+                    <l n="29" xml:id="C006-l29"> E pus que mal / adminjstrador es</l>
+                    <l n="30" xml:id="C006-l30"> Al cauador / done loguer de metge</l>
+                    <l n="31" xml:id="C006-l31"> En los plans lochs / fa durar lestret setge</l>
+                    <l n="32" xml:id="C006-l32"> Lo fort castell / enterra tost la mes</l>
                 </lg>
-                <lg type="cobla" n="5" xml:id="C0006-5">
-                    <l n="33" xml:id="C006-33"> Pren men axi / com al grosser pages</l>
-                    <l n="34" xml:id="C006-34"> Quj bon sement / en mala terra met</l>
-                    <l n="35" xml:id="C006-35"> Laltrecuydat / pensauer bon splet</l>
-                    <l n="36" xml:id="C006-36"> Daquell terreny / quj buyda los graners</l>
-                    <l n="37" xml:id="C006-37"> Assats ha seny / quj no ha <choice>
+                <lg type="cobla" n="5" xml:id="C006-lg5">
+                    <l n="33" xml:id="C006-l33"> Pren men axi / com al grosser pages</l>
+                    <l n="34" xml:id="C006-l34"> Quj bon sement / en mala terra met</l>
+                    <l n="35" xml:id="C006-l35"> Laltrecuydat / pensauer bon splet</l>
+                    <l n="36" xml:id="C006-l36"> Daquell terreny / quj buyda los graners</l>
+                    <l n="37" xml:id="C006-l37"> Assats ha seny / quj no ha <choice>
                             <abbr>sentimȇt</abbr>
                             <expan>sentiment</expan>
                         </choice></l>
-                    <pb n="15v" facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-                    <l n="38" xml:id="C006-38"> Per ensercar / etrobar la raho</l>
-                    <l n="39" xml:id="C006-39"> E pren esment / de son bon companyo</l>
-                    <l n="40" xml:id="C006-40"> Per cars passat / jutge lo seu <choice>
+                    <pb n="15v" facs="https://mdc.csuc.cat/digital/collection/manuscritBC/id/271890"/>
+                    <l n="38" xml:id="C006-l38"> Per ensercar / etrobar la raho</l>
+                    <l n="39" xml:id="C006-l39"> E pren esment / de son bon companyo</l>
+                    <l n="40" xml:id="C006-l40"> Per cars passat / jutge lo seu <choice>
                             <abbr>ꝑsent</abbr>
                             <expan>present</expan>
                         </choice></l>
                 </lg>
-                <lg type="cobla" n="6" xml:id="C0006-6">
-                    <l n="41" xml:id="C006-41"> Seguint lestil / que natura consent</l>
-                    <l n="42" xml:id="C006-42"> E ço quel seny / en veure clar abasta</l>
-                    <l n="43" xml:id="C006-43"> Negre forment / no done blancha pasta</l>
-                    <l n="44" xml:id="C006-44"> Ne laze ranch / nos anjmal corrent</l>
-                    <l n="45" xml:id="C006-45"> Tant poch sera / <choice>
+                <lg type="cobla" n="6" xml:id="C006-lg6">
+                    <l n="41" xml:id="C006-l41"> Seguint lestil / que natura consent</l>
+                    <l n="42" xml:id="C006-l42"> E ço quel seny / en veure clar abasta</l>
+                    <l n="43" xml:id="C006-l43"> Negre forment / no done blancha pasta</l>
+                    <l n="44" xml:id="C006-l44"> Ne laze ranch / nos anjmal corrent</l>
+                    <l n="45" xml:id="C006-l45"> Tant poch sera / <choice>
                             <abbr>ꝗ</abbr>
                             <expan>que</expan>
                         </choice> nulla dona senta</l>
-                    <l n="46" xml:id="C006-46"> Ne veia prim / lo fin sacret damor</l>
-                    <l n="47" xml:id="C006-47"> Si <choice>
+                    <l n="46" xml:id="C006-l46"> Ne veia prim / lo fin sacret damor</l>
+                    <l n="47" xml:id="C006-l47"> Si <choice>
                             <abbr>ꝑ</abbr>
                             <expan>per</expan>
                         </choice> amar / no consent gran dolor</l>
-                    <l n="48" xml:id="C006-48"> E de son seny / triadan mjlles trenta</l>
+                    <l n="48" xml:id="C006-l48"> E de son seny / triadan mjlles trenta</l>
                 </lg>
-                <lg type="tornada">
-                    <l n="49" xml:id="C006-49"> Plena de seny / si degu mj esmenta</l>
-                    <l n="50" xml:id="C006-50"> Tots los honjts<note type="editorial"> Per
+                <lg type="tornada" n="7" xml:id="C006-lg7">
+                    <l n="49" xml:id="C006-l49"> Plena de seny / si degu mj esmenta</l>
+                    <l n="50" xml:id="C006-l50"> Tots los honjts<note type="editorial"> Per
                             hoints.</note> / dihen <choice>
                             <abbr>ꝗ</abbr>
                             <expan>que</expan>
                         </choice>so mjllo</l>
-                    <l n="51" xml:id="C006-51"> Pus flach efort / e callant amador</l>
-                    <l n="52" xml:id="C006-52"> Ma voluntat / fahent damor <choice>
+                    <l n="51" xml:id="C006-l51"> Pus flach efort / e callant amador</l>
+                    <l n="52" xml:id="C006-l52"> Ma voluntat / fahent damor <choice>
                             <abbr>şuenta</abbr>
                             <expan>seruenta</expan>
                         </choice></l>

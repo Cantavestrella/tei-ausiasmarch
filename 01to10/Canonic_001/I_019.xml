@@ -50,7 +50,8 @@
                      <rubric>
                         <locus>f. 26v after end of previous poem, before this one: </locus> Altra </rubric>
                      <rubric>
-                        <locus>f. 26v after end of first rubric </locus>Mossen auzias march </rubric>
+                        <locus>f. 26v after end of first rubric </locus>Mossen auzias march
+                     </rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -72,72 +73,79 @@
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_91.html"/>
       <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_92.html"/>
+         url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_92.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="45v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_91.html"/>
-         <div type="poem" n="1" xml:id="C001-I019">
-            <lg type="cobla" n="1" xml:id="C0001-1">
-               <l n="1" xml:id="C001-1">a\footnote{\textit{A l'extrem del marge esquerre, una }a \textit{minúscula,
-                  per fer la caplletra}.}xi com cell / quin lo sompnis delita</l>
-               <l n="2" xml:id="C001-2">Eson delit / de foll pensament ve</l>
-               <l n="3" xml:id="C001-3">Nepren amj / quell temps passat me te</l>
-               <l n="4" xml:id="C001-4">Limaginar / qualtre be noy habita</l>
-               <l n="5" xml:id="C001-5">Sentint estar / en aguayt ma dolor</l>
-               <l n="6" xml:id="C001-6">Sabent decert / quen ses mans he de jaure</l>
-               <l n="7" xml:id="C001-7">Temps de venjr / en negun bem pot caure</l>
-               <l n="8" xml:id="C001-8">Aquell passat / en mj es lo millor</l>
+         <div type="poem" xml:id="C001-I019">
+            <lg type="cobla" n="1" xml:id="C001-lg1">
+               <l n="1" xml:id="C001-l1"><add place="margin left">a</add><note type="editorial"
+                     >Aquesta a marginal és indicació per a la caplletra que no s'ha arribat a
+                     executar</note> xi com cell / quin lo sompnis delita</l>
+               <l n="2" xml:id="C001-l2">Eson delit / de foll pensament ve</l>
+               <l n="3" xml:id="C001-l3">Nepren amj / quell temps passat me te</l>
+               <l n="4" xml:id="C001-l4">Limaginar / qualtre be noy habita</l>
+               <l n="5" xml:id="C001-l5">Sentint estar / en aguayt ma dolor</l>
+               <l n="6" xml:id="C001-l6">Sabent decert / quen ses mans he de jaure</l>
+               <l n="7" xml:id="C001-l7">Temps de venjr / en negun bem pot caure</l>
+               <l n="8" xml:id="C001-l8">Aquell passat / en mj es lo millor</l>
             </lg>
-            <lg type="cobla" n="2" xml:id="C0001-2">
-               <l n="9" xml:id="C001-9">Del temps present / nom trobe amador</l>
-               <l n="10" xml:id="C001-10">Mas del passat / ques no res e finit</l>
-               <l n="11" xml:id="C001-11">Daquest pensar / me soiorn em delit</l>
-               <l n="12" xml:id="C001-12">Mas quant lo pert / sesforça ma dolor</l>
-               <l n="13" xml:id="C001-13">Si com aquell / quj es jutgat amort</l>
-               <l n="14" xml:id="C001-14">E de lonch temps / la sab e saconorta</l>
-               <l n="15" xml:id="C001-15">E creurell fan / que li sera estorta</l>
-               <l n="16" xml:id="C001-16">El fan morir / sens vn punt derecort</l>
+            <lg type="cobla" n="2" xml:id="C001-lg2">
+               <l n="9" xml:id="C001-l9">Del temps present / nom trobe amador</l>
+               <l n="10" xml:id="C001-l10">Mas del passat / ques no res e finit</l>
+               <l n="11" xml:id="C001-l11">Daquest pensar / me soiorn em delit</l>
+               <l n="12" xml:id="C001-l12">Mas quant lo pert / sesforça ma dolor</l>
+               <l n="13" xml:id="C001-l13">Si com aquell / quj es jutgat amort</l>
+               <l n="14" xml:id="C001-l14">E de lonch temps / la sab e saconorta</l>
+               <l n="15" xml:id="C001-l15">E creurell fan / que li sera estorta</l>
+               <l n="16" xml:id="C001-l16">El fan morir / sens vn punt derecort</l>
             </lg>
-            <lg type="cobla" n="3" xml:id="C0001-3">
-               <l n="17" xml:id="C001-17">Plagues adeu / que mon pensar fos mort</l>
-               <l n="18" xml:id="C001-18">Eque passas / maujda en durment</l>
-               <l n="19" xml:id="C001-19">Malament viu / qui te lo pensament</l>
-               <l n="20" xml:id="C001-20">Per enamjch / fent li denuyts report</l>
-               <l n="21" xml:id="C001-21">E com lo vol / dalgun plaher serujr</l>
-               <l n="22" xml:id="C001-22">Li pren axi / com donab <del rend="overstrike">jn</del> son jnfant</l>
-               <l n="23" xml:id="C001-23">Que si veri / li demana plorant</l>
-               <l n="24" xml:id="C001-24">Ha ten poch seny / que nol sab contradir</l>
+            <lg type="cobla" n="3" xml:id="C001-lg3">
+               <l n="17" xml:id="C001-l17">Plagues adeu / que mon pensar fos mort</l>
+               <l n="18" xml:id="C001-l18">Eque passas / maujda en durment</l>
+               <l n="19" xml:id="C001-l19">Malament viu / qui te lo pensament</l>
+               <l n="20" xml:id="C001-l20">Per enamjch / fent li denuyts report</l>
+               <l n="21" xml:id="C001-l21">E com lo vol / dalgun plaher serujr</l>
+               <l n="22" xml:id="C001-l22">Li pren axi / com donab <del rend="overstrike">jn</del>
+                  son jnfant</l>
+               <l n="23" xml:id="C001-l23">Que si veri / li demana plorant</l>
+               <l n="24" xml:id="C001-l24">Ha ten poch seny / que nol sab contradir</l>
             </lg>
-            <lg type="cobla" n="4" xml:id="C0001-4">
-               <l n="25" xml:id="C001-25">Ffora mjllor / madolor sofferir</l>
-               <l n="26" xml:id="C001-26">Que no mesclar / pocha part de plaher</l>
-               <l n="27" xml:id="C001-27">Entrequells mals / quim <del rend="overstrike">sig</del>
+            <lg type="cobla" n="4" xml:id="C001-lg4">
+               <l n="25" xml:id="C001-l25">Ffora mjllor / madolor sofferir</l>
+               <l n="26" xml:id="C001-l26">Que no mesclar / pocha part de plaher</l>
+               <l n="27" xml:id="C001-l27">Entrequells mals / quim <del rend="overstrike">sig</del>
                   <del rend="overstrike">s</del> giten desaber</l>
-               <l n="28" xml:id="C001-28">Com del passat / plaher <del rend="overstrike">co</del> me couexir</l>
-               <l n="29" xml:id="C001-29">Las mon delit / dolor se conuerteix</l>
-               <l n="30" xml:id="C001-30">Dobles laffany / apres dun poch repos</l>
-               <l n="31" xml:id="C001-31">Si col malalt / qui <choice><abbr>ꝑ</abbr><expan>per</expan></choice> vn plasent mos</l>
-               <l n="32" xml:id="C001-32">Tot son menjar / en dolor se nodreix</l>
+               <l n="28" xml:id="C001-l28">Com del passat / plaher <del rend="overstrike">co</del>
+                  me couexir</l>
+               <l n="29" xml:id="C001-l29">Las mon delit / dolor se conuerteix</l>
+               <l n="30" xml:id="C001-l30">Dobles laffany / apres dun poch repos</l>
+               <l n="31" xml:id="C001-l31">Si col malalt / qui <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> vn plasent mos</l>
+               <l n="32" xml:id="C001-l32">Tot son menjar / en dolor se nodreix</l>
             </lg>
             <pb n="46r"
                facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_92.html"/>
-            <lg type="cobla" n="5" xml:id="C0001-5">
-               <l n="33" xml:id="C001-33">Com lermita / quinyorament nol creix</l>
-               <l n="34" xml:id="C001-34">Daquells amichs / que tenien lo mon</l>
-               <l n="35" xml:id="C001-35">Essent lonch temps / quen loch poblat no fon</l>
-               <l n="36" xml:id="C001-36">Per ffortuyt cars / vn dells li appareix</l>
-               <l n="37" xml:id="C001-37">Qui los passats / plahers li renouella</l>
-               <l n="38" xml:id="C001-38">Siquel passat / present li fa tornar</l>
-               <l n="39" xml:id="C001-39">Mas com sen part / les forçat congoxar</l>
-               <l n="40" xml:id="C001-40">Lo be com fuig / ab grans crits mal apella</l>
+            <lg type="cobla" n="5" xml:id="C001-lg5">
+               <l n="33" xml:id="C001-l33">Com lermita / quinyorament nol creix</l>
+               <l n="34" xml:id="C001-l34">Daquells amichs / que tenien lo mon</l>
+               <l n="35" xml:id="C001-l35">Essent lonch temps / quen loch poblat no fon</l>
+               <l n="36" xml:id="C001-l36">Per ffortuyt cars / vn dells li appareix</l>
+               <l n="37" xml:id="C001-l37">Qui los passats / plahers li renouella</l>
+               <l n="38" xml:id="C001-l38">Siquel passat / present li fa tornar</l>
+               <l n="39" xml:id="C001-l39">Mas com sen part / les forçat congoxar</l>
+               <l n="40" xml:id="C001-l40">Lo be com fuig / ab grans crits mal apella</l>
             </lg>
-            <lg type="tornada">
-               <l n="41" xml:id="C001-41">Plena de seny / quant amor es molt vella</l>
-               <l n="42" xml:id="C001-42">Absença es /  lo verme qui la guasta</l>
-               <l n="43" xml:id="C001-43">Si fermetat / durament no contrasta</l>
-               <l n="44" xml:id="C001-44">Ecreura poch / si lenueios consella</l>
+            <lg type="tornada" n="6" xml:id="C0001-6">
+               <l n="41" xml:id="C001-l41">Plena de seny / quant amor es molt vella</l>
+               <l n="42" xml:id="C001-l42">Absença es / lo verme qui la guasta</l>
+               <l n="43" xml:id="C001-l43">Si fermetat / durament no contrasta</l>
+               <l n="44" xml:id="C001-l44">Ecreura poch / si lenueios consella</l>
             </lg>
          </div>
       </body>

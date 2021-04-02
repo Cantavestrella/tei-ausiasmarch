@@ -80,7 +80,7 @@
          <div type="poem" xml:id="C012-N012">
             <lg type="cobla" n="1" xml:id="C012-01">
 
-               <l n="1" xml:id="C012-1"> &#182; Ja no esper que sia amat </l>
+               <l n="1" xml:id="C012-1"> ¶ Ja no esper que sia amat </l>
 
                <l n="2" xml:id="C012-2"> Car mon voler <choice>
                      <abbr>noꝯ</abbr>
@@ -185,7 +185,7 @@
 
                <l n="40" xml:id="C012-40"> En passions damor mostrar </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C012-06">
+            <lg type="tornada" n="6" xml:id="C012-06">
 
                <l n="41" xml:id="C012-41"> Les dones prech vullen pensar </l>
 

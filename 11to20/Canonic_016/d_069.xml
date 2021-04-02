@@ -102,7 +102,7 @@
 
             <lg type="cobla" n="2" xml:id="C016-02">
 
-               <l n="9" xml:id="C016-9"> &#182; Si com le eixorch / qui a Deu no esmenta </l>
+               <l n="9" xml:id="C016-9"> ¶ Si com le eixorch / qui a Deu no esmenta </l>
 
                <l n="10" xml:id="C016-10"> que lin don fills / asesats e adrets: </l>
 
@@ -121,7 +121,7 @@
             </lg>
             <lg type="cobla" n="3" xml:id="C016-03">
 
-               <l n="17" xml:id="C016-17"> &#182; De gran tristor / dolor sobrat me ve </l>
+               <l n="17" xml:id="C016-17"> ¶ De gran tristor / dolor sobrat me ve </l>
 
                <l n="18" xml:id="C016-18"> quem cal fugir / de cascun lloch escur: </l>
 
@@ -141,7 +141,7 @@
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_173.html"/>
             <lg type="cobla" n="4" xml:id="C016-04">
 
-               <l n="25" xml:id="C016-25"> &#182; De ser vençut / o sobrat nom defen </l>
+               <l n="25" xml:id="C016-25"> ¶ De ser vençut / o sobrat nom defen </l>
 
                <l n="26" xml:id="C016-26"> es lo tardar / quels pensaments son glots </l>
 
@@ -159,7 +159,7 @@
             </lg>
             <lg type="cobla" n="5" xml:id="C016-05">
 
-               <l n="33" xml:id="C016-33"> &#182; Pijor que mort / es vida sens plaher </l>
+               <l n="33" xml:id="C016-33"> ¶ Pijor que mort / es vida sens plaher </l>
 
                <l n="34" xml:id="C016-34"> mas nom acus / que fenesca ma vida </l>
 
@@ -175,9 +175,9 @@
 
                <l n="40" xml:id="C016-40"> per no complir / ma gran desauentura. </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C016-06">
+            <lg type="tornada" n="6" xml:id="C016-06">
 
-               <l n="41" xml:id="C016-41"> &#182; Plena de seny / en home foll atura </l>
+               <l n="41" xml:id="C016-41"> ¶ Plena de seny / en home foll atura </l>
 
                <l n="42" xml:id="C016-42"> la molta'mor / ab vana esperança: </l>
 

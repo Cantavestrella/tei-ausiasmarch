@@ -49,7 +49,7 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 20r second line </locus>&#182; Capitulo.X<note type="editorial">De
+                        <locus>f. 20r second line </locus>¶ Capitulo.X<note type="editorial">De
                            la secció Cantica de amor. Es repeteix la rúbrica Capitulo.X., que també
                            encapçala el poema anterior de la mateixa secció. Els dos "capítols X"
                            inclouen sengles fragments, bé que diferents, del poema numerat com a 18
@@ -85,7 +85,7 @@
          <div type="poem" xml:id="C018-a010">
             <lg type="cobla" n="1" xml:id="C018-01">
 
-               <l n="1" xml:id="C018-17"> &#182; Si fos amor / substancia rahonable </l>
+               <l n="1" xml:id="C018-17"> ¶ Si fos amor / substancia rahonable </l>
 
                <l n="2" xml:id="C018-18"> E ques trobas / de senyoria `ceptre </l>
 
@@ -106,7 +106,7 @@
 
             <lg type="cobla" n="2" xml:id="C018-02">
 
-               <l n="9" xml:id="C018-41"> &#182; Pren men axi / com aquell philosof </l>
+               <l n="9" xml:id="C018-41"> ¶ Pren men axi / com aquell philosof </l>
 
                <l n="10" xml:id="C018-42"> Qui per muntar / al be que nos pot perdre </l>
 
