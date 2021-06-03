@@ -42,14 +42,20 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc
-               corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/">
-               <msIdentifier xml:id="C_Ms_L.iij.26_EE">
+               corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/">
+               <msIdentifier xml:id="c_Ed_11V57_BC">
                   <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                </msIdentifier>
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 50r between lines 56 and 57</locus>~:Tornada:~</rubric>
+                        <locus>f. 32v header</locus>OBRES.</rubric>
+                     <rubric>
+                        <locus>f. 31r header</locus>DE AMORS: Fo. xxxi.</rubric>
+                     <rubric>
+                        <locus>f. 31v header</locus>OBRES.</rubric>
+                     <rubric>
+                        <locus>f. 31v between lines 56 and 57 </locus>Tornada.</rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -68,170 +74,92 @@
       </encodingDesc>
    </teiHeader>
    <facsimile>
-      <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_98.html"/>
-      <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_99.html"/>
-      <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_100.html"/>
-      <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_101.html"
-      />
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_73.html"/>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_74.html"></graphic>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_75.html"></graphic>
    </facsimile>
    <text>
       <body>
-         <pb n="48v"
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_98.html"/>
-         <div type="poem" xml:id="C017-C039">
+         <pb n="32v"
+            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_73.html"/>
+         <div type="poem" xml:id="C017-c039">
             <lg type="cobla" n="1" xml:id="C017-01">
-
-               <l n="1" xml:id="C017-1"> Si deu del cos / la mia'rma sostrau </l>
-
-               <l n="2" xml:id="C017-2"> nom planyeran / sino mos cars parents </l>
-
+               <l n="1" xml:id="C017-1"> SI Deu del cos / lamia'rma sostrau </l>
+               <l n="2" xml:id="C017-2"> nom planyeran / sino mos car parents </l>
                <l n="3" xml:id="C017-3"> car mos amants / nom son tan benuolents </l>
-
-               <l n="4" xml:id="C017-4"> que'n aquell cas / nols calga dir plorau </l>
-
-               <l n="5" xml:id="C017-5"> es cas loguer / es dat a mon treball </l>
-
+               <l n="4" xml:id="C017-4"> que'n aquell cas / nols calga dir plorau, </l>
+               <l n="5" xml:id="C017-5"> escas loguer / es dat amon treball </l>
                <l n="6" xml:id="C017-6"> com no so plant / de pena sostenguda </l>
-
                <l n="7" xml:id="C017-7"> e si raho / no pot ser coneguda </l>
-
-               <l n="8" xml:id="C017-8"> culpa non han / pus bon uoler los call. </l>
-
+               <l n="8" xml:id="C017-8"> culpa non han / pus bon voler los call. </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C017-02">
-
                <l n="9" xml:id="C017-9"> E d'açom planch / e quedament treball </l>
-
-               <l n="10" xml:id="C017-10"> edins mi plor / e calle com ha mut </l>
-
-               <l n="11" xml:id="C017-11"> y fir mi cell / quim degia ser scut </l>
-
-               <l n="12" xml:id="C017-12"> trencant mon cor / he crit de mi no sall </l>
-
-               <l n="13" xml:id="C017-13"> estes amor qu'em trenca<note type="editorial"
-                     >Possiblement crenca/prenca corregit per trenca.</note> lo <choice>
-                     <abbr>pȇsar</abbr>
-                     <expan>pensar</expan>
-                  </choice>
-               </l>
-
-
-               <l n="14" xml:id="C017-14"> que per nulls temps / sere per uos amat </l>
-
-               <l n="15" xml:id="C017-15"> e per ço yom trob / desesforçat </l>
-
-               <l n="16" xml:id="C017-16"> car tot asaig / porta'n uos l'esperar </l>
+               <l n="10" xml:id="C017-10"> e dins mi plor / e calle com ha mut </l>
+               <l n="11" xml:id="C017-11"> y fir mi cell / quim degua ser'scut </l>
+               <l n="12" xml:id="C017-12"> trencant mon cor / he crit de mi no fall </l>
+               <l n="13" xml:id="C017-13"> est es amor quim trenca lo pensar</l>
+               <l n="14" xml:id="C017-14"> que per null temps / sere per vos amat </l>
+               <l n="15" xml:id="C017-15"> e per aço / yom trob desesforçat </l>
+               <l n="16" xml:id="C017-16"> car tot asaig / porta'n vos lesperar.</l>
             </lg>
-            <pb n="49r"
-               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_99.html"/>
-            <lg type="cobla" n="3" xml:id="C017-03">
-
-               <l n="17" xml:id="C017-17"> Dels amadors / me uull ben informar </l>
-
+             <lg type="cobla" n="3" xml:id="C017-03">
+               <l n="17" xml:id="C017-17"> Dels amadors / me vull ben informar </l>
                <l n="18" xml:id="C017-18"> si es amor / en desesperat cor </l>
-
-               <l n="19" xml:id="C017-19"> e si es uiu / perque de fet no mor </l>
-
-               <l n="20" xml:id="C017-20"> com per amor / no pot amor mostrar </l>
-
+               <l n="19" xml:id="C017-19"> e si es viu / perque de fet no mor </l>
+               <l n="20" xml:id="C017-20"> com per amor / no pot amor mostrar.</l>
                <l n="21" xml:id="C017-21"> no dire pus / mas contemple cascu </l>
-
-               <l n="22" xml:id="C017-22"> l'estat d'aquell / qui en tal cas se ueu </l>
-
-               <l n="23" xml:id="C017-23"> mas guay demi / que tot lo cas es meu </l>
-
-               <l n="24" xml:id="C017-24"> donchs no deu'sser / que nom plore algu. </l>
-
+               <l n="22" xml:id="C017-22"> lestat d'aquell qui en tal cas se veu </l>
+               <l n="23" xml:id="C017-23"> mas guay de mi / que tot lo cas es meu </l>
+               <l n="24" xml:id="C017-24"> donchs no deu ser / que nom plore algu. </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C017-04">
-
                <l n="25" xml:id="C017-25"> Los mals d'amor / son pochs al juhi comu </l>
-
-               <l n="26" xml:id="C017-26"> car en pochs cau / aquesta passio </l>
-
-               <l n="27" xml:id="C017-27"> e tal dolor / nola sent la raho </l>
-
-               <l n="28" xml:id="C017-28"> sino asi / no pot iutiar algu </l>
-
-               <l n="29" xml:id="C017-29"> aquell coneix / la dolor dela mort </l>
-
-               <l n="30" xml:id="C017-30"> qu'en forca es / esperant rebre uolta </l>
-
-               <l n="31" xml:id="C017-31"> cell qui habe / sa uida en delits uolta </l>
-
+               <l n="26" xml:id="C017-26"> caren pochs cau / aquesta passio </l>
+               <l n="27" xml:id="C017-27"> e tal dolor / no la sent raho </l>
+               <pb n="31r" facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_74.html"/>
+               <note type="editorial">31r és error en la numeració; és el full 33. Corregit a mà. </note>
+               <l n="28" xml:id="C017-28"> sino a si / no pot jutjar algu. </l>
+               <l n="29" xml:id="C017-29"> aquell coneix / la dolor de la mort </l>
+               <l n="30" xml:id="C017-30"> que' forca es / esperant rebre volta </l>
+               <l n="31" xml:id="C017-31"> cell qui a be / sa vida'endelits volta </l>
                <l n="32" xml:id="C017-32"> de tal dolor / no pot fer bon report. </l>
-
             </lg>
             <lg type="cobla" n="5" xml:id="C017-05">
-
-               <l n="33" xml:id="C017-33"> Es ueritat / si partam en recort </l>
-
+               <l n="33" xml:id="C017-33"> Es veritat / si partam<note type="editorial">Per parlam.</note> en recort </l>
                <l n="34" xml:id="C017-34"> que molts passats / morir ne sostingueren </l>
-               <pb n="49v"
-                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_100.html"/>
-               <l n="35" xml:id="C017-35"> coneixerem / quanta dolor hagueren </l>
-
-               <l n="36" xml:id="C017-36"> pus que morir / los fon millor sopport </l>
-
+                <l n="35" xml:id="C017-35"> coneixerem / quanta dolor hagueren </l>
+               <l n="36" xml:id="C017-36"> pus que morir / los fon millor soport. </l>
                <l n="37" xml:id="C017-37"> sens causa gran / null acte gran se fa </l>
-
-               <l n="38" xml:id="C017-38"> perço cascu / pot hauer coneixença </l>
-
+               <l n="38" xml:id="C017-38"> per ço cascu / pot hauer coneixença </l>
                <l n="39" xml:id="C017-39"> que l'hom hauent / d'amor poca temença </l>
-
                <l n="40" xml:id="C017-40"> tant ardiment / gran dolor li porta. </l>
-
             </lg>
             <lg type="cobla" n="6" xml:id="C017-06">
-
                <l n="41" xml:id="C017-41"> Metge'n lo mon/ saber no li basta </l>
-
                <l n="42" xml:id="C017-42"> sentir lo mal / que lo malalt soferta </l>
-
                <l n="43" xml:id="C017-43"> mas per senyals / enla part descuberta </l>
-
-               <l n="44" xml:id="C017-44"> pora iutiar / l'hom en quin puat esta </l>
-
-               <l n="45" xml:id="C017-45"> en axi pren / alhom d'amor poncell </l>
-
-               <l n="46" xml:id="C017-46"> no pot sentir / passio mas ueu l'acte </l>
-
-               <l n="47" xml:id="C017-47"> d'ay cell qu'ensi / porta lo gran caracte </l>
-
-               <l n="48" xml:id="C017-48"> d'amor que may / contra si uol consell </l>
-
+               <l n="44" xml:id="C017-44"> pora jutjar / l'hom en quin puat<note type="editorial">Per punt.</note> esta </l>
+               <l n="45" xml:id="C017-45"> enaxi pren / al hom d'amor poncell </l>
+               <l n="46" xml:id="C017-46"> no pot sentir / passio mas veu l'acte </l>
+               <l n="47" xml:id="C017-47"> d'ay cell qu'en si / porta lo gran caracte </l>
+               <l n="48" xml:id="C017-48"> d'amor que may / contra si vol consell. </l>
             </lg>
             <lg type="cobla" n="7" xml:id="C017-07">
-
-               <l n="49" xml:id="C017-49"> Si com enpeny / balesta lo quadrel </l>
-
-               <l n="50" xml:id="C017-50"> aytant com pus / la sua força basta </l>
-
-               <l n="51" xml:id="C017-51"> la uoluntat / del hom y dona casta </l>
-
-               <l n="52" xml:id="C017-52"> tant quant amor / sa força estan'ell. </l>
-               <pb n="50r"
-                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_101.html"/>
-               <l n="53" xml:id="C017-53"> en contr'amor / no uolgue sauiesa </l>
-
-               <l n="54" xml:id="C017-54"> sino dauid / sen fora ben defes </l>
-
+               <l n="49" xml:id="C017-49"> Si com enpeny / balesta lo quadrell </l>
+               <l n="50" xml:id="C017-50"> ay tant com pus / la sua força basta </l>
+               <l n="51" xml:id="C017-51"> la voluntat / del hom e dona cast. </l>
+               <l n="52" xml:id="C017-52"> tant quant amor / sa força esta'nell. </l>
+               <l n="53" xml:id="C017-53"> en contra'mor / no volgue sauiesa, </l>
+               <l n="54" xml:id="C017-54"> sino Dauit / sen fora ben defes </l>
+               <pb n="31v" facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_75.html"/>
                <l n="55" xml:id="C017-55"> sauis molts no / agueren tant empres </l>
-
-               <l n="56" xml:id="C017-56"> si contr'amor / ualgues alguna'npresa. </l>
+               <l n="56" xml:id="C017-56"> si cotra'mor<note type="editorial">Per contra'mor.</note> / valgues alguna'npresa. </l>
             </lg>
             <lg type="tornada" n="8" xml:id="C017-08">
-
                <l n="57" xml:id="C017-57"> Plena de seny / per no esser entesa </l>
-
-               <l n="58" xml:id="C017-58"> la mia mor / pora scapar sens merit </l>
-
-               <l n="59" xml:id="C017-59"> e sabme greu / com no hauran demerit </l>
-
+               <l n="58" xml:id="C017-58"> la mia'mor / pora scapar sens merit </l>
+               <l n="59" xml:id="C017-59"> e sab me greu / com no hauran de merit </l>
                <l n="60" xml:id="C017-60"> per mon parlar / no fahent laus palesa. </l>
             </lg>
          </div>
