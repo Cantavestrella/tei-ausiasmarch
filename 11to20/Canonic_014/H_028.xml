@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 14</title>
             <author>Ausiàs March </author>
@@ -49,8 +49,10 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 33v after end of previous poem, before this one: </locus><choice><abbr>Moß</abbr><expan>Mossen</expan></choice>
-                        auzias march </rubric>
+                        <locus>f. 33v after end of previous poem, before this one: </locus><choice>
+                           <abbr>Moß</abbr>
+                           <expan>Mossen</expan>
+                        </choice> auzias march </rubric>
                      <rubric>
                         <locus>f. 34r between lines 40 and 41 </locus> /Tornada // </rubric>
                   </msItem>
@@ -81,109 +83,140 @@
       <body>
          <pb n="33v"
             facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_49.html"/>
-         <lg type="poem" xml:id="C014-H028">
+         <div type="poem" xml:id="C014-H028">
             <lg type="cobla" n="1" xml:id="C014-01">
-               <l n="1" xml:id="C014-1">Mal venturos no deu <choice><abbr>şcar</abbr><expan>sercar</expan></choice> ventura</l>
-               
+               <l n="1" xml:id="C014-1">Mal venturos no deu <choice>
+                     <abbr>şcar</abbr>
+                     <expan>sercar</expan>
+                  </choice> ventura</l>
+
                <l n="2" xml:id="C014-2">Creuhar se deu lo front com la nomenen</l>
-               
-               <l n="3" xml:id="C014-3">No ~<note type="editorial">Signe sense cap significat.</note> desloant los <choice><abbr>ꝙ</abbr><expan>qui</expan></choice> fauor ne prenen</l>
-               
+
+               <l n="3" xml:id="C014-3">No ~<note type="editorial">Signe sense cap
+                     significat.</note> desloant los <choice>
+                     <abbr>ꝙ</abbr>
+                     <expan>qui</expan>
+                  </choice> fauor ne prenen</l>
+
                <l n="4" xml:id="C014-4">Entre possant lur bon enginy e cura</l>
-               
+
                <l n="5" xml:id="C014-5">Algu no deu / son juy tan prest auer</l>
-               
-               <l n="6" xml:id="C014-6">Que çell deslou <choice><abbr>ꝙ</abbr><expan>qui</expan></choice> ventura vol fenyer</l>
-               
+
+               <l n="6" xml:id="C014-6">Que çell deslou <choice>
+                     <abbr>ꝙ</abbr>
+                     <expan>qui</expan>
+                  </choice> ventura vol fenyer</l>
+
                <l n="7" xml:id="C014-7">No virtuos denegant lj atenyer</l>
-               
-               <l n="8" xml:id="C014-8">Ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> sos fills / han menys dalgun saber</l>
+
+               <l n="8" xml:id="C014-8">Ço <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> sos fills / han menys dalgun saber</l>
             </lg>
-            
+
             <lg type="cobla" n="2" xml:id="C014-02">
                <l n="9" xml:id="C014-9">E leix ma donchs deser auenturer</l>
-            
+
                <l n="10" xml:id="C014-10">Si be nom puch tant retaura nestrenyer</l>
-               
+
                <l n="11" xml:id="C014-11">Que contra dell me pogues tant empenyer</l>
-               
-               <l n="12" xml:id="C014-12">Si que fogis <add place="above">a</add> son peu molt laugier</l>
-               
+
+               <l n="12" xml:id="C014-12">Si que fogis <add place="above">a</add> son peu molt
+                  laugier</l>
+
                <l n="13" xml:id="C014-13">Senyor es gran bens mundans regidor</l>
-               
+
                <l n="14" xml:id="C014-14">E son juhi / es al hull amagat</l>
-               
+
                <l n="15" xml:id="C014-15">Fferint vos la hon sereu delitat</l>
-               
-               <l n="16" xml:id="C014-16">E quell delit vinges tot <choice><abbr>ꝑ</abbr><expan>per</expan></choice> amor</l>
+
+               <l n="16" xml:id="C014-16">E quell delit vinges tot <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> amor</l>
             </lg>
-           
+
             <lg type="cobla" n="3" xml:id="C014-03">
                <l n="17" xml:id="C014-17">Lonch es lo temps del continuu dolor</l>
-            
+
                <l n="18" xml:id="C014-18">Apart de tras car son sinch anys passats</l>
-               
+
                <l n="19" xml:id="C014-19">Quem fuig delit / com hi so acostats</l>
-               
-               <l n="20" xml:id="C014-20">Ffent me sentir / fret apres <choice><abbr>ƌ</abbr><expan>de</expan></choice> calor</l>
-               
+
+               <l n="20" xml:id="C014-20">Ffent me sentir / fret apres <choice>
+                     <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice> calor</l>
+
                <l n="21" xml:id="C014-21">Diuersitat de casos aportant</l>
-            <pb n="34r"
-               facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_50.html"/>
+               <pb n="34r"
+                  facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_50.html"/>
                <l n="22" xml:id="C014-22">Per degastar damor lo benjfet</l>
-               
+
                <l n="23" xml:id="C014-23">Dels bens damor / conseruador sen ret</l>
-               
-               <l n="24" xml:id="C014-24">Ffora content / yo <choice><abbr>ꝙ</abbr><expan>qui</expan></choice> so desigant</l>
+
+               <l n="24" xml:id="C014-24">Ffora content / yo <choice>
+                     <abbr>ꝙ</abbr>
+                     <expan>qui</expan>
+                  </choice> so desigant</l>
             </lg>
-            
+
             <lg type="cobla" n="4" xml:id="C014-04">
-               <l n="25" xml:id="C014-25">Adeu nel mon no so damor <choice><abbr>clamȃt</abbr><expan>clamant</expan></choice></l>
-            
+               <l n="25" xml:id="C014-25">Adeu nel mon no so damor <choice>
+                     <abbr>clamȃt</abbr>
+                     <expan>clamant</expan>
+                  </choice></l>
+
                <l n="26" xml:id="C014-26">Car be ha dat / ayga ma granda set</l>
-               
+
                <l n="27" xml:id="C014-27">No sadolat / mas comte ljn es ffet</l>
-               
-               <l n="28" xml:id="C014-28">Nos pot complir / ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> so desigant</l>
-               
+
+               <l n="28" xml:id="C014-28">Nos pot complir / ço <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> so desigant</l>
+
                <l n="29" xml:id="C014-29">E no mereix algun reprenjment</l>
-               
+
                <l n="30" xml:id="C014-30">Car del sel terç / eguals forçes nos fa</l>
-               
+
                <l n="31" xml:id="C014-31">Sagons amar cascu dispost esta</l>
-               
-               <l n="32" xml:id="C014-32">E tant com pot estreny son manament
-               </l>
+
+               <l n="32" xml:id="C014-32">E tant com pot estreny son manament </l>
             </lg>
-            
+
             <lg type="cobla" n="5" xml:id="C014-05">
                <l n="33" xml:id="C014-33">Ffortujt cas ma fet esser absent</l>
-            
-               <l n="34" xml:id="C014-34">Dell foch damor <choice><abbr>ꝙ</abbr><expan>qui</expan></choice> jam illumjna</l>
-               
+
+               <l n="34" xml:id="C014-34">Dell foch damor <choice>
+                     <abbr>ꝙ</abbr>
+                     <expan>qui</expan>
+                  </choice> jam illumjna</l>
+
                <l n="35" xml:id="C014-35">En mjllor cars / venturall apaga</l>
-               
+
                <l n="36" xml:id="C014-36">E yo son sert quamor nefon dolent</l>
-               
+
                <l n="37" xml:id="C014-37">Per que nom clam damor mas de ventura</l>
-               
+
                <l n="38" xml:id="C014-38">Car son poder / me ha desfauorit</l>
-               
+
                <l n="39" xml:id="C014-39">En abendo / nom voll auer jaqujt</l>
-               
+
                <l n="40" xml:id="C014-40">Ans persagueix amor e ma gran cura</l>
             </lg>
-           
-            <lg type="cobla" n="6" xml:id="C14-06">            
+
+            <lg type="tornada" n="6" xml:id="C14-06">
                <l n="41" xml:id="C014-41">Lir entre carts del mon deu perdre cura</l>
-               
+
                <l n="42" xml:id="C014-42">Quj li coue damor perdresperança</l>
-               
+
                <l n="43" xml:id="C014-43">E tal ho qual es damor la fermança</l>
-               
+
                <l n="44" xml:id="C014-44">Ab lo desig quj li dona punctura</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

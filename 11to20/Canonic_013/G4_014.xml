@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 13</title>
             <author>Ausiàs March </author>
@@ -49,7 +49,10 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 14r first line </locus><choice><abbr>Moß</abbr><expan>Mossen</expan></choice> ausias marc</rubric>
+                        <locus>f. 14r first line </locus><choice>
+                           <abbr>Moß</abbr>
+                           <expan>Mossen</expan>
+                        </choice> ausias marc</rubric>
                      <rubric>
                         <locus>f. 14v between lines 40 and 41 </locus>Tornada </rubric>
                   </msItem>
@@ -80,154 +83,158 @@
       <body>
          <pb n="14r"
             facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_38.html"/>
-         <lg type="poem" xml:id="C013-G4014">
+         <div type="poem" xml:id="C013-G4014">
             <lg type="cobla" n="1" xml:id="C013-01">
-               
-               <l n="1" xml:id="C013-1"> Colguen les gents / ab alegria festes
+
+               <l n="1" xml:id="C013-1"> Colguen les gents / ab alegria festes </l>
+
+               <l n="2" xml:id="C013-2"> loant adeu / entremesclant deports </l>
+
+               <l n="3" xml:id="C013-3"> places carres / edelitables orts </l>
+
+               <l n="4" xml:id="C013-4"> sien <choice>
+                     <abbr>şcats</abbr>
+                     <expan>sercats</expan>
+                  </choice> / abrecont degrans gestes </l>
+
+               <l n="5" xml:id="C013-5"> Evajayo / lo çepulcre <choice>
+                     <abbr>şcant</abbr>
+                     <expan>sercant</expan>
+                  </choice>
                </l>
-               
-               <l n="2" xml:id="C013-2"> loant adeu / entremesclant deports
-               </l>
-               
-               <l n="3" xml:id="C013-3"> places carres / edelitables orts
-               </l>
-               
-               <l n="4" xml:id="C013-4"> sien <choice><abbr>şcats</abbr><expan>sercats</expan></choice> / abrecont degrans gestes
-               </l>
-               
-               <l n="5" xml:id="C013-5"> Evajayo / lo çepulcre <choice><abbr>şcant</abbr><expan>sercant</expan></choice>
-               </l>
-               
-               <l n="6" xml:id="C013-6"> jnterrogant / animes jnfernades
-               </l>
-               
-               <l n="7" xml:id="C013-7"> erespondran car no soncompanyades
-               </l>
-               
-               <l n="8" xml:id="C013-8"> daltre que mi / enson continuu plant
-               </l>
+
+               <l n="6" xml:id="C013-6"> jnterrogant / animes jnfernades </l>
+
+               <l n="7" xml:id="C013-7"> erespondran car no soncompanyades </l>
+
+               <l n="8" xml:id="C013-8"> daltre que mi / enson continuu plant </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C013-02">
-               
-               <l n="9" xml:id="C013-9"> Cascu requer / e vol ason senblant
-               </l>
-               
-               <l n="10" xml:id="C013-10"> perço <choice><abbr>nȏplau</abbr><expan>nomplau</expan></choice> / lapratica dels vius
-               </l>
-               
-               <l n="11" xml:id="C013-11"> dimaginar / mon estat son esquius
-               </l>
-               
-               <l n="12" xml:id="C013-12"> si com dom mort / demi prenen spant
-               </l>
-               
-               <l n="13" xml:id="C013-13"> Lo Rey chipra / presoner duneretge
-               </l>
-               
-               <l n="14" xml:id="C013-14"> en monesguart / noes malauyrat
-               </l>
-               
-               <l n="15" xml:id="C013-15"> carso que vull / no <choice><abbr>şa</abbr><expan>sera</expan></choice> may finat
-               </l>
-               
-               <l n="16" xml:id="C013-16"> demon desig / nomporaguarir metge
-               </l>
+
+               <l n="9" xml:id="C013-9"> Cascu requer / e vol ason senblant </l>
+
+               <l n="10" xml:id="C013-10"> perço <choice>
+                     <abbr>nȏplau</abbr>
+                     <expan>nomplau</expan>
+                  </choice> / lapratica dels vius </l>
+
+               <l n="11" xml:id="C013-11"> dimaginar / mon estat son esquius </l>
+
+               <l n="12" xml:id="C013-12"> si com dom mort / demi prenen spant </l>
+
+               <l n="13" xml:id="C013-13"> Lo Rey chipra / presoner duneretge </l>
+
+               <l n="14" xml:id="C013-14"> en monesguart / noes malauyrat </l>
+
+               <l n="15" xml:id="C013-15"> carso que vull / no <choice>
+                     <abbr>şa</abbr>
+                     <expan>sera</expan>
+                  </choice> may finat </l>
+
+               <l n="16" xml:id="C013-16"> demon desig / nomporaguarir metge </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C013-03">
-               
-               <l n="17" xml:id="C013-17"> Cell tixion / quil buytrel menjal fetge
-               </l>
-               
-               <l n="18" xml:id="C013-18"> <choice><abbr>eꝑ</abbr><expan>eper</expan></choice> totstemps / brota lacarn de nou
-               </l>
-               
-               <l n="19" xml:id="C013-19"> enson menjar / aquelloçell may clou
-               </l>
-               
-               <l n="20" xml:id="C013-20"> pus fort dolor / daquestamte lo setge
-               </l>
-               
-               <l n="21" xml:id="C013-21"> car es vn verm / qui romp la miapensa
-               </l>
-               
-               <l n="22" xml:id="C013-22"> altrelo cor / quj may cesen derompre
-               </l>
-               
-               <l n="23" xml:id="C013-23"> ellur treball / nospora entorrompre
-               </l>
-               
-               <l n="24" xml:id="C013-24"> sino ab so / que dauer se deffenssa
-               </l>
+
+               <l n="17" xml:id="C013-17"> Cell tixion / quil buytrel menjal fetge </l>
+
+               <l n="18" xml:id="C013-18">
+                  <choice>
+                     <abbr>eꝑ</abbr>
+                     <expan>eper</expan>
+                  </choice> totstemps / brota lacarn de nou </l>
+
+               <l n="19" xml:id="C013-19"> enson menjar / aquelloçell may clou </l>
+
+               <l n="20" xml:id="C013-20"> pus fort dolor / daquestamte lo setge </l>
+
+               <l n="21" xml:id="C013-21"> car es vn verm / qui romp la miapensa </l>
+
+               <l n="22" xml:id="C013-22"> altrelo cor / quj may cesen derompre </l>
+
+               <l n="23" xml:id="C013-23"> ellur treball / nospora entorrompre </l>
+
+               <l n="24" xml:id="C013-24"> sino ab so / que dauer se deffenssa </l>
             </lg>
             <pb n="14v"
                facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_39.html"/>
             <lg type="cobla" n="4" xml:id="C013-04">
-               
-               <l n="25" xml:id="C013-25"> E si la mort / nom dugues tal offenssa
-               </l>
-               
-               <l n="26" xml:id="C013-26"> fer mi<del type="overstrike">a</del> absent / dunatanplaent vista
-               </l>
-               
-               <l n="27" xml:id="C013-27"> no li graexch / que deterrano vista
-               </l>
-               
-               <l n="28" xml:id="C013-28"> lo meu cos nu / qui deplaher no pensa
-               </l>
-               
-               <l n="29" xml:id="C013-29"> Deperdre pus / quelo imaginar
-               </l>
-               
-               <l n="30" xml:id="C013-30"> los <choice><abbr>meꝯ</abbr><expan>meus</expan></choice> desigs / no poderse complir
-               </l>
-               
-               <l n="31" xml:id="C013-31"> esim conue / mon derrer jorn finir
-               </l>
-               
-               <l n="32" xml:id="C013-32"> <choice><abbr>şan</abbr><expan>seran</expan></choice> donats / termens abenamar
-               </l>
+
+               <l n="25" xml:id="C013-25"> E si la mort / nom dugues tal offenssa </l>
+
+               <l n="26" xml:id="C013-26"> fer mi<del rend="overstrike">a</del> absent /
+                  dunatanplaent vista </l>
+
+               <l n="27" xml:id="C013-27"> no li graexch / que deterrano vista </l>
+
+               <l n="28" xml:id="C013-28"> lo meu cos nu / qui deplaher no pensa </l>
+
+               <l n="29" xml:id="C013-29"> Deperdre pus / quelo imaginar </l>
+
+               <l n="30" xml:id="C013-30"> los <choice>
+                     <abbr>meꝯ</abbr>
+                     <expan>meus</expan>
+                  </choice> desigs / no poderse complir </l>
+
+               <l n="31" xml:id="C013-31"> esim conue / mon derrer jorn finir </l>
+
+               <l n="32" xml:id="C013-32">
+                  <choice>
+                     <abbr>şan</abbr>
+                     <expan>seran</expan>
+                  </choice> donats / termens abenamar </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C013-05">
-               
-               <l n="33" xml:id="C013-33"> E sin lo cel / deume volallogar
-               </l>
-               
-               <l n="34" xml:id="C013-34"> part veuraell / <choice><abbr>ꝑ</abbr><expan>per</expan></choice> complir mon delit
-               </l>
-               
-               <l n="35" xml:id="C013-35"> <choice><abbr>ßamester</abbr><expan>sseramester</expan></choice> / quem sia dellay dit
-               </l>
-               
-               <l n="36" xml:id="C013-36"> que desta mort / nos aplagut plorar
-               </l>
-               
-               <l n="37" xml:id="C013-37"> Penedint nos / <choice><abbr>comꝑ</abbr><expan>comper</expan></choice> poca merce
-               </l>
-               
-               <l n="38" xml:id="C013-38"> mor lignocent / <choice><abbr>eꝑ</abbr><expan>eper</expan></choice> amaruos martre
-               </l>
-               
-               <l n="39" xml:id="C013-39"> cell qui lo cos / delarma vol departre
-               </l>
-               
-               <l n="40" xml:id="C013-40"> si ferm cregues / <choice><abbr>queꝯ</abbr><expan>queus</expan></choice> dolrrieu dese
-               </l>
+
+               <l n="33" xml:id="C013-33"> E sin lo cel / deume volallogar </l>
+
+               <l n="34" xml:id="C013-34"> part veuraell / <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> complir mon delit </l>
+
+               <l n="35" xml:id="C013-35">
+                  <choice>
+                     <abbr>ßamester</abbr>
+                     <expan>sseramester</expan>
+                  </choice> / quem sia dellay dit </l>
+
+               <l n="36" xml:id="C013-36"> que desta mort / nos aplagut plorar </l>
+
+               <l n="37" xml:id="C013-37"> Penedint nos / <choice>
+                     <abbr>comꝑ</abbr>
+                     <expan>comper</expan>
+                  </choice> poca merce </l>
+
+               <l n="38" xml:id="C013-38"> mor lignocent / <choice>
+                     <abbr>eꝑ</abbr>
+                     <expan>eper</expan>
+                  </choice> amaruos martre </l>
+
+               <l n="39" xml:id="C013-39"> cell qui lo cos / delarma vol departre </l>
+
+               <l n="40" xml:id="C013-40"> si ferm cregues / <choice>
+                     <abbr>queꝯ</abbr>
+                     <expan>queus</expan>
+                  </choice> dolrrieu dese </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C013-06">
-               
-               <l n="41" xml:id="C013-41"> Llyr<note type="editorial">Corregit sobre Llir.</note> entrecarts / vossabeu eyo se
-               </l>
-               
-               <l n="42" xml:id="C013-42"> ques pot be fer / hom morir <choice><abbr>ꝑ</abbr><expan>per</expan></choice> amor
-               </l>
-               
-               <l n="43" xml:id="C013-43"> creure demi / <choice><abbr>ꝗ</abbr><expan>que</expan></choice> so ental dolor
-               </l>
-               
-               <l n="44" xml:id="C013-44"> no fareu molt / quey doneuplena fe
-               </l>
+            <lg type="tornada" n="6" xml:id="C013-06">
+
+               <l n="41" xml:id="C013-41"> Llyr<note type="editorial">Corregit sobre Llir.</note>
+                  entrecarts / vossabeu eyo se </l>
+
+               <l n="42" xml:id="C013-42"> ques pot be fer / hom morir <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> amor </l>
+
+               <l n="43" xml:id="C013-43"> creure demi / <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> so ental dolor </l>
+
+               <l n="44" xml:id="C013-44"> no fareu molt / quey doneuplena fe </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

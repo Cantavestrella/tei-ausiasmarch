@@ -83,7 +83,7 @@
       <body>
          <pb n="28r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_106.html"/>
-         <lg type="poem" xml:id="C011-A005">
+         <div type="poem" xml:id="C011-A005">
             <lg type="cobla" n="1 " xml:id="C011-01">
                <l n="1" xml:id="C011-1"> QVins tants segurs / consells vas ensercant </l>
 
@@ -179,7 +179,7 @@
 
                   <l n="40" xml:id="C011-40"> En mon socors / ma no si trobarmada </l>
                </lg>
-               <lg type="cobla" n="6" xml:id="C011-06">
+               <lg type="tornada" n="6" xml:id="C011-06">
 
                   <l n="41" xml:id="C011-41"> Lir entre carts / lora sent acostada </l>
 
@@ -190,7 +190,7 @@
                   <l n="44" xml:id="C011-44"> Marma roman / en aquest mon dampnada </l>
                </lg>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

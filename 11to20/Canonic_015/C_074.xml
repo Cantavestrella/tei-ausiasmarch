@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 15</title>
             <author>Ausiàs March </author>
@@ -72,188 +72,141 @@
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_199.html"/>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_200.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_201.html"></graphic>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_201.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="99r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_199.html"/>
-         <lg type="poem" xml:id="C015-C074">
+         <div type="poem" xml:id="C015-C074">
             <lg type="cobla" n="1" xml:id="C015-01">
-               
-               <l n="1" xml:id="C015-1"> Si pres grans mals / un bem'sera guardat
-               </l>
-               
-               <l n="2" xml:id="C015-2"> mos guays e plants / en delits couertran
-               </l>
-               
-               <l n="3" xml:id="C015-3"> apres los mals / los bens millor parran
-               </l>
-               
-               <l n="4" xml:id="C015-4"> el be no ual / tant com no es preat
-               </l>
-               
-               <l n="5" xml:id="C015-5"> Rey pot ser dit / lo pobre dins sa pensa
-               </l>
-               
-               <l n="6" xml:id="C015-6"> per un petit / do, queli sia offer
-               </l>
-               
-               <l n="7" xml:id="C015-7"> elo rich hom / de larguesa desert
-               </l>
-               
-               <l n="8" xml:id="C015-8"> gran suma d'or / pobretat noldefensa.
-               </l>
+
+               <l n="1" xml:id="C015-1"> Si pres grans mals / un bem'sera guardat </l>
+
+               <l n="2" xml:id="C015-2"> mos guays e plants / en delits couertran </l>
+
+               <l n="3" xml:id="C015-3"> apres los mals / los bens millor parran </l>
+
+               <l n="4" xml:id="C015-4"> el be no ual / tant com no es preat </l>
+
+               <l n="5" xml:id="C015-5"> Rey pot ser dit / lo pobre dins sa pensa </l>
+
+               <l n="6" xml:id="C015-6"> per un petit / do, queli sia offer </l>
+
+               <l n="7" xml:id="C015-7"> elo rich hom / de larguesa desert </l>
+
+               <l n="8" xml:id="C015-8"> gran suma d'or / pobretat noldefensa. </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C015-02">
-               
-               <l n="9" xml:id="C015-9"> Mon pensament / embolt en amor pensa
-               </l>
-               
-               <l n="10" xml:id="C015-10"> con tot son be / d'aquest loch puisquetraure
-               </l>
-               
-               <l n="11" xml:id="C015-11"> no piados amor / lo ueu mort jaure
-               </l>
-               
-               <l n="12" xml:id="C015-12"> durar no deu / lo comport del que offensa
-               </l>
-               
-               <l n="13" xml:id="C015-13"> per mal demi /  romp sos costums amor
-               </l>
-               
-               <l n="14" xml:id="C015-14"> e fa mentir / los qui dell'han scrit
-               </l>
-               
-               <l n="15" xml:id="C015-15"> esperiment en mi / es defallit
-               </l>
-               
-               <l n="16" xml:id="C015-16"> amor desdiu / ser en tal cas çenyor.
-               </l>
+
+               <l n="9" xml:id="C015-9"> Mon pensament / embolt en amor pensa </l>
+
+               <l n="10" xml:id="C015-10"> con tot son be / d'aquest loch puisquetraure </l>
+
+               <l n="11" xml:id="C015-11"> no piados amor / lo ueu mort jaure </l>
+
+               <l n="12" xml:id="C015-12"> durar no deu / lo comport del que offensa </l>
+
+               <l n="13" xml:id="C015-13"> per mal demi / romp sos costums amor </l>
+
+               <l n="14" xml:id="C015-14"> e fa mentir / los qui dell'han scrit </l>
+
+               <l n="15" xml:id="C015-15"> esperiment en mi / es defallit </l>
+
+               <l n="16" xml:id="C015-16"> amor desdiu / ser en tal cas çenyor. </l>
             </lg>
             <pb n="99v"
                facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_200.html"/>
             <lg type="cobla" n="3" xml:id="C015-03">
-               
-               <l n="17" xml:id="C015-17"> Si com lo sol / escalf'ab sa calor
-               </l>
-               
-               <l n="18" xml:id="C015-18"> totes les parts / que son de jus lo cel
-               </l>
-               
-               <l n="19" xml:id="C015-19"> escalf'amor / cascun cor de son zel
-               </l>
-               
-               <l n="20" xml:id="C015-20"> sinol'de uos / qui es ple de fredor
-               </l>
-               
-               <l n="21" xml:id="C015-21"> don uelo glas / qui tanta fredor porta
-               </l>
-               
-               <l n="22" xml:id="C015-22"> fahent contrast / al calt que amor gita
-               </l>
-               
-               <l n="23" xml:id="C015-23"> los ermitans / fa surtir del'ermita
-               </l>
-               
-               <l n="24" xml:id="C015-24"> los grans delits / entren per esta porta
-               </l>
+
+               <l n="17" xml:id="C015-17"> Si com lo sol / escalf'ab sa calor </l>
+
+               <l n="18" xml:id="C015-18"> totes les parts / que son de jus lo cel </l>
+
+               <l n="19" xml:id="C015-19"> escalf'amor / cascun cor de son zel </l>
+
+               <l n="20" xml:id="C015-20"> sinol'de uos / qui es ple de fredor </l>
+
+               <l n="21" xml:id="C015-21"> don uelo glas / qui tanta fredor porta </l>
+
+               <l n="22" xml:id="C015-22"> fahent contrast / al calt que amor gita </l>
+
+               <l n="23" xml:id="C015-23"> los ermitans / fa surtir del'ermita </l>
+
+               <l n="24" xml:id="C015-24"> los grans delits / entren per esta porta </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C015-04">
-               
-               <l n="25" xml:id="C015-25"> Del foch d'amor / Phedra no fonch estorta
-               </l>
-               
-               <l n="26" xml:id="C015-26"> requerre uolch / Ypolit son fillastre
-               </l>
-               
-               <l n="27" xml:id="C015-27"> e lançalot / hanc en amor tal astre
-               </l>
-               
-               <l n="28" xml:id="C015-28"> quenfo request / per dona quenfo morta
-               </l>
-               
-               <l n="29" xml:id="C015-29"> o cruels fats / uos qui fes jutiament
-               </l>
-               
-               <l n="30" xml:id="C015-30"> que yo amas / un cor de carn tan dur
-               </l>
-               
-               <l n="31" xml:id="C015-31"> feulo ser moll / manant li que no dur
-               </l>
-               
-               <l n="32" xml:id="C015-32"> que ab ull cast / denega mon talent.
-               </l>
+
+               <l n="25" xml:id="C015-25"> Del foch d'amor / Phedra no fonch estorta </l>
+
+               <l n="26" xml:id="C015-26"> requerre uolch / Ypolit son fillastre </l>
+
+               <l n="27" xml:id="C015-27"> e lançalot / hanc en amor tal astre </l>
+
+               <l n="28" xml:id="C015-28"> quenfo request / per dona quenfo morta </l>
+
+               <l n="29" xml:id="C015-29"> o cruels fats / uos qui fes jutiament </l>
+
+               <l n="30" xml:id="C015-30"> que yo amas / un cor de carn tan dur </l>
+
+               <l n="31" xml:id="C015-31"> feulo ser moll / manant li que no dur </l>
+
+               <l n="32" xml:id="C015-32"> que ab ull cast / denega mon talent. </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C015-05">
-               
-               <l n="33" xml:id="C015-33"> Amor es tal / que fetts injuts consent
-               </l>
-               
-               <l n="34" xml:id="C015-34"> mas james fon/ iniusts com aquest
-               </l>
-               
-               <l n="35" xml:id="C015-35"> car yo guayment / lo cor e romp lo test
-               </l>
-               
-               <l n="36" xml:id="C015-36"> e uos sou prop / quem siau mal uolent
-               </l>
-            <pb n="100r"
-               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_201.html"/>
-               <l n="37" xml:id="C015-37"> ma pensa es / en uos pensar enbolta
-               </l>
-               
-               <l n="38" xml:id="C015-38"> esli forçat / d'altra part no latiren
-               </l>
-               
-               <l n="39" xml:id="C015-39"> e uostres ulls / en guardar mi nos giren
-               </l>
-               
-               <l n="40" xml:id="C015-40"> e mostrau be / que pensan teniu tolta
-               </l>
+
+               <l n="33" xml:id="C015-33"> Amor es tal / que fetts injuts consent </l>
+
+               <l n="34" xml:id="C015-34"> mas james fon/ iniusts com aquest </l>
+
+               <l n="35" xml:id="C015-35"> car yo guayment / lo cor e romp lo test </l>
+
+               <l n="36" xml:id="C015-36"> e uos sou prop / quem siau mal uolent </l>
+               <pb n="100r"
+                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_201.html"/>
+               <l n="37" xml:id="C015-37"> ma pensa es / en uos pensar enbolta </l>
+
+               <l n="38" xml:id="C015-38"> esli forçat / d'altra part no latiren </l>
+
+               <l n="39" xml:id="C015-39"> e uostres ulls / en guardar mi nos giren </l>
+
+               <l n="40" xml:id="C015-40"> e mostrau be / que pensan teniu tolta </l>
             </lg>
             <lg type="cobla" n="6" xml:id="C015-06">
-               
-               <l n="41" xml:id="C015-41"> Si amat so / festa n'deu esser colta
-               </l>
-               
-               <l n="42" xml:id="C015-42"> car en lo mon / un cos sera guanyar
-               </l>
-               
-               <l n="43" xml:id="C015-43"> axi lo cel / fa gran solemnitat
-               </l>
-               
-               <l n="44" xml:id="C015-44"> com del infern / un'arma pot ser tolta
-               </l>
-               
-               <l n="45" xml:id="C015-45"> los cantadors / ab melodia canteu
-               </l>
-               
-               <l n="46" xml:id="C015-46"> los trobadors / a fer dictats acuyten
-               </l>
-               
-               <l n="47" xml:id="C015-47"> los aldeans / salten, corren, e luyten
-               </l>
-               
-               <l n="48" xml:id="C015-48"> los amadors / d'amar be nos s'espanten
-               </l>
+
+               <l n="41" xml:id="C015-41"> Si amat so / festa n'deu esser colta </l>
+
+               <l n="42" xml:id="C015-42"> car en lo mon / un cos sera guanyar </l>
+
+               <l n="43" xml:id="C015-43"> axi lo cel / fa gran solemnitat </l>
+
+               <l n="44" xml:id="C015-44"> com del infern / un'arma pot ser tolta </l>
+
+               <l n="45" xml:id="C015-45"> los cantadors / ab melodia canteu </l>
+
+               <l n="46" xml:id="C015-46"> los trobadors / a fer dictats acuyten </l>
+
+               <l n="47" xml:id="C015-47"> los aldeans / salten, corren, e luyten </l>
+
+               <l n="48" xml:id="C015-48"> los amadors / d'amar be nos s'espanten </l>
             </lg>
-            <lg type="cobla" n="7" xml:id="C015-07">
-               
-               <l n="49" xml:id="C015-49"> Plena deseny / molts homens sonque <choice><abbr>uȃten</abbr><expan>uanten</expan></choice>
+            <lg type="tornada" n="7" xml:id="C015-07">
+
+               <l n="49" xml:id="C015-49"> Plena deseny / molts homens sonque <choice>
+                     <abbr>uȃten</abbr>
+                     <expan>uanten</expan>
+                  </choice>
                </l>
-               
-               <l n="50" xml:id="C015-50"> que han be uist / amor, e conegut
-               </l>
-               
-               <l n="51" xml:id="C015-51"> portants d'aquell / escrits en llur'scut
-               </l>
-               
-               <l n="52" xml:id="C015-52"> no l'han sentit / e de sos fets s'espanten.
-               </l>
+
+               <l n="50" xml:id="C015-50"> que han be uist / amor, e conegut </l>
+
+               <l n="51" xml:id="C015-51"> portants d'aquell / escrits en llur'scut </l>
+
+               <l n="52" xml:id="C015-52"> no l'han sentit / e de sos fets s'espanten. </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

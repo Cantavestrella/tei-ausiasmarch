@@ -74,52 +74,52 @@
     </facsimile>
       <text>
         <body>
-          <lg type="poem" xml:id="C005-a022">
+          <div type="poem" xml:id="C005-a022">
            <pb n="39v" 
              facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_79.html"/>
-            <lg type="cobla" n="1" xml:id="C0005-1">
-                <l n="1" xml:id="C005-1"> <c rend="large">T</c>Ant he amat / que mon grosser enginy</l>
-                <l n="2" xml:id="C005-2"> Per gran treball / de pensa es fet subtil</l>
-                <l n="3" xml:id="C005-3"> Lexant a part / aquell sentiment vil</l>
-                <l n="4" xml:id="C005-4"> Quen jorn present / los enamorats siny:</l>
-                <l n="5" xml:id="C005-5"> So tant sabent / que se ben departir</l>
-                <l n="6" xml:id="C005-6"> Amor daquell / designo virtuos</l>
-                <l n="7" xml:id="C005-7"> Car tot desig / retent hom congoxos</l>
-                <l n="8" xml:id="C005-8"> No ve damor / ne per tal se pot dir.</l>
+            <lg type="cobla" n="1" xml:id="C005-lg1">
+                <l n="1" xml:id="C005-l1"> <c rend="large">T</c>Ant he amat / que mon grosser enginy</l>
+                <l n="2" xml:id="C005-l2"> Per gran treball / de pensa es fet subtil</l>
+                <l n="3" xml:id="C005-l3"> Lexant a part / aquell sentiment vil</l>
+                <l n="4" xml:id="C005-l4"> Quen jorn present / los enamorats siny:</l>
+                <l n="5" xml:id="C005-l5"> So tant sabent / que se ben departir</l>
+                <l n="6" xml:id="C005-l6"> Amor daquell / designo virtuos</l>
+                <l n="7" xml:id="C005-l7"> Car tot desig / retent hom congoxos</l>
+                <l n="8" xml:id="C005-l8"> No ve damor / ne per tal se pot dir.</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0005-2">
-                <l n="9" xml:id="C005-9">   Per mals parlers / he tret saber e cura</l>
-                <l n="10" xml:id="C005-10"> De retenir / lo foch damor sens fums</l>
-                <l n="11" xml:id="C005-11"> E per a so / he sercat los volums</l>
-                <l n="12" xml:id="C005-12"> Daquell saber / que sens amor no dura</l>
-                <l n="13" xml:id="C005-13"> Viscut he molt / sens esser conegut</l>
-                <l n="14" xml:id="C005-14"> Per molts senyals / que fictes he mostrat</l>
-                <l n="15" xml:id="C005-15"> Mas quant sere / per hom foll publicat</l>
-                <l n="16" xml:id="C005-16"> Sera ben cert / lo tart apersebut</l>
+            <lg type="cobla" n="2" xml:id="C005-lg3">
+                <l n="9" xml:id="C005-l17">   Per mals parlers / he tret saber e cura</l>
+                <l n="10" xml:id="C005-l18"> De retenir / lo foch damor sens fums</l>
+                <l n="11" xml:id="C005-l19"> E per a so / he sercat los volums</l>
+                <l n="12" xml:id="C005-l20"> Daquell saber / que sens amor no dura</l>
+                <l n="13" xml:id="C005-l21"> Viscut he molt / sens esser conegut</l>
+                <l n="14" xml:id="C005-l22"> Per molts senyals / que fictes he mostrat</l>
+                <l n="15" xml:id="C005-l23"> Mas quant sere / per hom foll publicat</l>
+                <l n="16" xml:id="C005-l24"> Sera ben cert / lo tart apersebut</l>
                 </lg>
         <pb n="40r" 
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_80.html"/>
-            <lg type="cobla" n="3" xml:id="C0005-3">
-                <l n="17" xml:id="C005-17">  Sia en vos / aytant de be caygut</l>
-                <l n="18" xml:id="C005-18"> Obrant en vos / arreglada merce</l>
-                <l n="19" xml:id="C005-19"> Que vehent mi / despullat de tot be</l>
-                <l n="20" xml:id="C005-20"> Nom despreheu / pel dany ami vengut</l>
-                <l n="21" xml:id="C005-21"> E si per vos / e nom de foll ates</l>
-                <l n="22" xml:id="C005-22"> E contra mi / son estat mal mirent</l>
-                <l n="23" xml:id="C005-23"> Sia per vos / cregut sabi y sabent</l>
-                <l n="24" xml:id="C005-24"> Puix que mon seny / per vos hauie despes</l>
+            <lg type="cobla" n="3" xml:id="C005-lg4">
+                <l n="17" xml:id="C005-l25">  Sia en vos / aytant de be caygut</l>
+                <l n="18" xml:id="C005-l26"> Obrant en vos / arreglada merce</l>
+                <l n="19" xml:id="C005-l27"> Que vehent mi / despullat de tot be</l>
+                <l n="20" xml:id="C005-l28"> Nom despreheu / pel dany ami vengut</l>
+                <l n="21" xml:id="C005-l29"> E si per vos / e nom de foll ates</l>
+                <l n="22" xml:id="C005-l30"> E contra mi / son estat mal mirent</l>
+                <l n="23" xml:id="C005-l31"> Sia per vos / cregut sabi y sabent</l>
+                <l n="24" xml:id="C005-l32"> Puix que mon seny / per vos hauie despes</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0005-4">
-                <l n="25" xml:id="C005-25"> Si per amar / a vos hauia ates</l>
-                <l n="26" xml:id="C005-26"> Honor e bens / bellea y sauiesa</l>
-                <l n="27" xml:id="C005-27"> Lamor queus he / tendria per ofesa</l>
-                <l n="28" xml:id="C005-28"> Si tal senblant / en vos no paregues</l>
-                <l n="29" xml:id="C005-29"> Ma voluntat / en si tal carrech porta</l>
-                <l n="30" xml:id="C005-30"> Que no sera / sens la vostra contenta</l>
-                <l n="31" xml:id="C005-31"> E fora vos / nom pens que may consenta</l>
-                <l n="32" xml:id="C005-32"> Que null desig / li sodegue la porta</l>
+            <lg type="cobla" n="4" xml:id="C005-lg5">
+                <l n="25" xml:id="C005-l33"> Si per amar / a vos hauia ates</l>
+                <l n="26" xml:id="C005-l34"> Honor e bens / bellea y sauiesa</l>
+                <l n="27" xml:id="C005-l35"> Lamor queus he / tendria per ofesa</l>
+                <l n="28" xml:id="C005-l36"> Si tal senblant / en vos no paregues</l>
+                <l n="29" xml:id="C005-l37"> Ma voluntat / en si tal carrech porta</l>
+                <l n="30" xml:id="C005-l38"> Que no sera / sens la vostra contenta</l>
+                <l n="31" xml:id="C005-l39"> E fora vos / nom pens que may consenta</l>
+                <l n="32" xml:id="C005-l40"> Que null desig / li sodegue la porta</l>
                 </lg>
-            </lg>
+            </div>
         </body>
     </text>
 </TEI>

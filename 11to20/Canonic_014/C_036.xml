@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 14</title>
             <author>Ausiàs March </author>
@@ -72,117 +72,119 @@
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_91.html"/>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_92.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_93.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_93.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="45r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_91.html"/>
-         <lg type="poem" xml:id="C014-C036">
+         <div type="poem" xml:id="C014-C036">
             <lg type="cobla" n="1" xml:id="C014-01">
                <l n="1" xml:id="C014-1">Mal uenturos / no deu cercar uentura</l>
-              
-               <l n="2" xml:id="C014-2">crehuar se deu / lo front com laynomenen<note type="editorial">Mot que apareix accentuat laynoménen</note></l>
-               
+
+               <l n="2" xml:id="C014-2">crehuar se deu / lo front com laynomenen<note
+                     type="editorial">Mot que apareix accentuat laynoménen</note></l>
+
                <l n="3" xml:id="C014-3">no deslohant / los qui fauor ne prenen</l>
-               
+
                <l n="4" xml:id="C014-4">entre posant / lur bon saber e cura</l>
-               
+
                <l n="5" xml:id="C014-5">algu no deu / tan prest son iuy hauer</l>
-               
+
                <l n="6" xml:id="C014-6">que cell desllou / qui uentura uol fenyer</l>
-               
+
                <l n="7" xml:id="C014-7">no uirtuos / denegant l'atenyer</l>
-               
+
                <l n="8" xml:id="C014-8">ço que sos fills / han menys se so'saber.</l>
             </lg>
-            
+
             <lg type="cobla" n="2" xml:id="C014-02">
                <l n="9" xml:id="C014-9">Elegesch donchs / de sser hauenturer</l>
-            
+
                <l n="10" xml:id="C014-10">sibe nom puçch / tan retraure y restrenyer,</l>
-            <pb n="45v"               
-               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_92.html"/>
+               <pb n="45v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_92.html"/>
                <l n="11" xml:id="C014-11">que'n contra ell / me pogues tan empenyer</l>
-               
+
                <l n="12" xml:id="C014-12">si que fugis / ha son peu molt liger</l>
-               
+
                <l n="13" xml:id="C014-13">senyor es grand / dels mondans regidor</l>
-               
+
                <l n="14" xml:id="C014-14">e son juhy / es al ulls amagat</l>
-               
+
                <l n="15" xml:id="C014-15">ferint uos lla / ahon sentiu delitat</l>
-               
+
                <l n="16" xml:id="C014-16">e quel delit / uengues tot per amor.</l>
             </lg>
-            
+
             <lg type="cobla" n="3" xml:id="C014-03">
                <l n="17" xml:id="C014-17">Lonch es lo temps / del continu dolor</l>
-            
+
                <l n="18" xml:id="C014-18">apart de tras / son cinch anys ia passats</l>
-               
+
                <l n="19" xml:id="C014-19">quem fuig delit / com si uuy s'acostats</l>
-               
+
                <l n="20" xml:id="C014-20">fentme sentir / fret apres de calor</l>
-               
+
                <l n="21" xml:id="C014-21">diuersitat / de casos aportant</l>
-               
+
                <l n="22" xml:id="C014-22">por deguastar / d'amor lo benifet</l>
-               
+
                <l n="23" xml:id="C014-23">dels bens d'amor / conseruador sen ret</l>
-               
+
                <l n="24" xml:id="C014-24">fora content yo / qui so desijant.</l>
             </lg>
-            
+
             <lg type="cobla" n="4" xml:id="C014-04">
                <l n="25" xml:id="C014-25">A deu ne'l mon / noso d'amor clamant</l>
-            
+
                <l n="26" xml:id="C014-26">car bem ha dat / prou aygua marag'n set</l>
-               
+
                <l n="27" xml:id="C014-27">no sadollat / mas com teliu es fet</l>
-               
+
                <l n="28" xml:id="C014-28">no pot complir / ço que so desijant</l>
-               
+
                <l n="29" xml:id="C014-29">e no mereix / algun repreniment</l>
-               
+
                <l n="30" xml:id="C014-30">car del cel terç / eguals forçes no's fa</l>
-               
+
                <l n="31" xml:id="C014-31">segons amar / cascu dispost esta</l>
-               
+
                <l n="32" xml:id="C014-32">e tant com pot estreny son manamet.</l>
             </lg>
-           
+
             <pb n="46r"
                facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_93.html"/>
             <lg type="cobla" n="5" xml:id="C014-05">
                <l n="33" xml:id="C014-33">Fortuhit cas / ma fet esser absent</l>
-              
+
                <l n="34" xml:id="C014-34">del foch d'amor / qui iam illumina</l>
-               
+
                <l n="35" xml:id="C014-35">en millor cas / uentura l'apaga</l>
-               
+
                <l n="36" xml:id="C014-36">e yo so cert / qu'amor ne fon dolent</l>
-               
+
                <l n="37" xml:id="C014-37">perque nom clam d'amor mas de uentura</l>
-               
+
                <l n="38" xml:id="C014-38">car son poder / me ha desfauorit</l>
-               
+
                <l n="39" xml:id="C014-39">en abando / nom uol hauer jaquit</l>
-               
+
                <l n="40" xml:id="C014-40">ans persegueix / amor e ma gran cura.</l>
             </lg>
-           
-            <lg type="cobla" n="6" xml:id="C014-06">
+
+            <lg type="tornada" n="6" xml:id="C014-06">
                <l n="41" xml:id="C014-41">Lir entre cars / del mon deu pendre cura</l>
-            
+
                <l n="42" xml:id="C014-42">queli conue / d'amor perdre sperança</l>
-               
+
                <l n="43" xml:id="C014-43">e tal ho qual es d'amor la fermança</l>
-               
+
                <l n="44" xml:id="C014-44">ablo desig / queli dona punctura.</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

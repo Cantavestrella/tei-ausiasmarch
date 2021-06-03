@@ -48,9 +48,10 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 26v after end of previous poem, before this one: </locus> Altra </rubric>
+                        <locus>f. 46r after end of previous poem, before this one: </locus>Auzias
+                        march croada e capcaudada</rubric>
                      <rubric>
-                        <locus>f. 26v after end of first rubric </locus>Mossen auzias march </rubric>
+                        <locus>f. 46v between lines 40 and 41</locus>Tornada </rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -72,72 +73,83 @@
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_92.html"/>
       <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_93.html"/>
+         url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_93.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="46r"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_92.html"/>
-         <lg type="poem" n="2" xml:id="C002-IO20">
-            <lg type="cobla" n="1" xml:id="C0002-1">
-               <l n="1" xml:id="C002-1">Ren men axi / com el patro quin <del type="overstrike">la</del>plaia</l>
-               <l n="2" xml:id="C002-2">Te sa gran nau / e pensauer castell</l>
-               <l n="3" xml:id="C002-3">Vehent lo temps / esser molt clar e bell</l>
-               <l n="4" xml:id="C002-4">Creu fermament / dunacora ssats haia</l>
-               <l n="5" xml:id="C002-5">E sent venjr / soptos vn temporal</l>
-               <l n="6" xml:id="C002-6">De tempestat / e temps jnco <del type="overstrike">r</del>portable</l>
-               <l n="7" xml:id="C002-7">Leua son <del type="overstrike">seny</del> juy / que si molt es <del type="overstrike">dub</del> durable</l>
-               <l n="8" xml:id="C002-8">Cercar los ports / mes quaturar li val</l>
+         <div type="poem" xml:id="C002-I020">
+            <lg type="cobla" n="1" xml:id="C002-lg1">
+               <l n="1" xml:id="C002-l1">Ren men axi / com el patro quin <del rend="overstrike"
+                     >la</del>plaia</l>
+               <l n="2" xml:id="C002-l2">Te sa gran nau / e pensauer castell</l>
+               <l n="3" xml:id="C002-l3">Vehent lo temps / esser molt clar e bell</l>
+               <l n="4" xml:id="C002-l4">Creu fermament / dunacora ssats haia</l>
+               <l n="5" xml:id="C002-l5">E sent venjr / soptos vn temporal</l>
+               <l n="6" xml:id="C002-l6">De tempestat / e temps jnco <del rend="overstrike"
+                  >r</del>portable</l>
+               <l n="7" xml:id="C002-l7">Leua son <del rend="overstrike">seny</del> juy / que si
+                  molt es <del rend="overstrike">dub</del> durable</l>
+               <l n="8" xml:id="C002-l8">Cercar los ports / mes quaturar li val</l>
             </lg>
-            <lg type="cobla" n="2" xml:id="C0002-2">
-               <l n="9" xml:id="C002-9">Moltes <choice><abbr>vę</abbr><expan>veus</expan></choice> es / quel vent es fortunal</l>
-               <l n="10" xml:id="C002-10">Tant que no pot / sortir sens lo contrari</l>
-               <l n="11" xml:id="C002-11">E cella clau / quins tanca dins lermari</l>
-               <l n="12" xml:id="C002-12">No pot obrir / aquell mateix portal</l>
-               <l n="13" xml:id="C002-13">Axi mapres / trobant menamorat</l>
-               <l n="14" xml:id="C002-14">Per sobres alt / quim ue deuos maymia</l>
-               <l n="15" xml:id="C002-15">Del no amar / desalt no te la via</l>
-               <l n="16" xml:id="C002-16">Mas vn sol pas / meu noy sera trobat</l>
+            <lg type="cobla" n="2" xml:id="C002-lg2">
+               <l n="9" xml:id="C002-l9">Moltes <choice>
+                     <abbr>vę</abbr>
+                     <expan>veus</expan>
+                  </choice> es / quel vent es fortunal</l>
+               <l n="10" xml:id="C002-l10">Tant que no pot / sortir sens lo contrari</l>
+               <l n="11" xml:id="C002-l11">E cella clau / quins tanca dins lermari</l>
+               <l n="12" xml:id="C002-l12">No pot obrir / aquell mateix portal</l>
+               <l n="13" xml:id="C002-l13">Axi mapres / trobant menamorat</l>
+               <l n="14" xml:id="C002-l14">Per sobres alt / quim ue deuos maymia</l>
+               <l n="15" xml:id="C002-l15">Del no amar / desalt no te la via</l>
+               <l n="16" xml:id="C002-l16">Mas vn sol pas / meu noy sera trobat</l>
             </lg>
-            <lg type="cobla" n="3" xml:id="C0002-3">
-               <l n="17" xml:id="C002-17">Menys que lo peix / es en lo bosch trobat</l>
-               <l n="18" xml:id="C002-18">E los lehons / dins layguan lur soiorn</l>
-               <l n="19" xml:id="C002-19">Lamiamor / per null temps pendra torn</l>
-               <l n="20" xml:id="C002-20">Sol conexent / que <choice><abbr>demĵ</abbr><expan>demius</expan></choice> doneu grat</l>
-               <l n="21" xml:id="C002-21">E fiu de vos / quem sabreu be conexer</l>
-               <l n="22" xml:id="C002-22">E conegut / nom sera mal grahida</l>
-               <l n="23" xml:id="C002-23">Tota dolor / hauent per vos sentida</l>
-               <l n="24" xml:id="C002-24">Ladonchs veureu / les flames damor crexer</l>
+            <lg type="cobla" n="3" xml:id="C002-lg3">
+               <l n="17" xml:id="C002-l17">Menys que lo peix / es en lo bosch trobat</l>
+               <l n="18" xml:id="C002-l18">E los lehons / dins layguan lur soiorn</l>
+               <l n="19" xml:id="C002-l19">Lamiamor / per null temps pendra torn</l>
+               <l n="20" xml:id="C002-l20">Sol conexent / que <choice>
+                     <abbr>demĵ</abbr>
+                     <expan>demius</expan>
+                  </choice> doneu grat</l>
+               <l n="21" xml:id="C002-l21">E fiu de vos / quem sabreu be conexer</l>
+               <l n="22" xml:id="C002-l22">E conegut / nom sera mal grahida</l>
+               <l n="23" xml:id="C002-l23">Tota dolor / hauent per vos sentida</l>
+               <l n="24" xml:id="C002-l24">Ladonchs veureu / les flames damor crexer</l>
             </lg>
             <pb n="46v"
                facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_93.html"/>
-            <lg type="cobla" n="4" xml:id="C0002-4">
-               <l n="25" xml:id="C002-25">Si mon voler / he dat mal aparexer</l>
-               <l n="26" xml:id="C002-26">Creheu decert / que veramor nom luny</l>
-               <l n="27" xml:id="C002-27">Pusque lo sol / es calt al mes de juny</l>
-               <l n="28" xml:id="C002-28">Art mon cor flach / sens algun grat merexer</l>
-               <l n="29" xml:id="C002-29">Altre sens mj / daço mareix la colpa</l>
-               <l n="30" xml:id="C002-30">Vullau li mal / com ten humjl seruent</l>
-               <l n="31" xml:id="C002-31">Vos te secret / person deffalliment</l>
-               <l n="32" xml:id="C002-32">Cert es amor / qui mj amant encolpa</l>
+            <lg type="cobla" n="4" xml:id="C002-lg4">
+               <l n="25" xml:id="C002-l25">Si mon voler / he dat mal aparexer</l>
+               <l n="26" xml:id="C002-l26">Creheu decert / que veramor nom luny</l>
+               <l n="27" xml:id="C002-l27">Pusque lo sol / es calt al mes de juny</l>
+               <l n="28" xml:id="C002-l28">Art mon cor flach / sens algun grat merexer</l>
+               <l n="29" xml:id="C002-l29">Altre sens mj / daço mareix la colpa</l>
+               <l n="30" xml:id="C002-l30">Vullau li mal / com ten humjl seruent</l>
+               <l n="31" xml:id="C002-l31">Vos te secret / person deffalliment</l>
+               <l n="32" xml:id="C002-l32">Cert es amor / qui mj amant encolpa</l>
             </lg>
-            <lg type="cobla" n="5" xml:id="C0002-5">
-               <l n="33" xml:id="C002-33">Ma voluntat / ab la raho sen volpa</l>
-               <l n="34" xml:id="C002-34">E fan acort / la calitat saguint</l>
-               <l n="35" xml:id="C002-35">Tals actes fent / quel cors es deffallint</l>
-               <l n="36" xml:id="C002-36">En poch de temps / vna gran part de polpa</l>
-               <l n="37" xml:id="C002-37">Lo poch dormjr / magresalcors macosta</l>
-               <l n="38" xml:id="C002-38">Doblem lenginy / per contemplar amor</l>
-               <l n="39" xml:id="C002-39">Lo cors molt gras / trobant se dormjdor</l>
-               <l n="40" xml:id="C002-40">No pot dar pas / en aquestaspra costa</l>
+            <lg type="cobla" n="5" xml:id="C002-lg5">
+               <l n="33" xml:id="C002-l33">Ma voluntat / ab la raho sen volpa</l>
+               <l n="34" xml:id="C002-l34">E fan acort / la calitat saguint</l>
+               <l n="35" xml:id="C002-l35">Tals actes fent / quel cors es deffallint</l>
+               <l n="36" xml:id="C002-l36">En poch de temps / vna gran part de polpa</l>
+               <l n="37" xml:id="C002-l37">Lo poch dormjr / magresalcors macosta</l>
+               <l n="38" xml:id="C002-l38">Doblem lenginy / per contemplar amor</l>
+               <l n="39" xml:id="C002-l39">Lo cors molt gras / trobant se dormjdor</l>
+               <l n="40" xml:id="C002-l40">No pot dar pas / en aquestaspra costa</l>
             </lg>
-            <lg type="tornada">
-               <l n="41" xml:id="C002-41">Plena de seny / donau me vna crosta</l>
-               <l n="42" xml:id="C002-42">Deuostre pa / quim leue lamargor</l>
-               <l n="43" xml:id="C002-43">Detot menjar / ma pres gran dessabor</l>
-               <l n="44" xml:id="C002-44">Sino daquell / qui molta<add place="above">amor<note>Afegit d'una altra mà</note></add> me costa</l>
+            <lg type="tornada" n="6" xml:id="C002-lg6">
+               <l n="41" xml:id="C002-l41">Plena de seny / donau me vna crosta</l>
+               <l n="42" xml:id="C002-l42">Deuostre pa / quim leue lamargor</l>
+               <l n="43" xml:id="C002-l43">Detot menjar / ma pres gran dessabor</l>
+               <l n="44" xml:id="C002-l44">Sino daquell / qui molta<add place="above"
+                        >amor<note>Afegit d'una altra mà</note></add> me costa</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

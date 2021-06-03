@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 19</title>
             <author>Ausiàs March </author>
@@ -49,8 +49,7 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 19v between lines 40 and 41 </locus>Tornada 
-                     </rubric>
+                        <locus>f. 19v between lines 40 and 41 </locus>Tornada </rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -73,162 +72,125 @@
          url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_40.html"/>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_41.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_42.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_42.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="18v"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_40.html"/>
-         <lg type="poem" xml:id="C019-B020">
+         <div type="poem" xml:id="C019-B020">
             <lg type="cobla" n="1" xml:id="C019-01">
-               
-               <l n="1" xml:id="C019-1"> Hoyu hoyu tots los qui be amau
-               </l>
-               
-               <l n="2" xml:id="C019-2"> E planyeu mj si dech esser plangut
-               </l>
-               
-               <l n="3" xml:id="C019-3"> E puys veheu si es tal cas vengut
-               </l>
-               
-               <l n="4" xml:id="C019-4"> En los passats y enlos qui amor cau
-               </l>
-             <pb n="19r"
-                facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_41.html"/>
-               <l n="5" xml:id="C019-5"> Doleu vos donchs  de mj vostre semblant
-               </l>
-               
-               <l n="6" xml:id="C019-6"> En soferir la dolor delitable
-               </l>
-               
-               <l n="7" xml:id="C019-7"> Cart tost demj se dolrra lo diable
-               </l>
-               
-               <l n="8" xml:id="C019-8"> Com me veura semblant mal dell passat
-               </l>
+
+               <l n="1" xml:id="C019-1"> Hoyu hoyu tots los qui be amau </l>
+
+               <l n="2" xml:id="C019-2"> E planyeu mj si dech esser plangut </l>
+
+               <l n="3" xml:id="C019-3"> E puys veheu si es tal cas vengut </l>
+
+               <l n="4" xml:id="C019-4"> En los passats y enlos qui amor cau </l>
+               <pb n="19r"
+                  facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_41.html"/>
+               <l n="5" xml:id="C019-5"> Doleu vos donchs de mj vostre semblant </l>
+
+               <l n="6" xml:id="C019-6"> En soferir la dolor delitable </l>
+
+               <l n="7" xml:id="C019-7"> Cart tost demj se dolrra lo diable </l>
+
+               <l n="8" xml:id="C019-8"> Com me veura semblant mal dell passat </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C019-02">
-               
-               <l n="9" xml:id="C019-9"> Qui es lom viu tal dolor soffertant
-               </l>
-               
-               <l n="10" xml:id="C019-10"> Que desitx ço de que se desespera
-               </l>
-               
-               <l n="11" xml:id="C019-11"> Aytant es greu que par cosa vera
-               </l>
-               
-               <l n="12" xml:id="C019-12"> Desijar lo <add place="above">de</add> ques desesperant
-               </l>
-               
-               <l n="13" xml:id="C019-13"> Nesonganat de mon mal stament
-               </l>
-               
-               <l n="14" xml:id="C019-14"> Tot quant pratich tornar me sent en dan
-               </l>
-               
-               <l n="15" xml:id="C019-15"> Menys de poder me trop hauent lo gran
-               </l>
-               
-               <l n="16" xml:id="C019-16"> Car nom fforç per diruos lo que sent
-               </l>
+
+               <l n="9" xml:id="C019-9"> Qui es lom viu tal dolor soffertant </l>
+
+               <l n="10" xml:id="C019-10"> Que desitx ço de que se desespera </l>
+
+               <l n="11" xml:id="C019-11"> Aytant es greu que par cosa vera </l>
+
+               <l n="12" xml:id="C019-12"> Desijar lo <add place="above">de</add> ques desesperant </l>
+
+               <l n="13" xml:id="C019-13"> Nesonganat de mon mal stament </l>
+
+               <l n="14" xml:id="C019-14"> Tot quant pratich tornar me sent en dan </l>
+
+               <l n="15" xml:id="C019-15"> Menys de poder me trop hauent lo gran </l>
+
+               <l n="16" xml:id="C019-16"> Car nom fforç per diruos lo que sent </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C019-03">
-               
-               <l n="17" xml:id="C019-17"> Yo ame tant quel cos no mo consent
-               </l>
-               
-               <l n="18" xml:id="C019-18"> Lo meu desitx no es en costumat vs
-               </l>
-               
-               <l n="19" xml:id="C019-19"> Mostre que am e avos men scus
-               </l>
-               
-               <l n="20" xml:id="C019-20"> Per que yo tem de vos tot mudament
-               </l>
-               
-               <l n="21" xml:id="C019-21"> Vetx paradis ejnfern dauant mj
-               </l>
-               
-               <l n="22" xml:id="C019-22"> Desitx e tem mas la por dauant va
-               </l>
-               
-               <l n="23" xml:id="C019-23"> Amor manpeny e lo contrari fa
-               </l>
-               
-               <l n="24" xml:id="C019-24"> No dretament mas per altre camj
-               </l>
+
+               <l n="17" xml:id="C019-17"> Yo ame tant quel cos no mo consent </l>
+
+               <l n="18" xml:id="C019-18"> Lo meu desitx no es en costumat vs </l>
+
+               <l n="19" xml:id="C019-19"> Mostre que am e avos men scus </l>
+
+               <l n="20" xml:id="C019-20"> Per que yo tem de vos tot mudament </l>
+
+               <l n="21" xml:id="C019-21"> Vetx paradis ejnfern dauant mj </l>
+
+               <l n="22" xml:id="C019-22"> Desitx e tem mas la por dauant va </l>
+
+               <l n="23" xml:id="C019-23"> Amor manpeny e lo contrari fa </l>
+
+               <l n="24" xml:id="C019-24"> No dretament mas per altre camj </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C019-04">
-               
-               <l n="25" xml:id="C019-25"> Sin algun temps en contra mor falli
-               </l>
-               
-               <l n="26" xml:id="C019-26"> Venges de mj planyent men lanamjch
-               </l>
-               
-               <l n="27" xml:id="C019-27"> Lo meu voler yo confes en publich
-               </l>
-               
-               <l n="28" xml:id="C019-28"> Yo dich que am mas no gos dir aqui
-               </l>
-               
-               <l n="29" xml:id="C019-29"> Lo voler meu es en gran abundança
-               </l>
-               
-               <l n="30" xml:id="C019-30"> Mas <choice><abbr>ƌl</abbr><expan>del</expan></choice> poder no se pus enpobrjt
-               </l>
-               
-               <l n="31" xml:id="C019-31"> E puys lo dir es pel voler regit
-               </l>
-               
-               <l n="32" xml:id="C019-32"> Com no gos dir en vos es mesperança
-               </l>
+
+               <l n="25" xml:id="C019-25"> Sin algun temps en contra mor falli </l>
+
+               <l n="26" xml:id="C019-26"> Venges de mj planyent men lanamjch </l>
+
+               <l n="27" xml:id="C019-27"> Lo meu voler yo confes en publich </l>
+
+               <l n="28" xml:id="C019-28"> Yo dich que am mas no gos dir aqui </l>
+
+               <l n="29" xml:id="C019-29"> Lo voler meu es en gran abundança </l>
+
+               <l n="30" xml:id="C019-30"> Mas <choice>
+                     <abbr>ƌl</abbr>
+                     <expan>del</expan>
+                  </choice> poder no se pus enpobrjt </l>
+
+               <l n="31" xml:id="C019-31"> E puys lo dir es pel voler regit </l>
+
+               <l n="32" xml:id="C019-32"> Com no gos dir en vos es mesperança </l>
             </lg>
             <pb n="19v"
                facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_42.html"/>
             <lg type="cobla" n="5" xml:id="C019-05">
-               
-               <l n="33" xml:id="C019-33"> Vna sabor dagre dolç amor lança
-               </l>
-               
-               <l n="34" xml:id="C019-34"> Que lo meu gust departirles no sab
-               </l>
-               
-               <l n="35" xml:id="C019-35"> Dins mos delits dolor mortal y cab
-               </l>
-               
-               <l n="36" xml:id="C019-36"> E tal dolor ab delit ha ligança
-               </l>
-               
-               <l n="37" xml:id="C019-37"> Mas yom reprench com parlar ma plagut
-               </l>
-               
-               <l n="38" xml:id="C019-38"> Daço quen mj no sta la sçiença
-               </l>
-               
-               <l n="39" xml:id="C019-39"> Sobres amor me porta ignocença
-               </l>
-               
-               <l n="40" xml:id="C019-40"> Vull eno vull sens cas esdeuengut
-               </l>
+
+               <l n="33" xml:id="C019-33"> Vna sabor dagre dolç amor lança </l>
+
+               <l n="34" xml:id="C019-34"> Que lo meu gust departirles no sab </l>
+
+               <l n="35" xml:id="C019-35"> Dins mos delits dolor mortal y cab </l>
+
+               <l n="36" xml:id="C019-36"> E tal dolor ab delit ha ligança </l>
+
+               <l n="37" xml:id="C019-37"> Mas yom reprench com parlar ma plagut </l>
+
+               <l n="38" xml:id="C019-38"> Daço quen mj no sta la sçiença </l>
+
+               <l n="39" xml:id="C019-39"> Sobres amor me porta ignocença </l>
+
+               <l n="40" xml:id="C019-40"> Vull eno vull sens cas esdeuengut </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C019-06">
-               
-               <l n="41" xml:id="C019-41"> Lir entre carts creheu lamador mut
-               </l>
-               
-               <l n="42" xml:id="C019-42"> Y al cambiant de <choice><abbr>pȗt</abbr><expan>punt</expan></choice> en punt color
-               </l>
-               
-               <l n="43" xml:id="C019-43"> E lo pauruch com se membra damor
-               </l>
-               
-               <l n="44" xml:id="C019-44"> Del atrauit sia son temps perdut
-               </l>
+            <lg type="tornada" n="6" xml:id="C019-06">
+
+               <l n="41" xml:id="C019-41"> Lir entre carts creheu lamador mut </l>
+
+               <l n="42" xml:id="C019-42"> Y al cambiant de <choice>
+                     <abbr>pȗt</abbr>
+                     <expan>punt</expan>
+                  </choice> en punt color </l>
+
+               <l n="43" xml:id="C019-43"> E lo pauruch com se membra damor </l>
+
+               <l n="44" xml:id="C019-44"> Del atrauit sia son temps perdut </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

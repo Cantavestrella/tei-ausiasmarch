@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 11</title>
             <author>Ausiàs March </author>
@@ -41,19 +41,16 @@
             <date>2019-05-01</date>
          </publicationStmt>
          <sourceDesc>
-            <msDesc
-               corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+            <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
                <msIdentifier xml:id="D_Ms_2985_BnM">
                   <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                </msIdentifier>
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 11 after end of previous poem, before this one:</locus> C
-                     </rubric>
+                        <locus>f. 11 after end of previous poem, before this one:</locus> C </rubric>
                      <rubric>
-                        <locus>f. 11v between lines 40 and 41</locus> Tornada
-                     </rubric>
+                        <locus>f. 11v between lines 40 and 41</locus> Tornada </rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -77,157 +74,122 @@
    </facsimile>
    <text>
       <body>
-         <pb n="10v"
-            facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-         
-         <lg type="poem" xml:id="C011-D011">
+         <pb n="10v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+
+         <div type="poem" xml:id="C011-D011">
             <lg type="cobla" n="1" xml:id="C011-01">
-               
-               <l n="1" xml:id="C011-1"> Quins tan segurs / consells vas encercant
-               </l>
-               
-               <l n="2" xml:id="C011-2"> cor malastruch / enfastijat<note type="editorial">La j escrita sobre una altra lletra primitiva sembla que g o y.</note> deviure </l>
-               
-               <l n="3" xml:id="C011-3"> amich deplor / edesamich de riure
-               </l>
-               
-               <l n="4" xml:id="C011-4"> com soferras / los mals quit son dauant
-               </l>
-               
-               <l n="5" xml:id="C011-5"> Acuytat donchs / ala mort quet espera
-               </l>
-               
-               <l n="6" xml:id="C011-6"> epertos mals / te allongues los jorns
-               </l>
-               
-               <l n="7" xml:id="C011-7"> aytant es luny / sondelitos sojorns
-               </l>
-               
-               <l n="8" xml:id="C011-8"> com vols fugir / ala mort falaguera
-               </l>
+
+               <l n="1" xml:id="C011-1"> Quins tan segurs / consells vas encercant </l>
+
+               <l n="2" xml:id="C011-2"> cor malastruch / enfastijat<note type="editorial">La j
+                     escrita sobre una altra lletra primitiva sembla que g o y.</note> deviure </l>
+
+               <l n="3" xml:id="C011-3"> amich deplor / edesamich de riure </l>
+
+               <l n="4" xml:id="C011-4"> com soferras / los mals quit son dauant </l>
+
+               <l n="5" xml:id="C011-5"> Acuytat donchs / ala mort quet espera </l>
+
+               <l n="6" xml:id="C011-6"> epertos mals / te allongues los jorns </l>
+
+               <l n="7" xml:id="C011-7"> aytant es luny / sondelitos sojorns </l>
+
+               <l n="8" xml:id="C011-8"> com vols fugir / ala mort falaguera </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C011-02">
-               
-               <l n="9" xml:id="C011-9"> Braços vberts / es exida'ncarrera
-               </l>
-               
-               <l n="10" xml:id="C011-10"> plorant sos vlls / per sobres degrangoig
-               </l>
-               
-               <l n="11" xml:id="C011-11"> melodios / cantar de sa veu <add place="above">h</add>oig
-               </l>
-               
-               <l n="12" xml:id="C011-12"> dient amich / ix de casastrangera
-               </l>
-            <pb n="11r"
-               facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-               <l n="13" xml:id="C011-13"> Endelit prench / donarte ma fauor
-               </l>
-               
-               <l n="14" xml:id="C011-14"> que per null temps / home nat la sentida
-               </l>
-               
-               <l n="15" xml:id="C011-15"> car yo defuig / atot home quem crida
-               </l>
-               
-               <l n="16" xml:id="C011-16"> prenent aquell / qui fuig de marigor
-               </l>
+
+               <l n="9" xml:id="C011-9"> Braços vberts / es exida'ncarrera </l>
+
+               <l n="10" xml:id="C011-10"> plorant sos vlls / per sobres degrangoig </l>
+
+               <l n="11" xml:id="C011-11"> melodios / cantar de sa veu <add place="above">h</add>oig </l>
+
+               <l n="12" xml:id="C011-12"> dient amich / ix de casastrangera </l>
+               <pb n="11r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+               <l n="13" xml:id="C011-13"> Endelit prench / donarte ma fauor </l>
+
+               <l n="14" xml:id="C011-14"> que per null temps / home nat la sentida </l>
+
+               <l n="15" xml:id="C011-15"> car yo defuig / atot home quem crida </l>
+
+               <l n="16" xml:id="C011-16"> prenent aquell / qui fuig de marigor </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C011-03">
-               
-               <l n="17" xml:id="C011-17"> Ab vlls plorant / ecara deterror
+
+               <l n="17" xml:id="C011-17"> Ab vlls plorant / ecara deterror </l>
+
+               <l n="18" xml:id="C011-18"> cabells rompent / ab grans hudulaments </l>
+
+               <l n="19" xml:id="C011-19"> la vidam vol / donar heretaments </l>
+
+               <l n="20" xml:id="C011-20"> ed'aquests dons / volque sia <choice>
+                     <abbr>señor</abbr>
+                     <expan>senyor</expan>
+                  </choice>
                </l>
-               
-               <l n="18" xml:id="C011-18"> cabells rompent / ab grans hudulaments
-               </l>
-               
-               <l n="19" xml:id="C011-19"> la vidam vol / donar heretaments
-               </l>
-               
-               <l n="20" xml:id="C011-20"> ed'aquests dons / volque sia <choice><abbr>señor</abbr><expan>senyor</expan></choice>
-               </l>
-               
-               <l n="21" xml:id="C011-21"> Cridant ab veu / horrible y dolorosa
-               </l>
-               
-               <l n="22" xml:id="C011-22"> tal com lamort / crida'l ben<add place="inline">a</add>huirat
-               </l>
-               
-               <l n="23" xml:id="C011-23"> car sil<add place="above">h</add>om es / amals apparellat
-               </l>
-               
-               <l n="24" xml:id="C011-24"> laveu de mort / li es melodiosa
-               </l>
+
+               <l n="21" xml:id="C011-21"> Cridant ab veu / horrible y dolorosa </l>
+
+               <l n="22" xml:id="C011-22"> tal com lamort / crida'l ben<add place="inline"
+                  >a</add>huirat </l>
+
+               <l n="23" xml:id="C011-23"> car sil<add place="above">h</add>om es / amals apparellat </l>
+
+               <l n="24" xml:id="C011-24"> laveu de mort / li es melodiosa </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C011-04">
-               
-               <l n="25" xml:id="C011-25"> Bem marauell / com es tan ergullosa
-               </l>
-               
-               <l n="26" xml:id="C011-26"> lavoluntat / de cascun amador
-               </l>
-               
-               <l n="27" xml:id="C011-27"> no demanant / a mi <del type="overstrike">que es</del> <add place="above">lesforç</add> damor
-               </l>
-               
-               
-               <l n="28" xml:id="C011-28"> <add place="margin left">y</add> en mi sabran / saforça poderosa
-               </l>
-               
-               <l n="29" xml:id="C011-29"> Tots mal dient / sagramentejaran
-               </l>
-               
-               <l n="30" xml:id="C011-30"> que may amor / los tendran sonpoder
-               </l>
-               
-               <l n="31" xml:id="C011-31"> esils recort / locolorat plaher
-               </l>
-               
-               <l n="32" xml:id="C011-32"> lo temps perdut / sospirant mal diran
-               </l>
+
+               <l n="25" xml:id="C011-25"> Bem marauell / com es tan ergullosa </l>
+
+               <l n="26" xml:id="C011-26"> lavoluntat / de cascun amador </l>
+
+               <l n="27" xml:id="C011-27"> no demanant / a mi <del rend="overstrike">que es</del>
+                  <add place="above">lesforç</add> damor </l>
+
+
+               <l n="28" xml:id="C011-28">
+                  <add place="margin left">y</add> en mi sabran / saforça poderosa </l>
+
+               <l n="29" xml:id="C011-29"> Tots mal dient / sagramentejaran </l>
+
+               <l n="30" xml:id="C011-30"> que may amor / los tendran sonpoder </l>
+
+               <l n="31" xml:id="C011-31"> esils recort / locolorat plaher </l>
+
+               <l n="32" xml:id="C011-32"> lo temps perdut / sospirant mal diran </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C011-05">
-               
-               <l n="33" xml:id="C011-33"> Null hom conech / o dona mon semblant
+
+               <l n="33" xml:id="C011-33"> Null hom conech / o dona mon semblant </l>
+
+               <l n="34" xml:id="C011-34"> que dolorit / per amor / fessaplanyer </l>
+
+               <l n="35" xml:id="C011-35"> yo son aquell / de quis deu hom complanyer </l>
+
+               <l n="36" xml:id="C011-36"> car de moncor/ la sanch senvalunyant <add
+                     place="margin right">fi</add><note type="editorial">Escrit per una altra
+                     mà.</note>
                </l>
-               
-               <l n="34" xml:id="C011-34"> que dolorit / per amor / fessaplanyer
-               </l>
-               
-               <l n="35" xml:id="C011-35"> yo son aquell / de quis deu hom complanyer
-               </l>
-               
-               <l n="36" xml:id="C011-36"> car de moncor/ la sanch senvalunyant <add place="margin right">fi</add><note type="editorial">Escrit per una altra mà.</note>
-               </l>               
-            <pb n="11v"
-               facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-               <l n="37" xml:id="C011-37"> Pergran tristor / que li es acostada
-               </l>
-               
-               <l n="38" xml:id="C011-38"> sequas tot jorn / lumit quim sostevida
-               </l>
-               
-               <l n="39" xml:id="C011-39"> ela tristor / contra mi es ardida
-               </l>
-               
-               <l n="40" xml:id="C011-40"> en mon socors / ma no sitrobarmada
-               </l>
+               <pb n="11v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
+               <l n="37" xml:id="C011-37"> Pergran tristor / que li es acostada </l>
+
+               <l n="38" xml:id="C011-38"> sequas tot jorn / lumit quim sostevida </l>
+
+               <l n="39" xml:id="C011-39"> ela tristor / contra mi es ardida </l>
+
+               <l n="40" xml:id="C011-40"> en mon socors / ma no sitrobarmada </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C011-06">
-               
-               <l n="41" xml:id="C011-41"> Lir entre carts / lora sent acostada
-               </l>
-               
-               <l n="42" xml:id="C011-42"> que ciuilment / es ma vida finida
-               </l>
-               
-               <l n="43" xml:id="C011-43"> puix que del tot / masperanças fugida
-               </l>
-               
-               <l n="44" xml:id="C011-44"> marmaroman / en aquest mon damnada
-               </l>
+            <lg type="tornada" n="6" xml:id="C011-06">
+
+               <l n="41" xml:id="C011-41"> Lir entre carts / lora sent acostada </l>
+
+               <l n="42" xml:id="C011-42"> que ciuilment / es ma vida finida </l>
+
+               <l n="43" xml:id="C011-43"> puix que del tot / masperanças fugida </l>
+
+               <l n="44" xml:id="C011-44"> marmaroman / en aquest mon damnada </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

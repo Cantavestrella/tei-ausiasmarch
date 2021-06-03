@@ -41,14 +41,16 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc
-               corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/">
-               <msIdentifier xml:id="C_Ms_L.iij.26_EE">
+               corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/">
+               <msIdentifier xml:id="c_Ed_11V57_BC">
                   <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                </msIdentifier>
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 45r between lines 40 and 41 </locus>:Tornada: </rubric>
+                        <locus>f. 5r header</locus>DE AMORS. Fo. v.</rubric>
+                     <rubric>
+                        <locus>f. 5r between lines 16 and 17 </locus>Tornada.</rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -68,40 +70,41 @@
    </teiHeader>
    <facsimile>
       <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_148.html"/>
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_18.html"
+      />
    </facsimile>
    <text>
       <body>
-         <pb n="49r"
-            facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_148.html"/>
-         <lg type="poem" n="1" xml:id="C001-C005">
-            <lg type="cobla" n="1" xml:id="C0003-1">
-               <l n="1" xml:id="C003-1">Alt <add place="above">e</add>. amor / d'hon gran desig s'engendra</l> 
-               <l n="2" xml:id="C003-2">y esperiment / per tots aquest grahons</l>
-               <l n="3" xml:id="C003-3">me son delits / mas donam passions</l>
-               <l n="4" xml:id="C003-4">la por del mal / quim fa magrir <choice><abbr>carntȇdra</abbr><expan>cartendra</expan></choice></l>
-               <l n="5" xml:id="C003-5">e port al cor / sans fum continu foch</l>
-               <l n="6" xml:id="C003-6">e la calor / non surt a part de fora</l>
-               <l n="7" xml:id="C003-7">soccorreume / dins los termens d'un ora</l>
-               <l n="8" xml:id="C003-8">car mos senyals / demonstren uiure poch.</l>
+         <pb n="5r"
+            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_18.html"/>
+         <div type="poem" xml:id="C003-c005">
+            <lg type="cobla" n="1" xml:id="C003-lg1">
+               <l n="1" xml:id="C003-l1">ALt e, amor / d'hon gran desig se'ngendra</l>
+               <l n="2" xml:id="C003-l2">y esperiment / per tots aquests grahons</l>
+               <l n="3" xml:id="C003-l3">me son delits / mas donam passions</l>
+               <l n="4" xml:id="C003-l4">la por del mal / quim fa magrir carn tendra.</l>
+               <l n="5" xml:id="C003-l5">e port'al cor / sens fum, continu foch,</l>
+               <l n="6" xml:id="C003-l6">e la calor / non surt, a part defora.</l>
+               <l n="7" xml:id="C003-l7">soccorreume / dins los termens d'un ora</l>
+               <l n="8" xml:id="C003-l8">car, mos senyals / demonstren viurepoch.</l>
             </lg>
-            <lg type="cobla" n="2" xml:id="C0003-2">
-               <l n="9" xml:id="C003-9">Metge scient / note lo cas per ioch</l>
-               <l n="10" xml:id="C003-10">com la calor / no surt a part <del type="overstrike">defora</del><add place="above">estrema</add>.</l>
-               <l n="11" xml:id="C003-11">l'ignorant ueu / que lo malalt no crema</l>
-               <l n="12" xml:id="C003-12">he iutial sa / puix que mostra bon toch</l>
-               <l n="13" xml:id="C003-13">lo patient / no podra dir son mal</l>
-               <l n="14" xml:id="C003-14">tot afeblit / ab lengua mal diserta</l>
-               <l n="15" xml:id="C003-15">gests e color / assats fan descuberta</l>
-               <l n="16" xml:id="C003-16">part del affany / que tant com lodir ual</l>
+            <lg type="cobla" n="2" xml:id="C003-lg2">
+               <l n="9" xml:id="C003-l9">Metge scient / note lo cas per joch</l>
+               <l n="10" xml:id="C003-l10">com la calor / no surt a part estrema</l>
+               <l n="11" xml:id="C003-l11">l'ignorant veu / que lo malalt no crema</l>
+               <l n="12" xml:id="C003-l12">he jutjal sa / puix que mostra bon toch.</l>
+               <l n="13" xml:id="C003-l13">lo pacient / no podra dir son mal,</l>
+               <l n="14" xml:id="C003-l14">tot affeblit / ab lengua mal diserta</l>
+               <l n="15" xml:id="C003-l15">gests e color / assats fan descuberta</l>
+               <l n="16" xml:id="C003-l16">part del affany / que tant com lo dir val.</l>
             </lg>
-            <lg type="tornada">
-               <l n="41" xml:id="C003-41">Plena de seny / dir uos queus am no cal</l>
-               <l n="42" xml:id="C003-42">puis crech de cert / queus ne teniu per certa</l>
-               <l n="43" xml:id="C003-43">si be mostrau / queus esta molt cuberta</l>
-               <l n="44" xml:id="C003-44">cella, perque / amor, es desigual.</l>
+            <lg type="tornada" n="3" xml:id="C003-lg3">
+               <l n="17" xml:id="C003-l17">Plena de seny / dir uos queus am, no cal</l>
+               <l n="18" xml:id="C003-l18">puis crech de cert / queus ne teniu, per certa</l>
+               <l n="19" xml:id="C003-l19">si be mostrau / queus esta molt cuberta</l>
+               <l n="20" xml:id="C003-l20">cella, per que / amor, es desigual.</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            
+
             <titleStmt>
                 <title>Poema 5</title>
                 <author>Ausiàs March </author>
@@ -29,12 +29,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -46,8 +48,10 @@
                     <msIdentifier xml:id="H_Ms_110_BUZ">
                         <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                     </msIdentifier>
-                    <msContents>
-                    </msContents>
+                    <msContents><msItem>
+                        <rubric>
+                            <locus>f. 9r between lines 16 and 17 </locus>Tornada</rubric>
+                    </msItem> </msContents>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -58,47 +62,71 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
     <facsimile>
         <graphic
-            url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_12.html"/>
+            url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_12.html"
+        />
     </facsimile>
     <text>
-        <body>                                
-        <pb n="9r" 
-            facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_12.html"/> 
-        <lg type="poem" xml:id="C009-H005">
-            <lg type="cobla" n="1" xml:id="C0009-1">
-                <l n="1" xml:id="C009-1"> Estant apart tot sol yom enpagesch</l>
-                <l n="2" xml:id="C009-2"> Ymaginant ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> dauria ffer</l>
-                <l n="3" xml:id="C009-3"> Dexecutar no dech auer esper</l>
-                <l n="4" xml:id="C009-4"> Puys lo <choice><abbr>ꝑ</abbr><expan>primer</expan></choice> assaig no ensegesch</l>
-                <l n="5" xml:id="C009-5"> Limaginar amor me vol reprendra</l>
-                <l n="6" xml:id="C009-6"> Tan largament ab vergonyam/reffrena</l>
-                <l n="7" xml:id="C009-7"> Com se fara <choice><abbr>ꝗ</abbr><expan>que</expan></choice> ab cara serena</l>
-                <l n="8" xml:id="C009-8"> Aia poder de ma raho estendre</l>
+        <body>
+            <pb n="9r"
+                facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_12.html"/>
+            <div type="poem" xml:id="C009-H005">
+                <lg type="cobla" n="1" xml:id="C009-lg4">
+                    <l n="1" xml:id="C009-l25"> Estant apart tot sol yom enpagesch</l>
+                    <l n="2" xml:id="C009-l26"> Ymaginant ço <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> dauria ffer</l>
+                    <l n="3" xml:id="C009-l27"> Dexecutar no dech auer esper</l>
+                    <l n="4" xml:id="C009-l28"> Puys lo <choice>
+                        <abbr>ṗmer</abbr>
+                            <expan>primer</expan>
+                        </choice> assaig no ensegesch</l>
+                    <l n="5" xml:id="C009-l29"> Limaginar amor me vol reprendra</l>
+                    <l n="6" xml:id="C009-l30"> Tan largament ab vergonyam/reffrena</l>
+                    <l n="7" xml:id="C009-l31"> Com se fara <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> ab cara serena</l>
+                    <l n="8" xml:id="C009-l32"> Aia poder de ma raho estendre</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0009-2">
-                <l n="9" xml:id="C009-9"> Los ffets damor yo no puch ben entendre</l>
-                <l n="10" xml:id="C009-10"> De grans contrats mopinjo es plena</l>
-                <l n="11" xml:id="C009-11"> Horan lo iorn <choice><abbr>ꝗ</abbr><expan>que</expan></choice> no sent nulla pena</l>
-                <l n="12" xml:id="C009-12"> Pensant en so <choice><abbr>ꝗ</abbr><expan>que</expan></choice> vinch alarma rendre</l>
-                <l n="13" xml:id="C009-13"> Si altre veu / limaginar mj porta</l>
-                <l n="14" xml:id="C009-14"> <choice><abbr>ꝑ</abbr><expan>Per</expan></choice> dar senyall <choice><abbr>ꝗ</abbr><expan>que</expan></choice> io sia cragut</l>
-                <l n="15" xml:id="C009-15"> Supplich la mort quen tal cas me ajut</l>
-                <l n="16" xml:id="C009-16"> E si nom vall ma veritat iau morta</l>
+                <lg type="cobla" n="2" xml:id="C009-lg5">
+                    <l n="9" xml:id="C009-l33"> Los ffets damor yo no puch ben entendre</l>
+                    <l n="10" xml:id="C009-l34"> De grans contrats mopinjo es plena</l>
+                    <l n="11" xml:id="C009-l35"> Horan lo iorn <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> no sent nulla pena</l>
+                    <l n="12" xml:id="C009-l36"> Pensant en so <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> vinch alarma rendre</l>
+                    <l n="13" xml:id="C009-l37"> Si altre veu / limaginar mj porta</l>
+                    <l n="14" xml:id="C009-l38">
+                        <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>Per</expan>
+                        </choice> dar senyall <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> io sia cragut</l>
+                    <l n="15" xml:id="C009-l39"> Supplich la mort quen tal cas me ajut</l>
+                    <l n="16" xml:id="C009-l40"> E si nom vall ma veritat iau morta</l>
                 </lg>
-            <lg type="tornada">
-                <l n="17" xml:id="C009-17"> Lir entre carts ffins a ue<add place="above">u</add>ra la porta</l>
-                <l n="18" xml:id="C009-18"> De mos delits sobirans so vengut</l>
-                <l n="19" xml:id="C009-19"> Noy he tocat ans men torn com amut</l>
-                <l n="20" xml:id="C009-20"> E per tornar ia trop la via torta</l>
+                <lg type="tornada" n="3" xml:id="C009-lg6">
+                    <l n="17" xml:id="C009-l41"> Lir entre carts ffins a ue<add place="above"
+                        >u</add>ra la porta</l>
+                    <l n="18" xml:id="C009-l42"> De mos delits sobirans so vengut</l>
+                    <l n="19" xml:id="C009-l43"> Noy he tocat ans men torn com amut</l>
+                    <l n="20" xml:id="C009-l44"> E per tornar ia trop la via torta</l>
                 </lg>
-        </lg>
+            </div>
         </body>
     </text>
 </TEI>

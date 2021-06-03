@@ -81,112 +81,122 @@
       <body>
          <pb n="203v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_459.html"/>
-         <lg type="poem" xml:id="C013-A061">
+         <div type="poem" xml:id="C013-A061">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">Olguen les gents / ab alagria festes</l>
-               
+
                <l n="2" xml:id="C013-2">Lohant adeu / antremesclant deports</l>
-               
+
                <l n="3" xml:id="C013-3">Places carrers / e delitables orts</l>
-               
+
                <l n="4" xml:id="C013-4">Sientrequants / ab records de grans gestes</l>
-               
+
                <l n="5" xml:id="C013-5">E vaia io / los sepulcres cerquant</l>
-               
+
                <l n="6" xml:id="C013-6">Jnterrogant / animas jnfernades</l>
-               
+
                <l n="7" xml:id="C013-7">E respondran / car no son companyades</l>
-               
+
                <l n="8" xml:id="C013-8">Daltre quamj / en son continuu plant</l>
             </lg>
-            
+
             <lg type="cobla" n="2" xml:id="C013-02">
                <l n="9" xml:id="C013-9">Cascu requer / evol ason semblant</l>
-               
+
                <l n="10" xml:id="C013-10">Perço nom plau / la pratica dels vius</l>
-               
-               <l n="11" xml:id="C013-11">Dimaginar / mos estats son <choice><abbr>esquiꝯ</abbr><expan>esquius</expan></choice></l>
-               
+
+               <l n="11" xml:id="C013-11">Dimaginar / mos estats son <choice>
+                     <abbr>esquiꝯ</abbr>
+                     <expan>esquius</expan>
+                  </choice></l>
+
                <l n="12" xml:id="C013-12">Sicom dom mort / demj prenen espant</l>
-               
+
                <l n="13" xml:id="C013-13">Lo Rey xipra / presoner dun heretge</l>
-               
+
                <l n="14" xml:id="C013-14">E mon esguard / no es maluhirat</l>
-               
+
                <l n="15" xml:id="C013-15">Car ço que vull / no sera may finat</l>
-               
+
                <l n="16" xml:id="C013-16">Demon desig / nom pora guorir metge</l>
             </lg>
-            
+
             <pb n="204r"
                facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_460.html"/>
             <lg type="cobla">
                <l n="17" xml:id="C013-17">Cell tixion / quil buytral mengal fetge</l>
-               
+
                <l n="18" xml:id="C013-18">E per tostemps / brota la carn de nou</l>
-               
+
                <l n="19" xml:id="C013-19"> En son menjar / aquell oçell may clou</l>
-               
+
                <l n="20" xml:id="C013-20">Pus fort dolor / daquesta mi te setge</l>
-               
+
                <l n="21" xml:id="C013-21">Cor es vn verm / qui romp la mia pensa</l>
-               
+
                <l n="22" xml:id="C013-22">Altre lo cor / qui may cessen de rompre</l>
-               
+
                <l n="23" xml:id="C013-23">Elur treball / nos pora enterrompre</l>
-               
+
                <l n="24" xml:id="C013-24">Sino ab ço / que dauer se deffensa</l>
             </lg>
-            
+
             <lg type="cobla">
                <l n="25" xml:id="C013-25">E si la mort / nom dugues tal offensa</l>
-            
+
                <l n="26" xml:id="C013-26">Ffer miabsent / duna tant plasent vista</l>
-               
+
                <l n="27" xml:id="C013-27">No li graesch / que de terra no vista</l>
-               
+
                <l n="28" xml:id="C013-28">Lo meu cor nuu / qui deplaher no pensa</l>
-               
-               <l n="29" xml:id="C013-29">De perdre <choice><abbr>pꝯ</abbr><expan>pus</expan></choice> / que lo jmaginar</l>
-                                
-               <l n="30" xml:id="C013-30">Los <choice><abbr>meꝯ</abbr><expan>meus</expan></choice> desigs / nos poden be complir</l>
-                  
+
+               <l n="29" xml:id="C013-29">De perdre <choice>
+                     <abbr>pꝯ</abbr>
+                     <expan>pus</expan>
+                  </choice> / que lo jmaginar</l>
+
+               <l n="30" xml:id="C013-30">Los <choice>
+                     <abbr>meꝯ</abbr>
+                     <expan>meus</expan>
+                  </choice> desigs / nos poden be complir</l>
+
                <l n="31" xml:id="C013-31">Car sim coue / mon derrer jorn finir</l>
-               
+
                <l n="32" xml:id="C013-32">Seran donats / termens aben amar</l>
             </lg>
-            
+
             <lg type="cobla">
                <l n="33" xml:id="C013-33">E sin lo cel / deu me vol allogar</l>
-               
+
                <l n="34" xml:id="C013-34">Part veura ell / per complir mon delit</l>
-               
+
                <l n="35" xml:id="C013-35">Sera mester / quem sia della dit</l>
-               
+
                <l n="36" xml:id="C013-36">Que desta mort / vos ha plegut plorar</l>
-               
+
                <l n="37" xml:id="C013-37">Penedint vos / com per pocha merce</l>
-               
+
                <l n="38" xml:id="C013-38">Mor lignocent / eper amar vos martre</l>
-               
+
                <l n="39" xml:id="C013-39">Cell qui locors / delarma vol departre</l>
-               
-               <l n="40" xml:id="C013-40">Si ferm cregues / <choice><abbr>queꝯ</abbr><expan>queus</expan></choice> dolrieu de se</l>
-                                 
+
+               <l n="40" xml:id="C013-40">Si ferm cregues / <choice>
+                     <abbr>queꝯ</abbr>
+                     <expan>queus</expan>
+                  </choice> dolrieu de se</l>
+
             </lg>
             <lg type="tornada">
                <l n="41" xml:id="C013-41">Lir entre carts / vos sabeu e io se</l>
-               
+
                <l n="42" xml:id="C013-42">Ques pot be fer / hom morir per amor</l>
-               
+
                <l n="43" xml:id="C013-43">Creure demj / que ço en tal dolor</l>
-               
+
                <l n="44" xml:id="C013-44">No fareu molt / quey doneu plena fe</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
-   
-</TEI>
 
-                  
+</TEI>

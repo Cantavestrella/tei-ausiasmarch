@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 20</title>
             <author>Ausiàs March </author>
@@ -78,155 +78,136 @@
       <body>
          <pb n="19v"
             facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_42.html"/>
-         <lg type="poem" xml:id="C020-B021">
+         <div type="poem" xml:id="C020-B021">
             <lg type="cobla" n="1" xml:id="C020-01">
-               
-               <l n="1" xml:id="C020-1"> Alsguns passats donaren si amort
-               </l>
-               
-               <l n="2" xml:id="C020-2"> Per scapar els mals quel mon aporta
-               </l>
-               
-               <l n="3" xml:id="C020-3"> E per hauer vberta quella porta
-               </l>
-               
-               <l n="4" xml:id="C020-4"> On los desitxs tots venen abon port
-               </l>
-               
-               <l n="5" xml:id="C020-5"> Amj no cal de <choice><abbr>aꝗst</abbr><expan>aquest</expan></choice> <choice><abbr>mȏ</abbr><expan>mon</expan></choice> exir
-               </l>
-               
-               <l n="6" xml:id="C020-6"> Peren cercar aquell sobiran be
-               </l>
-               
-               <l n="7" xml:id="C020-7"> En vos es tot enom cal darhi fe
-               </l>
-               
-               <l n="8" xml:id="C020-8"> Per vos tinch farts lentendrey lo centjr
-               </l>
+
+               <l n="1" xml:id="C020-1"> Alsguns passats donaren si amort </l>
+
+               <l n="2" xml:id="C020-2"> Per scapar els mals quel mon aporta </l>
+
+               <l n="3" xml:id="C020-3"> E per hauer vberta quella porta </l>
+
+               <l n="4" xml:id="C020-4"> On los desitxs tots venen abon port </l>
+
+               <l n="5" xml:id="C020-5"> Amj no cal de <choice>
+                     <abbr>aꝗst</abbr>
+                     <expan>aquest</expan>
+                  </choice>
+                  <choice>
+                     <abbr>mȏ</abbr>
+                     <expan>mon</expan>
+                  </choice> exir </l>
+
+               <l n="6" xml:id="C020-6"> Peren cercar aquell sobiran be </l>
+
+               <l n="7" xml:id="C020-7"> En vos es tot enom cal darhi fe </l>
+
+               <l n="8" xml:id="C020-8"> Per vos tinch farts lentendrey lo centjr </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C020-02">
-               
-               <l n="9" xml:id="C020-9"> Grat fas adeu com sens mort sofferir
-               </l>
-               
-               <l n="10" xml:id="C020-10"> Tinch dauant mi lo gotx del sperit
-               </l>
-               
-               <l n="11" xml:id="C020-11"> Ell es <choice><abbr>aꝗll</abbr><expan>aquell</expan></choice> mon sobiran delit
-               </l>
-               
-               <l n="12" xml:id="C020-12"> E lo darrer hon me plau romanjr
-               </l>
-               
-               <l n="13" xml:id="C020-13"> Ell es <choice><abbr>aꝗll</abbr><expan>aquell</expan></choice> qui desitx me sostrau
-               </l>
-               
-               <l n="14" xml:id="C020-14"> Ell es aquell hon mals e bens fenexen
-               </l>
-               
-               <l n="15" xml:id="C020-15"> Mos penssaments de altra part nos vexen
-               </l>
-               
-               <l n="16" xml:id="C020-16"> Ne an per bo si res fora dells cau
-               </l>
+
+               <l n="9" xml:id="C020-9"> Grat fas adeu com sens mort sofferir </l>
+
+               <l n="10" xml:id="C020-10"> Tinch dauant mi lo gotx del sperit </l>
+
+               <l n="11" xml:id="C020-11"> Ell es <choice>
+                     <abbr>aꝗll</abbr>
+                     <expan>aquell</expan>
+                  </choice> mon sobiran delit </l>
+
+               <l n="12" xml:id="C020-12"> E lo darrer hon me plau romanjr </l>
+
+               <l n="13" xml:id="C020-13"> Ell es <choice>
+                     <abbr>aꝗll</abbr>
+                     <expan>aquell</expan>
+                  </choice> qui desitx me sostrau </l>
+
+               <l n="14" xml:id="C020-14"> Ell es aquell hon mals e bens fenexen </l>
+
+               <l n="15" xml:id="C020-15"> Mos penssaments de altra part nos vexen </l>
+
+               <l n="16" xml:id="C020-16"> Ne an per bo si res fora dells cau </l>
             </lg>
             <pb n="20r"
                facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_43.html"/>
             <lg type="cobla" n="3" xml:id="C020-03">
-               
-               <l n="17" xml:id="C020-17"> Tant ma dolor es en sobiran grau
+
+               <l n="17" xml:id="C020-17"> Tant ma dolor es en sobiran grau </l>
+
+               <l n="18" xml:id="C020-18"> Com tinch present mon be carestios </l>
+
+               <l n="19" xml:id="C020-19"> Que si de mort vull ser volenteros </l>
+
+               <l n="20" xml:id="C020-20"> Nol puch hauer car merçe n<gap reason="illegible"
+                     extent="several words"/><note type="editorial">Una taca impedeix la
+                     lectura.</note>
                </l>
-               
-               <l n="18" xml:id="C020-18"> Com tinch present mon be carestios
+
+
+               <l n="21" xml:id="C020-21"> Grans crueltats daquest be <gap reason="illegible"
+                     extent="several words"/>rda </l>
+
+               <l n="22" xml:id="C020-22"> Per ço no toch ala porta quem obren </l>
+
+               <l n="23" xml:id="C020-23"> Mos sentiments clarament me <choice>
+                     <abbr>descobrȇ</abbr>
+                     <expan>descobren</expan>
+                  </choice>
                </l>
-               
-               <l n="19" xml:id="C020-19"> Que si de mort vull ser volenteros
-               </l>
-               
-               <l n="20" xml:id="C020-20"> Nol puch hauer car merçe n<gap reason="illegible" extent="several words"/><note type="editorial">Una taca impedeix la lectura.</note>
-               </l>
-               
-               
-               <l n="21" xml:id="C020-21"> Grans crueltats daquest be <gap reason="illegible" extent="several words"></gap>rda
-               </l>
-               
-               <l n="22" xml:id="C020-22"> Per ço no toch ala porta quem obren
-               </l>
-               
-               <l n="23" xml:id="C020-23"> Mos sentiments clarament me <choice><abbr>descobrȇ</abbr><expan>descobren</expan></choice>
-               </l>
-               
-               <l n="24" xml:id="C020-24"> Que vostre grat sacret amj no guarda
-               </l>
+
+               <l n="24" xml:id="C020-24"> Que vostre grat sacret amj no guarda </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C020-04">
-               
-               <l n="25" xml:id="C020-25"> Quascun semblant ab son semblant sesguarda
+
+               <l n="25" xml:id="C020-25"> Quascun semblant ab son semblant sesguarda </l>
+
+               <l n="26" xml:id="C020-26"> Donchs aquest dret qui es aquell quil romp </l>
+
+               <l n="27" xml:id="C020-27"> Yo jnclinat gran desitx me corromp </l>
+
+               <l n="28" xml:id="C020-28"> En desijar la que yo am ve tarda </l>
+
+               <l n="29" xml:id="C020-29"> E tardara si amor nol reuela </l>
+
+               <l n="30" xml:id="C020-30"> Los grans secrets quels amados <choice>
+                     <abbr>pratiquȇ</abbr>
+                     <expan>pratiquen</expan>
+                  </choice>
                </l>
-               
-               <l n="26" xml:id="C020-26"> Donchs aquest dret qui es aquell quil romp
-               </l>
-               
-               <l n="27" xml:id="C020-27"> Yo jnclinat gran desitx me corromp
-               </l>
-               
-               <l n="28" xml:id="C020-28"> En desijar la que yo am ve tarda
-               </l>
-               
-               <l n="29" xml:id="C020-29"> E tardara si amor nol reuela
-               </l>
-               
-               <l n="30" xml:id="C020-30"> Los grans secrets quels amados <choice><abbr>pratiquȇ</abbr><expan>pratiquen</expan></choice>
-               </l>
-               
-               <l n="31" xml:id="C020-31"> Tals que si no en cos gentil nos fiquen
-               </l>
-               
-               <l n="32" xml:id="C020-32"> Obedients ana venus stela
-               </l>
+
+               <l n="31" xml:id="C020-31"> Tals que si no en cos gentil nos fiquen </l>
+
+               <l n="32" xml:id="C020-32"> Obedients ana venus stela </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C020-05">
-               
-               <l n="33" xml:id="C020-33"> Si com lo foch quant es enla canela
-               </l>
-               
-               <l n="34" xml:id="C020-34"> Mostra desitx danar assa spera
-               </l>
-               
-               <l n="35" xml:id="C020-35"> Ma voluntat vn moment no spera
-               </l>
-               
-               <l n="36" xml:id="C020-36"> Tant com mjls pot als vents dona la vela
-               </l>
-               
-               <l n="37" xml:id="C020-37"> Per arribar al port molt desijat
-               </l>
-               
-               <l n="38" xml:id="C020-38"> En altre port amj no te lo ferre
-               </l>
-               
-               <l n="39" xml:id="C020-39"> E si del tot aquest me desefferre
-               </l>
-               
-               <l n="40" xml:id="C020-40"> En esta mar me trobare negat
-               </l>
+
+               <l n="33" xml:id="C020-33"> Si com lo foch quant es enla canela </l>
+
+               <l n="34" xml:id="C020-34"> Mostra desitx danar assa spera </l>
+
+               <l n="35" xml:id="C020-35"> Ma voluntat vn moment no spera </l>
+
+               <l n="36" xml:id="C020-36"> Tant com mjls pot als vents dona la vela </l>
+
+               <l n="37" xml:id="C020-37"> Per arribar al port molt desijat </l>
+
+               <l n="38" xml:id="C020-38"> En altre port amj no te lo ferre </l>
+
+               <l n="39" xml:id="C020-39"> E si del tot aquest me desefferre </l>
+
+               <l n="40" xml:id="C020-40"> En esta mar me trobare negat </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C020-06">
-               
-               <l n="41" xml:id="C020-41"> Lir entre carts dich vos la veritat
-               </l>
-               
-               <l n="42" xml:id="C020-42"> Que si podeu saber ma gran amor
-               </l>
-               
-               <l n="43" xml:id="C020-43"> Creure no puch no sentau gran dolor
-               </l>
-               
-               <l n="44" xml:id="C020-44"> Nem fallira de ben amar lo grat./
-               </l>
+            <lg type="tornada" n="6" xml:id="C020-06">
+
+               <l n="41" xml:id="C020-41"> Lir entre carts dich vos la veritat </l>
+
+               <l n="42" xml:id="C020-42"> Que si podeu saber ma gran amor </l>
+
+               <l n="43" xml:id="C020-43"> Creure no puch no sentau gran dolor </l>
+
+               <l n="44" xml:id="C020-44"> Nem fallira de ben amar lo grat./ </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

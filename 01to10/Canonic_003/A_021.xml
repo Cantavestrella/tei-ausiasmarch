@@ -40,7 +40,8 @@
                      <rubric>
                         <locus>f. 204r between lines 40 and 41 </locus>Tornada </rubric>
                      <rubric>
-                        <note>Sense rúbrica ni caplletra. Aquesta poesia es troba copiada també en el fol. 47v amb un inici diferent.</note>
+                        <note>Sense rúbrica ni caplletra. Aquesta poesia es troba copiada també en
+                           el fol. 47v amb un inici diferent.</note>
                      </rubric>
                   </msItem>
                </msContents>
@@ -61,40 +62,50 @@
    </teiHeader>
    <facsimile>
       <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_151.html"/>
+         url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_151.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="50v"
             facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_151.html"/>
-         <lg type="poem" n="3" xml:id="C003-A021">
-            <lg type="cobla" n="1" xml:id="C003-1">
-               <l n="1" xml:id="C0003-1">Per moltamor / don gran desig sengendra</l>
-               <l n="2" xml:id="C003-2">Esper vinent / per tots aquests grahons</l>
-               <l n="3" xml:id="C003-3">Me son delits / mes donem passions</l>
-               <l n="4" xml:id="C003-4">La por del mal / quim famagrir carn tendre</l>
-               <l n="5" xml:id="C003-5">E port al cor / sens fum continuu foch</l>
-               <l n="6" xml:id="C003-6">E la calor / no surt apart defora</l>
-               <l n="7" xml:id="C003-7">Socorreu me / dins los termens dunora</l>
-               <l n="8" xml:id="C003-8">Car mos senyals / demostren viure poch</l>
+         <div type="poem" xml:id="C003-A021">
+            <lg type="cobla" n="1" xml:id="C003-lg1">
+               <l n="1" xml:id="C003-l1">Per moltamor / don gran desig sengendra</l>
+               <l n="2" xml:id="C003-l2">Esper vinent / per tots aquests grahons</l>
+               <l n="3" xml:id="C003-l3">Me son delits / mes donem passions</l>
+               <l n="4" xml:id="C003-l4">La por del mal / quim famagrir carn tendre</l>
+               <l n="5" xml:id="C003-l5">E port al cor / sens fum continuu foch</l>
+               <l n="6" xml:id="C003-l6">E la calor / no surt apart defora</l>
+               <l n="7" xml:id="C003-l7">Socorreu me / dins los termens dunora</l>
+               <l n="8" xml:id="C003-l8">Car mos senyals / demostren viure poch</l>
             </lg>
-            <lg type="cobla" n="2" xml:id="C0003-2">
-               <l n="9" xml:id="C003-9">Metge scient / no te lo cas per joch</l>
-               <l n="10" xml:id="C003-10">Com el calor / no surt apart estrema</l>
-               <l n="11" xml:id="C003-11">Lignorant veu / quelo malalt no crema</l>
-               <l n="12" xml:id="C003-12">E iutgel sa / pusque mostre bon toch</l>
-               <l n="13" xml:id="C003-13">Lo pacient / no poradir son mal</l>
-               <l n="14" xml:id="C003-14">Tot affablit / ab lengua mal diserta</l>
-               <l n="15" xml:id="C003-15">Gets ecolor / assats fan descuberta</l>
-               <l n="16" xml:id="C003-16">Part del affany / que tant com lo dir val</l>
+            <lg type="cobla" n="2" xml:id="C003-lg2">
+               <l n="9" xml:id="C003-l9">Metge scient / no te lo cas per joch</l>
+               <l n="10" xml:id="C003-l10">Com el calor / no surt apart estrema</l>
+               <l n="11" xml:id="C003-l11">Lignorant veu / quelo malalt no crema</l>
+               <l n="12" xml:id="C003-l12">E iutgel sa / pusque mostre bon toch</l>
+               <l n="13" xml:id="C003-l13">Lo pacient / no poradir son mal</l>
+               <l n="14" xml:id="C003-l14">Tot affablit / ab lengua mal diserta</l>
+               <l n="15" xml:id="C003-l15">Gets ecolor / assats fan descuberta</l>
+               <l n="16" xml:id="C003-l16">Part del affany / que tant com lo dir val</l>
             </lg>
-            <lg type="tornada">
-               <l n="41" xml:id="C003-41">Plena de seny / dir vos <choice><abbr>quę</abbr><expan>queus</expan></choice> am no cal</l>
-               <l n="42" xml:id="C003-42">Puys crech decert / <choice><abbr>quę</abbr><expan>queus</expan></choice> ne teniu per serta</l>
-               <l n="43" xml:id="C003-43">Si be mostrau / <choice><abbr>quę</abbr><expan>queus</expan></choice> esta molt cuberta</l>
-               <l n="44" xml:id="C003-44">Cella perqui / amor es desagual</l>
+            <lg type="tornada" n="3" xml:id="C003-lg3">
+               <l n="17" xml:id="C003-l17">Plena de seny / dir vos <choice>
+                     <abbr>queꝯ</abbr>
+                     <expan>queus</expan>
+                  </choice> am no cal</l>
+               <l n="18" xml:id="C003-l18">Puys crech decert / <choice>
+                     <abbr>queꝯ</abbr>
+                     <expan>queus</expan>
+                  </choice> ne teniu per serta</l>
+               <l n="19" xml:id="C003-l19">Si be mostrau / <choice>
+                     <abbr>queꝯ</abbr>
+                     <expan>queus</expan>
+                  </choice> esta molt cuberta</l>
+               <l n="20" xml:id="C003-l20">Cella perqui / amor es desagual</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 11</title>
             <author>Ausiàs March </author>
@@ -49,7 +49,10 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 10r after end of previous poem, before this one: </locus><choice><abbr>moß</abbr><expan>mossen</expan></choice> auzias march </rubric>
+                        <locus>f. 10r after end of previous poem, before this one: </locus><choice>
+                           <abbr>moß</abbr>
+                           <expan>mossen</expan>
+                        </choice> auzias march </rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -70,146 +73,159 @@
    <facsimile>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_14.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_15.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_15.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="10r"
             facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_14.html"/>
-         <lg type="poem" xml:id="C011-H007">
+         <div type="poem" xml:id="C011-H007">
             <lg type="cobla" n="1" xml:id="C011-01">
-               
-               <l n="1" xml:id="C011-1"> Qujns tan segurs consels vas <choice><abbr>enserquȃt</abbr><expan>enserquant</expan></choice>
+
+               <l n="1" xml:id="C011-1"> Qujns tan segurs consels vas <choice>
+                     <abbr>enserquȃt</abbr>
+                     <expan>enserquant</expan>
+                  </choice>
                </l>
-               
-               <l n="2" xml:id="C011-2"> Cor malestruch e fastiyat de viura
-               </l>
-               
-               <l n="3" xml:id="C011-3"> Amjch de pler / e desenemjch de riura
-               </l>
-               
-               <l n="4" xml:id="C011-4"> Com soferras / los mals <choice><abbr>ꝙtson</abbr><expan>quitson</expan></choice> denant
-               </l>
-               
-               <l n="5" xml:id="C011-5"> Acuytat donchs ala mort <choice><abbr>ꝙt</abbr><expan>quit</expan></choice> espera
-               </l>
-               
-               <l n="6" xml:id="C011-6"> E per tos mals / te alongas losiorns
-               </l>
-               
-               <l n="7" xml:id="C011-7"> Aytant es <choice><abbr>lȗy</abbr><expan>luny</expan></choice> / ton delitos soiorns
-               </l>
-               
-               <l n="8" xml:id="C011-8"> Com vols fugir ala mort falagera
-               </l>
+
+               <l n="2" xml:id="C011-2"> Cor malestruch e fastiyat de viura </l>
+
+               <l n="3" xml:id="C011-3"> Amjch de pler / e desenemjch de riura </l>
+
+               <l n="4" xml:id="C011-4"> Com soferras / los mals <choice>
+                     <abbr>ꝙtson</abbr>
+                     <expan>quitson</expan>
+                  </choice> denant </l>
+
+               <l n="5" xml:id="C011-5"> Acuytat donchs ala mort <choice>
+                     <abbr>ꝙt</abbr>
+                     <expan>quit</expan>
+                  </choice> espera </l>
+
+               <l n="6" xml:id="C011-6"> E per tos mals / te alongas losiorns </l>
+
+               <l n="7" xml:id="C011-7"> Aytant es <choice>
+                     <abbr>lȗy</abbr>
+                     <expan>luny</expan>
+                  </choice> / ton delitos soiorns </l>
+
+               <l n="8" xml:id="C011-8"> Com vols fugir ala mort falagera </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C011-02">
-               
-               <l n="9" xml:id="C011-9"> Brassos vberts es exida carrera
-               </l>
-               
-               <l n="10" xml:id="C011-10"> Plorant sos huls <choice><abbr>ꝑ</abbr><expan>per</expan></choice> sobres <choice><abbr>ƌ</abbr><expan>de</expan></choice> gran goig
-               </l>
-               
-               <l n="11" xml:id="C011-11"> Melodios cantar de se veu oig
-               </l>
-               
-               <l n="12" xml:id="C011-12"> Dient amjch / hix de casastrangera
-               </l>
-               
-               <l n="13" xml:id="C011-13"> En delit prench de dar te ma fauor
-               </l>
-               
-               <l n="14" xml:id="C011-14"> Que <choice><abbr>ꝑ</abbr><expan>per</expan></choice> null temps / home nat la sentida
-               </l>
-            <pb n="10v"
-               facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_15.html"/>
-               <l n="15" xml:id="C011-15"> Car io defuig atot home <choice><abbr>ꝙm</abbr><expan></expan></choice> crida
-               </l>
-               
-               <l n="16" xml:id="C011-16"> Prenent aquell <choice><abbr>ꝙ</abbr><expan>qui</expan></choice> fuig <choice><abbr>ƌ</abbr><expan>e</expan></choice> ma rigor
-               </l>
+
+               <l n="9" xml:id="C011-9"> Brassos vberts es exida carrera </l>
+
+               <l n="10" xml:id="C011-10"> Plorant sos huls <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> sobres <choice>
+                     <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice> gran goig </l>
+
+               <l n="11" xml:id="C011-11"> Melodios cantar de se veu oig </l>
+
+               <l n="12" xml:id="C011-12"> Dient amjch / hix de casastrangera </l>
+
+               <l n="13" xml:id="C011-13"> En delit prench de dar te ma fauor </l>
+
+               <l n="14" xml:id="C011-14"> Que <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> null temps / home nat la sentida </l>
+               <pb n="10v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_15.html"/>
+               <l n="15" xml:id="C011-15"> Car io defuig atot home <choice>
+                     <abbr>ꝙm</abbr>
+                     <expan/>
+                  </choice> crida </l>
+
+               <l n="16" xml:id="C011-16"> Prenent aquell <choice>
+                     <abbr>ꝙ</abbr>
+                     <expan>qui</expan>
+                  </choice> fuig <choice>
+                     <abbr>ƌ</abbr>
+                     <expan>e</expan>
+                  </choice> ma rigor </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C011-03">
-               
-               <l n="17" xml:id="C011-17"> Ab hulls plorants e cara de terror
-               </l>
-               
-               <l n="18" xml:id="C011-18"> Cabels rompents / ab grans vdolaments
-               </l>
-               
-               <l n="19" xml:id="C011-19"> La ujdam uol donar eretaments
-               </l>
-               
-               <l n="20" xml:id="C011-20"> E daquests dons vol <choice><abbr>ꝗ</abbr><expan>que</expan></choice> sia senyor
-               </l>
-               
-               <l n="21" xml:id="C011-21"> Cridant ab veu orrjble y dolorossa
-               </l>
-               
-               <l n="22" xml:id="C011-22"> Tall com la mort / cridal benuyrat
-               </l>
-               
-               <l n="23" xml:id="C011-23"> Car si lom es amalls aparallat
-               </l>
-               
-               <l n="24" xml:id="C011-24"> La veu de mort li es melodiossa
-               </l>
+
+               <l n="17" xml:id="C011-17"> Ab hulls plorants e cara de terror </l>
+
+               <l n="18" xml:id="C011-18"> Cabels rompents / ab grans vdolaments </l>
+
+               <l n="19" xml:id="C011-19"> La ujdam uol donar eretaments </l>
+
+               <l n="20" xml:id="C011-20"> E daquests dons vol <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> sia senyor </l>
+
+               <l n="21" xml:id="C011-21"> Cridant ab veu orrjble y dolorossa </l>
+
+               <l n="22" xml:id="C011-22"> Tall com la mort / cridal benuyrat </l>
+
+               <l n="23" xml:id="C011-23"> Car si lom es amalls aparallat </l>
+
+               <l n="24" xml:id="C011-24"> La veu de mort li es melodiossa </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C011-04">
-               
-               <l n="25" xml:id="C011-25"> Bem merauell com es tan argullosa
-               </l>
-               
-               <l n="26" xml:id="C011-26"> La volentat / de cascun amador
-               </l>
-               
-               <l n="27" xml:id="C011-27"> No demenant / amj que es amor
-               </l>
-               
-               <l n="28" xml:id="C011-28"> En mj sabran / ça força poderosa
-               </l>
-               
-               <l n="29" xml:id="C011-29"> Tots mal dients / çagramentaiaran
-               </l>
-               
-               <l n="30" xml:id="C011-30"> Que may amor / los tindran son poder
-               </l>
-               
-               <l n="31" xml:id="C011-31"> E sils <choice><abbr>recomŧ</abbr><expan>recomte</expan></choice> / la colorat plaer
-               </l>
-               
-               <l n="32" xml:id="C011-32"> Lo temps perdut sospirant mal diran
-               </l>
+
+               <l n="25" xml:id="C011-25"> Bem merauell com es tan argullosa </l>
+
+               <l n="26" xml:id="C011-26"> La volentat / de cascun amador </l>
+
+               <l n="27" xml:id="C011-27"> No demenant / amj que es amor </l>
+
+               <l n="28" xml:id="C011-28"> En mj sabran / ça força poderosa </l>
+
+               <l n="29" xml:id="C011-29"> Tots mal dients / çagramentaiaran </l>
+
+               <l n="30" xml:id="C011-30"> Que may amor / los tindran son poder </l>
+
+               <l n="31" xml:id="C011-31"> E sils <choice>
+                     <abbr>recomŧ</abbr>
+                     <expan>recomte</expan>
+                  </choice> / la colorat plaer </l>
+
+               <l n="32" xml:id="C011-32"> Lo temps perdut sospirant mal diran </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C011-05">
-               
-               <l n="33" xml:id="C011-33"> Null hom conech / odonal mon semblant
+
+               <l n="33" xml:id="C011-33"> Null hom conech / odonal mon semblant </l>
+
+               <l n="34" xml:id="C011-34"> Que dolorit / <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> amor faça planyer </l>
+
+               <l n="35" xml:id="C011-35"> Yo so aquell / de <choice>
+                     <abbr>ꝙs</abbr>
+                     <expan>quis</expan>
+                  </choice> deu hom <choice>
+                     <abbr>complȃyer</abbr>
+                     <expan>complanyer</expan>
+                  </choice>
                </l>
-               
-               <l n="34" xml:id="C011-34"> Que dolorit / <choice><abbr>ꝑ</abbr><expan>per</expan></choice> amor faça planyer
-               </l>
-               
-               <l n="35" xml:id="C011-35"> Yo so aquell / de <choice><abbr>ꝙs</abbr><expan>quis</expan></choice> deu hom <choice><abbr>complȃyer</abbr><expan>complanyer</expan></choice>
-               </l>
-               
-               <l n="36" xml:id="C011-36"> Car de mon cor la sanch sen va lunyant
-               </l>
-               
-               <l n="37" xml:id="C011-37"> Per gran tristor / que li es acostada
-               </l>
-               
-               <l n="38" xml:id="C011-38"> Secas tots iorns / lomjt <choice><abbr>ꝙm</abbr><expan>quim</expan></choice> soste vida
-               </l>
-               
-               <l n="39" xml:id="C011-39"> E la tristor contra mj es ardida
-               </l>
-               
-               <l n="40" xml:id="C011-40"> En mon socors may no si trobarmada <note type="editorial">Manca la tornada.</note>
+
+               <l n="36" xml:id="C011-36"> Car de mon cor la sanch sen va lunyant </l>
+
+               <l n="37" xml:id="C011-37"> Per gran tristor / que li es acostada </l>
+
+               <l n="38" xml:id="C011-38"> Secas tots iorns / lomjt <choice>
+                     <abbr>ꝙm</abbr>
+                     <expan>quim</expan>
+                  </choice> soste vida </l>
+
+               <l n="39" xml:id="C011-39"> E la tristor contra mj es ardida </l>
+
+               <l n="40" xml:id="C011-40"> En mon socors may no si trobarmada <note type="editorial"
+                     >Manca la tornada.</note>
                </l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

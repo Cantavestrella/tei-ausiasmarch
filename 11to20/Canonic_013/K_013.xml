@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 13</title>
             <author>Ausiàs March </author>
@@ -72,116 +72,175 @@
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_33.html"/>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_34.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_35.html"></graphic>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_35.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="13v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_33.html"/>
-         <lg type="poem" xml:id="C013-K013">
+         <div type="poem" xml:id="C013-K013">
             <lg type="cobla" n="1" xml:id="C013-01">
-               <l n="1" xml:id="C013-1">c Olguen las gents  ab alegria festes</l>
-               
+               <l n="1" xml:id="C013-1">c Olguen las gents ab alegria festes</l>
+
                <l n="2" xml:id="C013-2">Loant adeu entremesclant deports</l>
-               
+
                <l n="3" xml:id="C013-3">Plaçes carres e delitables orts</l>
-               
-               <l n="4" xml:id="C013-4">Sien serrats ab recont de <choice><abbr>grȃs</abbr><expan>grans</expan></choice> gestes</l>
-               
+
+               <l n="4" xml:id="C013-4">Sien serrats ab recont de <choice>
+                     <abbr>grȃs</abbr>
+                     <expan>grans</expan>
+                  </choice> gestes</l>
+
                <l n="5" xml:id="C013-5">E vaia yo los sepulcres sercant</l>
-               
+
                <l n="6" xml:id="C013-6">Interrogant animes jnfernades</l>
-               
-               <l n="7" xml:id="C013-7">E <choice><abbr>respondrȃ</abbr><expan>respondran</expan></choice> car no son <choice><abbr>cȏpanyades</abbr><expan>companyades</expan></choice></l>
-               
-               <l n="8" xml:id="C013-8">Daltre <choice><abbr>ꝗ</abbr><expan>que</expan></choice> mi en son continuu plant</l>
+
+               <l n="7" xml:id="C013-7">E <choice>
+                     <abbr>respondrȃ</abbr>
+                     <expan>respondran</expan>
+                  </choice> car no son <choice>
+                     <abbr>cȏpanyades</abbr>
+                     <expan>companyades</expan>
+                  </choice></l>
+
+               <l n="8" xml:id="C013-8">Daltre <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> mi en son continuu plant</l>
             </lg>
-            
+
             <lg type="cobla" n="2" xml:id="C013-02">
-               <l n="9" xml:id="C013-9">Cascu <choice><abbr>reꝗr</abbr><expan>requer</expan></choice> e vol ason semblant</l>
-               
-               <l n="10" xml:id="C013-10">Per ço nom plau la pratica <choice><abbr>ƌls</abbr><expan>dels</expan></choice> vius</l>
-            <pb n="14r"
-               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_34.html"/>
+               <l n="9" xml:id="C013-9">Cascu <choice>
+                     <abbr>reꝗr</abbr>
+                     <expan>requer</expan>
+                  </choice> e vol ason semblant</l>
+
+               <l n="10" xml:id="C013-10">Per ço nom plau la pratica <choice>
+                     <abbr>ƌls</abbr>
+                     <expan>dels</expan>
+                  </choice> vius</l>
+               <pb n="14r"
+                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_34.html"/>
                <l n="11" xml:id="C013-11">Dimaginar mon stat son squius</l>
-               
+
                <l n="12" xml:id="C013-12">Si com dom mort de mi prenen spant</l>
-               
-               <l n="13" xml:id="C013-13">Lo rey xipre presoner <choice><abbr>dȗ</abbr><expan>dun</expan></choice> eretie</l>
-               
+
+               <l n="13" xml:id="C013-13">Lo rey xipre presoner <choice>
+                     <abbr>dȗ</abbr>
+                     <expan>dun</expan>
+                  </choice> eretie</l>
+
                <l n="14" xml:id="C013-14">En mon sguart no es malauyrat</l>
-               
-               <l n="15" xml:id="C013-15">Car ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> vull no sera may finat</l>
-               
+
+               <l n="15" xml:id="C013-15">Car ço <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> vull no sera may finat</l>
+
                <l n="16" xml:id="C013-16">De mon desitx nom pora gorir metie</l>
             </lg>
-            
+
             <lg type="cobla" n="3" xml:id="C013-03">
                <l n="17" xml:id="C013-17">Cell tixion qui buytrel menial fetie</l>
-            
+
                <l n="18" xml:id="C013-18">E per tostemps brota la carn de nou</l>
-               
-               <l n="19" xml:id="C013-19">En son meniar <choice><abbr>aꝗll</abbr><expan>aquell</expan></choice> ocell may clou</l>
-               
-               <l n="20" xml:id="C013-20">Pus fort dolor <choice><abbr>daꝗstam</abbr><expan>daquestam</expan></choice> te lo setie</l>
-               
-               <l n="21" xml:id="C013-21">Cor es vn verm quim romp la mia <choice><abbr>pȇsa</abbr><expan>pensa</expan></choice></l>
-               
+
+               <l n="19" xml:id="C013-19">En son meniar <choice>
+                     <abbr>aꝗll</abbr>
+                     <expan>aquell</expan>
+                  </choice> ocell may clou</l>
+
+               <l n="20" xml:id="C013-20">Pus fort dolor <choice>
+                     <abbr>daꝗstam</abbr>
+                     <expan>daquestam</expan>
+                  </choice> te lo setie</l>
+
+               <l n="21" xml:id="C013-21">Cor es vn verm quim romp la mia <choice>
+                     <abbr>pȇsa</abbr>
+                     <expan>pensa</expan>
+                  </choice></l>
+
                <l n="22" xml:id="C013-22">Altre lo cor qui may cessa de rompre</l>
-               
+
                <l n="23" xml:id="C013-23">E llur treball nos pora entrerompre</l>
-               
-               <l n="24" xml:id="C013-24">Sino ab ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> dauer se defença</l>
+
+               <l n="24" xml:id="C013-24">Sino ab ço <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> dauer se defença</l>
             </lg>
-            
+
             <lg type="cobla" n="4" xml:id="C013-04">
                <l n="25" xml:id="C013-25">E si lamort nom degues tal offença</l>
-            
+
                <l n="26" xml:id="C013-26">Fermi absent duna tan plasent vista</l>
-               
-               <l n="27" xml:id="C013-27">No li graesch <choice><abbr>ꝗ</abbr><expan>que</expan></choice> de terra no vista</l>
-               
-               <l n="28" xml:id="C013-28">Lo meu cos nuu qui de pahor no <choice><abbr>pȇsa</abbr><expan>pensa</expan></choice></l>
-               
-               <l n="29" xml:id="C013-29">De perdre pus <choice><abbr>ꝗ</abbr><expan>que</expan></choice> lo ymaginar</l>
-               
-               <l n="30" xml:id="C013-30">Los meus desitxs no poder se <choice><abbr>cȏplir</abbr><expan>complir</expan></choice></l>
-               
+
+               <l n="27" xml:id="C013-27">No li graesch <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> de terra no vista</l>
+
+               <l n="28" xml:id="C013-28">Lo meu cos nuu qui de pahor no <choice>
+                     <abbr>pȇsa</abbr>
+                     <expan>pensa</expan>
+                  </choice></l>
+
+               <l n="29" xml:id="C013-29">De perdre pus <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> lo ymaginar</l>
+
+               <l n="30" xml:id="C013-30">Los meus desitxs no poder se <choice>
+                     <abbr>cȏplir</abbr>
+                     <expan>complir</expan>
+                  </choice></l>
+
                <l n="31" xml:id="C013-31">E sim corre mon darrer jorn finjr</l>
-               
+
                <l n="32" xml:id="C013-32">Seran donats termens aben amar</l>
             </lg>
-            
+
             <lg type="cobla" n="5" xml:id="C013-05">
                <l n="33" xml:id="C013-33">E sin lo çel deu me vol allogar</l>
-            <pb n="14v"
-               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_35.html"/>
-               <l n="34" xml:id="C013-34">Part veura ell per complir <choice><abbr>mȏ</abbr><expan>mon</expan></choice> <choice><abbr>ƌlit</abbr><expan>delit</expan></choice></l>
-            
+               <pb n="14v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_35.html"/>
+               <l n="34" xml:id="C013-34">Part veura ell per complir <choice>
+                     <abbr>mȏ</abbr>
+                     <expan>mon</expan>
+                  </choice>
+                  <choice>
+                     <abbr>ƌlit</abbr>
+                     <expan>delit</expan>
+                  </choice></l>
+
                <l n="35" xml:id="C013-35">Sera mester quem sia delay dit</l>
-               
+
                <l n="36" xml:id="C013-36">Que desta mort vos ha plagut plorar</l>
-               
+
                <l n="37" xml:id="C013-37">Penedint uos com per pocha merce</l>
-               
+
                <l n="38" xml:id="C013-38">Mor lignocent e per amaruos martre</l>
-               
+
                <l n="39" xml:id="C013-39">Cell qui lo cos de larma vol departre</l>
-               
+
                <l n="40" xml:id="C013-40">Si ferm creges queus dolrrieu de se</l>
             </lg>
-            
-            <lg type="cobla" n="6" xml:id="C013-06">
+
+            <lg type="tornada" n="6" xml:id="C013-06">
                <l n="41" xml:id="C013-41">Lir entre carts vos sabeu e yo se</l>
-            
-               <l n="42" xml:id="C013-42">Ques pot be fer hom morir <choice><abbr>ꝑ</abbr><expan>per</expan></choice> amor</l>
-               
+
+               <l n="42" xml:id="C013-42">Ques pot be fer hom morir <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> amor</l>
+
                <l n="43" xml:id="C013-43">Creure de mi que so ental dolor</l>
-               
+
                <l n="44" xml:id="C013-44">No fareu molt quey doneu plena fe</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

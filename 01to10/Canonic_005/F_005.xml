@@ -79,67 +79,67 @@
         <body>
     <pb n="3v"
         facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_10.html"/>
-        <lg type="poem" xml:id="C005-F005">
-        <lg type="cobla" n="1" xml:id="C0005-1">
-            <l n="1" xml:id="C005-1"> Tant he amat que mon grosser enginy</l>
-            <l n="2" xml:id="C005-2"> Per gran treball de pensa es suptil</l>
-            <l n="3" xml:id="C005-3"> Lexant apart aquell sentiment uil</l>
-            <l n="4" xml:id="C005-4"> Quen jorn present los enamorats ciny</l>
-            <l n="5" xml:id="C005-5"> So tant sabent que se ben departir</l>
-            <l n="6" xml:id="C005-6"> Amor daquell desig no uirtuos</l>
-            <l n="7" xml:id="C005-7"> Car tot desig retent hom congoxos</l>
-            <l n="8" xml:id="C005-8"> Nos ueramor ne per tal se deu dir</l>
+        <div type="poem" xml:id="C005-F005">
+        <lg type="cobla" n="1" xml:id="C005-lg1">
+            <l n="1" xml:id="C005-l1"> Tant he amat que mon grosser enginy</l>
+            <l n="2" xml:id="C005-l2"> Per gran treball de pensa es suptil</l>
+            <l n="3" xml:id="C005-l3"> Lexant apart aquell sentiment uil</l>
+            <l n="4" xml:id="C005-l4"> Quen jorn present los enamorats ciny</l>
+            <l n="5" xml:id="C005-l5"> So tant sabent que se ben departir</l>
+            <l n="6" xml:id="C005-l6"> Amor daquell desig no uirtuos</l>
+            <l n="7" xml:id="C005-l7"> Car tot desig retent hom congoxos</l>
+            <l n="8" xml:id="C005-l8"> Nos ueramor ne per tal se deu dir</l>
             </lg>
     <pb n="4r"
         facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_11.html"/> 
-        <lg type="cobla" n="2" xml:id="C0005-2">
-            <l n="9" xml:id="C005-9"> Axi com deu quj nol plach descobrir</l>
-            <l n="10" xml:id="C005-10"> Stant enclos en lo uirginal uentre</l>
-            <l n="11" xml:id="C005-11"> E quant isque defora daquell centre</l>
-            <l n="12" xml:id="C005-12"> May lo setan lo poch ben discernjr</l>
-            <l n="13" xml:id="C005-13"> Ans quant en ell ueyal cors de natura</l>
-            <l n="14" xml:id="C005-14"> Creya de cert aquell no esser deu</l>
-            <l n="15" xml:id="C005-15"> Mas ia retut son sperit en creu</l>
-            <l n="16" xml:id="C005-16"> Sabel mester que paradis procura</l>
+        <lg type="cobla" n="2" xml:id="C005-lg2">
+            <l n="9" xml:id="C005-l9"> Axi com deu quj nol plach descobrir</l>
+            <l n="10" xml:id="C005-l10"> Stant enclos en lo uirginal uentre</l>
+            <l n="11" xml:id="C005-l11"> E quant isque defora daquell centre</l>
+            <l n="12" xml:id="C005-l12"> May lo setan lo poch ben discernjr</l>
+            <l n="13" xml:id="C005-l13"> Ans quant en ell ueyal cors de natura</l>
+            <l n="14" xml:id="C005-l14"> Creya de cert aquell no esser deu</l>
+            <l n="15" xml:id="C005-l15"> Mas ia retut son sperit en creu</l>
+            <l n="16" xml:id="C005-l16"> Sabel mester que paradis procura</l>
             </lg>
-        <lg type="cobla" n="3" xml:id="C0005-3">
-            <l n="17" xml:id="C005-17"> Per mals parles e tret saber cura</l>
-            <l n="18" xml:id="C005-18"> De retenir lo foch damor sens fum</l>
-            <l n="19" xml:id="C005-19"> E per aco he carteiat uolum</l>
-            <l n="20" xml:id="C005-20"> Daquell saber que sens amor no dura</l>
-            <l n="21" xml:id="C005-21"> Viscut he molt sens esser conegut</l>
-            <l n="22" xml:id="C005-22"> Per molts senyals que fictes he mostrat<del type="overstrike">s</del></l>
-            <l n="23" xml:id="C005-23"> Mas quant sere per hom foll publicat<del type="overstrike">s</del></l>
-            <l n="24" xml:id="C005-24"> Sera ben cert lo tart apercebut</l>
+        <lg type="cobla" n="3" xml:id="C005-lg3">
+            <l n="17" xml:id="C005-l17"> Per mals parles e tret saber cura</l>
+            <l n="18" xml:id="C005-l18"> De retenir lo foch damor sens fum</l>
+            <l n="19" xml:id="C005-l19"> E per aco he carteiat uolum</l>
+            <l n="20" xml:id="C005-l20"> Daquell saber que sens amor no dura</l>
+            <l n="21" xml:id="C005-l21"> Viscut he molt sens esser conegut</l>
+            <l n="22" xml:id="C005-l22"> Per molts senyals que fictes he mostrat<del rend="overstrike">s</del></l>
+            <l n="23" xml:id="C005-l23"> Mas quant sere per hom foll publicat<del rend="overstrike">s</del></l>
+            <l n="24" xml:id="C005-l24"> Sera ben cert lo tart apercebut</l>
             </lg>
-        <lg type="cobla" n="4" xml:id="C0005-4">
-            <l n="25" xml:id="C005-25"> Sia enuos aytant de be caygut</l>
-            <l n="26" xml:id="C005-26"> Obrant en uos areglada merce</l>
-            <l n="27" xml:id="C005-27"> Que uehent mj despulat de tot be</l>
-            <l n="28" xml:id="C005-28"> Nom despreheu pel dan amj uengut</l>
-            <l n="29" xml:id="C005-29"> E si per uos e nom de foll ates</l>
-            <l n="30" xml:id="C005-30"> E contra mj fo restat malmjrent</l>
-            <l n="31" xml:id="C005-31"> Sia per uos cregut saui sabent</l>
-            <l n="32" xml:id="C005-32"> Puys que per uos mon seny aure despes</l>
+        <lg type="cobla" n="4" xml:id="C005-lg4">
+            <l n="25" xml:id="C005-l25"> Sia enuos aytant de be caygut</l>
+            <l n="26" xml:id="C005-l26"> Obrant en uos areglada merce</l>
+            <l n="27" xml:id="C005-l27"> Que uehent mj despulat de tot be</l>
+            <l n="28" xml:id="C005-l28"> Nom despreheu pel dan amj uengut</l>
+            <l n="29" xml:id="C005-l29"> E si per uos e nom de foll ates</l>
+            <l n="30" xml:id="C005-l30"> E contra mj fo restat malmjrent</l>
+            <l n="31" xml:id="C005-l31"> Sia per uos cregut saui sabent</l>
+            <l n="32" xml:id="C005-l32"> Puys que per uos mon seny aure despes</l>
             </lg>
             <pb n="4v" facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_12.html"/> 
-        <lg type="cobla" n="5" xml:id="C0005-5">
-            <l n="33" xml:id="C005-33"> Si per amar auos hauiates</l>
-            <l n="34" xml:id="C005-34"> Honor e bens belleay sauiesa</l>
-            <l n="35" xml:id="C005-35"> Lamor <choice><abbr>quę</abbr><expan>queus</expan></choice> he tendria per ofesa</l>
-            <l n="36" xml:id="C005-36"> Si tal senblant en uos no paregues</l>
-            <l n="37" xml:id="C005-37"> Ma uoluntat en si tal carech porta</l>
-            <l n="38" xml:id="C005-38"> Que no sera sens la uostra contenta</l>
-            <l n="39" xml:id="C005-39"> E per null <del type="overstrike">temps</del> cas mepens que no dissenta</l>
-            <l n="40" xml:id="C005-40"> Que null desig li sodegue la porta</l>
+        <lg type="cobla" n="5" xml:id="C005-lg5">
+            <l n="33" xml:id="C005-l33"> Si per amar auos hauiates</l>
+            <l n="34" xml:id="C005-l34"> Honor e bens belleay sauiesa</l>
+            <l n="35" xml:id="C005-l35"> Lamor <choice><abbr>queꝯ</abbr><expan>queus</expan></choice> he tendria per ofesa</l>
+            <l n="36" xml:id="C005-l36"> Si tal senblant en uos no paregues</l>
+            <l n="37" xml:id="C005-l37"> Ma uoluntat en si tal carech porta</l>
+            <l n="38" xml:id="C005-l38"> Que no sera sens la uostra contenta</l>
+            <l n="39" xml:id="C005-l39"> E per null <del rend="overstrike">temps</del> cas mepens que no dissenta</l>
+            <l n="40" xml:id="C005-l40"> Que null desig li sodegue la porta</l>
             </lg>
-        <lg type="cobla" n="6" xml:id="C0005-6">
-            <l n="41" xml:id="C005-41"> Plena de seny natura nom comporta</l>
-            <l n="42" xml:id="C005-42"> Que tal dolor no descresqua ma vida</l>
-            <l n="43" xml:id="C005-43"> Si deu preguas maueu serihoida</l>
-            <l n="44" xml:id="C005-44"> Hoyu lauos puy veritat reporta</l>
+        <lg type="tornada" n="6" xml:id="C005-lg6">
+            <l n="41" xml:id="C005-l41"> Plena de seny natura nom comporta</l>
+            <l n="42" xml:id="C005-l42"> Que tal dolor no descresqua ma vida</l>
+            <l n="43" xml:id="C005-l43"> Si deu preguas maueu serihoida</l>
+            <l n="44" xml:id="C005-l44"> Hoyu lauos puy veritat reporta</l>
             </lg>
-            </lg>
+            </div>
         </body>
     </text>
 </TEI>

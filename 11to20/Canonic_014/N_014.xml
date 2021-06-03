@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 14</title>
             <author>Ausiàs March </author>
@@ -80,154 +80,117 @@
       <body>
          <pb n="28"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_30.html"/>
-         <lg type="poem" xml:id="C014-N014">
+         <div type="poem" xml:id="C014-N014">
             <lg type="cobla" n="1" xml:id="C014-01">
-               
-               <l n="1" xml:id="C014-1"> &#182;  Mal venturos no deu cerquar ventura
+
+               <l n="1" xml:id="C014-1"> ¶ Mal venturos no deu cerquar ventura </l>
+
+               <l n="2" xml:id="C014-2"> Croar se deu lo front com lanomenen </l>
+
+               <l n="3" xml:id="C014-3"> No desloant los quj fauor ne prenen </l>
+
+               <l n="4" xml:id="C014-4"> Entreposant lur bon engin e cura </l>
+
+               <l n="5" xml:id="C014-5"> Algu no deu son guy tan prest hauer </l>
+
+               <l n="6" xml:id="C014-6"> Qui cell deslou quj ventura uol fenyer </l>
+
+               <l n="7" xml:id="C014-7"> No virtuos denegant lj <choice>
+                     <abbr>atȇyer</abbr>
+                     <expan>atenyer</expan>
+                  </choice>
                </l>
-               
-               <l n="2" xml:id="C014-2"> Croar se deu lo front com lanomenen
-               </l>
-               
-               <l n="3" xml:id="C014-3"> No desloant los quj fauor ne prenen
-               </l>
-               
-               <l n="4" xml:id="C014-4"> Entreposant lur bon engin e cura
-               </l>
-               
-               <l n="5" xml:id="C014-5"> Algu no deu son guy tan prest hauer
-               </l>
-               
-               <l n="6" xml:id="C014-6"> Qui cell deslou quj ventura uol fenyer
-               </l>
-               
-               <l n="7" xml:id="C014-7"> No virtuos denegant lj <choice><abbr>atȇyer</abbr><expan>atenyer</expan></choice>
-               </l>
-               
-               <l n="8" xml:id="C014-8"> Co que sos fills an menys dalgun saber
-               </l>
+
+               <l n="8" xml:id="C014-8"> Co que sos fills an menys dalgun saber </l>
                <lg type="cobla" n="2" xml:id="C014-02">
-                  
-                  <l n="9" xml:id="C014-9"> E lex me donchs desser auenturer
-                  </l>
-                  
-                  <l n="10" xml:id="C014-10"> Si be nom puch tant retraure nestrenyer
-                  </l>
-                  
-                  <l n="11" xml:id="C014-11"> Quen contra dell me pogues tant enpenyer
-                  </l>
-                  
-                  <l n="12" xml:id="C014-12"> Si que fugis ason peu molt leuger
-                  </l>
-                  
-                  <l n="13" xml:id="C014-13"> Senyor es gran bens mundans regidor
-                  </l>
-                  
-                  <l n="14" xml:id="C014-14"> E son juhi es al hull amagat
-                  </l>
-                  
-                  <l n="15" xml:id="C014-15"> Ferint vos la don sereu delitat
-                  </l>
-                  
-                  <l n="16" xml:id="C014-16"> Equel delit vingues tot per amor
-                  </l>
-            </lg>
+
+                  <l n="9" xml:id="C014-9"> E lex me donchs desser auenturer </l>
+
+                  <l n="10" xml:id="C014-10"> Si be nom puch tant retraure nestrenyer </l>
+
+                  <l n="11" xml:id="C014-11"> Quen contra dell me pogues tant enpenyer </l>
+
+                  <l n="12" xml:id="C014-12"> Si que fugis ason peu molt leuger </l>
+
+                  <l n="13" xml:id="C014-13"> Senyor es gran bens mundans regidor </l>
+
+                  <l n="14" xml:id="C014-14"> E son juhi es al hull amagat </l>
+
+                  <l n="15" xml:id="C014-15"> Ferint vos la don sereu delitat </l>
+
+                  <l n="16" xml:id="C014-16"> Equel delit vingues tot per amor </l>
+               </lg>
                <lg type="cobla" n="3" xml:id="C014-03">
-                  
-                  <l n="17" xml:id="C014-17"> Lonch es lotemps del continuu dolor
-                  </l>
-                  
-                  <l n="18" xml:id="C014-18"> A par de tras car son cinch anys passats
-                  </l>
-                  
-                  <l n="19" xml:id="C014-19"> Quem fug delit com hi fuy acostats
-                  </l>
-                  
-                  <l n="20" xml:id="C014-20"> Ffent me sentir fret apres de calor
-                  </l>
-                  
-                  <l n="21" xml:id="C014-21"> Diuersitat de cassos aportant
-                  </l>
-                  
-                  <l n="22" xml:id="C014-22"> Per degastar damor lo benjfet
-                  </l>
-                  
-                  <l n="23" xml:id="C014-23"> Dels bens damor conseruador sen ret
-                  </l>
-                  
-                  <l n="24" xml:id="C014-24"> Ffora content yo quj so desijant
-                  </l>
-            </lg>
-            <pb n="29"
-               facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_31.html"/>
+
+                  <l n="17" xml:id="C014-17"> Lonch es lotemps del continuu dolor </l>
+
+                  <l n="18" xml:id="C014-18"> A par de tras car son cinch anys passats </l>
+
+                  <l n="19" xml:id="C014-19"> Quem fug delit com hi fuy acostats </l>
+
+                  <l n="20" xml:id="C014-20"> Ffent me sentir fret apres de calor </l>
+
+                  <l n="21" xml:id="C014-21"> Diuersitat de cassos aportant </l>
+
+                  <l n="22" xml:id="C014-22"> Per degastar damor lo benjfet </l>
+
+                  <l n="23" xml:id="C014-23"> Dels bens damor conseruador sen ret </l>
+
+                  <l n="24" xml:id="C014-24"> Ffora content yo quj so desijant </l>
+               </lg>
+               <pb n="29"
+                  facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_31.html"/>
                <lg type="cobla" n="4" xml:id="C014-04">
-                  
-                  <l n="25" xml:id="C014-25"> A deu nel mon noso damor clamant
-                  </l>
-                  
-                  <l n="26" xml:id="C014-26"> Car be ha dat aygua magrandeset
-                  </l>
-                  
-                  <l n="27" xml:id="C014-27"> No sadolat mas comte lin es fet
-                  </l>
-                  
-                  <l n="28" xml:id="C014-28"> No pot complir co que so desijat
-                  </l>
-                  
-                  <l n="29" xml:id="C014-29"> E no merex algun reprenjment
-                  </l>
-                  
-                  <l n="30" xml:id="C014-30"> Car del cel terc eguals forques nos fa
-                  </l>
-                  
-                  <l n="31" xml:id="C014-31"> Segons quiscu amar dispost sta
-                  </l>
-                  
-                  <l n="32" xml:id="C014-32"> E tant com pot streny son manament
-                  </l>
-            </lg>
+
+                  <l n="25" xml:id="C014-25"> A deu nel mon noso damor clamant </l>
+
+                  <l n="26" xml:id="C014-26"> Car be ha dat aygua magrandeset </l>
+
+                  <l n="27" xml:id="C014-27"> No sadolat mas comte lin es fet </l>
+
+                  <l n="28" xml:id="C014-28"> No pot complir co que so desijat </l>
+
+                  <l n="29" xml:id="C014-29"> E no merex algun reprenjment </l>
+
+                  <l n="30" xml:id="C014-30"> Car del cel terc eguals forques nos fa </l>
+
+                  <l n="31" xml:id="C014-31"> Segons quiscu amar dispost sta </l>
+
+                  <l n="32" xml:id="C014-32"> E tant com pot streny son manament </l>
+               </lg>
                <lg type="cobla" n="5" xml:id="C014-05">
-                  
-                  <l n="33" xml:id="C014-33"> Ffortuyt cas ma fet esser absent
-                  </l>
-                  
-                  <l n="34" xml:id="C014-34"> Del foch damor quj ja millumjna
-                  </l>
-                  
-                  <l n="35" xml:id="C014-35"> En mellor cas ventural apaga
-                  </l>
-                  
-                  <l n="36" xml:id="C014-36"> E yo son cert quamor ne son dolent
-                  </l>
-                  
-                  <l n="37" xml:id="C014-37"> Perque nom clam damor mas de ventura
-                  </l>
-                  
-                  <l n="38" xml:id="C014-38"> Car son poder meha desfauorit
-                  </l>
-                  
-                  <l n="39" xml:id="C014-39"> En abando nom vol hauer jaquit
-                  </l>
-                  
-                  <l n="40" xml:id="C014-40"> Ans <choice><abbr>ꝑseguex</abbr><expan>perseguex</expan></choice> amor ema gran cura
-                  </l>
-            </lg>
-               <lg type="cobla" n="6" xml:id="C014-06">
-                  
-                  <l n="41" xml:id="C014-41"> Lir entre carts del mon deu perdre cura
-                  </l>
-                  
-                  <l n="42" xml:id="C014-42"> Quj li coue damor perdre speranca
-                  </l>
-                  
-                  <l n="43" xml:id="C014-43"> E tal ho qual es damor la fermanca
-                  </l>
-                  
-                  <l n="44" xml:id="C014-44"> Ab lo desig qujli dona punctura
-                  </l>
+
+                  <l n="33" xml:id="C014-33"> Ffortuyt cas ma fet esser absent </l>
+
+                  <l n="34" xml:id="C014-34"> Del foch damor quj ja millumjna </l>
+
+                  <l n="35" xml:id="C014-35"> En mellor cas ventural apaga </l>
+
+                  <l n="36" xml:id="C014-36"> E yo son cert quamor ne son dolent </l>
+
+                  <l n="37" xml:id="C014-37"> Perque nom clam damor mas de ventura </l>
+
+                  <l n="38" xml:id="C014-38"> Car son poder meha desfauorit </l>
+
+                  <l n="39" xml:id="C014-39"> En abando nom vol hauer jaquit </l>
+
+                  <l n="40" xml:id="C014-40"> Ans <choice>
+                        <abbr>ꝑseguex</abbr>
+                        <expan>perseguex</expan>
+                     </choice> amor ema gran cura </l>
+               </lg>
+               <lg type="tornada" n="6" xml:id="C014-06">
+
+                  <l n="41" xml:id="C014-41"> Lir entre carts del mon deu perdre cura </l>
+
+                  <l n="42" xml:id="C014-42"> Quj li coue damor perdre speranca </l>
+
+                  <l n="43" xml:id="C014-43"> E tal ho qual es damor la fermanca </l>
+
+                  <l n="44" xml:id="C014-44"> Ab lo desig qujli dona punctura </l>
                </lg>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

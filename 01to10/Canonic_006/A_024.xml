@@ -28,12 +28,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -48,9 +50,12 @@
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 203v after end of previous poem, before this one: </locus>\clauOberta Auzias march croada capcaudada \clauTancada</rubric>
+                                <locus>f. 203v after end of previous poem, before this one:
+                                </locus>\clauOberta Auzias march croada capcaudada
+                                \clauTancada</rubric>
                             <rubric>
-                                <locus>f. 204r between lines 40 and 41 </locus>\clauOberta Tornada\clauTancada</rubric>
+                                <locus>f. 204r between lines 40 and 41 </locus>\clauOberta
+                                Tornada\clauTancada</rubric>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -63,8 +68,8 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
@@ -72,82 +77,86 @@
         <graphic
             url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_155.html"/>
         <graphic
-            url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_156.html"/>
+            url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_156.html"
+        />
     </facsimile>
-        <text> 
-          <body>
+    <text>
+        <body>
             <pb n="52v"
                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_155.html"/>
-            <lg type="poem" xml:id="C006-A024">
-            <lg type="cobla" n="1" xml:id="C0006-1">
-                <l n="1" xml:id="C006-1"> MOlt he tardat / endescobrir ma falta</l>
-                <l n="2" xml:id="C006-2"> Per jouentut / quem neguesperiment</l>
-                <l n="3" xml:id="C006-3"> En vn cars nou / lom es mal conexent</l>
-                <l n="4" xml:id="C006-4"> E maiorment / hauent raho malalta</l>
-                <l n="5" xml:id="C006-5"> Per gran esforç / de folla voluntat</l>
-                <l n="6" xml:id="C006-6"> Car tant com es / la voluntat moguda</l>
-                <l n="7" xml:id="C006-7"> Hom deu hauer / del seny maior aiuda</l>
-                <l n="8" xml:id="C006-8"> Si virtuos / deu esser nomenat</l>
+            <div type="poem" xml:id="C006-A024">
+                <lg type="cobla" n="1" xml:id="C006-lg1">
+                    <l n="1" xml:id="C006-l1"> MOlt he tardat / endescobrir ma falta</l>
+                    <l n="2" xml:id="C006-l2"> Per jouentut / quem neguesperiment</l>
+                    <l n="3" xml:id="C006-l3"> En vn cars nou / lom es mal conexent</l>
+                    <l n="4" xml:id="C006-l4"> E maiorment / hauent raho malalta</l>
+                    <l n="5" xml:id="C006-l5"> Per gran esforç / de folla voluntat</l>
+                    <l n="6" xml:id="C006-l6"> Car tant com es / la voluntat moguda</l>
+                    <l n="7" xml:id="C006-l7"> Hom deu hauer / del seny maior aiuda</l>
+                    <l n="8" xml:id="C006-l8"> Si virtuos / deu esser nomenat</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0006-2">
-                <l n="9" xml:id="C006-9"> Qui son camj / vertader ha arrat</l>
-                <l n="10" xml:id="C006-10"> Per anar lla / hon vol saiorn hauer</l>
-                <l n="11" xml:id="C006-11"> Es li forçat / que prengua mal cender</l>
-                <l n="12" xml:id="C006-12"> E may venir / ason loch desigat</l>
-                <l n="13" xml:id="C006-13"> Tal cars mapres / volent me contentar</l>
-                <l n="14" xml:id="C006-14"> Mon ferm voler / <choice><abbr>ꝑ</abbr><expan>per</expan></choice> altra tal amant</l>
-                <l n="15" xml:id="C006-15"> No ha trobat / lo seu propi semblant</l>
-                <l n="16" xml:id="C006-16"> Car son esguart / es verament amar</l>
+                <lg type="cobla" n="2" xml:id="C006-lg2">
+                    <l n="9" xml:id="C006-l9"> Qui son camj / vertader ha arrat</l>
+                    <l n="10" xml:id="C006-l10"> Per anar lla / hon vol saiorn hauer</l>
+                    <l n="11" xml:id="C006-l11"> Es li forçat / que prengua mal cender</l>
+                    <l n="12" xml:id="C006-l12"> E may venir / ason loch desigat</l>
+                    <l n="13" xml:id="C006-l13"> Tal cars mapres / volent me contentar</l>
+                    <l n="14" xml:id="C006-l14"> Mon ferm voler / <choice>
+                            <abbr>ꝑ</abbr>
+                            <expan>per</expan>
+                        </choice> altra tal amant</l>
+                    <l n="15" xml:id="C006-l15"> No ha trobat / lo seu propi semblant</l>
+                    <l n="16" xml:id="C006-l16"> Car son esguart / es verament amar</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0006-3">
-                <l n="17" xml:id="C006-17"> Lenteniment / aquel juy no es clar</l>
-                <l n="18" xml:id="C006-18"> Fforçadament / hapendropinions</l>
-                <l n="19" xml:id="C006-19"> Voluntat mou / suffistiques rahons</l>
-                <l n="20" xml:id="C006-20"> Ffent les valer / eper bastants passar</l>
-                <l n="21" xml:id="C006-21"> Sicom flori / qui bona color ha</l>
-                <l n="22" xml:id="C006-22"> E no val res / coneguda sa ley</l>
-                <l n="23" xml:id="C006-23"> Napres amj / quem pense munte Rey</l>
-                <l n="24" xml:id="C006-24"> Fahent rahons / qual veritat desfa</l>
+                <lg type="cobla" n="3" xml:id="C006-lg3">
+                    <l n="17" xml:id="C006-l17"> Lenteniment / aquel juy no es clar</l>
+                    <l n="18" xml:id="C006-l18"> Fforçadament / hapendropinions</l>
+                    <l n="19" xml:id="C006-l19"> Voluntat mou / suffistiques rahons</l>
+                    <l n="20" xml:id="C006-l20"> Ffent les valer / eper bastants passar</l>
+                    <l n="21" xml:id="C006-l21"> Sicom flori / qui bona color ha</l>
+                    <l n="22" xml:id="C006-l22"> E no val res / coneguda sa ley</l>
+                    <l n="23" xml:id="C006-l23"> Napres amj / quem pense munte Rey</l>
+                    <l n="24" xml:id="C006-l24"> Fahent rahons / qual veritat desfa</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0006-4">
-                <l n="25" xml:id="C006-25"> E si pas mal / bon dret ho consintra</l>
-                <l n="26" xml:id="C006-26"> E puys es dit / foll qui serueix senyor</l>
-                <l n="27" xml:id="C006-27"> Qui no pot fer / consent bon seruidor</l>
-                <l n="28" xml:id="C006-28"> E per null temps / negun dret juy hi fa</l>
-                <l n="29" xml:id="C006-29"> E mes que mal / admjnistrador es</l>
-                <l n="30" xml:id="C006-30"> Al cauador / dona loguer de metge</l>
-                <l n="31" xml:id="C006-31"> E los lochs plans / fadurar lestret setge</l>
-                <l n="32" xml:id="C006-32"> Lo fort castell / enterra tost la mes</l>
+                <lg type="cobla" n="4" xml:id="C006-lg4">
+                    <l n="25" xml:id="C006-l25"> E si pas mal / bon dret ho consintra</l>
+                    <l n="26" xml:id="C006-l26"> E puys es dit / foll qui serueix senyor</l>
+                    <l n="27" xml:id="C006-l27"> Qui no pot fer / consent bon seruidor</l>
+                    <l n="28" xml:id="C006-l28"> E per null temps / negun dret juy hi fa</l>
+                    <l n="29" xml:id="C006-l29"> E mes que mal / admjnistrador es</l>
+                    <l n="30" xml:id="C006-l30"> Al cauador / dona loguer de metge</l>
+                    <l n="31" xml:id="C006-l31"> E los lochs plans / fadurar lestret setge</l>
+                    <l n="32" xml:id="C006-l32"> Lo fort castell / enterra tost la mes</l>
                 </lg>
-             <pb n="53r"
-                 facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_156.html"/>
-            <lg type="cobla" n="5" xml:id="C0006-5">
-                <l n="33" xml:id="C006-33">  Pren men axi / com al grocer pages</l>
-                <l n="34" xml:id="C006-34"> Qui bon sament / en mala terra met</l>
-                <l n="35" xml:id="C006-35"> Altrecuydat / pensauer bon splet</l>
-                <l n="36" xml:id="C006-36"> Daquell terreny / qui buyda los graners</l>
-                <l n="37" xml:id="C006-37"> Assats ha seny / qui no ha sentiment</l>
-                <l n="38" xml:id="C006-38"> Per ensercar / etrobar la raho</l>
-                <l n="39" xml:id="C006-39"> E pren esment / del mal del companyo</l>
-                <l n="40" xml:id="C006-40"> Per cas passat / jutge lo seu present</l>
+                <pb n="53r"
+                    facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_156.html"/>
+                <lg type="cobla" n="5" xml:id="C006-lg5">
+                    <l n="33" xml:id="C006-l33"> Pren men axi / com al grocer pages</l>
+                    <l n="34" xml:id="C006-l34"> Qui bon sament / en mala terra met</l>
+                    <l n="35" xml:id="C006-l35"> Altrecuydat / pensauer bon splet</l>
+                    <l n="36" xml:id="C006-l36"> Daquell terreny / qui buyda los graners</l>
+                    <l n="37" xml:id="C006-l37"> Assats ha seny / qui no ha sentiment</l>
+                    <l n="38" xml:id="C006-l38"> Per ensercar / etrobar la raho</l>
+                    <l n="39" xml:id="C006-l39"> E pren esment / del mal del companyo</l>
+                    <l n="40" xml:id="C006-l40"> Per cas passat / jutge lo seu present</l>
                 </lg>
-            <lg type="cobla" n="6" xml:id="C0006-6">
-                <l n="41" xml:id="C006-41"> Seguint lestil / que natura consent</l>
-                <l n="42" xml:id="C006-42"> E ço quel juy / enveure clar abasta</l>
-                <l n="43" xml:id="C006-43"> Negre forment / no dona blancha pasta</l>
-                <l n="44" xml:id="C006-44"> Nel asa blanch / es animal corrent</l>
-                <l n="45" xml:id="C006-45"> Ten poch sera / que nulla dona senta</l>
-                <l n="46" xml:id="C006-46"> Ne veia prim / lo fin secret damor</l>
-                <l n="47" xml:id="C006-47"> Si per amar / no soffir gran dolor</l>
-                <l n="48" xml:id="C006-48"> Hen sentiment / tria dan miller trenta</l>
+                <lg type="cobla" n="6" xml:id="C006-lg6">
+                    <l n="41" xml:id="C006-l41"> Seguint lestil / que natura consent</l>
+                    <l n="42" xml:id="C006-l42"> E ço quel juy / enveure clar abasta</l>
+                    <l n="43" xml:id="C006-l43"> Negre forment / no dona blancha pasta</l>
+                    <l n="44" xml:id="C006-l44"> Nel asa blanch / es animal corrent</l>
+                    <l n="45" xml:id="C006-l45"> Ten poch sera / que nulla dona senta</l>
+                    <l n="46" xml:id="C006-l46"> Ne veia prim / lo fin secret damor</l>
+                    <l n="47" xml:id="C006-l47"> Si per amar / no soffir gran dolor</l>
+                    <l n="48" xml:id="C006-l48"> Hen sentiment / tria dan miller trenta</l>
                 </lg>
-            <lg type="cobla" n="7" xml:id="C0006-7">
-                <l n="49" xml:id="C006-49"> Plena de seny / si algu mj esmenta</l>
-                <l n="50" xml:id="C006-50"> Tots los hoynts / diran que so millor</l>
-                <l n="51" xml:id="C006-51"> Pus flach efort / ecallant amador</l>
-                <l n="52" xml:id="C006-52"> Ma voluntat / fahent damor seruenta</l>
+                <lg type="tornada" n="7" xml:id="C006-lg7">
+                    <l n="49" xml:id="C006-l49"> Plena de seny / si algu mj esmenta</l>
+                    <l n="50" xml:id="C006-l50"> Tots los hoynts / diran que so millor</l>
+                    <l n="51" xml:id="C006-l51"> Pus flach efort / ecallant amador</l>
+                    <l n="52" xml:id="C006-l52"> Ma voluntat / fahent damor seruenta</l>
                 </lg>
-            </lg>
-          </body>
-      </text>
+            </div>
+        </body>
+    </text>
 </TEI>

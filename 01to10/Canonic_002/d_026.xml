@@ -49,10 +49,13 @@
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 40r after end of previous poem, before this one:</locus> DE AMOR CANTO. XXXII.
+                        <locus>f. 33v header</locus> DE AMOR CANTO. XXXVI.
                      </rubric>
                      <rubric>
-                        <locus>f. 41r between lines 40 and 41 </locus>TORNADA. </rubric>
+                        <locus>f. 34r header</locus> DE AMOR CANTO. XXXVI.
+                     </rubric>
+                     <rubric>
+                        <locus>f. 34r between lines 40 and 41 </locus>TORNADA. </rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -82,68 +85,68 @@
       <body>
          <pb n="33r"
             facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_70.html"/>
-         <lg type="poem" n="2" xml:id="C001-d026">
-            <lg type="cobla" n="1" xml:id="C0002-1">
-               <l n="1" xml:id="C002-1">P<c rend="large">r</c>en men axi / com al patro que'n plaja</l>
-               <l n="2" xml:id="C002-2">te sa gran Nau / e pensa hauer Castell</l>
-               <l n="3" xml:id="C002-3">vehent lo çel / esser molt clar e bell</l>
-               <l n="4" xml:id="C002-4">creu fermament / d'un Anchora sats aja.</l>
-               <l n="5" xml:id="C002-5">E sent venir / soptos vn temporal</l>
-               <l n="6" xml:id="C002-6">de tempestat / e temps incomportable</l>
-               <l n="7" xml:id="C002-7">fa son juhi / que si es molt durable</l>
-               <l n="8" xml:id="C002-8">çercar los ports / mes qu'aturar li val.</l>
+         <div type="poem" xml:id="C002-d026">
+            <lg type="cobla" n="1" xml:id="C002-lg1">
+               <l n="1" xml:id="C002-l1">P<c rend="large">r</c>en men axi / com al patro que'n plaja</l>
+               <l n="2" xml:id="C002-l2">te sa gran Nau / e pensa hauer Castell</l>
+               <l n="3" xml:id="C002-l3">vehent lo çel / esser molt clar e bell</l>
+               <l n="4" xml:id="C002-l4">creu fermament / d'un Anchora sats aja.</l>
+               <l n="5" xml:id="C002-l5">E sent venir / soptos vn temporal</l>
+               <l n="6" xml:id="C002-l6">de tempestat / e temps incomportable</l>
+               <l n="7" xml:id="C002-l7">fa son juhi / que si es molt durable</l>
+               <l n="8" xml:id="C002-l8">çercar los ports / mes qu'aturar li val.</l>
             </lg>
             <pb n="33v"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_71.html"/>
-            <lg type="cobla" n="2" xml:id="C0002-2">
-               <l n="9" xml:id="C002-9">&#10152;  Mas ales veus /es,lo vent fortunal</l>
-               <l n="10" xml:id="C002-10">tant que no pot / sortir sens lo contrari</l>
-               <l n="11" xml:id="C002-11">e çella clau / quins tanca dins l'armari</l>
-               <l n="12" xml:id="C002-12">no pot obrir / aquell mateix portál.</l>
-               <l n="13" xml:id="C002-13">Aixi m'a pres / trobant me'namorat</l>
-               <l n="14" xml:id="C002-14">persobre salt / quim ve de vos maymia</l>
-               <l n="15" xml:id="C002-15">del no amar / desalt ne te la via</l>
-               <l n="16" xml:id="C002-16">mas vn sol pas / meu noy sera trobat.</l>
+            <lg type="cobla" n="2" xml:id="C002-lg2">
+               <l n="9" xml:id="C002-l9">¶ Mas ales veus /es,lo vent fortunal</l>
+               <l n="10" xml:id="C002-l10">tant que no pot / sortir sens lo contrari</l>
+               <l n="11" xml:id="C002-l11">e çella clau / quins tanca dins l'armari</l>
+               <l n="12" xml:id="C002-l12">no pot obrir / aquell mateix portál.</l>
+               <l n="13" xml:id="C002-l13">Aixi m'a pres / trobant me'namorat</l>
+               <l n="14" xml:id="C002-l14">persobre salt / quim ve de vos maymia</l>
+               <l n="15" xml:id="C002-l15">del no amar / desalt ne te la via</l>
+               <l n="16" xml:id="C002-l16">mas vn sol pas / meu noy sera trobat.</l>
             </lg>
-            <lg type="cobla" n="3" xml:id="C0002-3">
-               <l n="17" xml:id="C002-17">&#10152;  Menys que lo peix / es en lo bosch trobat</l>
-               <l n="18" xml:id="C002-18">e los Lleóns / dins l'aygua han llur sojorn</l>
-               <l n="19" xml:id="C002-19">la mi Amor / per null temps pendra torn</l>
-               <l n="20" xml:id="C002-20">sol coneixent / de mi vs doneu grat.</l>
-               <l n="21" xml:id="C002-21">E fiu de vos / quem sabreu ben coneixer</l>
-               <l n="22" xml:id="C002-22">e conegut / nom'sera mal graida</l>
-               <l n="23" xml:id="C002-23">tota dolor / hauent per vos sentida</l>
-               <l n="24" xml:id="C002-24">lladonchs veureu / les llames d'amor creixer.</l>
+            <lg type="cobla" n="3" xml:id="C002-lg3">
+               <l n="17" xml:id="C002-l17">¶ Menys que lo peix / es en lo bosch trobat</l>
+               <l n="18" xml:id="C002-l18">e los Lleóns / dins l'aygua han llur sojorn</l>
+               <l n="19" xml:id="C002-l19">la mi Amor / per null temps pendra torn</l>
+               <l n="20" xml:id="C002-l20">sol coneixent / de mi vs doneu grat.</l>
+               <l n="21" xml:id="C002-l21">E fiu de vos / quem sabreu ben coneixer</l>
+               <l n="22" xml:id="C002-l22">e conegut / nom'sera mal graida</l>
+               <l n="23" xml:id="C002-l23">tota dolor / hauent per vos sentida</l>
+               <l n="24" xml:id="C002-l24">lladonchs veureu / les llames d'amor creixer.</l>
             </lg>
-            <lg type="cobla" n="4" xml:id="C0002-4">
-               <l n="25" xml:id="C002-25">&#10152;  Simon voler / he dat mal apareixer</l>
-               <l n="26" xml:id="C002-26">creheu de çert / que ver'Amor nom luny</l>
-               <l n="27" xml:id="C002-27">pus que lo Sol / es calt al mes de Iuny</l>
-               <l n="28" xml:id="C002-28">art mon cor flach / sens algun grat mereixer.</l>
-               <l n="29" xml:id="C002-29">Altre sens mi / d'aço mereix la colpa</l>
-               <l n="30" xml:id="C002-30">vullau li mal / com tan humil seruent</l>
-               <l n="31" xml:id="C002-31">vos te secret / per son defalliment</l>
-               <l n="32" xml:id="C002-32">çest es Amor / qui mi amant en colpa.</l>
+            <lg type="cobla" n="4" xml:id="C002-lg4">
+               <l n="25" xml:id="C002-l25">¶ Simon voler / he dat mal apareixer</l>
+               <l n="26" xml:id="C002-l26">creheu de çert / que ver'Amor nom luny</l>
+               <l n="27" xml:id="C002-l27">pus que lo Sol / es calt al mes de Iuny</l>
+               <l n="28" xml:id="C002-l28">art mon cor flach / sens algun grat mereixer.</l>
+               <l n="29" xml:id="C002-l29">Altre sens mi / d'aço mereix la colpa</l>
+               <l n="30" xml:id="C002-l30">vullau li mal / com tan humil seruent</l>
+               <l n="31" xml:id="C002-l31">vos te secret / per son defalliment</l>
+               <l n="32" xml:id="C002-l32">çest es Amor / qui mi amant en colpa.</l>
             </lg>
           <pb n="34r"
                facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_72.html"/>
-            <lg type="cobla" n="5" xml:id="C0002-5">
-               <l n="33" xml:id="C002-33">Ma voluntat / ab la raho se'nuolpa</l>
-               <l n="34" xml:id="C002-34">e fan acort / la calitat seguint</l>
-               <l n="35" xml:id="C002-35">tals actes fent / quel cos es defallint</l>
-               <l n="36" xml:id="C002-36">en poch de temps / vna gran part, de polpa,</l>
-               <l n="37" xml:id="C002-37">Lo poch dormir / magresa'l cos m'acosta</l>
-               <l n="38" xml:id="C002-38">doblam lenginy / per contemplar Amor</l>
-               <l n="39" xml:id="C002-39">lo cos molt gras / trobant se dormidor</l>
-               <l n="40" xml:id="C002-40">no pot dar pas / en aquesta'spra costa.</l>
+            <lg type="cobla" n="5" xml:id="C002-lg5">
+               <l n="33" xml:id="C002-l33">Ma voluntat / ab la raho se'nuolpa</l>
+               <l n="34" xml:id="C002-l34">e fan acort / la calitat seguint</l>
+               <l n="35" xml:id="C002-l35">tals actes fent / quel cos es defallint</l>
+               <l n="36" xml:id="C002-l36">en poch de temps / vna gran part, de polpa,</l>
+               <l n="37" xml:id="C002-l37">Lo poch dormir / magresa'l cos m'acosta</l>
+               <l n="38" xml:id="C002-l38">doblam lenginy / per contemplar Amor</l>
+               <l n="39" xml:id="C002-l39">lo cos molt gras / trobant se dormidor</l>
+               <l n="40" xml:id="C002-l40">no pot dar pas / en aquesta'spra costa.</l>
             </lg>
-            <lg type="tornada">
-               <l n="41" xml:id="C002-41">&#10152; Plena de seny / donau me vna crosta</l>
-               <l n="42" xml:id="C002-42">del vostre pa / quem lleue l'amargor</l>
-               <l n="43" xml:id="C002-43">de tot manjar / m'apres gran dessabor</l>
-               <l n="44" xml:id="C002-44">sino d'aquell que molt Amor me costa.</l>
+            <lg type="tornada" n="6" xml:id="C002-lg6">
+               <l n="41" xml:id="C002-l41">¶ Plena de seny / donau me vna crosta</l>
+               <l n="42" xml:id="C002-l42">del vostre pa / quem lleue l'amargor</l>
+               <l n="43" xml:id="C002-l43">de tot manjar / m'apres gran dessabor</l>
+               <l n="44" xml:id="C002-l44">sino d'aquell que molt Amor me costa.</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

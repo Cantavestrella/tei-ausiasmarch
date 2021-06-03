@@ -28,12 +28,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -48,7 +50,7 @@
                     <msContents>
                         <msItem>
                             <rubric>
-                                <locus>f. 203v after end of previous poem, before this one: </locus>Capitulo.V.</rubric>
+                                <locus>f. 7v header</locus>Cantica. ¶ Capitulo.V.</rubric>
                         </msItem>
                     </msContents>
                 </msDesc>
@@ -61,8 +63,8 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
@@ -71,69 +73,71 @@
             url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_15.html"/>
         <graphic
             url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_16.html"/>
-        <graphic 
-            url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_15.html"></graphic>  
-       </facsimile>
+        <graphic
+            url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_15.html"
+        />
+    </facsimile>
     <text>
-        <body>               
-        <lg type="poem" xml:id="C010-a005">
-        <pb n="7v" 
-            facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_15.html"/> 
-            <lg type="cobla" n="1" xml:id="C0010-1">
-                <l n="1" xml:id="C010-1"> <c rend="large">S</c>I com vn rey / de tres ciutats senyor</l>
-                <l n="2" xml:id="C010-2"> Que tot son temps / la plagut guerrejar</l>
-                <l n="3" xml:id="C010-3"> Ab lenemich / que dell nos pot vantar</l>
-                <l n="4" xml:id="C010-4"> May lo vence / menys de ser vencedor:</l>
-                <l n="5" xml:id="C010-5"> Ans sil mati / lenemich lo vencia</l>
-                <l n="6" xml:id="C010-6"> Ans del sol post / pel rey era vençut</l>
-                <l n="7" xml:id="C010-7"> Fins quen la host / contral rey fon vengut</l>
-                <l n="8" xml:id="C010-8"> Un soldader / que lo rey desconfia.</l>
+        <body>
+            <div type="poem" xml:id="C010-a005">
+                <pb n="7v"
+                    facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_15.html"/>
+                <lg type="cobla" n="1" xml:id="C0010-lg1">
+                    <l n="1" xml:id="C010-l1">
+                        <c rend="large">S</c>I com vn rey / de tres ciutats senyor</l>
+                    <l n="2" xml:id="C010-l2"> Que tot son temps / la plagut guerrejar</l>
+                    <l n="3" xml:id="C010-l3"> Ab lenemich / que dell nos pot vantar</l>
+                    <l n="4" xml:id="C010-l4"> May lo vence / menys de ser vencedor:</l>
+                    <l n="5" xml:id="C010-l5"> Ans sil mati / lenemich lo vencia</l>
+                    <l n="6" xml:id="C010-l6"> Ans del sol post / pel rey era vençut</l>
+                    <l n="7" xml:id="C010-l7"> Fins quen la host / contral rey fon vengut</l>
+                    <l n="8" xml:id="C010-l8"> Un soldader / que lo rey desconfia.</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0010-2">
-                <l n="9" xml:id="C010-9"> ¶ Lladonchs lo rey / perde la senyoria</l>
-                <l n="10" xml:id="C010-10"> De les ciutats / sens vlla possehir</l>
-                <l n="11" xml:id="C010-11"> Mas lenemich / dues lin volch jaquir</l>
-                <l n="12" xml:id="C010-12"> Dant fe lo rey / que bon compten retria:</l>
-                <l n="13" xml:id="C010-13"> Com a vassall / la renda despenent</l>
-                <l n="14" xml:id="C010-14"> A voluntat / del despossehidor</l>
-                <l n="15" xml:id="C010-15"> De laltra vol / que no sia senyor</l>
-                <l n="16" xml:id="C010-16"> Ni sia vist / que lin vinga sment.</l>
+                <lg type="cobla" n="2" xml:id="C0010-lg2">
+                    <l n="9" xml:id="C010-l9"> ¶ Lladonchs lo rey / perde la senyoria</l>
+                    <l n="10" xml:id="C010-l10"> De les ciutats / sens vlla possehir</l>
+                    <l n="11" xml:id="C010-l11"> Mas lenemich / dues lin volch jaquir</l>
+                    <l n="12" xml:id="C010-l12"> Dant fe lo rey / que bon compten retria:</l>
+                    <l n="13" xml:id="C010-l13"> Com a vassall / la renda despenent</l>
+                    <l n="14" xml:id="C010-l14"> A voluntat / del despossehidor</l>
+                    <l n="15" xml:id="C010-l15"> De laltra vol / que no sia senyor</l>
+                    <l n="16" xml:id="C010-l16"> Ni sia vist / que lin vinga sment.</l>
                 </lg>
-        <pb n="8r" 
-            facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_16.html"/> 
-            <lg type="cobla" n="3" xml:id="C0010-3">
-                <l n="17" xml:id="C010-17"> ¶ Lonch temps amor / per enemich lo sent</l>
-                <l n="18" xml:id="C010-18"> Mas james fon / quem donas vn mal jorn</l>
-                <l n="19" xml:id="C010-19"> Que en poch instant / no li fes pendre torn</l>
-                <l n="20" xml:id="C010-20"> Foragitant / son aspre pensament:</l>
-                <l n="21" xml:id="C010-21"> Tot ma vençut / ab sols sforç dun cos</l>
-                <l n="22" xml:id="C010-22"> Ne la calgud / mostrar sa potent forsa</l>
-                <l n="23" xml:id="C010-23"> Los tres poders / que en larma son me forsa</l>
-                <l n="24" xml:id="C010-24"> Dos men jaqueix / del altre vsar no gos.</l>
+                <pb n="8r"
+                    facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_16.html"/>
+                <lg type="cobla" n="3" xml:id="C0010-lg3">
+                    <l n="17" xml:id="C010-l17"> ¶ Lonch temps amor / per enemich lo sent</l>
+                    <l n="18" xml:id="C010-l18"> Mas james fon / quem donas vn mal jorn</l>
+                    <l n="19" xml:id="C010-l19"> Que en poch instant / no li fes pendre torn</l>
+                    <l n="20" xml:id="C010-l20"> Foragitant / son aspre pensament:</l>
+                    <l n="21" xml:id="C010-l21"> Tot ma vençut / ab sols sforç dun cos</l>
+                    <l n="22" xml:id="C010-l22"> Ne la calgud / mostrar sa potent forsa</l>
+                    <l n="23" xml:id="C010-l23"> Los tres poders / que en larma son me forsa</l>
+                    <l n="24" xml:id="C010-l24"> Dos men jaqueix / del altre vsar no gos.</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0010-4">
-                <l n="25" xml:id="C010-25"> ¶ E no cuydeu / quem sia plahent mos</l>
-                <l n="26" xml:id="C010-26"> Aquest vedat / ans vedare de grat</l>
-                <l n="27" xml:id="C010-27"> Si be no puixch / remembrar lo passat</l>
-                <l n="28" xml:id="C010-28"> Molt es plahent / la carrega en mon dos</l>
-                <l n="29" xml:id="C010-29"> James venço / fon plaher del vençut:</l>
-                <l n="30" xml:id="C010-30"> Sino de mi / quem plau que amor me vença</l>
-                <l n="31" xml:id="C010-31"> Hem tinga pres / ab sa visible llença</l>
-                <l n="32" xml:id="C010-32"> Mas paren be / sos colps en mon scut.</l>
+                <lg type="cobla" n="4" xml:id="C0010-lg4">
+                    <l n="25" xml:id="C010-l25"> ¶ E no cuydeu / quem sia plahent mos</l>
+                    <l n="26" xml:id="C010-l26"> Aquest vedat / ans vedare de grat</l>
+                    <l n="27" xml:id="C010-l27"> Si be no puixch / remembrar lo passat</l>
+                    <l n="28" xml:id="C010-l28"> Molt es plahent / la carrega en mon dos</l>
+                    <l n="29" xml:id="C010-l29"> James venço / fon plaher del vençut:</l>
+                    <l n="30" xml:id="C010-l30"> Sino de mi / quem plau que amor me vença</l>
+                    <l n="31" xml:id="C010-l31"> Hem tinga pres / ab sa visible llença</l>
+                    <l n="32" xml:id="C010-l32"> Mas paren be / sos colps en mon scut.</l>
                 </lg>
-        <pb n="8v" 
-            facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_17.html"/> 
-            <lg type="cobla" n="5" xml:id="C0010-5">
-                <l n="33" xml:id="C010-33"> ¶ De fet que fuy / a sa merce vingut</l>
-                <l n="34" xml:id="C010-34"> Lenteniment / per son conseller pres</l>
-                <l n="35" xml:id="C010-35"> E mon voler / per algutzir lo mes</l>
-                <l n="36" xml:id="C010-36"> Dant fe cascu / que may sera rebut:</l>
-                <l n="37" xml:id="C010-37"> En llur merce / lo companyo membrar</l>
-                <l n="38" xml:id="C010-38"> Seruint cascu / llealment son ofici</l>
-                <l n="39" xml:id="C010-39"> Si que algu dells / no sera tan nici</l>
-                <l n="40" xml:id="C010-40"> Quen res contrast / que sia de amar.</l>
+                <pb n="8v"
+                    facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_17.html"/>
+                <lg type="cobla" n="5" xml:id="C0010-lg5">
+                    <l n="33" xml:id="C010-l33"> ¶ De fet que fuy / a sa merce vingut</l>
+                    <l n="34" xml:id="C010-l34"> Lenteniment / per son conseller pres</l>
+                    <l n="35" xml:id="C010-l35"> E mon voler / per algutzir lo mes</l>
+                    <l n="36" xml:id="C010-l36"> Dant fe cascu / que may sera rebut:</l>
+                    <l n="37" xml:id="C010-l37"> En llur merce / lo companyo membrar</l>
+                    <l n="38" xml:id="C010-l38"> Seruint cascu / llealment son ofici</l>
+                    <l n="39" xml:id="C010-l39"> Si que algu dells / no sera tan nici</l>
+                    <l n="40" xml:id="C010-l40"> Quen res contrast / que sia de amar.</l>
                 </lg>
-             </lg>
+            </div>
         </body>
     </text>
 </TEI>

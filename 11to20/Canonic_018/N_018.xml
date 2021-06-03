@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 18</title>
             <author>Ausiàs March </author>
@@ -71,158 +71,175 @@
    <facsimile>
       <graphic
          url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_39.html"/>
-      <graphic 
+      <graphic
          url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_40.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_41.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_41.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="37"
             facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_39.html"/>
-         <lg type="poem" xml:id="C018-N018">
+         <div type="poem" xml:id="C018-N018">
             <lg type="cobla" n="1" xml:id="C018-01">
-               
-               <l n="1" xml:id="C018-1"> &#182;  Ffantasiant amor amj descobre</l>
-               
-               <l n="2" xml:id="C018-2"> Los grans secrets quals <choice><abbr>pꝯ</abbr><expan>pus</expan></choice> subtils amaga</l>
-               
+
+               <l n="1" xml:id="C018-1"> ¶ Ffantasiant amor amj descobre</l>
+
+               <l n="2" xml:id="C018-2"> Los grans secrets quals <choice>
+                     <abbr>pꝯ</abbr>
+                     <expan>pus</expan>
+                  </choice> subtils amaga</l>
+
                <l n="3" xml:id="C018-3"> Emon jorn clar als homens es njt fosca</l>
-               
+
                <l n="4" xml:id="C018-4"> E visch daco que persones no tasten</l>
-               
+
                <l n="5" xml:id="C018-5"> Tant en amor lesperit meu contemple</l>
-               
-               <l n="6" xml:id="C018-6"> Que par del tot fora del cors sap<add place="above">a</add>rte</l>
-               
-               <l n="7" xml:id="C018-7"> Car mos <del type="overstrike">se</del> desigs no son trobats enhome</l>
-               
+
+               <l n="6" xml:id="C018-6"> Que par del tot fora del cors sap<add place="above"
+                  >a</add>rte</l>
+
+               <l n="7" xml:id="C018-7"> Car mos <del rend="overstrike">se</del> desigs no son
+                  trobats enhome</l>
+
                <l n="8" xml:id="C018-8"> Sino ental quj la carn punt nol torbe</l>
             </lg>
             <lg type="cobla" n="2" xml:id="C018-02">
-               
+
                <l n="9" xml:id="C018-9"> Ma carn no sent aquell delit sensible</l>
-               
+
                <l n="10" xml:id="C018-10"> E lesperit hobres damor cobeya</l>
-               
+
                <l n="11" xml:id="C018-11"> Daquell cech foch quils amados sescalfen</l>
-               
+
                <l n="12" xml:id="C018-12"> Paor nom trob que yo men pogues ardre</l>
-               
+
                <l n="13" xml:id="C018-13"> Un altresguart lo meu voler patricha</l>
-               
+
                <l n="14" xml:id="C018-14"> Quant en amor vos dona se contenta</l>
-               
+
                <l n="15" xml:id="C018-15"> Que no han cells quj amadors semostren</l>
-               
+
                <l n="16" xml:id="C018-16"> Pasionats e contramor no dignes</l>
             </lg>
             <lg type="cobla" n="3" xml:id="C018-03">
-               
-               <l n="17" xml:id="C018-17"> Si fos amor substanc<add place="above">i</add>a rahonable</l>
-               
+
+               <l n="17" xml:id="C018-17"> Si fos amor substanc<add place="above">i</add>a
+                  rahonable</l>
+
                <l n="18" xml:id="C018-18"> Eques trobas de senyoria ceptre</l>
-               
+
                <l n="19" xml:id="C018-19"> Bens guardonant e punint los demerits</l>
-               
+
                <l n="20" xml:id="C018-20"> Entrells millors sols me trobara fenix</l>
-               
+
                <l n="21" xml:id="C018-21"> Car yo tot sols desempare lamescla</l>
-               
+
                <l n="22" xml:id="C018-22"> De leigs desigs quj ablos bons senbolquen</l>
-               
+
                <l n="23" xml:id="C018-23"> Castich nom cal pus de asag nom tempten</l>
-               
+
                <l n="24" xml:id="C018-24"> La causa lur enmj es feta nulla</l>
             </lg>
             <pb n="38"
                facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_40.html"/>
             <lg type="cobla" n="4" xml:id="C018-04">
-               
-               <l n="25" xml:id="C018-25"> Si com los sants <del type="overstrike">sentint</del> sentints la lum diuina</l>
-                              
+
+               <l n="25" xml:id="C018-25"> Si com los sants <del rend="overstrike">sentint</del>
+                  sentints la lum diuina</l>
+
                <l n="26" xml:id="C018-26"> La lum del mon conegueren per ficta</l>
-               
+
                <l n="27" xml:id="C018-27"> Emenyspreants la gloria mundana</l>
-               
+
                <l n="28" xml:id="C018-28"> Pus maior part de gloria sentiren</l>
-               
-               <l n="29" xml:id="C018-29"> Tot enaxi tinch <choice><abbr>enmȇys</abbr><expan>enmenys</expan></choice> preu efastig</l>
-               
+
+               <l n="29" xml:id="C018-29"> Tot enaxi tinch <choice>
+                     <abbr>enmȇys</abbr>
+                     <expan>enmenys</expan>
+                  </choice> preu efastig</l>
+
                <l n="30" xml:id="C018-30"> Aquells desigs que complits amor mjnuan</l>
-               
+
                <l n="31" xml:id="C018-31"> Prenint aquells que del sperit mouen</l>
-               
-               <l n="32" xml:id="C018-32"> Quj nos <choice><abbr>lassȃ</abbr><expan>lassan</expan></choice> ans tot jorn multiplican</l>
-               
+
+               <l n="32" xml:id="C018-32"> Quj nos <choice>
+                     <abbr>lassȃ</abbr>
+                     <expan>lassan</expan>
+                  </choice> ans tot jorn multiplican</l>
+
             </lg>
             <lg type="cobla" n="5" xml:id="C018-05">
-               
+
                <l n="33" xml:id="C018-33"> Si com sent pau deulj sostrague larma</l>
-               
+
                <l n="34" xml:id="C018-34"> Del cors perque ves diuinals misteris</l>
-               
+
                <l n="35" xml:id="C018-35"> Car es lo cors del esperit lo carcre</l>
-               
+
                <l n="36" xml:id="C018-36"> E tant com viu ab ell es entenebres</l>
-               
+
                <l n="37" xml:id="C018-37"> Axi amor lesperit meu arrapa</l>
-               
+
                <l n="38" xml:id="C018-38"> E noy acull la maculada pensa</l>
-               
+
                <l n="39" xml:id="C018-39"> E perco sent lo delit quj nos causa</l>
-               
+
                <l n="40" xml:id="C018-40"> Si que la carn la veramor nom torba</l>
             </lg>
             <lg type="cobla" n="6" xml:id="C018-06">
-               
+
                <l n="41" xml:id="C018-41"> Prenmen axi com aquell filosof</l>
-               
+
                <l n="42" xml:id="C018-42"> Quj per muntar albe quj nos pot perdre</l>
-               
-               <l n="43" xml:id="C018-43"> Los perdedos <choice><abbr>lancȃ</abbr><expan>lancan</expan></choice> lamar profunda</l>
-               
+
+               <l n="43" xml:id="C018-43"> Los perdedos <choice>
+                     <abbr>lancȃ</abbr>
+                     <expan>lancan</expan>
+                  </choice> lamar profunda</l>
+
                <l n="44" xml:id="C018-44"> Crehent aquells lenteniment torbassen</l>
-               
+
                <l n="45" xml:id="C018-45"> Yo per muntar al delit perdurable</l>
-               
+
                <l n="46" xml:id="C018-46"> Tant quant almon gros plaer demj lanca</l>
-               
+
                <l n="47" xml:id="C018-47"> Crehent decert quel gran delit me torba</l>
-               
+
                <l n="48" xml:id="C018-48"> Aquell plaer quen fastig volant passa</l>
             </lg>
             <pb n="39"
                facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_41.html"/>
             <lg type="cobla" n="7" xml:id="C018-07">
-               
+
                <l n="49" xml:id="C018-49"> Als naturals no par que fer se pusquen</l>
-               
+
                <l n="50" xml:id="C018-50"> Molts del secrets que la deytat sestoia</l>
-               
+
                <l n="51" xml:id="C018-51"> Que reuellats son estats amolts martirs</l>
-               
+
                <l n="52" xml:id="C018-52"> No tan subtils com los ignorants hi aptes</l>
-               
+
                <l n="53" xml:id="C018-53"> Axi primos amor amj reuela</l>
-               
+
                <l n="54" xml:id="C018-54"> Tals quels sabents no basten acompendre</l>
-               
+
                <l n="55" xml:id="C018-55"> E quant ho dich demos dits me desmenten</l>
-               
+
                <l n="56" xml:id="C018-56"> Dant aparer que folles cosses parle</l>
             </lg>
-            <lg type="cobla" n="8" xml:id="C018-08">
-               
+            <lg type="tornada" n="8" xml:id="C018-08">
+
                <l n="57" xml:id="C018-57"> Lir entre carts lomeu voler se tempra</l>
-               
+
                <l n="58" xml:id="C018-58"> Abco que null amador sab lo tempre</l>
-               
+
                <l n="59" xml:id="C018-59"> Co fay amor aquj plau que yo senta</l>
-               
+
                <l n="60" xml:id="C018-60"> Sos grans tresos sols amils manifesta</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

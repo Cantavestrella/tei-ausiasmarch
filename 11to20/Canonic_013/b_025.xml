@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 13</title>
             <author>Ausiàs March </author>
@@ -70,119 +70,121 @@
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_48.html"/>
       <graphic
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_49.html"
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_49.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_50.html"
       />
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_50.html"/>
    </facsimile>
    <text>
       <body>
          <pb n="20r"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_48.html"/>
-         <lg type="poem" xml:id="C013-b025">
+         <div type="poem" xml:id="C013-b025">
             <lg type="cobla" n="1" xml:id="C013-01">
                <l n="1" xml:id="C013-1">Colguen les gents / ab alegria festes</l>
-               
+
                <l n="2" xml:id="C013-2">loant adeu / entremesclant deports</l>
-               
+
                <l n="3" xml:id="C013-3">places carrers / edelitables orts</l>
-               
+
                <l n="4" xml:id="C013-4">sien cercats / ab recont, de grans gestes</l>
-               
+
                <l n="5" xml:id="C013-5">he Vage yo / los sepulcres cercant</l>
-            <pb n="20v"
-               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_49.html"/>
+               <pb n="20v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_49.html"/>
                <l n="6" xml:id="C013-6">interrogant / animes, infernades</l>
-               
+
                <l n="7" xml:id="C013-7">he respondran / car no son companyades</l>
-               
+
                <l n="8" xml:id="C013-8">daltre, que mi / en son continu, plant</l>
             </lg>
-            
+
             <lg type="cobla" n="2" xml:id="C013-02">
                <l n="9" xml:id="C013-9">Cascu requer / he vol, a son semblant</l>
-               
+
                <l n="10" xml:id="C013-10">perço, nom plau / la pratica, dels vius</l>
-               
+
                <l n="11" xml:id="C013-11">d'imaginar / mon, estat, son esquius</l>
-               
+
                <l n="12" xml:id="C013-12">si com d'hom mort / demi prenen, espant</l>
-               
+
                <l n="13" xml:id="C013-13">lo Rey Chipra / presoner, d'un eretje</l>
-               
+
                <l n="14" xml:id="C013-14">en mon sguart / no es mal,ahuirat</l>
-               
+
                <l n="15" xml:id="C013-15">car ço que vull / no sera, may finat</l>
-               
+
                <l n="16" xml:id="C013-16">de mon desig / nom pora guarir, metge</l>
             </lg>
-            
+
             <lg type="cobla" n="3" xml:id="C013-03">
                <l n="17" xml:id="C013-17">Cell Tixion / quil buytre'l menjal, fetge</l>
-               
+
                <l n="18" xml:id="C013-18">apres tostemps / brota la carn, de nou</l>
-               
+
                <l n="19" xml:id="C013-19">he son menjar / aquell, oçell, may clou</l>
-               
-               <l n="20" xml:id="C013-20">pus fort dolor / daquestam te, lo setge<note type="gloss">Setge per siti</note></l>
-               
+
+               <l n="20" xml:id="C013-20">pus fort dolor / daquestam te, lo setge<note type="gloss"
+                     >Setge per siti</note></l>
+
                <l n="21" xml:id="C013-21">car es vn verm / qui romp, la mia pensa</l>
-               
+
                <l n="22" xml:id="C013-22">altre lo cor / que may cessen, de rompre</l>
-               
+
                <l n="23" xml:id="C013-23">he lur treball / nos pora, entre rompre</l>
-               
+
                <l n="24" xml:id="C013-24">sino ab ço / que d'auer, se defensa</l>
             </lg>
-            
+
             <lg type="cobla" n="4" xml:id="C013-04">
                <l n="25" xml:id="C013-25">He si la mort / nom dugues, tal offensa</l>
-               
+
                <l n="26" xml:id="C013-26">ferm'i absent / duna tan plasent, vista</l>
-               
+
                <l n="27" xml:id="C013-27">no li graesch / que de terra, no vista</l>
-               
+
                <l n="28" xml:id="C013-28">lo meu cor nuu / qui de pahor, no pensa</l>
-               
+
                <l n="29" xml:id="C013-29">de perdre pus / que lo, imaginar</l>
-               
+
                <l n="30" xml:id="C013-30">los meus desig no poder se complir</l>
-               
+
                <l n="31" xml:id="C013-31">he sim conue / mon darrer jorn finir</l>
-               
+
                <l n="32" xml:id="C013-32">serandonats / termens, ha ben amar</l>
             </lg>
-            
+
             <pb n="21r"
                facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_50.html"/>
             <lg type="cobla" n="5" xml:id="C013-05">
-               <l n="33" xml:id="C013-33">E  si'n lo cel / deu me vol, allogar</l>
-               
+               <l n="33" xml:id="C013-33">E si'n lo cel / deu me vol, allogar</l>
+
                <l n="34" xml:id="C013-34">part veura ell / per complir, mon delit</l>
-               
-               <l n="35" xml:id="C013-35">sera mester / quem sia, delay<note type="gloss">De lay per de par della</note> dit</l>
-               
+
+               <l n="35" xml:id="C013-35">sera mester / quem sia, delay<note type="gloss">De lay per
+                     de par della</note> dit</l>
+
                <l n="36" xml:id="C013-36">que desta mort / vos ha plagut, plorar</l>
-               
+
                <l n="37" xml:id="C013-37">penedint vos / com, per poca merce</l>
-               
+
                <l n="38" xml:id="C013-38">mor lignocent / he, per amar vos, Martre</l>
-               
+
                <l n="39" xml:id="C013-39">cell qui lo cos / dela'rma vol, de partre</l>
-               
+
                <l n="40" xml:id="C013-40">si ferm cregues / queus dolrieu dese</l>
             </lg>
-            
+
             <lg type="tornada">
                <l n="41" xml:id="C013-41">Lir entre carts / vos sabeu y yo se</l>
-               
+
                <l n="42" xml:id="C013-42">ques pot be fer / hom morir per amor</l>
-               
+
                <l n="43" xml:id="C013-43">creura de mi / que so ental dolor</l>
-               
+
                <l n="44" xml:id="C013-44">no fareu molt / quey doneu, plena fe</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

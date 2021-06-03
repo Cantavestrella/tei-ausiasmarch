@@ -82,100 +82,100 @@
         <body>
             <pb n="7v"
                 facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_18.html"/> 
-            <lg type="poem" xml:id="C007-B008">
-            <lg type="cobla" n="1" xml:id="C0007-1">
-                <l n="1" xml:id="C007-1"> sI com \interlin{d}ictat\footnote{d \textit{sobreposada substituïnt una} r\textit{anul$\cdot{}$lada mitjançant subratllat}} no porta bens ab si</l>
-                <l n="2" xml:id="C007-2"> Mas val ayta\textit{n}<choice><abbr></abbr><expan></expan></choice>t com lo quin es senyor</l>
+            <div type="poem" xml:id="C007-B008">
+            <lg type="cobla" n="1" xml:id="C007-lg1">
+                <l n="1" xml:id="C007-l1"> <add place="margin left">s</add>I com <add place="above">d</add> rictat no porta bens ab si</l>
+                <l n="2" xml:id="C007-l2"> Mas val <choice><abbr>aytȃt</abbr><expan>aytant</expan></choice> com lo quin es senyor</l>
             <pb n="8r" 
                 facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_19.html"/>
-                <l n="3" xml:id="C007-3">  Amor no val mas tant com lamador</l>
-                <l n="4" xml:id="C007-4"> Manxa buffant orgue fals no ret fi</l>
-                <l n="5" xml:id="C007-5"> Amor val poch com tot enamorat</l>
-                <l n="6" xml:id="C007-6"> Ha falsedat en son fals enclosa</l>
-                <l n="7" xml:id="C007-7"> O es <choice><abbr>adiŭt</abbr><expan>adiunt</expan></choice> ab vna tal sposa</l>
-                <l n="8" xml:id="C007-8"> Pegesa es son nom apellat</l>
+                <l n="3" xml:id="C007-l3">  Amor no val mas tant com lamador</l>
+                <l n="4" xml:id="C007-l4"> Manxa buffant orgue fals no ret fi</l>
+                <l n="5" xml:id="C007-l5"> Amor val poch com tot enamorat</l>
+                <l n="6" xml:id="C007-l6"> Ha falsedat en son fals enclosa</l>
+                <l n="7" xml:id="C007-l7"> O es <choice><abbr>adiŭt</abbr><expan>adiunt</expan></choice> ab vna tal sposa</l>
+                <l n="8" xml:id="C007-l8"> Pegesa es son nom apellat</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0007-2">
-                <l n="9" xml:id="C007-9"> Amor no pot hauer desordonat</l>
-                <l n="10" xml:id="C007-10"> ço que deus fa natura mijansant</l>
-                <l n="11" xml:id="C007-11"> Car home pech no pot ser fin <choice><abbr>amȃt</abbr><expan>amant</expan></choice></l>
-                <l n="12" xml:id="C007-12"> Ne lo sobtil contra sa qualitat</l>
-                <l n="13" xml:id="C007-13"> Mal pendre pint en laygua sa figura</l>
-                <l n="14" xml:id="C007-14"> Molt menys amor pendra lono<note>vers defectuós de només 8 síl·labes</note></l>
-                <l n="15" xml:id="C007-15"> Ne pot star laygua dins un loch rost</l>
-                <l n="16" xml:id="C007-16"> Axi amor en cap dom foll atura</l>
+            <lg type="cobla" n="2" xml:id="C007-lg2">
+                <l n="9" xml:id="C007-l9"> Amor no pot hauer desordonat</l>
+                <l n="10" xml:id="C007-l10"> ço que deus fa natura mijansant</l>
+                <l n="11" xml:id="C007-l11"> Car home pech no pot ser fin <choice><abbr>amȃt</abbr><expan>amant</expan></choice></l>
+                <l n="12" xml:id="C007-l12"> Ne lo sobtil contra sa qualitat</l>
+                <l n="13" xml:id="C007-l13"> Mal pendre pint en laygua sa figura</l>
+                <l n="14" xml:id="C007-l14"> Molt menys amor pendra lono<note>vers defectuós de només 8 síl·labes</note></l>
+                <l n="15" xml:id="C007-l15"> Ne pot star laygua dins un loch rost</l>
+                <l n="16" xml:id="C007-l16"> Axi amor en cap dom foll atura</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0007-3">
-                <l n="17" xml:id="C007-17"> Per ben amar ab ançiosa cura</l>
-                <l n="18" xml:id="C007-18"> Pel dret damor hom deu esser be volgut</l>
-                <l n="19" xml:id="C007-19"> Prouat es ia  que amor es crescut</l>
-                <l n="20" xml:id="C007-20"> Per altramor <choice><abbr>demostrȃt</abbr><expan>demostrant</expan></choice> sa factura</l>
-                <l n="21" xml:id="C007-21"> Aço fon ver mentramor fon amjch</l>
-                <l n="22" xml:id="C007-22"> <choice><abbr>Stretamȇt</abbr><expan>Stretament</expan></choice> de vera conexença</l>
-                <l n="23" xml:id="C007-23"> Mas entrells ara tal maluolença</l>
-                <l n="24" xml:id="C007-24"> Qu damistat no pens <choice><abbr>ꝗ</abbr><expan>que</expan></choice> sia pratich</l>
+            <lg type="cobla" n="3" xml:id="C007-lg3">
+                <l n="17" xml:id="C007-l17"> Per ben amar ab ançiosa cura</l>
+                <l n="18" xml:id="C007-l18"> Pel dret damor hom deu esser be volgut</l>
+                <l n="19" xml:id="C007-l19"> Prouat es ia  que amor es crescut</l>
+                <l n="20" xml:id="C007-l20"> Per altramor <choice><abbr>demostrȃt</abbr><expan>demostrant</expan></choice> sa factura</l>
+                <l n="21" xml:id="C007-l21"> Aço fon ver mentramor fon amjch</l>
+                <l n="22" xml:id="C007-l22"> <choice><abbr>Stretamȇt</abbr><expan>Stretament</expan></choice> de vera conexença</l>
+                <l n="23" xml:id="C007-l23"> Mas entrells ara tal maluolença</l>
+                <l n="24" xml:id="C007-l24"> Qu damistat no pens <choice><abbr>ꝗ</abbr><expan>que</expan></choice> sia pratich</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0007-4">
-                <l n="25" xml:id="C007-25"> Si fossem nats vo e yon temps antich</l>
-                <l n="26" xml:id="C007-26"> Quant unamor per altras conqueria</l>
-                <l n="27" xml:id="C007-27"> Sens praticar alguna maestria</l>
-                <l n="28" xml:id="C007-28"> Lo vostre cor no fora tant jnich</l>
-                <l n="29" xml:id="C007-29"> En vos conech gran dispositio</l>
-                <l n="30" xml:id="C007-30"> De fer tot ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> gentilesa mana</l>
+            <lg type="cobla" n="4" xml:id="C007-lg4">
+                <l n="25" xml:id="C007-l25"> Si fossem nats vo e yon temps antich</l>
+                <l n="26" xml:id="C007-l26"> Quant unamor per altras conqueria</l>
+                <l n="27" xml:id="C007-l27"> Sens praticar alguna maestria</l>
+                <l n="28" xml:id="C007-l28"> Lo vostre cor no fora tant jnich</l>
+                <l n="29" xml:id="C007-l29"> En vos conech gran dispositio</l>
+                <l n="30" xml:id="C007-l30"> De fer tot ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> gentilesa mana</l>
            <pb n="8v" 
                facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_20.html"/>
-                <l n="31" xml:id="C007-31">  Mas criament vetx <choice><abbr>ꝗ</abbr><expan>que</expan></choice> naturangana</l>
-                <l n="32" xml:id="C007-32"> Car viural mals es dom perditio</l>
+                <l n="31" xml:id="C007-l31">  Mas criament vetx <choice><abbr>ꝗ</abbr><expan>que</expan></choice> naturangana</l>
+                <l n="32" xml:id="C007-l32"> Car viural mals es dom perditio</l>
                 </lg>
-            <lg type="cobla" n="5" xml:id="C0007-5">
-                <l n="33" xml:id="C007-33"> Per mal grayr o per mala saho</l>
-                <l n="34" xml:id="C007-34"> Mon cor no pot amor desamparar</l>
-                <l n="35" xml:id="C007-35"> Deuotament los me plau <choice><abbr>remȇbrar</abbr><expan>remembrar</expan></choice></l>
-                <l n="36" xml:id="C007-36"> Aquells passats aqui don deu perdo</l>
-                <l n="37" xml:id="C007-37"> E com sere trespassat daquest mon</l>
-                <l n="38" xml:id="C007-38"> Letres diran sobra la mia tomba</l>
-                <l n="39" xml:id="C007-39"> Plena de seny no tingau <choice><abbr>agrȃ</abbr><expan>agran</expan></choice> bomba</l>
-                <l n="40" xml:id="C007-40"> Car per vos muyr e vatx no sabent hon</l>
+            <lg type="cobla" n="5" xml:id="C007-lg5">
+                <l n="33" xml:id="C007-l33"> Per mal grayr o per mala saho</l>
+                <l n="34" xml:id="C007-l34"> Mon cor no pot amor desamparar</l>
+                <l n="35" xml:id="C007-l35"> Deuotament los me plau <choice><abbr>remȇbrar</abbr><expan>remembrar</expan></choice></l>
+                <l n="36" xml:id="C007-l36"> Aquells passats aqui don deu perdo</l>
+                <l n="37" xml:id="C007-l37"> E com sere trespassat daquest mon</l>
+                <l n="38" xml:id="C007-l38"> Letres diran sobra la mia tomba</l>
+                <l n="39" xml:id="C007-l39"> Plena de seny no tingau <choice><abbr>agrȃ</abbr><expan>agran</expan></choice> bomba</l>
+                <l n="40" xml:id="C007-l40"> Car per vos muyr e vatx no sabent hon</l>
                 </lg>
-            <lg type="cobla" n="6" xml:id="C0007-6">
-                <l n="41" xml:id="C007-41"> Enveiastal <choice><abbr>ꝗ</abbr><expan>que</expan></choice> tot primer confon</l>
-                <l n="42" xml:id="C007-42"> A tots <choice><abbr>aꝗlls</abbr><expan>aquells</expan></choice> qui ab si lasajustan</l>
-                <l n="43" xml:id="C007-43"> Los enueiats un poch omolt no gusten</l>
-                <l n="44" xml:id="C007-44"> Aquell mal tast quils enueiosos fon</l>
-                <l n="45" xml:id="C007-45"> Tal es amor car yo quil am aiust</l>
-                <l n="46" xml:id="C007-46"> Sent gran dolor dant me folls mouiments</l>
-                <l n="47" xml:id="C007-47"> Euos haueu daço tals mouiments</l>
-                <l n="48" xml:id="C007-48"> Com fort dastral ha de tallar molt fust</l>
+            <lg type="cobla" n="6" xml:id="C007-lg6">
+                <l n="41" xml:id="C007-l41"> Enveiastal <choice><abbr>ꝗ</abbr><expan>que</expan></choice> tot primer confon</l>
+                <l n="42" xml:id="C007-l42"> A tots <choice><abbr>aꝗlls</abbr><expan>aquells</expan></choice> qui ab si lasajustan</l>
+                <l n="43" xml:id="C007-l43"> Los enueiats un poch omolt no gusten</l>
+                <l n="44" xml:id="C007-l44"> Aquell mal tast quils enueiosos fon</l>
+                <l n="45" xml:id="C007-l45"> Tal es amor car yo quil am aiust</l>
+                <l n="46" xml:id="C007-l46"> Sent gran dolor dant me folls mouiments</l>
+                <l n="47" xml:id="C007-l47"> Euos haueu daço tals mouiments</l>
+                <l n="48" xml:id="C007-l48"> Com fort dastral ha de tallar molt fust</l>
                 </lg>
-            <lg type="cobla" n="7" xml:id="C0007-7">
-                <l n="49" xml:id="C007-49"> Si com adam pres mal del vedat gust</l>
-                <l n="50" xml:id="C007-50"> Quant sa muller  li mostra mal camj</l>
-                <l n="51" xml:id="C007-51"> Dient adam meniem daquest boçi</l>
-                <l n="52" xml:id="C007-52"> E <choice><abbr>semblarȇ</abbr><expan>semblarem</expan></choice> adeu qui es molt just</l>
-                <l n="53" xml:id="C007-53"> Ne pren ami car mon seny ha cregut</l>
-                <l n="54" xml:id="C007-54"> La voluntat fahentli promicio</l>
-                <l n="55" xml:id="C007-55"> Que ben seruint  aconseguiria do</l>
-                <l n="56" xml:id="C007-56"> Que per null temps tal no fo conegut</l>
+            <lg type="cobla" n="7" xml:id="C007-lg7">
+                <l n="49" xml:id="C007-l49"> Si com adam pres mal del vedat gust</l>
+                <l n="50" xml:id="C007-l50"> Quant sa muller  li mostra mal camj</l>
+                <l n="51" xml:id="C007-l51"> Dient adam meniem daquest boçi</l>
+                <l n="52" xml:id="C007-l52"> E <choice><abbr>semblarȇ</abbr><expan>semblarem</expan></choice> adeu qui es molt just</l>
+                <l n="53" xml:id="C007-l53"> Ne pren ami car mon seny ha cregut</l>
+                <l n="54" xml:id="C007-l54"> La voluntat fahentli promicio</l>
+                <l n="55" xml:id="C007-l55"> Que ben seruint  aconseguiria do</l>
+                <l n="56" xml:id="C007-l56"> Que per null temps tal no fo conegut</l>
                 </lg>
           <pb n="9r" 
               facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_21.html"/>
-            <lg type="cobla" n="8" xml:id="C0007-8">
-                <l n="57" xml:id="C007-57">  Per mal seruir no crech laia perdut</l>
-                <l n="58" xml:id="C007-58"> Car sils treballs agues soferts per deu</l>
-                <l n="59" xml:id="C007-59"> Cos glorios feran lo regne seu</l>
-                <l n="60" xml:id="C007-60"> Eia plorant souent me trobe mut</l>
-                <l n="61" xml:id="C007-61"> Sim fos donat aquest temps en <choice><abbr>entȇdre</abbr><expan>entendre</expan></choice></l>
-                <l n="62" xml:id="C007-62"> Los grans secrets dins e fora natura</l>
-                <l n="63" xml:id="C007-63"> No foralmon cosa quem fos scura</l>
-                <l n="64" xml:id="C007-64"> Dels fets diuins gran part ne <choice><abbr>pogratȇdre</abbr><expan>pogratendre</expan></choice></l>
+            <lg type="cobla" n="8" xml:id="C007-lg8">
+                <l n="57" xml:id="C007-l57">  Per mal seruir no crech laia perdut</l>
+                <l n="58" xml:id="C007-l58"> Car sils treballs agues soferts per deu</l>
+                <l n="59" xml:id="C007-l59"> Cos glorios feran lo regne seu</l>
+                <l n="60" xml:id="C007-l60"> Eia plorant souent me trobe mut</l>
+                <l n="61" xml:id="C007-l61"> Sim fos donat aquest temps en <choice><abbr>entȇdre</abbr><expan>entendre</expan></choice></l>
+                <l n="62" xml:id="C007-l62"> Los grans secrets dins e fora natura</l>
+                <l n="63" xml:id="C007-l63"> No foralmon cosa quem fos scura</l>
+                <l n="64" xml:id="C007-l64"> Dels fets diuins gran part ne <choice><abbr>pogratȇdre</abbr><expan>pogratendre</expan></choice></l>
                 </lg>
-            <lg type="tornada">
-                <l n="65" xml:id="C007-65"> Plena de seny tot mon temps vull <choice><abbr>despȇdre</abbr><expan>despendre</expan></choice></l>
-                <l n="66" xml:id="C007-66"> Amant avos sens <choice><abbr>algŭ</abbr><expan>algun</expan></choice> grat atenyer</l>
-                <l n="67" xml:id="C007-67"> E dura fins quebro puscampenyer<note>vers defectuós, falta una síl·laba</note></l>
-                <l n="68" xml:id="C007-68"> Laygual reues e pels alts putxs stendre</l>
+                <lg type="tornada" n="9" xml:id="C007-lg9">
+                <l n="65" xml:id="C007-l65"> Plena de seny tot mon temps vull <choice><abbr>despȇdre</abbr><expan>despendre</expan></choice></l>
+                <l n="66" xml:id="C007-l66"> Amant avos sens <choice><abbr>algŭ</abbr><expan>algun</expan></choice> grat atenyer</l>
+                <l n="67" xml:id="C007-l67"> E dura fins quebro puscampenyer<note type="editorial">Vers defectuós, falta una síl·laba.</note></l>
+                <l n="68" xml:id="C007-l68"> Laygual reues e pels alts putxs stendre</l>
                 </lg>
-            </lg>
+            </div>
         </body>
     </text>
 </TEI>

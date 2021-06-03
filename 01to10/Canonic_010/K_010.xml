@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            
+
             <titleStmt>
                 <title>Poema 10</title>
                 <author>Ausiàs March </author>
@@ -29,12 +29,14 @@
             <publicationStmt>
                 <authority>Rosanna Cantavella</authority>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
-                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
-                            to this document.</p>
-                        <p>This licence applies to this TEI-XML document which is the transformed result
-                            work from a previous LaTEX format file out of the synoptic diplomatic edition
-                            of the complete poemes of Ausiàs March in all its witnesses.</p>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"
+                        notBefore="2019-05-01">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence
+                            applies to this document.</p>
+                        <p>This licence applies to this TEI-XML document which is the transformed
+                            result work from a previous LaTEX format file out of the synoptic
+                            diplomatic edition of the complete poemes of Ausiàs March in all its
+                            witnesses.</p>
                         <p>The licence was added on May 1, 2019.</p>
                     </licence>
                 </availability>
@@ -62,8 +64,8 @@
         </profileDesc>
         <encodingDesc>
             <editorialDecl>
-                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
-                    edition, from all witnesses.</p>
+                <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems'
+                    synoptic edition, from all witnesses.</p>
             </editorialDecl>
         </encodingDesc>
     </teiHeader>
@@ -72,75 +74,134 @@
             url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_27.html"/>
         <graphic
             url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_28.html"/>
-        <graphic 
-            url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_29.html"></graphic>
+        <graphic
+            url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_29.html"
+        />
     </facsimile>
     <text>
-        <body>            
-        <pb n="10v"
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_27.html"/>
-        <lg type="poem" xml:id="C010-K010">
-            <lg type="cobla" n="1" xml:id="C0010-1">
-                <l n="1" xml:id="C010-1"> S J com vn rey senyor <choice><abbr>ƌ</abbr><expan>de</expan></choice> tres ciutats</l>
-                <l n="2" xml:id="C010-2"> Qui tot son temps la plagut guerreiar</l>
-                <l n="3" xml:id="C010-3"> Ab lenemich que dell nos pot vantar</l>
-                <l n="4" xml:id="C010-4"> May lo vençes <choice><abbr>mȇys</abbr><expan>menys</expan></choice> desserne sobrats</l>
-                <l n="5" xml:id="C010-5"> Ans sil mati lenemich lo vençia</l>
-        <pb n="11r" 
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_28.html"/>
-                <l n="6" xml:id="C010-6"> Ans del sol post pel rey era vençut</l>
-                <l n="7" xml:id="C010-7">  Fins quen los hosts contral rey fon vengut</l>
-                <l n="8" xml:id="C010-8"> Un soldader qui lo rey desconfia</l>
+        <body>
+            <pb n="10v"
+                facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_27.html"/>
+            <div type="poem" xml:id="C010-K010">
+                <lg type="cobla" n="1" xml:id="C0010-lg1">
+                    <l n="1" xml:id="C010-l1">S J com vn rey senyor <choice>
+                            <abbr>ƌ</abbr>
+                            <expan>de</expan>
+                        </choice> tres ciutats</l>
+                    <l n="2" xml:id="C010-l2"> Qui tot son temps la plagut guerreiar</l>
+                    <l n="3" xml:id="C010-l3"> Ab lenemich que dell nos pot vantar</l>
+                    <l n="4" xml:id="C010-l4"> May lo vençes <choice>
+                            <abbr>mȇys</abbr>
+                            <expan>menys</expan>
+                        </choice> desserne sobrats</l>
+                    <l n="5" xml:id="C010-l5"> Ans sil mati lenemich lo vençia</l>
+                    <pb n="11r"
+                        facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_28.html"/>
+                    <l n="6" xml:id="C010-l6"> Ans del sol post pel rey era vençut</l>
+                    <l n="7" xml:id="C010-l7"> Fins quen los hosts contral rey fon vengut</l>
+                    <l n="8" xml:id="C010-l8"> Un soldader qui lo rey desconfia</l>
                 </lg>
-            <lg type="cobla" n="2" xml:id="C0010-2">
-                <l n="9" xml:id="C010-9"> Ladonchs lo rey perde la<choice><abbr>señoria</abbr><expan>senyoria</expan></choice></l>
-                <l n="10" xml:id="C010-10"> Delas ciutats sens vlla possehir</l>
-                <l n="11" xml:id="C010-11"> Mas lenemich duas lin volch iaquir</l>
-                <l n="12" xml:id="C010-12"> Dant fe lo rey <choice><abbr>ꝗ</abbr><expan>que</expan></choice> bon <choice><abbr>comptȇ</abbr><expan>compten</expan></choice> retria</l>
-                <l n="13" xml:id="C010-13"> Com a vassall la renda despenent</l>
-                <l n="14" xml:id="C010-14"> A uoluntat del desposseydor</l>
-                <l n="15" xml:id="C010-15"> Delaltra vol <choice><abbr>ꝗ</abbr><expan>que</expan></choice>  non sia <choice><abbr>señor</abbr><expan>senyor</expan></choice></l>
-                <l n="16" xml:id="C010-16"> Ne sia vist <choice><abbr>ꝗ</abbr><expan>que</expan></choice>  li vingan sment</l>
+                <lg type="cobla" n="2" xml:id="C0010-lg2">
+                    <l n="9" xml:id="C010-l9"> Ladonchs lo rey perde la<choice>
+                            <abbr>señoria</abbr>
+                            <expan>senyoria</expan>
+                        </choice></l>
+                    <l n="10" xml:id="C010-l10"> Delas ciutats sens vlla possehir</l>
+                    <l n="11" xml:id="C010-l11"> Mas lenemich duas lin volch iaquir</l>
+                    <l n="12" xml:id="C010-l12"> Dant fe lo rey <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> bon <choice>
+                            <abbr>comptȇ</abbr>
+                            <expan>compten</expan>
+                        </choice> retria</l>
+                    <l n="13" xml:id="C010-l13"> Com a vassall la renda despenent</l>
+                    <l n="14" xml:id="C010-l14"> A uoluntat del desposseydor</l>
+                    <l n="15" xml:id="C010-l15"> Delaltra vol <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> non sia <choice>
+                            <abbr>señor</abbr>
+                            <expan>senyor</expan>
+                        </choice></l>
+                    <l n="16" xml:id="C010-l16"> Ne sia vist <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> li vingan sment</l>
                 </lg>
-            <lg type="cobla" n="3" xml:id="C0010-3">
-                <l n="17" xml:id="C010-17"> Lonch temps amor per enemich lo sent</l>
-                <l n="18" xml:id="C010-18"> Mas james fon quem donas vn mal jorn</l>
-                <l n="19" xml:id="C010-19"> Quen poch instant noli fes pendre torn</l>
-                <l n="20" xml:id="C010-20"> Foragitant son aspre penssament</l>
-                <l n="21" xml:id="C010-21"> Tot ma vençut ab sol sforç dun cos</l>
-                <l n="22" xml:id="C010-22"> Nela calgut mostrar sa potent força</l>
-                <l n="23" xml:id="C010-23"> Los tres podes quen larma son <choice><abbr>mȇforça</abbr><expan>menforça</expan></choice></l>
-                <l n="24" xml:id="C010-24"> Dos men iaquex delaltrusarno gos</l>
+                <lg type="cobla" n="3" xml:id="C0010-lg3">
+                    <l n="17" xml:id="C010-l17"> Lonch temps amor per enemich lo sent</l>
+                    <l n="18" xml:id="C010-l18"> Mas james fon quem donas vn mal jorn</l>
+                    <l n="19" xml:id="C010-l19"> Quen poch instant noli fes pendre torn</l>
+                    <l n="20" xml:id="C010-l20"> Foragitant son aspre penssament</l>
+                    <l n="21" xml:id="C010-l21"> Tot ma vençut ab sol sforç dun cos</l>
+                    <l n="22" xml:id="C010-l22"> Nela calgut mostrar sa potent força</l>
+                    <l n="23" xml:id="C010-l23"> Los tres podes quen larma son <choice>
+                            <abbr>mȇforça</abbr>
+                            <expan>menforça</expan>
+                        </choice></l>
+                    <l n="24" xml:id="C010-l24"> Dos men iaquex delaltrusarno gos</l>
                 </lg>
-            <lg type="cobla" n="4" xml:id="C0010-4">
-                <l n="25" xml:id="C010-25"> E no cuydeu quem sia plaent mos</l>
-                <l n="26" xml:id="C010-26"> A quest vedat ans nandure de grat</l>
-                <l n="27" xml:id="C010-27"> Si be no pusch remembrar lo passat</l>
-                <l n="28" xml:id="C010-28"> Molt es plaent la carrega mon dos</l>
-        <pb n="11v" 
-            facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_29.html"/> 
-                <l n="29" xml:id="C010-29"> James venço fon plaer <choice><abbr>ƌl</abbr><expan>del</expan></choice> vençut</l>
-                <l n="30" xml:id="C010-30"> Sino demi quem plau quamor <choice><abbr>mȇ</abbr><expan>me</expan></choice> vença</l>
-                <l n="31" xml:id="C010-31"> Em tinga pres ab sa visibla lança</l>
-                <l n="32" xml:id="C010-32"> Mas paren be sos colps en mon scut</l>
+                <lg type="cobla" n="4" xml:id="C0010-lg4">
+                    <l n="25" xml:id="C010-l25"> E no cuydeu quem sia plaent mos</l>
+                    <l n="26" xml:id="C010-l26"> A quest vedat ans nandure de grat</l>
+                    <l n="27" xml:id="C010-l27"> Si be no pusch remembrar lo passat</l>
+                    <l n="28" xml:id="C010-l28"> Molt es plaent la carrega mon dos</l>
+                    <pb n="11v"
+                        facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_29.html"/>
+                    <l n="29" xml:id="C010-l29"> James venço fon plaer <choice>
+                            <abbr>ƌl</abbr>
+                            <expan>del</expan>
+                        </choice> vençut</l>
+                    <l n="30" xml:id="C010-l30"> Sino demi quem plau quamor <choice>
+                            <abbr>mȇ</abbr>
+                            <expan>me</expan>
+                        </choice> vença</l>
+                    <l n="31" xml:id="C010-l31"> Em tinga pres ab sa visibla lança</l>
+                    <l n="32" xml:id="C010-l32"> Mas paren be sos colps en mon scut</l>
                 </lg>
-            <lg type="cobla" n="5" xml:id="C0010-5">
-                <l n="33" xml:id="C010-33"> Defet <choice><abbr>ꝗ</abbr><expan>que</expan></choice>  fuy assa merçe vengut</l>
-                <l n="34" xml:id="C010-34"> Lenteniment per son conceller pres</l>
-                <l n="35" xml:id="C010-35"> E mon voler per algotzir lames</l>
-                <l n="36" xml:id="C010-36"> Dant fe cascu <choice><abbr>ꝗ</abbr><expan>que</expan></choice>  may sera rebut</l>
-                <l n="37" xml:id="C010-37"> En llur merce lo <choice><abbr>compaño</abbr><expan>companyo</expan></choice> <choice><abbr>mȇbrar</abbr><expan>membrar</expan></choice></l>
-                <l n="38" xml:id="C010-38"> Seruint <choice><abbr>quasculeamȇt</abbr><expan>quasculeament</expan></choice> son offiçi</l>
-                <l n="39" xml:id="C010-39"> Si <choice><abbr>ꝗ</abbr><expan>que</expan></choice> algu dells no sera tan niçi</l>
-                <l n="40" xml:id="C010-40"> Quen res contrast <choice><abbr>ꝗ</abbr><expan>que</expan></choice>  sia de amar</l>
+                <lg type="cobla" n="5" xml:id="C0010-lg5">
+                    <l n="33" xml:id="C010-l33"> Defet <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> fuy assa merçe vengut</l>
+                    <l n="34" xml:id="C010-l34"> Lenteniment per son conceller pres</l>
+                    <l n="35" xml:id="C010-l35"> E mon voler per algotzir lames</l>
+                    <l n="36" xml:id="C010-l36"> Dant fe cascu <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> may sera rebut</l>
+                    <l n="37" xml:id="C010-l37"> En llur merce lo <choice>
+                            <abbr>compaño</abbr>
+                            <expan>companyo</expan>
+                        </choice>
+                        <choice>
+                            <abbr>mȇbrar</abbr>
+                            <expan>membrar</expan>
+                        </choice></l>
+                    <l n="38" xml:id="C010-l38"> Seruint quascu<choice>
+                            <abbr>lealmȇt</abbr>
+                            <expan>lealment</expan>
+                        </choice> son offiçi</l>
+                    <l n="39" xml:id="C010-l39"> Si <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> algu dells no sera tan niçi</l>
+                    <l n="40" xml:id="C010-l40"> Quen res contrast <choice>
+                            <abbr>ꝗ</abbr>
+                            <expan>que</expan>
+                        </choice> sia de amar</l>
                 </lg>
-            <lg type="cobla" n="6" xml:id="C0010-6">
-                <l n="41" xml:id="C010-41"> Plena de seny vullau uos acordar</l>
-                <l n="42" xml:id="C010-42"> Com per amor venen grans <choice><abbr>sentimȇts</abbr><expan>sentiments</expan></choice></l>
-                <l n="43" xml:id="C010-43"> E per amor pot ser hom jgnocents</l>
-                <l n="44" xml:id="C010-44"> E mostrau yo quine perdut parlar</l>
+                <lg type="tornada" n="6" xml:id="C0010-lg6">
+                    <l n="41" xml:id="C010-l41"> Plena de seny vullau uos acordar</l>
+                    <l n="42" xml:id="C010-l42"> Com per amor venen grans <choice>
+                            <abbr>sentimȇts</abbr>
+                            <expan>sentiments</expan>
+                        </choice></l>
+                    <l n="43" xml:id="C010-l43"> E per amor pot ser hom jgnocents</l>
+                    <l n="44" xml:id="C010-l44"> E mostrau yo quine perdut parlar</l>
                 </lg>
-             </lg>
+            </div>
         </body>
     </text>
 </TEI>

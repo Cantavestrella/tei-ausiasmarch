@@ -79,78 +79,78 @@
         <body>
 <pb n="5v"
     facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-             <lg type="poem" xml:id="C006-D006">
-             <lg type="cobla" n="1" xml:id="C0006-1">
-                 <l n="1" xml:id="C006-1"> Molt he tardat / en de scobrir ma falta</l>
-                 <l n="2" xml:id="C006-2"> per lo jouent / quem nega esperiment</l>
-                 <l n="3" xml:id="C006-3"> envuncas nou / lom es mal coneixent</l>
-                 <l n="4" xml:id="C006-4"> e majorment / silara hos malalta</l>
-                 <l n="5" xml:id="C006-5"> Per gran esforç / de folla voluntat</l>
-                 <l n="6" xml:id="C006-6"> car tant com es / la voluntat moguda</l>
-                 <l n="7" xml:id="C006-7"> hom deu hauer / del seny major ajuda</l>
-                 <l n="8" xml:id="C006-8"> sivirtuos / deu esser nomenat</l>
+             <div type="poem" xml:id="C006-D006">
+             <lg type="cobla" n="1" xml:id="C006-lg1">
+                 <l n="1" xml:id="C006-l1"> Molt he tardat / en de scobrir ma falta</l>
+                 <l n="2" xml:id="C006-l2"> per lo jouent / quem nega esperiment</l>
+                 <l n="3" xml:id="C006-l3"> envuncas nou / lom es mal coneixent</l>
+                 <l n="4" xml:id="C006-l4"> e majorment / silara hos malalta</l>
+                 <l n="5" xml:id="C006-l5"> Per gran esforç / de folla voluntat</l>
+                 <l n="6" xml:id="C006-l6"> car tant com es / la voluntat moguda</l>
+                 <l n="7" xml:id="C006-l7"> hom deu hauer / del seny major ajuda</l>
+                 <l n="8" xml:id="C006-l8"> sivirtuos / deu esser nomenat</l>
                  </lg>
-             <lg type="cobla" n="2" xml:id="C0006-2">
-                 <l n="9" xml:id="C006-9"> Qui son cami verdader / ha errat</l>
-                 <l n="10" xml:id="C006-10"> per anar lla / honvol sojorn hauer</l>
-                 <l n="11" xml:id="C006-11"> es li forçat / que prenga mal sender</l>
-                 <l n="12" xml:id="C006-12"> emay venir / en son loch desijat</l>
-                 <l n="13" xml:id="C006-13"> Tal cas ma pres / volent me contentar</l>
-                 <l n="14" xml:id="C006-14"> mon ferm voler / per altre tal amant</l>
+             <lg type="cobla" n="2" xml:id="C006-lg2">
+                 <l n="9" xml:id="C006-l9"> Qui son cami verdader / ha errat</l>
+                 <l n="10" xml:id="C006-l10"> per anar lla / honvol sojorn hauer</l>
+                 <l n="11" xml:id="C006-l11"> es li forçat / que prenga mal sender</l>
+                 <l n="12" xml:id="C006-l12"> emay venir / en son loch desijat</l>
+                 <l n="13" xml:id="C006-l13"> Tal cas ma pres / volent me contentar</l>
+                 <l n="14" xml:id="C006-l14"> mon ferm voler / per altre tal amant</l>
          <pb n="6r" 
              facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-                 <l n="15" xml:id="C006-15">  no hatrobat / lo seu propri Semblant</l>
-                 <l n="16" xml:id="C006-16"> car son esguart / es verament amar</l>
+                 <l n="15" xml:id="C006-l15">  no hatrobat / lo seu propri Semblant</l>
+                 <l n="16" xml:id="C006-l16"> car son esguart / es verament amar</l>
                  </lg>
-             <lg type="cobla" n="3" xml:id="C0006-3">
-                 <l n="17" xml:id="C006-17"> Lenteniment / en quil juhi no es clar</l>
-                 <l n="18" xml:id="C006-18"> forçadament / apendre opinions</l>
-                 <l n="19" xml:id="C006-19"> voluntat mou / sofistiques rahons</l>
-                 <l n="20" xml:id="C006-20"> fent les valer / eper bastans passar</l>
-                 <l n="21" xml:id="C006-21"> Sicom flori / qui bona color ha</l>
-                 <l n="22" xml:id="C006-22"> eno val res / coneguda sa ley</l>
-                 <l n="23" xml:id="C006-23"> na pres ami / quen pensa munti rey</l>
-                 <l n="24" xml:id="C006-24"> fahent rahons / quals veritat desfa</l>
+             <lg type="cobla" n="3" xml:id="C006-lg3">
+                 <l n="17" xml:id="C006-l17"> Lenteniment / en quil juhi no es clar</l>
+                 <l n="18" xml:id="C006-l18"> forçadament / apendre opinions</l>
+                 <l n="19" xml:id="C006-l19"> voluntat mou / sofistiques rahons</l>
+                 <l n="20" xml:id="C006-l20"> fent les valer / eper bastans passar</l>
+                 <l n="21" xml:id="C006-l21"> Sicom flori / qui bona color ha</l>
+                 <l n="22" xml:id="C006-l22"> eno val res / coneguda sa ley</l>
+                 <l n="23" xml:id="C006-l23"> na pres ami / quen pensa munti rey</l>
+                 <l n="24" xml:id="C006-l24"> fahent rahons / quals veritat desfa</l>
                  </lg>
-             <lg type="cobla" n="4" xml:id="C0006-4">
-                 <l n="25" xml:id="C006-25"> Esi pas mal / bondret ho consentra</l>
-                 <l n="26" xml:id="C006-26"> puis es dit foll / çell qui serueix <choice><abbr>señor</abbr><expan>senyor</expan></choice></l>
-                 <l n="27" xml:id="C006-27"> qui no pot fer content / bon seruidor</l>
-                 <l n="28" xml:id="C006-28"> e per null temps / negun dret juhi fa</l>
-                 <l n="29" xml:id="C006-29"> Emes quj mal / administrador es</l>
-                 <l n="30" xml:id="C006-30"> al cauador / <choice><abbr>donȃtloguer</abbr><expan>donantloguer</expan></choice> de metje</l>
-                 <l n="31" xml:id="C006-31"> en los lochs plans / fa durar lestret setje</l>
-                 <l n="32" xml:id="C006-32"> lo fort castell / en terra tost la mes</l>
+             <lg type="cobla" n="4" xml:id="C006-lg4">
+                 <l n="25" xml:id="C006-l25"> Esi pas mal / bondret ho consentra</l>
+                 <l n="26" xml:id="C006-l26"> puis es dit foll / çell qui serueix <choice><abbr>señor</abbr><expan>senyor</expan></choice></l>
+                 <l n="27" xml:id="C006-l27"> qui no pot fer content / bon seruidor</l>
+                 <l n="28" xml:id="C006-l28"> e per null temps / negun dret juhi fa</l>
+                 <l n="29" xml:id="C006-l29"> Emes quj mal / administrador es</l>
+                 <l n="30" xml:id="C006-l30"> al cauador / <choice><abbr>donȃtloguer</abbr><expan>donantloguer</expan></choice> de metje</l>
+                 <l n="31" xml:id="C006-l31"> en los lochs plans / fa durar lestret setje</l>
+                 <l n="32" xml:id="C006-l32"> lo fort castell / en terra tost la mes</l>
                  </lg>
-             <lg type="cobla" n="5" xml:id="C0006-5">
-                 <l n="33" xml:id="C006-33"> Pren men axi com / agrosser pajes</l>
-                 <l n="34" xml:id="C006-34"> qui bon sement / en malaterra met</l>
-                 <l n="35" xml:id="C006-35"> vltra <choice><abbr>cuydȃt</abbr><expan>cuydant</expan></choice> / pensauer bon splet</l>
-                 <l n="36" xml:id="C006-36"> da quell terreny / qui buyda los graners</l>
-                 <l n="37" xml:id="C006-37"> Assats ha seny / qui no ha sentiment</l>
-                 <l n="38" xml:id="C006-38"> per encercar / etrobar laraho</l>
-                 <l n="39" xml:id="C006-39"> epren esment / de mal del companyo</l>
-                 <l n="40" xml:id="C006-40"> per cas passat / jutja lo seu present</l>
+             <lg type="cobla" n="5" xml:id="C006-lg5">
+                 <l n="33" xml:id="C006-l33"> Pren men axi com / agrosser pajes</l>
+                 <l n="34" xml:id="C006-l34"> qui bon sement / en malaterra met</l>
+                 <l n="35" xml:id="C006-l35"> vltra <choice><abbr>cuydȃt</abbr><expan>cuydant</expan></choice> / pensauer bon splet</l>
+                 <l n="36" xml:id="C006-l36"> da quell terreny / qui buyda los graners</l>
+                 <l n="37" xml:id="C006-l37"> Assats ha seny / qui no ha sentiment</l>
+                 <l n="38" xml:id="C006-l38"> per encercar / etrobar laraho</l>
+                 <l n="39" xml:id="C006-l39"> epren esment / de mal del companyo</l>
+                 <l n="40" xml:id="C006-l40"> per cas passat / jutja lo seu present</l>
                  </lg>
          <pb n="6v" 
              facs="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/>
-             <lg type="cobla" n="6" xml:id="C0006-6">
-                 <l n="41" xml:id="C006-41">  Seguint lo estil / qui naturaconsent</l>
-                 <l n="42" xml:id="C006-42"> eço quel seny / eveure clar abasta</l>
-                 <l n="43" xml:id="C006-43"> negre forment / no dona blanca pasta</l>
-                 <l n="44" xml:id="C006-44"> nel ase ronch / es animal corrent</l>
-                 <l n="45" xml:id="C006-45"> Tan poch será / que nulla dona senta</l>
-                 <l n="46" xml:id="C006-46"> ne veja prim / lo fin secret damor</l>
-                 <l n="47" xml:id="C006-47"> siper amar / no sofir gran dolor</l>
-                 <l n="48" xml:id="C006-48"> y en sentiment / tria dan millers trenta</l>
+             <lg type="cobla" n="6" xml:id="C006-lg6">
+                 <l n="41" xml:id="C006-l41">  Seguint lo estil / qui naturaconsent</l>
+                 <l n="42" xml:id="C006-l42"> eço quel seny / eveure clar abasta</l>
+                 <l n="43" xml:id="C006-l43"> negre forment / no dona blanca pasta</l>
+                 <l n="44" xml:id="C006-l44"> nel ase ronch / es animal corrent</l>
+                 <l n="45" xml:id="C006-l45"> Tan poch será / que nulla dona senta</l>
+                 <l n="46" xml:id="C006-l46"> ne veja prim / lo fin secret damor</l>
+                 <l n="47" xml:id="C006-l47"> siper amar / no sofir gran dolor</l>
+                 <l n="48" xml:id="C006-l48"> y en sentiment / tria dan millers trenta</l>
                  </lg>
-             <lg type="tornada">
-                 <l n="49" xml:id="C006-49"> Plena de seny / sialgu mi esmenta</l>
-                 <l n="50" xml:id="C006-50"> tots los hoents / dien que so millor</l>
-                 <l n="51" xml:id="C006-51"> pus franch / e fort / ecallant amador</l>
-                 <l n="52" xml:id="C006-52"> mavoluntat faent / damor siruenta</l>
+                 <lg type="tornada" n="7" xml:id="C006-lg7">
+                 <l n="49" xml:id="C006-l49"> Plena de seny / sialgu mi esmenta</l>
+                 <l n="50" xml:id="C006-l50"> tots los hoents / dien que so millor</l>
+                 <l n="51" xml:id="C006-l51"> pus franch / e fort / ecallant amador</l>
+                 <l n="52" xml:id="C006-l52"> mavoluntat faent / damor siruenta</l>
                  </lg>
-             </lg>
+             </div>
         </body>
     </text>
 </TEI>

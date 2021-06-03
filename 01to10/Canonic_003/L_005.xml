@@ -43,14 +43,14 @@
             <msDesc
                corresp="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175">
                <msIdentifier xml:id="L_Ms_9_BC">
-                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+                  <repository>Biblioteca de Catalunya</repository>
                </msIdentifier>
                <msContents>
                   <msItem>
                      <rubric>
-                        <locus>f. 140r after end of previous poem, before this one: </locus>Altra</rubric>
+                        <locus>f. 137v after end of previous poem, before this one: </locus>Altra</rubric>
                      <rubric>
-                        <locus>f. 141r between lines 40 and 41 </locus>Tornada </rubric>
+                        <locus>f. 138r between lines 40 and 41 </locus>Tornada </rubric>
                   </msItem>
                </msContents>
             </msDesc>
@@ -69,41 +69,42 @@
       </encodingDesc>
    </teiHeader>
    <facsimile>
-      <graphic url="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"></graphic>
-      <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
-   </facsimile>
+      <graphic url="https://mdc.csuc.cat/digital/collection/manuscritBC/id/272134"></graphic>
+      <graphic url="https://mdc.csuc.cat/digital/collection/manuscritBC/id/272135"></graphic>
+         </facsimile>
    <text>
       <body>
-         <pb n="4"
-            facs="http://mdc.csuc.cat/cdm/ref/collection/manuscritBC/id/272175"/>
-         <lg type="poem" n="1" xml:id="C001-L005">
-            <lg type="cobla" n="1" xml:id="C0003-1">
-               <l n="1" xml:id="C003-1">Per moltamor / don gran desig sengendra</l>
-               <l n="2" xml:id="C003-2">Sper vinent / per tots aquests grahons</l>
-               <l n="3" xml:id="C003-3">Me son delits / mas donam passions</l>
-               <l n="4" xml:id="C003-4">La por del mal / qujm fa magrir carn tendre</l>
-               <l n="5" xml:id="C003-5">E port al cor / sens fum continuu foch</l>
-               <l n="6" xml:id="C003-6">E la calor / nom surt apart de fora</l>
-               <l n="7" xml:id="C003-7">Socorreu me / dins los termens dunora</l>
-               <l n="8" xml:id="C003-8">Car mos senyals / demostren viure poch</l>
+         <pb n="137v"
+            facs="https://mdc.csuc.cat/digital/collection/manuscritBC/id/272134"/>
+         <div type="poem" xml:id="C003-L005">
+            <lg type="cobla" n="1" xml:id="C003-lg1">
+               <l n="1" xml:id="C003-l1">Per moltamor / don gran desig sengendra</l>
+               <l n="2" xml:id="C003-l2">Sper vinent / per tots aquests grahons</l>
+               <l n="3" xml:id="C003-l3">Me son delits / mas donam passions</l>
+               <l n="4" xml:id="C003-l4">La por del mal / qujm fa magrir carn tendre</l>
+               <l n="5" xml:id="C003-l5">E port al cor / sens fum continuu foch</l>
+               <l n="6" xml:id="C003-l6">E la calor / nom surt apart de fora</l>
+               <l n="7" xml:id="C003-l7">Socorreu me / dins los termens dunora</l>
+               <l n="8" xml:id="C003-l8">Car mos senyals / demostren viure poch</l>
             </lg>
-            <lg type="cobla" n="2" xml:id="C0003-2">
-               <l n="9" xml:id="C003-9">Metge scient / note lo cars per joch</l>
-               <l n="10" xml:id="C003-10">Com la calor / no surt apart extrema</l>
-               <l n="11" xml:id="C003-11">Lingorant veu / que lo malalt no crema</l>
-               <l n="12" xml:id="C003-12">E jutial sa / pusque mostral bon toch</l>
-               <l n="13" xml:id="C003-13">Lo pacient / no pora dir son mal</l>
-               <l n="14" xml:id="C003-14">Tot affablit / ab lengua mal diserta</l>
-               <l n="15" xml:id="C003-15">Gests e color / assats fan descuberta</l>
-               <l n="16" xml:id="C003-16">Part del affany / que tant com lo dir val</l>
+            <lg type="cobla" n="2" xml:id="C003-lg2">
+               <l n="9" xml:id="C003-l9">Metge scient / note lo cars per joch</l>
+               <l n="10" xml:id="C003-l10">Com la calor / no surt apart extrema</l>
+               <l n="11" xml:id="C003-l11">Lingorant veu / que lo malalt no crema</l>
+               <l n="12" xml:id="C003-l12">E jutial sa / pusque mostral bon toch</l>
+               <l n="13" xml:id="C003-l13">Lo pacient / no pora dir son mal</l>
+               <l n="14" xml:id="C003-l14">Tot affablit / ab lengua mal diserta</l>
+               <l n="15" xml:id="C003-l15">Gests e color / assats fan descuberta</l>
+               <l n="16" xml:id="C003-l16">Part del affany / que tant com lo dir val</l>
             </lg>
-            <lg type="tornada">
-               <l n="17" xml:id="C003-17">Plena de seny / dir vos queus am no cal</l>
-               <l n="18" xml:id="C003-18">Puys creech decert / queus ne teniu per certa</l>
-               <l n="19" xml:id="C003-19">Si be mostrau / queus esta molt cuberta</l>
-               <l n="20" xml:id="C003-20">Cella per que / amor es desegual</l>
+            <pb n="138r" facs="https://mdc.csuc.cat/digital/collection/manuscritBC/id/272135"/>
+            <lg type="tornada" n="3" xml:id="C003-lg3">
+               <l n="17" xml:id="C003-l17">Plena de seny / dir vos queus am no cal</l>
+               <l n="18" xml:id="C003-l18">Puys creech decert / queus ne teniu per certa</l>
+               <l n="19" xml:id="C003-l19">Si be mostrau / queus esta molt cuberta</l>
+               <l n="20" xml:id="C003-l20">Cella per que / amor es desegual</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 20</title>
             <author>Ausiàs March </author>
@@ -41,14 +41,17 @@
             <date>2019-05-01</date>
          </publicationStmt>
          <sourceDesc>
-            <msDesc
-               corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000149777">
+            <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000149777">
                <msIdentifier xml:id="E_Ms_3695_BnM">
                   <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <rubric><locus>f. 4r after end of previous poem, before this one: </locus> <choice><abbr>Moß</abbr><expan>Mossen</expan></choice> ausias march</rubric>
+                     <rubric><locus>f. 4r after end of previous poem, before this one: </locus>
+                        <choice>
+                           <abbr>Moß</abbr>
+                           <expan>Mossen</expan>
+                        </choice> ausias march</rubric>
                      <rubric>
                         <locus>f. 5r between lines 40 and 41 </locus>Tornada </rubric>
                   </msItem>
@@ -69,121 +72,119 @@
       </encodingDesc>
    </teiHeader>
    <facsimile>
-      <graphic
-         url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+      <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
       <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
-      
+
    </facsimile>
    <text>
       <body>
-         <pb n="4r"
-            facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
-         <lg type="poem" xml:id="C020-E004">
+         <pb n="4r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+         <div type="poem" xml:id="C020-E004">
             <lg type="cobla" n="1" xml:id="C020-01">
-               
+
                <l n="1" xml:id="C020-1"> Alguns passats / donaren si amort</l>
-               
+
                <l n="2" xml:id="C020-2"> per escapar / dels mals quel mon aporta</l>
-               
+
                <l n="3" xml:id="C020-3"> e per hauer / vbert aquella porta</l>
-               
+
                <l n="4" xml:id="C020-4"> hon los desigs / tots venen abon port</l>
-               
+
                <l n="5" xml:id="C020-5"> A mi nom cal / de aquest mon exir</l>
-               
+
                <l n="6" xml:id="C020-6"> per en çercar / aquell sobiran be</l>
-               
+
                <l n="7" xml:id="C020-7"> en vos es tot / e nom cal darhi fe</l>
-               
+
                <l n="8" xml:id="C020-8"> car veu mon vll / e sent vos mon sentir</l>
             </lg>
-            <pb n="4v"
-               facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+            <pb n="4v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
             <lg type="cobla" n="2" xml:id="C020-02">
-               
+
                <l n="9" xml:id="C020-9"> Grat fas adeu / com sens mort sofferir</l>
-               
+
                <l n="10" xml:id="C020-10"> tinch dauant mi / lo goig del sperit</l>
-               
+
                <l n="11" xml:id="C020-11"> çest es aquell / pus sobiran delit</l>
-               
+
                <l n="12" xml:id="C020-12"> e lo derrer / hon me plau romanir</l>
-               
+
                <l n="13" xml:id="C020-13"> Cest es aquell / qui desigs me sostrau</l>
-               
+
                <l n="14" xml:id="C020-14"> çest es aquell / hon mals e bens fenexen</l>
-               
+
                <l n="15" xml:id="C020-15"> mos pensaments / de altra part nos pexen</l>
-               
+
                <l n="16" xml:id="C020-16"> ne han perbo / si res fora dell cau</l>
             </lg>
             <lg type="cobla" n="3" xml:id="C020-03">
-               
+
                <l n="17" xml:id="C020-17"> Tant madolor / es en subiran grau</l>
-               
+
                <l n="18" xml:id="C020-18"> com tinch present / mon be carestios</l>
-               
+
                <l n="19" xml:id="C020-19"> que si de mort / vull ser volenteros</l>
-               
+
                <l n="20" xml:id="C020-20"> nol pusch hauer / car merçe non te clau</l>
-               
+
                <l n="21" xml:id="C020-21"> Ho piatat / ab grahir poch nan guarda</l>
-               
+
                <l n="22" xml:id="C020-22"> perço no toch / a la porta quem obren</l>
-               
+
                <l n="23" xml:id="C020-23"> mos sentiments / clarament me descobren</l>
-               
-               <l n="24" xml:id="C020-24"> que la fauor / <del type="overstrike">del alt secret</del><add place="below">detrayment</add> / nom guarda</l>
-               
+
+               <l n="24" xml:id="C020-24"> que la fauor / <del rend="overstrike">del alt
+                     secret</del><add place="below">detrayment</add> / nom guarda</l>
+
             </lg>
             <lg type="cobla" n="4" xml:id="C020-04">
-               
+
                <l n="25" xml:id="C020-25"> Cascun semblant / ason semblant esguarda</l>
-               
+
                <l n="26" xml:id="C020-26"> donchs aquest dret / qui es aquell quil romp</l>
-               
+
                <l n="27" xml:id="C020-27"> yo jinclinat / gran desig me corromp</l>
-               
+
                <l n="28" xml:id="C020-28"> yen desijar / çella quen am ve tarda</l>
-               
+
                <l n="29" xml:id="C020-29"> E tardara / si amor nol'reuela</l>
-               
+
                <l n="30" xml:id="C020-30"> los grans secrets / quils amadors practiquen</l>
-               
+
                <l n="31" xml:id="C020-31"> tals que si no / en cors gentils nos fiquen</l>
-               
+
                <l n="32" xml:id="C020-32"> hobedients / a na venus estela</l>
             </lg>
             <pb n="5r"/>
             <lg type="cobla" n="5" xml:id="C020-05">
-               
+
                <l n="33" xml:id="C020-33"> Si com lo foch / quant es en la canela</l>
-               
+
                <l n="34" xml:id="C020-34"> mostra desig / danar ason spera</l>
-               
+
                <l n="35" xml:id="C020-35"> ma voluntat / vn moment no spera</l>
-               
+
                <l n="36" xml:id="C020-36"> tant com mils pot / als vents dona la vela</l>
-               
+
                <l n="37" xml:id="C020-37"> Per arribar / al port molt desijat</l>
-               
+
                <l n="38" xml:id="C020-38"> en altra part / ami no te lo ferre</l>
-               
+
                <l n="39" xml:id="C020-39"> e si del tot / del port mi desaferre</l>
-               
+
                <l n="40" xml:id="C020-40"> en esta mar / me trobare negat</l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C020-06">
-               
+            <lg type="tornada" n="6" xml:id="C020-06">
+
                <l n="41" xml:id="C020-41"> Lir entre carts / dichvos la veritat</l>
-               
+
                <l n="42" xml:id="C020-42"> que si podeu / saber ma gran amor</l>
-               
+
                <l n="43" xml:id="C020-43"> creure no pusch / non sentau gran dolor</l>
-               
+
                <l n="44" xml:id="C020-44"> nem fallira / de ben amar lo grat</l>
             </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>

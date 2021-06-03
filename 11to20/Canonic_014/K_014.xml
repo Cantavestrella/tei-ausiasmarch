@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         
+
          <titleStmt>
             <title>Poema 14</title>
             <author>Ausiàs March </author>
@@ -72,161 +72,198 @@
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_35.html"/>
       <graphic
          url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_36.html"/>
-      <graphic 
-         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_37.html"></graphic>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_37.html"
+      />
    </facsimile>
    <text>
       <body>
          <pb n="14v"
             facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_35.html"/>
-         <lg type="poem" xml:id="C014-K014">
+         <div type="poem" xml:id="C014-K014">
             <lg type="cobla" n="1" xml:id="C014-01">
-               
-               <l n="1" xml:id="C014-1"> m Al venturos no <choice><abbr>ƌu</abbr><expan>deu</expan></choice> sercar ventura
+
+               <l n="1" xml:id="C014-1"> m Al venturos no <choice>
+                     <abbr>ƌu</abbr>
+                     <expan>deu</expan>
+                  </choice> sercar ventura </l>
+
+               <l n="2" xml:id="C014-2"> Croar se deu lo front com lanomenen </l>
+
+               <l n="3" xml:id="C014-3"> No desloant los qui fauor ne <choice>
+                     <abbr>prenȇ</abbr>
+                     <expan>prenen</expan>
+                  </choice>
                </l>
-               
-               <l n="2" xml:id="C014-2"> Croar se deu lo front com lanomenen
-               </l>
-               
-               <l n="3" xml:id="C014-3"> No desloant los qui fauor ne <choice><abbr>prenȇ</abbr><expan>prenen</expan></choice>
-               </l>
-               
-               <l n="4" xml:id="C014-4"> Entreposant lur bon jnginy e cura
-               </l>
-               
-               <l n="5" xml:id="C014-5"> Algu no deu son juy tan prest hauer
-               </l>
-               
-               <l n="6" xml:id="C014-6"> Que çell desllou qui ventura vol fenyer
-               </l>
-               
-               <l n="7" xml:id="C014-7"> No virtuos denegant li atenyer
-               </l>
-               
-               <l n="8" xml:id="C014-8"> Ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> sos fills an menys <choice><abbr>dalgȗ</abbr><expan>dalgun</expan></choice> saber
-               </l>
+
+               <l n="4" xml:id="C014-4"> Entreposant lur bon jnginy e cura </l>
+
+               <l n="5" xml:id="C014-5"> Algu no deu son juy tan prest hauer </l>
+
+               <l n="6" xml:id="C014-6"> Que çell desllou qui ventura vol fenyer </l>
+
+               <l n="7" xml:id="C014-7"> No virtuos denegant li atenyer </l>
+
+               <l n="8" xml:id="C014-8"> Ço <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> sos fills an menys <choice>
+                     <abbr>dalgȗ</abbr>
+                     <expan>dalgun</expan>
+                  </choice> saber </l>
             </lg>
             <lg type="cobla" n="2" xml:id="C014-02">
-               
-               <l n="9" xml:id="C014-9"> E lex me donchs desser auenturer
+
+               <l n="9" xml:id="C014-9"> E lex me donchs desser auenturer </l>
+
+               <l n="10" xml:id="C014-10"> Si be nom pusch tant retraure <choice>
+                     <abbr>nestrȇyer</abbr>
+                     <expan>nestrenyer</expan>
+                  </choice>
                </l>
-               
-               <l n="10" xml:id="C014-10"> Si be nom pusch tant retraure <choice><abbr>nestrȇyer</abbr><expan>nestrenyer</expan></choice>
+
+               <l n="11" xml:id="C014-11"> Quen contra dell me pogues tant <choice>
+                     <abbr>empȇyer</abbr>
+                     <expan>empenyer</expan>
+                  </choice>
                </l>
-               
-               <l n="11" xml:id="C014-11"> Quen contra dell me pogues tant <choice><abbr>empȇyer</abbr><expan>empenyer</expan></choice>
-               </l>
-               
-               <l n="12" xml:id="C014-12"> Si <choice><abbr>ꝗ</abbr><expan>que</expan></choice> fogis ason peu molt leuger
-               </l>
-            <pb n="15r"
-               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_36.html"/>
-               <l n="13" xml:id="C014-13"> Senyor es <choice><abbr>grȃ</abbr><expan>gran</expan></choice> bens mudans regidor
-               </l>
-               
-               <l n="14" xml:id="C014-14"> En son juy es al vll amagat
-               </l>
-               
-               <l n="15" xml:id="C014-15"> Seint vos lla don sereu delitat
-               </l>
-               
-               <l n="16" xml:id="C014-16"> E quel delit vingues tot per amor
-               </l>
+
+               <l n="12" xml:id="C014-12"> Si <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> fogis ason peu molt leuger </l>
+               <pb n="15r"
+                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_36.html"/>
+               <l n="13" xml:id="C014-13"> Senyor es <choice>
+                     <abbr>grȃ</abbr>
+                     <expan>gran</expan>
+                  </choice> bens mudans regidor </l>
+
+               <l n="14" xml:id="C014-14"> En son juy es al vll amagat </l>
+
+               <l n="15" xml:id="C014-15"> Seint vos lla don sereu delitat </l>
+
+               <l n="16" xml:id="C014-16"> E quel delit vingues tot per amor </l>
             </lg>
             <lg type="cobla" n="3" xml:id="C014-03">
-               
-               <l n="17" xml:id="C014-17"> Lonch es lo temps del <choice><abbr>cȏtinuu</abbr><expan>continuu</expan></choice> dolor
-               </l>
-               
-               <l n="18" xml:id="C014-18"> Apart de tras car son sinch anys passats
-               </l>
-               
-               <l n="19" xml:id="C014-19"> <choice><abbr>Quȇ</abbr><expan>Quem</expan></choice> futx delit com y fuy acostats
-               </l>
-               
-               <l n="20" xml:id="C014-20"> Fent me sentir fret apres de calor
-               </l>
-               
-               <l n="21" xml:id="C014-21"> Diuersitat de cassos aportant
-               </l>
-               
-               <l n="22" xml:id="C014-22"> Per degastar damor lo benifet
-               </l>
-               
-               <l n="23" xml:id="C014-23"> Dels bens damor conseruador sen ret
-               </l>
-               
-               <l n="24" xml:id="C014-24"> Fora content io qui so desijat
-               </l>
+
+               <l n="17" xml:id="C014-17"> Lonch es lo temps del <choice>
+                     <abbr>cȏtinuu</abbr>
+                     <expan>continuu</expan>
+                  </choice> dolor </l>
+
+               <l n="18" xml:id="C014-18"> Apart de tras car son sinch anys passats </l>
+
+               <l n="19" xml:id="C014-19">
+                  <choice>
+                     <abbr>Quȇ</abbr>
+                     <expan>Quem</expan>
+                  </choice> futx delit com y fuy acostats </l>
+
+               <l n="20" xml:id="C014-20"> Fent me sentir fret apres de calor </l>
+
+               <l n="21" xml:id="C014-21"> Diuersitat de cassos aportant </l>
+
+               <l n="22" xml:id="C014-22"> Per degastar damor lo benifet </l>
+
+               <l n="23" xml:id="C014-23"> Dels bens damor conseruador sen ret </l>
+
+               <l n="24" xml:id="C014-24"> Fora content io qui so desijat </l>
             </lg>
             <lg type="cobla" n="4" xml:id="C014-04">
-               
-               <l n="25" xml:id="C014-25"> A deu nel mon no so damor <choice><abbr>clamȃt</abbr><expan>clamant</expan></choice>
+
+               <l n="25" xml:id="C014-25"> A deu nel mon no so damor <choice>
+                     <abbr>clamȃt</abbr>
+                     <expan>clamant</expan>
+                  </choice>
                </l>
-               
-               <l n="26" xml:id="C014-26"> Car be ha dat aygama <choice><abbr>grȃda</abbr><expan>granda</expan></choice> set
-               </l>
-               
-               <l n="27" xml:id="C014-27"> No sadollant mas compta lin es fet
-               </l>
-               
-               <l n="28" xml:id="C014-28"> No pot complir ço <choice><abbr>ꝗ</abbr><expan>que</expan></choice> so desijant
-               </l>
-               
-               <l n="29" xml:id="C014-29"> E no merex algu reprenjment
-               </l>
-               
-               <l n="30" xml:id="C014-30"> Car del çel terç eguals forces nos fa
-               </l>
-               
-               <l n="31" xml:id="C014-31"> Segons cascu amar dispost sta
-               </l>
-               
-               <l n="32" xml:id="C014-32"> E <choice><abbr>tȃt</abbr><expan>tant</expan></choice> com pot streny son <choice><abbr>manamȇt</abbr><expan>manament</expan></choice>
+
+               <l n="26" xml:id="C014-26"> Car be ha dat aygama <choice>
+                     <abbr>grȃda</abbr>
+                     <expan>granda</expan>
+                  </choice> set </l>
+
+               <l n="27" xml:id="C014-27"> No sadollant mas compta lin es fet </l>
+
+               <l n="28" xml:id="C014-28"> No pot complir ço <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> so desijant </l>
+
+               <l n="29" xml:id="C014-29"> E no merex algu reprenjment </l>
+
+               <l n="30" xml:id="C014-30"> Car del çel terç eguals forces nos fa </l>
+
+               <l n="31" xml:id="C014-31"> Segons cascu amar dispost sta </l>
+
+               <l n="32" xml:id="C014-32"> E <choice>
+                     <abbr>tȃt</abbr>
+                     <expan>tant</expan>
+                  </choice> com pot streny son <choice>
+                     <abbr>manamȇt</abbr>
+                     <expan>manament</expan>
+                  </choice>
                </l>
             </lg>
             <lg type="cobla" n="5" xml:id="C014-05">
-               
-               <l n="33" xml:id="C014-33"> Fortuit cas ma fet esser absent
+
+               <l n="33" xml:id="C014-33"> Fortuit cas ma fet esser absent </l>
+
+               <l n="34" xml:id="C014-34"> Del foch damor qui jam illumjna </l>
+
+               <l n="35" xml:id="C014-35"> En millor cas ventural apaga </l>
+               <pb n="15v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_37.html"/>
+               <l n="36" xml:id="C014-36"> E <choice>
+                     <abbr>iosȏ</abbr>
+                     <expan>ioson</expan>
+                  </choice> cert quamor ne fon dolent </l>
+
+               <l n="37" xml:id="C014-37">
+                  <choice>
+                     <abbr>Perꝗ</abbr>
+                     <expan>Perque</expan>
+                  </choice> nom clam damor mas <choice>
+                     <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice>
+                  <choice>
+                     <abbr>vȇtura</abbr>
+                     <expan>ventura</expan>
+                  </choice>
                </l>
-               
-               <l n="34" xml:id="C014-34"> Del foch damor qui jam illumjna
+
+               <l n="38" xml:id="C014-38"> Car son poder ma desfauorit </l>
+
+               <l n="39" xml:id="C014-39"> En abando nom vol hauer jaquit </l>
+
+               <l n="40" xml:id="C014-40"> Ans perseguex amor ema <choice>
+                     <abbr>grȃ</abbr>
+                     <expan>gran</expan>
+                  </choice> cura </l>
+            </lg>
+            <lg type="tornada" n="6" xml:id="C014-06">
+
+               <l n="41" xml:id="C014-41"> Lir entre carts del mon <choice>
+                     <abbr>ƌu</abbr>
+                     <expan>deu</expan>
+                  </choice> pendre cura </l>
+
+               <l n="42" xml:id="C014-42"> Qui li coue damor perdre sperança </l>
+
+               <l n="43" xml:id="C014-43"> E tal o qual es damor la <choice>
+                     <abbr>fermȃça</abbr>
+                     <expan>fermança</expan>
+                  </choice>
                </l>
-               
-               <l n="35" xml:id="C014-35"> En millor cas ventural apaga
-               </l>
-            <pb n="15v"
-               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_37.html"/>
-               <l n="36" xml:id="C014-36"> E <choice><abbr>iosȏ</abbr><expan>ioson</expan></choice> cert quamor ne fon dolent
-               </l>
-               
-               <l n="37" xml:id="C014-37"> <choice><abbr>Perꝗ</abbr><expan>Perque</expan></choice> nom clam damor mas <choice><abbr>ƌ</abbr><expan>de</expan></choice> <choice><abbr>vȇtura</abbr><expan>ventura</expan></choice>
-               </l>
-               
-               <l n="38" xml:id="C014-38"> Car son poder ma desfauorit
-               </l>
-               
-               <l n="39" xml:id="C014-39"> En abando nom vol hauer jaquit
-               </l>
-               
-               <l n="40" xml:id="C014-40"> Ans perseguex amor ema <choice><abbr>grȃ</abbr><expan>gran</expan></choice> cura
+
+               <l n="44" xml:id="C014-44"> Ab lo desitx qui li dona <choice>
+                     <abbr>pȗctura</abbr>
+                     <expan>punctura</expan>
+                  </choice>
                </l>
             </lg>
-            <lg type="cobla" n="6" xml:id="C014-06">
-               
-               <l n="41" xml:id="C014-41"> Lir entre carts del mon <choice><abbr>ƌu</abbr><expan>deu</expan></choice> pendre cura
-               </l>
-               
-               <l n="42" xml:id="C014-42"> Qui li coue damor perdre sperança
-               </l>
-               
-               <l n="43" xml:id="C014-43"> E tal o qual es damor la <choice><abbr>fermȃça</abbr><expan>fermança</expan></choice>
-               </l>
-               
-               <l n="44" xml:id="C014-44"> Ab lo desitx qui li dona <choice><abbr>pȗctura</abbr><expan>punctura</expan></choice>
-               </l>
-            </lg>
-         </lg>
+         </div>
       </body>
    </text>
 </TEI>
