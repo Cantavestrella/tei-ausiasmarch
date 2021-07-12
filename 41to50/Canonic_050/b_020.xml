@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 50</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/">
+     <msIdentifier xml:id="b_Ed_1543_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.16v between lines 40 and 41</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_40.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_41.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C050-b020">
+    <pb n="16r"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_40.html"/>
+    <lg type="cobla" n="1" xml:id="C049-lg1">
+     <l n="1" xml:id="C049-l1">
+      <c rend="large">S</c>i com aquell / qui per sa'nfinitat </l>
+     <l n="2" xml:id="C049-l2"> no pot esser / de res finit content </l>
+     <l n="3" xml:id="C049-l3"> si que res fet / ab algun element </l>
+     <l n="4" xml:id="C049-l4"> en son delit / nol haura contentat </l>
+     <l n="5" xml:id="C049-l5"> per l'inperfet / lo delit munde, posa </l>
+     <l n="6" xml:id="C049-l6"> he sino'ndeu / sa pensa no, satura </l>
+     <l n="7" xml:id="C049-l7"> axi, amar / vos, amant m'assegura </l>
+     <l n="8" xml:id="C049-l8"> tot lo restant / del mon, me fa gran, nosa </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C049-lg2">
+     <l n="9" xml:id="C049-l9"> En Vos pensant / ma pensa es, enclosa </l>
+     <l n="10" xml:id="C049-l10"> dompdas<note type="gloss" place="magin left">Dompdar per
+       amansar</note> per vos / ma voluntat no farta </l>
+     <l n="11" xml:id="C049-l11"> car mon desig / la te catiua'b carta </l>
+     <l n="12" xml:id="C049-l12"> que res no vol / ne demanar, no gosa </l>
+     <l n="13" xml:id="C049-l13"> nom marauell / si yo, am'ha vos tant </l>
+     <l n="14" xml:id="C049-l14"> coneixent vos / vehent vos, he sentint </l>
+     <l n="15" xml:id="C049-l15"> al meu voler / lo saber lo desmint </l>
+     <l n="16" xml:id="C049-l16"> lo meu saber / al voler va, deuant </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C049-lg3">
+     <l n="17" xml:id="C049-l17"> Yom marauell / com nom muyr desijant </l>
+     <l n="18" xml:id="C049-l18"> crehent en vos / esser lo paradis </l>
+     <l n="19" xml:id="C049-l19"> he no se hom/ que'n vos aytant, sentis </l>
+     <l n="20" xml:id="C049-l20"> que nos mostras / de vos esser amant </l>
+     <l n="21" xml:id="C049-l21"> nom lou detant / que'n saber, tots los pas </l>
+     <l n="22" xml:id="C049-l22"> mas per amor / he sentit mes, en vos </l>
+     <l n="23" xml:id="C049-l23"> amor ha fet / dels seus bons seruidos </l>
+     <l n="24" xml:id="C049-l24"> del pech, sabent / he franch,del pus scas </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C049-lg4">
+     <l n="25" xml:id="C049-l25"> Ha desijar / mon desig, no es llas </l>
+     <l n="26" xml:id="C049-l26"> mas la valor / vostra, mes ne mereix </l>
+     <l n="27" xml:id="C049-l27"> en estimar / hom, be, no la compleix </l>
+     <l n="28" xml:id="C049-l28"> nous am'hasats / qui amant, no'sclatas </l>
+     <pb n="16v"
+      facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_41.html"/>
+     <l n="29" xml:id="C049-l29"> ia per amor / amadors morts se son </l>
+     <l n="30" xml:id="C049-l30"> he yo so viu / yen fet no rest, igual </l>
+     <l n="31" xml:id="C049-l31"> la causa d'hon / los vench aytant de mal </l>
+     <l n="32" xml:id="C049-l32"> no es tan gran / con la que mi confon </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C049-lg5">
+     <l n="33" xml:id="C049-l33"> He puis semblant / de vos james no fon </l>
+     <l n="34" xml:id="C049-l34"> yo de gra, ser / sus tots auantatjat </l>
+     <l n="35" xml:id="C049-l35"> nou pensament / deu me pograuerdat </l>
+     <l n="36" xml:id="C049-l36"> que no seruis / ha pus ha fer, al mon </l>
+     <l n="37" xml:id="C049-l37"> sino, en vos / per tostemps contemplar </l>
+     <l n="38" xml:id="C049-l38"> car yo conech / que, meriu <note type="gloss">Meriu per
+       meritau.</note> vaga <note type="gloss">Vag per desoccupada.</note> pensa </l>
+     <l n="39" xml:id="C049-l39"> he sab me greu / com nom trob tal defensa </l>
+     <l n="40" xml:id="C049-l40"> que nom jequis / altra pensa'costar </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C049-lg6">
+     <l n="41" xml:id="C049-l41"> Lir entre carts / ço quem fa vos amar </l>
+     <l n="42" xml:id="C049-l42"> nom entra pas / solament, per la vista </l>
+     <l n="43" xml:id="C049-l43"> vostre sperit / es aquell quim conquista </l>
+     <l n="44" xml:id="C049-l44"> he, com demi / nous mostrau desaltar </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

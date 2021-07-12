@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 31 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name> Mar Pamblanco </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo Hilario </name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/obres-dausias-march-manuscrito--0/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.28r between lines 40 and 41</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_58.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_59.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C031-B032">
+
+    <pb n="27v"
+     facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_58.html"/>
+
+    <lg type="cobla" n="1" xml:id="CO31-lg1">
+     <l n="1" xml:id="CO31-l1"> <c rend="large">M</c>olts homens hotx clamarse de fortuna </l>
+     <l n="2" xml:id="CO31-l2"> E malehir <choice>
+       <abbr>aꝗlla</abbr>
+       <expan>aquella</expan>
+      </choice> per sos actes </l>
+     <l n="3" xml:id="CO31-l3"> Volents fermar ab ella vns tals pactes </l>
+     <l n="4" xml:id="CO31-l4"> Quels donas be per tostemps essent vna </l>
+     <l n="5" xml:id="CO31-l5"> No recordants sa propia natura </l>
+     <l n="6" xml:id="CO31-l6"> Ques lalt baxar e lo bax <choice>
+       <abbr>mûtar</abbr>
+       <expan>muntar</expan>
+      </choice> alt </l>
+     <l n="7" xml:id="CO31-l7"> E qui daço se dona gran desalt </l>
+     <l n="8" xml:id="CO31-l8"> Lexe los bens portans ab si fretura </l>
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="CO31-lg2">
+     <l n="9" xml:id="CO31-l9"> <c rend="large">A</c> deu no plach hauer del <choice>
+       <abbr>mô</abbr>
+       <expan>mon</expan>
+      </choice> tal cura </l>
+     <l n="10" xml:id="CO31-l10"> Que noy jaquis menys delits <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> affanys </l>
+     <l n="11" xml:id="CO31-l11"> Per dues son en nombre mes quels <choice>
+       <abbr>guañs</abbr>
+       <expan>guanys</expan>
+      </choice></l>
+     <l n="12" xml:id="CO31-l12"> Nes sguart del ver lo seny es oradura </l>
+     <l n="13" xml:id="CO31-l13"> Elom girat al mundanal saber </l>
+     <l n="14" xml:id="CO31-l14"> Ydolas creu donant y plena fe </l>
+     <l n="15" xml:id="CO31-l15"> En bens mundans creu esser <choice>
+      <abbr>cȏplit</abbr>
+       <expan>complit</expan>
+      </choice> be </l>
+     <l n="16" xml:id="CO31-l16"> Volent morir solament per hauer </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="CO31-lg3">
+     <l n="17" xml:id="CO31-l17"> <c rend="large">S</c>i algu pusques de fortuna tener </l>
+     <l n="18" xml:id="CO31-l18"> Ab vn fort clau sa roda <choice>
+       <abbr>quât</abbr>
+       <expan>quant</expan>
+      </choice> es sus </l>
+     <l n="19" xml:id="CO31-l19"> Forali bo anar <choice>
+       <abbr>amût</abbr>
+       <expan>amunt</expan>
+      </choice> e jus </l>
+     <l n="20" xml:id="CO31-l20"> <choice>
+       <abbr>Soferît</abbr>
+       <expan>Soferint</expan>
+      </choice> mals per trobar son mester </l>
+     <l n="21" xml:id="CO31-l21"> Mas los matalls no han tanta vigor </l>
+     <l n="22" xml:id="CO31-l22"> Que tan gran pes ab llur força retinguen </l>
+     
+          <pb n="28r" facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_59.html"/>
+     
+          <l n="23" xml:id="CO31-l23"> E ginys no fan que dalt en bax no <choice>
+       <abbr>vinguê</abbr>
+       <expan>vinguen</expan>
+      </choice></l>
+     <l n="24" xml:id="CO31-l24"> Los qui seia en la falça honor </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="CO31-lg4">
+     <l n="25" xml:id="CO31-l25"> <c rend="large">P</c>er nengun temps perdra fortunardor </l>
+     <l n="26" xml:id="CO31-l26"> De fer lochs plans deles cumbes e munt </l>
+     <l n="27" xml:id="CO31-l27"> E <choice>
+       <abbr>quât</abbr>
+       <expan>quant</expan>
+      </choice><choice>
+       <abbr>ƌl</abbr>
+       <expan>del</expan>
+      </choice> tot son desijat es junt </l>
+     <l n="28" xml:id="CO31-l28"> Eno pot fer pus ab sa gran furor </l>
+     <l n="29" xml:id="CO31-l29"> Torna afer destibitada casa </l>
+     <l n="30" xml:id="CO31-l30"> Quen molt breu temps hauia feta buyda </l>
+     <l n="31" xml:id="CO31-l31"> EL pobre hom quen riquir ja mes cuyda </l>
+     <l n="32" xml:id="CO31-l32"> Vmpla granes olis e vins en vasa </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="CO31-lg5">
+     <l n="33" xml:id="CO31-l33"> <c rend="large">E</c>n son costat no deu portar spasa </l>
+     <l n="34" xml:id="CO31-l34"> Com afoll hom deu franch arbitrespendre </l>
+     <l n="35" xml:id="CO31-l35"> Qui no creu cert que fortuna pot perdre </l>
+     <l n="36" xml:id="CO31-l36"> Los bens mouents e los sehents arasa </l>
+     <l n="37" xml:id="CO31-l37"> Mas lom <choice>
+       <abbr>ƌl</abbr>
+       <expan>del</expan>
+      </choice> mon per fortuna mirat </l>
+     <l n="38" xml:id="CO31-l38"> Ab lo sguart de riallosa cara </l>
+     <l n="39" xml:id="CO31-l39"> La part <choice>
+       <abbr>ƌl</abbr>
+       <expan>del</expan>
+      </choice> plor no ha vista encara </l>
+     <l n="40" xml:id="CO31-l40"> Creu que sos ginys lan de bens prosperat </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="CO31-lg6">
+     <l n="41" xml:id="CO31-l41"> <c rend="large">L</c>ir entre carts propi so comparat </l>
+     <l n="42" xml:id="CO31-l42"> A tantalus per continuu desitx </l>
+     <l n="43" xml:id="CO31-l43"> No se per que tots dies y affitx </l>
+     <l n="44" xml:id="CO31-l44"> Puys que mes prop compte desesperat </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

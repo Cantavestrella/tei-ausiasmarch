@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 22</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000117162"/> <!-- The URL provider gives one URL for the whole witness. Expect no page specification. --> 
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C022-D022">
+    <pb n="21r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="1" xml:id="C022-lg1">
+     <l n="1" xml:id="C022-l1"> <c rend="large">C</c>allen aquells / qui damor hanparlat </l>
+     <l n="2" xml:id="C022-l2"> edels passats / deliu tots los lurs scrits </l>
+     <l n="3" xml:id="C022-l3"> en mi pensant / meteulos enoblits </l>
+     <l n="4" xml:id="C022-l4"> en mon esguart / nengu es namorat </l>
+     <l n="5" xml:id="C022-l5"> Carpas design / sens esperança hauer </l>
+     <l n="6" xml:id="C022-l6"> tal passio james / home sostench </l>
+     <l n="7" xml:id="C022-l7"> per als damnats / no stre deu laretench </l>
+     <l n="8" xml:id="C022-l8"> sol per aquells / qui moren sens esper </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C022-lg2">
+     <l n="9" xml:id="C022-l9"> <c rend="large">P</c>uis mon afany / es entre tots primer </l>
+     <l n="10" xml:id="C022-l10"> amor fatort / com serete mondret </l>
+     <l n="11" xml:id="C022-l11"> als folls epechs / nondona fam ne set </l>
+     <l n="12" xml:id="C022-l12"> ne fret ne calt / tots han cumplit mester </l>
+     <l n="13" xml:id="C022-l13"> Car nos vn noble / tot merce son alt </l>
+     <l n="14" xml:id="C022-l14"> merce hauent / si ja mes lademana </l>
+     <l n="15" xml:id="C022-l15"> yo damor visch / desesperança vana </l>
+     <l n="16" xml:id="C022-l16"> sipens hauer raho / de ser ne calt </l>
+    </lg>
+    <pb n="21v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="3" xml:id="C022-lg3">
+     <l n="17" xml:id="C022-l17"> <c rend="large">N</c>o so emp es ne temprat / perdesalt </l>
+     <l n="18" xml:id="C022-l18"> deń res quen vos / los meus vlls haien vist </l>
+     <l n="19" xml:id="C022-l19"> lenteniment / per lo vostres conquist </l>
+     <l n="20" xml:id="C022-l20"> engran raho / es causat aquest alt </l>
+     <l n="21" xml:id="C022-l21"> Vos no veheu / mapurantencio </l>
+     <l n="22" xml:id="C022-l22"> car desamor / vos en fo squeix lavista </l>
+     <l n="23" xml:id="C022-l23"> per ço romanc / abla mia arma trista </l>
+     <l n="24" xml:id="C022-l24"> comno mirau / la mia ffectio </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C022-lg4">
+     <l n="25" xml:id="C022-l25"> <c rend="large">N</c>el pare sanct / nom cal hauer perdo </l>
+     <l n="26" xml:id="C022-l26"> car mon pecat / es amar follament </l>
+     <l n="27" xml:id="C022-l27"> demanlamj / ca<add place="interlinear">r</add>
+      <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> mon sentiment </l>
+     <l n="28" xml:id="C022-l28"> he fet damor / catiua maraho </l>
+     <l n="29" xml:id="C022-l29"> Siacontent amor / del cor sens pus </l>
+     <l n="30" xml:id="C022-l30"> elaraho / seruira son offici </l>
+     <l n="31" xml:id="C022-l31"> mon sentiment quis veuprim sia nici </l>
+     <l n="32" xml:id="C022-l32"> que no sesguart / ab quitinga llul clus </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C022-lg5">
+     <l n="33" xml:id="C022-l33"> <c rend="large">F</c>entbe amolts / a la mort me acus </l>
+     <l n="34" xml:id="C022-l34"> car serespill / dels leals amadors </l>
+     <l n="35" xml:id="C022-l35"> prenint remey / atotes lurs dolors </l>
+     <l n="36" xml:id="C022-l36"> car en vers mi / tota dolor es jus </l>
+     <l n="37" xml:id="C022-l37"> Aytant com he / pus alt leuadapensa </l>
+     <l n="38" xml:id="C022-l38"> enetament / ay en amor entes </l>
+     <l n="39" xml:id="C022-l39"> seny feminil / forasi ma empres </l>
+     <l n="40" xml:id="C022-l40"> fent asitort / e ami gran ofensa </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C022-lg6">
+     <l n="41" xml:id="C022-l41"> <c rend="large">P</c>lena de seny / yo vull y deu despensa </l>
+     <l n="42" xml:id="C022-l42"> que per amar / yo fenesca mos jorns </l>
+     <l n="43" xml:id="C022-l43"> mas sin escap / per null temps dare torns </l>
+     <l n="44" xml:id="C022-l44"> perdona / <choice>
+      <abbr>quȇvr</abbr>
+       <expan>quenver</expan>
+      </choice> amor sedefensa </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

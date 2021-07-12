@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 42</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/canconer-dobres-enamorades-manuscrito--0/">
+     <msIdentifier xml:id="A_Ms_ESP_225_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f. 162v, end of second column</locus> § Mossen auzias march } </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_377.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C042-A064">
+    <pb n="162v"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_377.html"/>
+    <lg type="cobla" n="1" xml:id="C042-lg5">
+     <l n="01" xml:id="C042-l33">
+      <choice>
+       <abbr>Quȃt</abbr>
+       <expan>Quant</expan>
+      </choice> hoireu / alcauota prouada </l>
+     <l n="02" xml:id="C042-l34"> Responeu prest / que <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> vos ho <choice>
+       <abbr>dirȃ</abbr>
+       <expan>diran</expan>
+      </choice></l>
+     <l n="03" xml:id="C042-l35"> Epuys en nom / <choice>
+       <abbr>propriꝯ</abbr>
+       <expan>proprius</expan>
+      </choice>
+      <choice>
+       <abbr>ŕdarȃ</abbr>
+       <expan>ridaran</expan>
+      </choice>
+     </l>
+     <l n="04" xml:id="C042-l36">
+      <choice>
+       <abbr>Noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> mostreu gens / en luyir empatxada. </l>
+     <l n="05" xml:id="C042-l37"> Dient senyors / e ques lo quevoleu</l>
+     <l n="06" xml:id="C042-l38"> Hay res a fer / <choice>
+       <abbr>quȇ</abbr>
+       <expan>quen</expan>
+      </choice> siuey damor puixa</l>
+     <l n="07" xml:id="C042-l39"> Quen tracte tal / iames mi t<add place="interlinear">o</add>bi
+      fluixa </l>
+     <l n="08" xml:id="C042-l40">
+      <choice>
+       <abbr>Siꝯ</abbr>
+       <expan>Sius</expan>
+      </choice>
+      <choice>
+       <abbr>ñjformau</abbr>
+       <expan>njnformau</expan>
+      </choice> / aixi ho trbareu</l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

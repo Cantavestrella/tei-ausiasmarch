@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 44</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="IS">
+               <name>Isabel Sellés</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2020-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/">
+               <msIdentifier xml:id="e_Ed_1560_BC">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f.20r After end of previous poem, before this one</locus>DE AMOR CANT. XIX.</rubric>
+                     <rubric>
+                        <locus>f.20v between lines 24 and 25</locus>TORNADA.</rubric>
+                     <rubric>
+                        <locus>f.20v After end of poem</locus>Fi del Cant. xix.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_58.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_59.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C044-e019">
+            <pb n="20r"
+               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_58.html"/>
+            <lg type="cobla" n="1" xml:id="C044-lg1">
+               <l n="1" xml:id="C044-l1">
+                  <c rend="large">T</c>Ot metje pren / carrech de consciença </l>
+               <l n="2" xml:id="C044-l2"> si lo perill / al malalt te secret </l>
+               <l n="3" xml:id="C044-l3"> lo cos y pert / mas l'arm'en bon loch met </l>
+               <l n="4" xml:id="C044-l4"> comptes mortals / porten regoneixença. </l>
+               <l n="5" xml:id="C044-l5"> Vos quí sabeu / clarament mon mereixer </l>
+               <l n="6" xml:id="C044-l6"> feu me ser cert / de lesdeuenidor </l>
+               <l n="7" xml:id="C044-l7"> yo vull saber / quem te cubert Amor </l>
+               <l n="8" xml:id="C044-l8"> mon mal o be / de fet me feu coneixer. </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C044-lg2">
+               <l n="9" xml:id="C044-l9"> Mon ignorar / be nom fara mereixer </l>
+               <l n="10" xml:id="C044-l10"> e per null temps / james b'aportara </l>
+               <l n="11" xml:id="C044-l11"> tart o breu / mon mal la fi veura </l>
+               <l n="12" xml:id="C044-l12"> e desperar / mon mal poria creixer. </l>
+               <l n="13" xml:id="C044-l13"> Si plau a vos / que bem dega venir </l>
+               <l n="14" xml:id="C044-l14"> nom detardeu / hauerne sentiment </l>
+               <l n="15" xml:id="C044-l15"> e per tardar / aquest coneiximent </l>
+               <l n="16" xml:id="C044-l16"> nom percebesch / de mon voler cobrír. </l>
+            </lg>
+            <pb n="20v"
+               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_59.html"/>
+            <lg type="cobla" n="3" xml:id="C044-lg3">
+               <l n="17" xml:id="C044-l17"> Tarda de temps / nom fa d'Amor jaquir </l>
+               <l n="18" xml:id="C044-l18"> los temps en mi / venir ja no porán </l>
+               <l n="19" xml:id="C044-l19"> tots los jorns meus / moment me semblarán </l>
+               <l n="20" xml:id="C044-l20"> Corrent lo sol / nos mou amon albir. </l>
+               <l n="21" xml:id="C044-l21"> Si pert Amor / par forçat desesper </l>
+               <l n="22" xml:id="C044-l22"> vos nous dolrreu / del no vist perdut temps </l>
+               <l n="23" xml:id="C044-l23"> donchs vos y Amor / acordau vos ensemps </l>
+               <l n="24" xml:id="C044-l24"> tot prestament / queus plaura de mi fer. </l>
+            </lg>
+            <lg type="tornada" n="4" xml:id="C044-lg4">
+               <l n="25" xml:id="C044-l25"> Lir entre carts / qui be o mal vol fer </l>
+               <l n="26" xml:id="C044-l26"> no deu pensar / algun dan sil segueix </l>
+               <l n="27" xml:id="C044-l27"> car lo voler / en dos parts se parteix </l>
+               <l n="28" xml:id="C044-l28"> e cor partit / degun fet no requer. </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

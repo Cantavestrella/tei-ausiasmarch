@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 50</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="IS">
+               <name>Isabel Sellés</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2020-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+               <msIdentifier xml:id="H_Ms_110_BUZ">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>header</locus>/>Mossen auzias march} 52.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March"s poems" synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_33.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C050-H020">
+            <lg type="cobla" n="1" xml:id="C050-lg1">
+               <pb n="25v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_446.html"/>
+               <l n="1" xml:id="C050-l1"> Si com aquell / <choice>
+                  <abbr>ꝙ</abbr>
+                     <expan>qui</expan>
+                  </choice> per sanfinjtat </l>
+               <l n="2" xml:id="C050-l2"> No pot esser de res finjt content </l>
+               <l n="3" xml:id="C050-l3"> Si que res fet / ab algun elament </l>
+               <l n="4" xml:id="C050-l4"> En son delit nol aura contentat </l>
+               <l n="5" xml:id="C050-l5"> Per imperfet / lo delit munde posa</l>
+               <l n="6" xml:id="C050-l6"> E si non deu / sa pensa no satura</l>
+               <l n="7" xml:id="C050-l7"> Axi amar / vos amant massegura</l>
+               <l n="8" xml:id="C050-l8"> Tot lo restant / del mon li fa gran nosa</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

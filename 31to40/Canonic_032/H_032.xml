@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 32 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name> Mar Pamblanco </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo Hilario </name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+     <msIdentifier xml:id="H_Ms_110_BUZ">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>f.38r between lines 40 and 41<locus/>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_57.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_58.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C032-H011">
+
+    <pb n="37v" facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_57.html"/>
+
+    <lg type="cobla" n="1" xml:id="C032-lg1">
+     <l n="1" xml:id="C032-l1"> <c rend="large">P</c>viar no pot / negu en mes valer </l>
+     <l n="2" xml:id="C032-l2"> Sens auer bens bondat linatje gran </l>
+     <l n="3" xml:id="C032-l3"> Mas lo del mjg val mes que lo restan </l>
+     <l n="4" xml:id="C032-l4"> E no val molt sens les altres auer </l>
+     <l n="5" xml:id="C032-l5"> Per ellas fan las duas molt prear </l>
+     <l n="6" xml:id="C032-l6"> Car poder val tant con es mjnjstrat </l>
+     <l n="7" xml:id="C032-l7"> Linatje val atant com es honrat </l>
+     <l n="8" xml:id="C032-l8"> La valor dom ho fa tot graduar </l>
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C032-lg2">
+     <l n="9" xml:id="C032-l9"> Mas no <choice>
+      <abbr>şa</abbr>
+       <expan>sera</expan>
+      </choice> lom sabent de sonar </l>
+     <l n="10" xml:id="C032-l10"> Sin algun temps no sona esturment </l>
+     <l n="11" xml:id="C032-l11"> Car <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> voler sonar lo nom nos pren </l>
+     <l n="12" xml:id="C032-l12"> Mas lesturment <choice>
+      <abbr>çonât</abbr>
+       <expan>çonant</expan>
+      </choice> be acordar </l>
+     <l n="13" xml:id="C032-l13"> Tot en axi / aquell qui dins si vall </l>
+     <l n="14" xml:id="C032-l14"> Pobre de bens e daujlat linatia </l>
+     <l n="15" xml:id="C032-l15"> No tels arreus per mostrar gran coratie </l>
+     <l n="16" xml:id="C032-l16"> En la virtut quell hauer dom hi call </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C032-lg3">
+     <l n="17" xml:id="C032-l17"> Son eseran molts dun altre caball </l>
+     <l n="18" xml:id="C032-l18"> Auent molts bens e dalta sanch fauor </l>
+     <l n="19" xml:id="C032-l19"> E ualent poch han la part no mjllor </l>
+     <l n="20" xml:id="C032-l20"> Car sens lom bo quant pot auer es mal </l>
+     <l n="21" xml:id="C032-l21"> E moltas veus <choice>
+      <abbr>hâ</abbr>
+       <expan>han</expan>
+      </choice> la culpa natura </l>
+     <l n="22" xml:id="C032-l22"> Car fora bo tall <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> valer no sap </l>
+     <l n="23" xml:id="C032-l23"> Negun saber no pot viuren lur cap </l>
+     <l n="24" xml:id="C032-l24"> Sens colpa lur de valer han fretura </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C032-lg4">
+     <l n="25" xml:id="C032-l25"> Entrells estrems <choice>
+      <abbr>ʋtut</abbr>
+       <expan>virtut</expan>
+      </choice> al mjgatura </l>
+     <l n="26" xml:id="C032-l26"> Molt greu dobrar yentre pochs conagut </l>
+     <l n="27" xml:id="C032-l27"> Per alt saber no consech hom <choice>
+      <abbr>ʋtut</abbr>
+       <expan>virtut</expan>
+      </choice> </l>
+     <l n="28" xml:id="C032-l28"> Mas fets obrant forans dins tall mesura </l>
+
+     <pb n="38r" facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_58.html"/>
+    
+     <l n="29" xml:id="C032-l29"> Aytant es larch lom menys de fer larguessa </l>
+     <l n="30" xml:id="C032-l30"> Com es escas sino fall en despendre </l>
+     <l n="31" xml:id="C032-l31"> Vicis virtuts per actes san apendre </l>
+     <l n="32" xml:id="C032-l32"> Apres lo fet es lur potença pressa </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C032-lg5">
+     <l n="33" xml:id="C032-l33"> Nos conqueran virtuts per gran abtessa </l>
+     <l n="34" xml:id="C032-l34"> Ne les auran poetes per lur art </l>
+     <l n="35" xml:id="C032-l35"> Han les aquels matents vicis apart </l>
+     <l n="36" xml:id="C032-l36"> Obrant virtut per obra <choice>
+      <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> bonesa </l>
+     <l n="37" xml:id="C032-l37"> Res no duptant viciossa vergonya </l>
+     <l n="38" xml:id="C032-l38"> Mas solament amant virtuos preu </l>
+     <l n="39" xml:id="C032-l39"> E loma pech en aquest banch no seu </l>
+     <l n="40" xml:id="C032-l40"> E quj nes luny lo gran delit se lonya </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C032-lg6">
+     <l n="41" xml:id="C032-l41"> Lir entre carts tostemps fare me ponya </l>
+     <l n="42" xml:id="C032-l42"> Que la dolor james de mispertesca </l>
+     <l n="43" xml:id="C032-l43"> E no penseu <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> mon cas enferesca </l>
+     <l n="44" xml:id="C032-l44"> Car major dan mereix me gran vergonya </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

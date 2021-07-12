@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 39</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.36r After end of previous poem, before this one</locus>C</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C039-D039">
+
+    <pb n="35v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+
+    <lg type="cobla" n="1" xml:id="C039-lg1">
+     <l n="1" xml:id="C039-l1">
+      <c rend="large">Q</c>uino es trist / de mos dictats no cur </l>
+     <l n="2" xml:id="C039-l2"> onalguntemps / que siatrist estat </l>
+     <l n="3" xml:id="C039-l3"> elo qui es / de mals passionat </l>
+     <l n="4" xml:id="C039-l4"> per fer se trist / no cerque loch escur </l>
+     <l n="5" xml:id="C039-l5"> Lija mos dits / mostrants pensa torbada </l>
+     <l n="6" xml:id="C039-l6"> sens algun art / exits dom fora seny </l>
+     <l n="7" xml:id="C039-l7"> e laraho / quental dolor menpeny </l>
+     <l n="8" xml:id="C039-l8"> amor ho sab / quin es <add place="interlinear">la</add> causa stada
+     </l>
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C039-lg2">
+     <l n="9" xml:id="C039-l9">
+      <c rend="large">A</c>lgunapart / e molta es trobada </l>
+     <l n="10" xml:id="C039-l10"> degran delit / en lapensa del trist </l>
+     <l n="11" xml:id="C039-l11"> e si lesgents / abgrandolor manvist </l>
+     <l n="12" xml:id="C039-l12"> de grandelit / marma fonconpanyada </l>
+     <l n="13" xml:id="C039-l13"> Quant simplament / amor en mi habita </l>
+     <l n="14" xml:id="C039-l14"> tal delit sent / que nom cuyt ser al mon </l>
+     <l n="15" xml:id="C039-l15"> e com sos fets / vullveure depregon<note type="gloss"
+       place="margin left"> pregon per / fondo</note>
+     </l>
+     <l n="16" xml:id="C039-l16"> mescladament / ab dolor me delita </l>
+    </lg>
+
+    <pb n="36r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+
+    <lg type="cobla" n="3" xml:id="C039-lg3">
+     <l n="17" xml:id="C039-l17">
+      <c rend="large">P</c>rest es lo temps / que farevidarmita </l>
+     <l n="18" xml:id="C039-l18"> per mils<note type="gloss" place="margin left">mils per /
+       millor</note> poder / damor les festes colre </l>
+     <l n="19" xml:id="C039-l19"> dest viure strany / algu nos vulladolre </l>
+     <l n="20" xml:id="C039-l20"> carper sacort / amor me vol em cita </l>
+     <l n="21" xml:id="C039-l21"> Eyo quil am / per sitant solament </l>
+     <l n="22" xml:id="C039-l22"> no denegant / lo do <choice>
+       <abbr>quê</abbr>
+       <expan>quem</expan>
+      </choice> pot donar </l>
+     <l n="23" xml:id="C039-l23"> a satristor / me plau abandonar </l>
+     <l n="24" xml:id="C039-l24"> epertostemps / viuren tristadament </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C039-lg4">
+     <l n="25" xml:id="C039-l25">
+      <c rend="large">T</c>raure no puch / de mon enteniment </l>
+     <l n="26" xml:id="C039-l26"> que sia cert / emolt pus bell partit </l>
+     <l n="27" xml:id="C039-l27"> satristorgran / que tot altredelit </l>
+     <l n="28" xml:id="C039-l28"> puis hi recau / delitos languiment </l>
+     <l n="29" xml:id="C039-l29">
+      <c rend="large">A</c>lguna part / de mongrandelit es </l>
+     <l n="30" xml:id="C039-l30"> aquella que / tot home trist aporta </l>
+     <l n="31" xml:id="C039-l31"> que planyent si / lo planyer lo conforta </l>
+     <l n="32" xml:id="C039-l32"> mes que sidell / tot lo mon sedolgues </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C039-lg5">
+     <l n="33" xml:id="C039-l33">
+      <c rend="large">E</c>sser me cuyt / per moltes gens repres </l>
+     <l n="34" xml:id="C039-l34"> puis que tant lou / viuren lavida trista </l>
+     <l n="35" xml:id="C039-l35"> mas yo qui he / sagloria <del rend="overstrike">a</del>l vll
+      vista </l>
+     <l n="36" xml:id="C039-l36"> desig sos mals / puix delit l'<del rend="overstrike">i</del> es
+      permes </l>
+     <l n="37" xml:id="C039-l37"> Nos pot saber / menys dela speriença </l>
+     <l n="38" xml:id="C039-l38"> lograndelit / ques enlo sols voler </l>
+     <l n="39" xml:id="C039-l39"> daquell qui es / amador verdader </l>
+     <l n="40" xml:id="C039-l40"> e ama si / vehentsental volença </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C039-lg6">
+     <l n="41" xml:id="C039-l41">
+      <c rend="large">L</c>ir entre carts / deuvos donconexença </l>
+     <l n="42" xml:id="C039-l42"> com so pervos / atot strem posat </l>
+     <l n="43" xml:id="C039-l43"> ab monpoder / amor manderrocat </l>
+     <l n="44" xml:id="C039-l44"> sens aquell seu / dinfinida potença </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

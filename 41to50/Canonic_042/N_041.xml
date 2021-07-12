@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 42</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.82 After end of previous poem, before this one</locus>§Mossen Ausias march</rubric>
+       <rubric>
+        <locus>f.84 between lines 40 and 41 </locus>§Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_84.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_85.html"/>
+  <graphic 
+   url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_86.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C042-N041">
+    <pb n="82"
+     facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_84.html"/>
+    <lg type="cobla" n="1" xml:id="C042-lg1">
+     <l n="1" xml:id="C042-l1"> ¶ Vos quj sabeu dela tortral costum </l>
+     <l n="2" xml:id="C042-l2"> E si nou feu placial vos hoyr </l>
+     <l n="3" xml:id="C042-l3"> Quant mort litol son par se uol jaquir </l>
+     <l n="4" xml:id="C042-l4"> Dobres damor ne be aygua de flum </l>
+     <l n="5" xml:id="C042-l5"> Ans en los clots ensutze primer laygua </l>
+     <l n="6" xml:id="C042-l6"> Nes possa may envert arbre fullat </l>
+     <l n="7" xml:id="C042-l7"> Mas contra co es vostra qualitat </l>
+     <l n="8" xml:id="C042-l8"> Per gran desig no cast quen vos se raygua </l>
+    </lg>
+    <pb n="83"
+     facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_85.html"/>
+    <lg type="cobla" n="2" xml:id="C042-lg2">
+     <l n="9" xml:id="C042-l9"> Eno cuydeu dona que <choice>
+      <abbr>beꝯ</abbr>
+       <expan>beus</expan>
+      </choice> escaygua </l>
+     <l n="10" xml:id="C042-l10"> Que pus agues tastat lacarn gentill </l>
+     <l n="11" xml:id="C042-l11"> Ha mercader liuras uostre cors vill </l>
+     <l n="12" xml:id="C042-l12"> E son dret nom <add place="interlinear">en</add> johan me pens
+      caygua </l>
+     <l n="13" xml:id="C042-l13"> E si voleu <choice>
+      <abbr>queꝯ</abbr>
+       <expan>queus</expan>
+      </choice> ne don conexenca </l>
+     <l n="14" xml:id="C042-l14"> Sa fac es gran ela vista molt losca </l>
+     <l n="15" xml:id="C042-l15"> Sos fonaments son de lagost omosca </l>
+     <l n="16" xml:id="C042-l16"> Cert nomerex drabs vendre de florenca </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C042-lg3">
+     <l n="17" xml:id="C042-l17"> E conaxent lavostra gran fallenca </l>
+     <l n="18" xml:id="C042-l18"> Volgues muntar en amar caualler </l>
+     <l n="19" xml:id="C042-l19"> E sabent ell tot vostre fet enuer </l>
+     <l n="20" xml:id="C042-l20"> En vos amar se tengra concienca </l>
+     <l n="21" xml:id="C042-l21"> Sabent molt clar la sutzeada vida </l>
+     <l n="22" xml:id="C042-l22"> Prenent publich les pagues del peccat </l>
+     <l n="23" xml:id="C042-l23"> Vostre cors leg per drap es baratat </l>
+     <l n="24" xml:id="C042-l24"> Vostre seruir es bo sol per adida </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C042-lg4">
+     <l n="25" xml:id="C042-l25"> Eno cuydey <choice>
+      <abbr>fillaꝯ</abbr>
+       <expan>fillaus</expan>
+      </choice> agues jaquita </l>
+     <l n="26" xml:id="C042-l26"> Vos aletant aquellas vostra let </l>
+     <l n="27" xml:id="C042-l27"> Car vostre cors es de verj replet </l>
+     <l n="28" xml:id="C042-l28"> Emostrenho vostres pels fora mida </l>
+     <l n="29" xml:id="C042-l29"> Car <choice>
+      <abbr>siꝯ</abbr>
+       <expan>sius</expan>
+      </choice> jaquju vostra barba criada </l>
+     <l n="30" xml:id="C042-l30"> E <choice>
+      <abbr>laꝯ</abbr>
+       <expan>laus</expan>
+      </choice> toleu puys ablos pels dels bracos </l>
+     <l n="31" xml:id="C042-l31"> Poran se fer auantajosos lacos </l>
+     <l n="32" xml:id="C042-l32"> Prenints <choice>
+      <abbr>perdiꝯ</abbr>
+       <expan>perdius</expan>
+      </choice> tortra ho cugulada </l>
+    </lg>
+    <pb n="84"
+     facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_86.html"/>
+    <lg type="cobla" n="5" xml:id="C042-lg5">
+     <l n="33" xml:id="C042-l33"> Quant hoyreu alcauota prouada </l>
+     <l n="34" xml:id="C042-l34"> Responeu tost que pervos ho diran </l>
+     <l n="35" xml:id="C042-l35"> E puys pernom propi vos cridaran </l>
+     <l n="36" xml:id="C042-l36"> Ja <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> mostreu enloyr empatxada </l>
+     <l n="37" xml:id="C042-l37"> Enterrogant amichs eque voleu </l>
+     <l n="38" xml:id="C042-l38"> Endret damor voleu res que fer pusca </l>
+     <l n="39" xml:id="C042-l39"> Tracte sembant yames me troba cusca </l>
+     <l n="40" xml:id="C042-l40"> Presta sere aquant demanareu </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C042-lg6">
+     <l n="41" xml:id="C042-l41"> Tots los quj torb o cuncament uolreu </l>
+     <l n="42" xml:id="C042-l42"> En fets damor enprauna <hi rend="underline">monbohi</hi></l>
+     <l n="43" xml:id="C042-l43">
+      <choice>
+       <abbr>Ellaꝯ</abbr>
+       <expan>Ellaus</expan>
+      </choice> fara tot lo que feu amj </l>
+     <l n="44" xml:id="C042-l44"> Nos pot saber lendrec quey trobareu </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

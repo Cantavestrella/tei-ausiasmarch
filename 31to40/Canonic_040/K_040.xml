@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 40</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="MP">
+               <name>Mar Pamblanco</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario</name>
+               <resp> </resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/">
+               <msIdentifier xml:id="K_Ms_2025_BC">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f.39v between lines 32 and 33</locus>Tornada.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March' poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_84.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_85.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C040-K040">
+
+            <pb n="39r"
+               facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_84.html"/>
+
+            <lg type="cobla" n="1" xml:id="C040-lg1">
+               <l n="1" xml:id="C040-l1"> ç Ell qui daltruy reb anutx e plaer </l>
+               <l n="2" xml:id="C040-l2"> E perdre vol totalment samjstat </l>
+               <l n="3" xml:id="C040-l3"> Es li mester aia per oblidat </l>
+               <l n="4" xml:id="C040-l4"> Tot lo plaer hauent ne desesper </l>
+               <l n="5" xml:id="C040-l5"> E tot primer ques <choice>
+                     <abbr>lûy</abbr>
+                     <expan>luny</expan>
+                  </choice> de sa presença </l>
+               <l n="6" xml:id="C040-l6"> E del plaer no sia recordant </l>
+               <l n="7" xml:id="C040-l7"> Car si <choice>
+                     <abbr>aꝗll</abbr>
+                     <expan>aquell</expan>
+                  </choice> lis presental dauant </l>
+               <l n="8" xml:id="C040-l8"> Enyorament dobla sabenuolença </l>
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C040-lg2">
+               <l n="9" xml:id="C040-l9"><c rend="large">J</c>niquitat met lom en deseper </l>
+               <l n="10" xml:id="C040-l10"> Auorrint deu senyor quil ha creat </l>
+               <l n="11" xml:id="C040-l11">Ç o fa lo seny del hom <choice>
+                     <abbr>quât</abbr>
+                     <expan>quant</expan>
+                  </choice> es jrat </l>
+               <l n="12" xml:id="C040-l12"> Se auorrint amant se tant primer </l>
+               <l n="13" xml:id="C040-l13"> Apres desi lom ama sa semença </l>
+               <l n="14" xml:id="C040-l14"> Tant <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> lo nan cuyda esser <choice>
+                     <abbr>gigât</abbr>
+                     <expan>gigant</expan>
+                  </choice></l>
+
+               <pb n="39v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_85.html"/>
+
+               <l n="15" xml:id="C040-l15">E tant pot ser en vos mal vsant </l>
+               <l n="16" xml:id="C040-l16"> Quen mal volergiram nostra <choice>
+                     <abbr>sciêçia</abbr>
+                     <expan>sciençia</expan>
+                  </choice>
+               </l>
+            </lg>
+
+            <lg type="cobla" n="3" xml:id="C040-lg3">
+               <l n="17" xml:id="C040-l17"><c rend="large">S</c> i com lom fort quis ygual <choice>
+                     <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice> poder </l>
+               <l n="18" xml:id="C040-l18"> Ab lenemjch quil es dauant posat </l>
+               <l n="19" xml:id="C040-l19"> Fins que vn dells es per laltre sobrat </l>
+               <l n="20" xml:id="C040-l20"> Algu no pot ning<choice>
+                     <abbr>ningȗ</abbr>
+                     <expan>ningun</expan>
+                  </choice><gap reason="illegible" extent="one character"/></l>
+               <l n="21" xml:id="C040-l21"> Tot en axi no puch donar <choice>
+                     <abbr>sentêçia</abbr>
+                     <expan>sentençia</expan>
+                  </choice>
+               </l>
+               <l n="22" xml:id="C040-l22"> Entre amor ab oy desacordant </l>
+               <l n="23" xml:id="C040-l23"> Cascu <choice>
+                     <abbr>daꝗsts</abbr>
+                     <expan>daquests</expan>
+                  </choice> en mj es <choice>
+                     <abbr>tâ</abbr>
+                     <expan>tan</expan>
+                  </choice><choice>
+                     <abbr>puxât</abbr>
+                     <expan>puxant</expan>
+                  </choice></l>
+               <l n="24" xml:id="C040-l24"> Que mon saber noy conex <choice>
+                     <abbr>differêçia</abbr>
+                     <expan>differençia</expan>
+                  </choice></l>
+            </lg>
+
+            <lg type="cobla" n="4" xml:id="C040-lg4">
+               <l n="25" xml:id="C040-l25">
+                  <c rend="large">A</c>mor al camp no fon lo pus darrer </l>
+               <l n="26" xml:id="C040-l26"> Mas oy vench lla darmes <choice>
+                     <abbr>tâ</abbr>
+                     <expan>tan</expan>
+                  </choice> sforçat </l>
+               <l n="27" xml:id="C040-l27"> Qual pus strem del camp la darrerat </l>
+               <l n="28" xml:id="C040-l28"> Si quem pensi no poderse refer </l>
+               <l n="29" xml:id="C040-l29"> Mas nol falli amor sobta <choice>
+                     <abbr>valêça</abbr>
+                     <expan>valença</expan>
+                  </choice></l>
+               <l n="30" xml:id="C040-l30"> Mon foll voler li fon prest aiudant </l>
+               <l n="31" xml:id="C040-l31"> Oy dona crit dient o llas e quant </l>
+               <l n="32" xml:id="C040-l32"> Tarda raho quim apart de <choice>
+                     <abbr>temêça</abbr>
+                     <expan>temença</expan>
+                  </choice></l>
+            </lg>
+
+            <lg type="tornada" n="5" xml:id="C040-lg5">
+               <l n="33" xml:id="C040-l33">
+                  <c rend="large">S</c>upplich a deu quem tolga <choice>
+                     <abbr>conexêça</abbr>
+                     <expan>conexença</expan>
+                  </choice></l>
+               <l n="34" xml:id="C040-l34"> O volent ell vs yo de patio </l>
+               <l n="35" xml:id="C040-l35"><choice>
+                     <abbr>Daꝗlla</abbr>
+                     <expan>Daquella</expan>
+                  </choice><choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> sia prop <choice>
+                     <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice> raho </l>
+               <l n="36" xml:id="C040-l36"> Lexant amor quim trahex en <choice>
+                     <abbr>crehêça</abbr>
+                     <expan>crehença</expan>
+                  </choice></l>
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

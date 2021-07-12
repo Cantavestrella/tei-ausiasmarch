@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+
+   <titleStmt>
+    <title>Poema 21</title>
+    <author>Ausiàs March </author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name>Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2019.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/">
+     <msIdentifier xml:id="d_Ed_1555_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>12r after end of previous poem, before this one: </locus> DE AMOR CANTO.VI.</rubric>
+       <rubric><locus>12v after end of the first vers</locus> ¶ DE AMOR CANTO. VII.</rubric>
+       <rubric>
+        <locus>12v between lines 40 and 41</locus> TORNADA.</rubric>
+       <rubric><locus>12v after line 44</locus>FIN DEL CANTO SEXTO.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_28.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_29.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C021-b006">
+    <pb n="12r"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_28.html"/>
+    <lg type="cobla" n="1" xml:id="C021-lg1">
+     <l n="1" xml:id="C021-l1"><c rend="large">T</c>Ant en Amor / ma pens'ha consentit </l>
+     <l n="2" xml:id="C021-l2">
+      <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> sȇs aquell / en als no puch <choice>
+       <abbr>entȇdre</abbr>
+       <expan>entendre</expan>
+      </choice>
+     </l>
+     <l n="3" xml:id="C021-l3"> ami quem plau / <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> d'als no pusch aprendre </l>
+     <l n="4" xml:id="C021-l4"> tot altre fer / mi entre'n gran despit. </l>
+     <l n="5" xml:id="C021-l5"> Los grans thesors / ne tot l'honor del mon </l>
+     <l n="6" xml:id="C021-l6"> nom plau hauer / ab menys de ser amat </l>
+     <l n="7" xml:id="C021-l7"> car sens aço / nom do ben ahuirat </l>
+     <l n="8" xml:id="C021-l8"> ço que no es car / tot mon desig con fon. </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C021-lg2">
+     <l n="9" xml:id="C021-l9"> Pobre so donchs / molt mes que Iob no <choice>
+      <abbr>fȏ</abbr>
+       <expan>fon</expan>
+      </choice>
+     </l>
+     <l n="10" xml:id="C021-l10"> puis es dit rich / çell qui no ha desig: </l>
+     <l n="11" xml:id="C021-l11"> en passions / yom trob dins en lo mig </l>
+     <l n="12" xml:id="C021-l12"> si desijar / ab desesper l'hom fon. </l>
+     <l n="13" xml:id="C021-l13"> Iames Amor / fon axi auinent </l>
+     <l n="14" xml:id="C021-l14"> en be mostrar /sa famosa virtut! </l>
+     <l n="15" xml:id="C021-l15"> com al muntar / me: y ferme d'abatut, </l>
+     <l n="16" xml:id="C021-l16"> ben ahuirat / sus tots complidament. </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C021-lg3">
+     <l n="17" xml:id="C021-l17"> ¶ Per dos estrems / Amor es mal mirent </l>
+     <l n="18" xml:id="C021-l18"> per molt e poch / e lo mig se jaqueix </l>
+     <l n="19" xml:id="C021-l19"> be's mostra pech / puix contra si falleix </l>
+     <l n="20" xml:id="C021-l20"> car tot ço cau / que'strem es son tinent. </l>
+     <l n="21" xml:id="C021-l21"> Bem marauell /si Amor no decau </l>
+     <l n="22" xml:id="C021-l22"> puix que'n estrems /volt que'stiga son pes </l>
+     <l n="23" xml:id="C021-l23"> lo meu voler / es mes que tota res </l>
+     <l n="24" xml:id="C021-l24"> yl vostre's menys / <choice>
+      <abbr>ꝗl</abbr>
+       <expan>quel</expan>
+      </choice> terç d'vn <choice>
+       <abbr>pȗt</abbr>
+       <expan>punt</expan>
+      </choice> de dau. </l>
+    </lg>
+    <pb n="12v"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_29.html"/>
+    <lg type="cobla" n="4" xml:id="C021-lg4">
+     <l n="25" xml:id="C021-l25"> ¶ Durar no pot / sino mes fet gran frau </l>
+     <l n="26" xml:id="C021-l26"> trencant Amor / de natura'ls costums </l>
+     <l n="27" xml:id="C021-l27"> poch menys contrast <choice>
+      <abbr>/ꝗ</abbr>
+       <expan>/que</expan>
+      </choice> tenebres e llums </l>
+     <l n="28" xml:id="C021-l28"> en mon voler /y el de ma dona jau. </l>
+     <l n="29" xml:id="C021-l29"> O Deu perque /amor es des igual </l>
+     <l n="30" xml:id="C021-l30"> que no consent / que vostre voler cresca? </l>
+     <l n="31" xml:id="C021-l31"> perque lo meu / per null temps no peresca </l>
+     <l n="32" xml:id="C021-l32"> si be nom'sent / quant me <choice>
+      <abbr>vȇdr'aquest</abbr>
+       <expan>vendr'aquest</expan>
+     </choice> mal </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C021-lg5">
+     <l n="33" xml:id="C021-l33"> ¶ Deu per bondat /vol ser tan cominal </l>
+     <l n="34" xml:id="C021-l34"> que no consent /vn cor dur e saluatje </l>
+     <l n="35" xml:id="C021-l35"> e ser amat /agran desauantatje </l>
+     <l n="36" xml:id="C021-l36"> d'aquel qui es /en Amor son cabal. </l>
+     <l n="37" xml:id="C021-l37"> Per ço nom pens / que Amor en mi dur </l>
+     <l n="38" xml:id="C021-l38"> car en amar /vos e pres tot estrem </l>
+     <l n="39" xml:id="C021-l39"> el vostre cor / es de amor axi sem </l>
+     <l n="40" xml:id="C021-l40"> que'n mi pensar / no crech james atur. </l>
+    </lg>
+    <lg type="cobla" n="6" xml:id="C021-lg6">
+     <l n="41" xml:id="C021-l41"> Plena de seny / per lamor que vs port jur </l>
+     <l n="42" xml:id="C021-l42"> que sim ve tart / la vostra ben volença </l>
+     <l n="43" xml:id="C021-l43"> present de tots /fare de mi sentença </l>
+     <l n="44" xml:id="C021-l44"> que sonara / mentre'l mon dels vius dur. </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

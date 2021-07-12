@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 45</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/canconer-dobres-enamorades-manuscrit--0/">
+     <msIdentifier xml:id="I_Ms_10_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.42r After end of previous poem, before this one</locus>Mossen Ausias march Estrampa</rubric>
+       <rubric>
+        <locus>f.43r between lines 96 and 97</locus>Ffy</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_84.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_85.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_86.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C045-I015">
+    <pb n="42r"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_84.html"/>
+    <lg type="cobla" n="1" xml:id="C045-lg1">
+     <l n="1" xml:id="C045-l1"> os ignorants / amor e sos exemples </l>
+     <l n="2" xml:id="C045-l2"> Crehents quels fets / daquell son estats faula </l>
+     <l n="3" xml:id="C045-l3"> Reprenen mj / per quem transpost en altre </l>
+     <l n="4" xml:id="C045-l4"> Prenjnt delit / en franch arbitre perdre </l>
+     <l n="5" xml:id="C045-l5"> Allur semblant / vn gran mjracle sembla </l>
+     <l n="6" xml:id="C045-l6"> E maiorment / alguns pus forts articles </l>
+     <l n="7" xml:id="C045-l7"> Descrehent mort / esser de grat sufferta </l>
+     <l n="8" xml:id="C045-l8"> Quen gran dolor / demor delit se mescla </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C045-lg2">
+     <l n="9" xml:id="C045-l9"> Ffoch amagat / nodrit dins en les venas </l>
+     <l n="10" xml:id="C045-l10"> Ffahent gran fum / per via dreta torta </l>
+     <l n="11" xml:id="C045-l11"> Jra dins pau / turment es molt alegre </l>
+     <l n="12" xml:id="C045-l12"> Lum clar e bell / ab si portant tenebres </l>
+     <l n="13" xml:id="C045-l13"> Aquests contrasts / los fins amadors senten </l>
+     <l n="14" xml:id="C045-l14"> Dins en vn temps / amor dins ells alloga </l>
+     <l n="15" xml:id="C045-l15"> E tots aquells / no crehents ser possible </l>
+     <l n="16" xml:id="C045-l16"> Sol desser nats / natura pren vergonya </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C045-lg3">
+     <l n="17" xml:id="C045-l17"> Vahent lo cel / manatura disposta </l>
+     <l n="18" xml:id="C045-l18"> Volch jnfluhir / dos poders <choice>
+      <abbr>seꝑables</abbr>
+       <expan>separables</expan>
+      </choice>
+     </l>
+     <l n="19" xml:id="C045-l19"> Amj vinents / ab manera diuersa </l>
+     <l n="20" xml:id="C045-l20"> Cascu prenent / la part aell condigna </l>
+     <l n="21" xml:id="C045-l21"> Ffahent amar / simplament lamjarma </l>
+     <l n="22" xml:id="C045-l22"> Lo seu semblant / sentit de vici munda </l>
+     <l n="23" xml:id="C045-l23"> E daltra part / en mj no roman solta </l>
+     <l n="24" xml:id="C045-l24"> Ans al seu foch / complidament seliure </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C045-lg4">
+     <l n="25" xml:id="C045-l25"> Aquellamor / qui es voluntat bona </l>
+     <l n="26" xml:id="C045-l26"> E solament / reguarda part honesta </l>
+     <l n="27" xml:id="C045-l27"> Aquestamor / ha fet a mj amable </l>
+     <l n="28" xml:id="C045-l28"> Per mon semblant / ell mitgensant minjstre </l>
+     <l n="29" xml:id="C045-l29"> E laltra mor / quen delit sentitula </l>
+     <l n="30" xml:id="C045-l30"> E donestat / es en emjch rebella </l>
+     <l n="31" xml:id="C045-l31"> Marma e cors / per ell prenen ses armes </l>
+     <l n="32" xml:id="C045-l32"> Aportant pau / e guerra tot ensembla </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C045-lg5">
+     <l n="33" xml:id="C045-l33"> Aquestamor / per nostres senys nos entre </l>
+     <l n="34" xml:id="C045-l34"> E fa present / alcumu seny epassa </l>
+     <l n="35" xml:id="C045-l35"> Lo presentat / per sos migs al entendre </l>
+     <l n="36" xml:id="C045-l36"> Don voler creix / tant com lom si delita </l>
+     <l n="37" xml:id="C045-l37"> E perquel cors / engrau delitos munta </l>
+     <l n="38" xml:id="C045-l38"> Dins enlostal / que <choice>
+      <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> lo aleuga </l>
+     <l n="39" xml:id="C045-l39"> Totes virtuts / e seny dela persona </l>
+     <l n="40" xml:id="C045-l40"> Son desigants / enserujtut del acte </l>
+    </lg>
+    <pb n="42v"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_85.html"/>
+    <lg type="cobla" n="6" xml:id="C045-lg6">
+     <l n="41" xml:id="C045-l41"> Cells qui amor / bastialment pratican </l>
+     <l n="42" xml:id="C045-l42"> Sens acullir / enpart dalit dantendre </l>
+     <l n="43" xml:id="C045-l43"> Sol per la carn / lur apetit se lligua </l>
+     <l n="44" xml:id="C045-l44"> Que sino brut / plaher nols acompanya </l>
+     <l n="45" xml:id="C045-l45"> Qui vol trobar / amor quj null temps cauça </l>
+     <l n="46" xml:id="C045-l46"> No la serch lla / hon lo poder se vença </l>
+     <l n="47" xml:id="C045-l47"> Car tota res / perdent la sua causa </l>
+     <l n="48" xml:id="C045-l48"> No es trobat / daquellalgun esser </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C045-lg7">
+     <l n="49" xml:id="C045-l49"> Alguns elets / en molt espocat nombre </l>
+     <l n="50" xml:id="C045-l50"> Qui solament / damor desperit amen </l>
+     <l n="51" xml:id="C045-l51"> Daquestamor / participen ab angel </l>
+     <l n="52" xml:id="C045-l52"> E tal voler / en per null temps sa cança </l>
+     <l n="53" xml:id="C045-l53"> Los qui amor / ab cors e arma senten </l>
+     <l n="54" xml:id="C045-l54"> Amant lo cors / e mes la part delarma </l>
+     <l n="55" xml:id="C045-l55"> Grau de amor / homaniuol atenyen </l>
+     <l n="56" xml:id="C045-l56"> Sobre dos colls / lo jou damor aporten </l>
+    </lg>
+    <lg type="cobla" n="8" xml:id="C045-lg8">
+     <l n="57" xml:id="C045-l57"> Puys arme cors / donen esser al home </l>
+     <l n="58" xml:id="C045-l58"> Es mig forçat / es entrells lo complaure </l>
+     <l n="59" xml:id="C045-l59"> Ama lo cors / e son semblant conforma </l>
+     <l n="60" xml:id="C045-l60"> No fa raptar / sils jnfinjts no serqua </l>
+     <l n="61" xml:id="C045-l61"> Nostrespirit / a son semblant cobeia </l>
+     <l n="62" xml:id="C045-l62"> Edaquells tots / los actes bons quen ixen </l>
+     <l n="63" xml:id="C045-l63"> Les voluntats / que daquests composts nexen </l>
+     <l n="64" xml:id="C045-l64"> Son mes punyents / que dalgunamor simple </l>
+    </lg>
+    <lg type="cobla" n="9" xml:id="C045-lg9">
+     <l n="65" xml:id="C045-l65"> Dela virtut / es nostra vidaxempta </l>
+     <l n="66" xml:id="C045-l66"> Si que lo cors / venç alarma batalles </l>
+     <l n="67" xml:id="C045-l67"> Els pochs volers / lo seny del hom no tempre </l>
+     <l n="68" xml:id="C045-l68"> E donchs quantmenys / los qui gran força porten </l>
+     <l n="69" xml:id="C045-l69"> Etal amor / lo juy gens no escolta </l>
+     <l n="70" xml:id="C045-l70"> E dela carn / tant ben uolença capta </l>
+     <l n="71" xml:id="C045-l71"> Ab cor segur / daquella vençra tempte </l>
+     <l n="72" xml:id="C045-l72"> Ses blanes mans / los forts diamants pasten </l>
+    </lg>
+    <lg type="cobla" n="10" xml:id="C045-lg10">
+     <l n="73" xml:id="C045-l73"> Si be amor / les passions auança </l>
+     <l n="74" xml:id="C045-l74"> Enser <choice>
+      <abbr>ṗmer</abbr>
+       <expan>primer</expan>
+      </choice> / lo desig li da força </l>
+     <l n="75" xml:id="C045-l75"> E puys delit / lo soste dins son regne </l>
+     <l n="76" xml:id="C045-l76"> Ffallint aquest / daffall damor lo ceptre </l>
+     <l n="77" xml:id="C045-l77"> No siantes / present desonest acte </l>
+     <l n="78" xml:id="C045-l78"> Car finamor / daltramor se contenta </l>
+     <l n="79" xml:id="C045-l79"> Sino lateny / viu desparança sola </l>
+     <l n="80" xml:id="C045-l80"> Ala gran por / segueix lo seu contrari </l>
+    </lg>
+    <pb n="43r"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_86.html"/>
+    <lg type="cobla" n="11" xml:id="C045-lg11">
+     <l n="81" xml:id="C045-l81"> Cell qui damor / del tot nos leixe vencre </l>
+     <l n="82" xml:id="C045-l82"> Sique raho / del seu consell nos lunya </l>
+     <l n="83" xml:id="C045-l83"> No mereix pas / la corona de martir </l>
+     <l n="84" xml:id="C045-l84"> Daquells <choice>
+      <abbr>passiꝯ</abbr>
+       <expan>passius</expan>
+      </choice> / no hauents altre compte </l>
+     <l n="85" xml:id="C045-l85"> Sino pensar / hauer llur vida terme </l>
+     <l n="86" xml:id="C045-l86"> Ffinit aquell / quin tal estrem los mena </l>
+     <l n="87" xml:id="C045-l87"> Crehent deferm / los fets del mon ser ombre </l>
+     <l n="88" xml:id="C045-l88"> Daquell sol clar / qui tot lur cor escalfe </l>
+    </lg>
+    <lg type="cobla" n="12" xml:id="C045-lg12">
+     <l n="89" xml:id="C045-l89"> O bonamor / aqui mort no trihunfa </l>
+     <l n="90" xml:id="C045-l90"> Segons lo dant / ystoria recompte </l>
+     <l n="91" xml:id="C045-l91"> E nengun seny / presumjr nos occupa </l>
+     <l n="92" xml:id="C045-l92"> Contra tu fort / victoria consegra </l>
+     <l n="93" xml:id="C045-l93"> E cossors dos / ab vnarma gouernas </l>
+     <l n="94" xml:id="C045-l94"> Pel gran delit / que demistat sengenra </l>
+     <l n="95" xml:id="C045-l95"> Cell qui de tu / lo terme pensetenyer </l>
+     <l n="96" xml:id="C045-l96"> No sab de tu / dignorances dexeble </l>
+    </lg>
+    <lg type="tornada" n="13" xml:id="C045-lg13">
+     <l n="97" xml:id="C045-l97"> Lirs entre carts / tres son les gran carreras </l>
+     <l n="98" xml:id="C045-l98"> Hon veritat / per degun temps passeia </l>
+     <l n="99" xml:id="C045-l99"> Jray amor / ab si no la consenten </l>
+     <l n="100" xml:id="C045-l100"> Elaltra es / natural ignorança </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 45</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+     <msIdentifier xml:id="a_Ed_1539_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.30v After end of previous poem, before this one</locus>¶ Capitulo.XVII</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_61.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_62.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_63.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_64.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_65.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_66.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_67.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C045-a017">
+    <pb n="30v"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_61.html"/>
+    <lg type="cobla" n="1" xml:id="C045-lg1">
+     <l n="1" xml:id="C045-l1">
+      <c rend="large">L</c>Os ignorants / amor e sos exemples </l>
+     <l n="2" xml:id="C045-l2"> Crehents quels fets / daquell son estats faula </l>
+     <l n="3" xml:id="C045-l3"> Reprenen mi / per quen trasport en altre </l>
+     <l n="4" xml:id="C045-l4"> Prenint delit / en franch arbitre perdre: </l>
+     <l n="5" xml:id="C045-l5"> A llurs semblants / vun gran miracle sembla </l>
+     <l n="6" xml:id="C045-l6"> E majorment / alguns pus forts articles </l>
+     <l n="7" xml:id="C045-l7"> Descrehent mort / esser degrat soferta </l>
+     <l n="8" xml:id="C045-l8"> E quen dolor / delit damor si mescle </l>
+    </lg>
+    <pb n="31r"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_62.html"/>
+    <lg type="cobla" n="2" xml:id="C045-lg2">
+     <l n="9" xml:id="C045-l9"> ¶ Foch amagat / nudrid enles venes </l>
+     <l n="10" xml:id="C045-l10"> Faent gran fum / per via dreta y torta </l>
+     <l n="11" xml:id="C045-l11"> Yra dins pau / e turment molt alegre </l>
+     <l n="12" xml:id="C045-l12"> Llum clar e bell / ab si portant tenebre </l>
+     <l n="13" xml:id="C045-l13"> Aquests contrasts / los fins amadors tenten </l>
+     <l n="14" xml:id="C045-l14"> Dins en vn temps / amor dins ells alloja </l>
+     <l n="15" xml:id="C045-l15"> E tots aquells / no crehents ser possible </l>
+     <l n="16" xml:id="C045-l16"> Sol de ser nats / natura pren vergonya. </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C045-lg3">
+     <l n="17" xml:id="C045-l17"> ¶ Vehen lo cel / ma natura disposta </l>
+     <l n="18" xml:id="C045-l18"> Volch influir / dos poders separables </l>
+     <l n="19" xml:id="C045-l19"> A mi viuents / ab manera diuersa </l>
+     <l n="20" xml:id="C045-l20"> Cascu prenent / la part a ell condigna </l>
+     <l n="21" xml:id="C045-l21"> Faent amar / simplement la mi arma </l>
+     <l n="22" xml:id="C045-l22"> Lo seu semblant / sentit de vici munda </l>
+     <l n="23" xml:id="C045-l23"> E laltra part / en mi no roman solta </l>
+     <l n="24" xml:id="C045-l24"> Y en son voler / son decret larma posa </l>
+    </lg>
+    <pb n="31v"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_63.html"/>
+    <lg type="cobla" n="4" xml:id="C045-lg4">
+     <l n="25" xml:id="C045-l25"> ¶ Aquell amor / ques diu voluntat bona </l>
+     <l n="26" xml:id="C045-l26"> Tan solament / sguarda part honesta </l>
+     <l n="27" xml:id="C045-l27"> Aquest amor / a fet a mi amable </l>
+     <l n="28" xml:id="C045-l28"> Per mon semblant / ell mijansant ministre: </l>
+     <l n="29" xml:id="C045-l29"> E laltra amor / quen delit sentitula </l>
+     <l n="30" xml:id="C045-l30"> E donestat / es enemich rebelle </l>
+     <l n="31" xml:id="C045-l31"> Marma y cos / per el prenen ses armes</l>
+     <l n="32" xml:id="C045-l32"> Aportants pau / e guerra tot ensemble </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C045-lg5">
+     <l n="33" xml:id="C045-l33"> ¶ Aquest amor / per nostres senys nos entra</l>
+     <l n="34" xml:id="C045-l34"> E fa present / al comun seny y passa </l>
+     <l n="35" xml:id="C045-l35"> Lo presentat / per sos migs al entendre </l>
+     <l n="36" xml:id="C045-l36"> Don voler crex / tant com lom si delita </l>
+     <l n="37" xml:id="C045-l37"> Mas per quen grau / delitos lamant puje </l>
+     <l n="38" xml:id="C045-l38"> Dins en lostal / que Venus lo alleuja </l>
+     <l n="39" xml:id="C045-l39"> Totes virtuts / e seny dela persona</l>
+     <l n="40" xml:id="C045-l40"> Son desijats / en seruitut del acte.</l>
+    </lg>
+    <pb n="32r"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_64.html"/>
+    <lg type="cobla" n="6" xml:id="C045-lg6">
+     <l n="41" xml:id="C045-l41"> ¶ Cells qui amor / bestialment pratiquen </l>
+     <l n="42" xml:id="C045-l42"> Sens acollir / en part delit dentendre</l>
+     <l n="43" xml:id="C045-l43"> Sols per la carn / llur apetit se lliga</l>
+     <l n="44" xml:id="C045-l44"> Que sino brut / plaer no la companya</l>
+     <l n="45" xml:id="C045-l45"> Qui vol trovar / amor que null temps folg</l>
+     <l n="46" xml:id="C045-l46"> No la serch lla / hon lo poder se vença</l>
+     <l n="47" xml:id="C045-l47"> Car tot a res / perdent la sua causa</l>
+     <l n="48" xml:id="C045-l48"> No es trobat / de aquell algun esser</l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C045-lg7">
+     <l n="49" xml:id="C045-l49"> ¶ Alguns elets / son en espocat nombre</l>
+     <l n="50" xml:id="C045-l50"> Qui solament / damor desperit amen</l>
+     <l n="51" xml:id="C045-l51"> Daquest amor / participen ab angel</l>
+     <l n="52" xml:id="C045-l52"> E tal voler / en per null temps se cansa</l>
+     <l n="53" xml:id="C045-l53"> Los qui amor / ab cos y arma senten</l>
+     <l n="54" xml:id="C045-l54"> Amant lo cos / e mes la part de larma</l>
+     <l n="55" xml:id="C045-l55"> Grau de amor / homenyuol atenyen</l>
+     <l n="56" xml:id="C045-l56"> Sobre dos colls / lo jou damor aporten.</l>
+    </lg>
+    <pb n="32v"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_65.html"/>
+    <lg type="cobla" n="8" xml:id="C045-lg8">
+     <l n="57" xml:id="C045-l57"> ¶ Puix arma y cos / donen esser al home</l>
+     <l n="58" xml:id="C045-l58"> Prop de forsat / es entrells lo complaure</l>
+     <l n="59" xml:id="C045-l59"> Ame lo cos / a son semblant conforme</l>
+     <l n="60" xml:id="C045-l60"> Ne fa reptar / sils infinits no cerca</l>
+     <l n="61" xml:id="C045-l61"> Nostre sperit / a son semblant cobeja</l>
+     <l n="62" xml:id="C045-l62"> E de aquell tots / los actes quen yxe</l>
+     <l n="63" xml:id="C045-l63"> Mas los volers / que daquest compost naxe</l>
+     <l n="64" xml:id="C045-l64"> Son mes punyents / que dalgun amor simple</l>
+    </lg>
+    <lg type="cobla" n="9" xml:id="C045-lg9">
+     <l n="65" xml:id="C045-l65"> ¶ Dela virtud / es nostra vida exempta</l>
+     <l n="66" xml:id="C045-l66"> Si que lo cos / venç a larma batalles</l>
+     <l n="67" xml:id="C045-l67"> Sils pochs volers / lo seny del hom no tempra</l>
+     <l n="68" xml:id="C045-l68">E donchs <choice>
+       <abbr>quȃt</abbr>
+       <expan>quant</expan>
+      </choice> menys / los qui <choice>
+       <abbr>grȃ</abbr>
+       <expan>gran</expan>
+      </choice> forsa <choice>
+       <abbr>portȇ</abbr>
+       <expan>porten</expan>
+      </choice></l>
+     <l n="69" xml:id="C045-l69"> Aquesta amor / lo bon juy no escolta</l>
+     <l n="70" xml:id="C045-l70"> Tant de la carn / beniuolençal capta</l>
+     <l n="71" xml:id="C045-l71"> Ab cor segur / de vencre aquella tenta</l>
+     <l n="72" xml:id="C045-l72"> Ses blanes mans / los forts diamants pasten.</l>
+    </lg>
+    <pb n="33r"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_66.html"/>
+    <lg type="cobla" n="10" xml:id="C045-lg10">
+     <l n="73" xml:id="C045-l73"> ¶ Si be amor / les passions auança </l>
+     <l n="74" xml:id="C045-l74"> En ser primer / desig li dona forsa</l>
+     <l n="75" xml:id="C045-l75"> E pux delit / lo soste dins son regne</l>
+     <l n="76" xml:id="C045-l76"> Fallint aquest / fallix damor lo ceptre</l>
+     <l n="77" xml:id="C045-l77"> Noy sia entes / present desonest acte</l>
+     <l n="78" xml:id="C045-l78"> Car finamor / daltramor se contenta</l>
+     <l n="79" xml:id="C045-l79"> Sino lateny / viu desperansa sola</l>
+     <l n="80" xml:id="C045-l80"> A la gran por / segueix lo seu contra</l>
+    </lg>
+    <lg type="cobla" n="11" xml:id="C045-lg11">
+     <l n="81" xml:id="C045-l81"> ¶ Cell qui damor / del tot nos dexa vencre</l>
+     <l n="82" xml:id="C045-l82"> Si que raho / de son consell no llunya</l>
+     <l n="83" xml:id="C045-l83"> No mereix pas / la corona de martre</l>
+     <l n="84" xml:id="C045-l84"> Daquells passius / no habents altre compte</l>
+     <l n="85" xml:id="C045-l85"> Sino pensar / hauer lur vida terme </l>
+     <l n="86" xml:id="C045-l86"> Fugint aquell / qui en tal vidals men</l>
+     <l n="87" xml:id="C045-l87"> Crehent de ferm / los fets del mon ser ombra</l>
+     <l n="88" xml:id="C045-l88"> Daquell sol clar / que tot llur cor escalfa.</l>
+    </lg>
+    <pb n="33v"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_67.html"/>
+    <lg type="cobla" n="12" xml:id="C045-lg12">
+     <l n="89" xml:id="C045-l89"> ¶O bon amor / a qui mort no triunfa</l>
+     <l n="90" xml:id="C045-l90"> Segons lo Dant / historial reconta</l>
+     <l n="91" xml:id="C045-l91"> E ningun seny / presumir no locupe</l>
+     <l n="92" xml:id="C045-l92"> Contra tu fort / victoria consegre</l>
+     <l n="93" xml:id="C045-l93"> Que cossos dos / ab vn arma gouernes</l>
+     <l n="94" xml:id="C045-l94"> Pel gran delit / que damistat sengendra</l>
+     <l n="95" xml:id="C045-l95"> Cell qui de tu lo terme pens atenyer</l>
+     <l n="96" xml:id="C045-l96"> No sab de tu / dignorança es dexeble.</l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

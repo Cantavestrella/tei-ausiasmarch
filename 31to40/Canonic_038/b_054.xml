@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 38</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/">
+     <msIdentifier xml:id="b_Ed_1543_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.49r between lines 40 and 41</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_104.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_105.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_106.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C038-b054">
+
+    <pb n="48r"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_104.html"/>
+
+    <lg type="cobla" n="1" xml:id="C038-lg1">
+     <l n="1" xml:id="C038-l1"><c rend="large">S</c>I be mostrau / que mi no, hauorriu </l>
+     <l n="2" xml:id="C038-l2"> ans vos, altau / de ma simple paraula </l>
+     <l n="3" xml:id="C038-l3"> y mos escrits / no creheu, esser, faula </l>
+     <l n="4" xml:id="C038-l4"> eus plau de mi / si, algun hom, ben diu </l>
+
+     <pb n="48v"
+      facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_105.html"/>
+
+     <l n="5" xml:id="C038-l5"> quant yo imagin / que per vos, yo amar </l>
+     <l n="6" xml:id="C038-l6"> auorresch mi / qui res noy fall, d'entengre </l>
+     <l n="7" xml:id="C038-l7"> en aquell punt / tot mon voler, es negre </l>
+     <l n="8" xml:id="C038-l8"> puis, quel vostr'alt / no passa'n, ben amar </l>
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C038-lg2">
+     <l n="9" xml:id="C038-l9"> Conort bastant / en mi, no puch pensar </l>
+     <l n="10" xml:id="C038-l10"> he si per temps / alguna part, n'a tench </l>
+     <l n="11" xml:id="C038-l11"> sera per ço / comprat d'amor tal, prench </l>
+     <l n="12" xml:id="C038-l12"> quel sabra mal / sile'desemparar </l>
+     <l n="13" xml:id="C038-l13"> haure amor / de mi despossehit </l>
+     <l n="14" xml:id="C038-l14"> que, per null, temps / tal seruent, cobrara </l>
+     <l n="15" xml:id="C038-l15"> aquest pensar / conort, m'apotara<note type="editorial">Per
+       aportara.</note></l>
+     <l n="16" xml:id="C038-l16"> durara tant / com sere'n fellonit </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C038-lg3">
+
+     <l n="17" xml:id="C038-l17"> So que deman / mereix preu infinit </l>
+     <l n="18" xml:id="C038-l18"> nol vull hauer / ab res, no mereixent </l>
+     <l n="19" xml:id="C038-l19"> la'nima us do / que's, a deu, bell present </l>
+     <l n="20" xml:id="C038-l20"> ella nol plau / hauer lo cos, jaquit </l>
+     <l n="21" xml:id="C038-l21"> nous prech d'amor / mas <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> lam, demostreu </l>
+     <l n="22" xml:id="C038-l22"> del que's en vos / haure singular grat </l>
+     <l n="23" xml:id="C038-l23"> si bon voler / me teniu amagat </l>
+     <l n="24" xml:id="C038-l24"> tant am lo mal / ab quel me, amagueu </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C038-lg4">
+     <l n="25" xml:id="C038-l25"> Yo som be cert / que vos, mi, coneixeu </l>
+     <l n="26" xml:id="C038-l26"> he los tres temps / de mi, no ignorau </l>
+     <l n="27" xml:id="C038-l27"> mos pensaments / yo crech, que sapiau </l>
+     <l n="28" xml:id="C038-l28"> nous preheu <choice>
+       <abbr>dôchs</abbr>
+       <expan>donchs</expan>
+      </choice> / si nom, regoneixeu </l>
+     <l n="29" xml:id="C038-l29"> lo meu voler / al infinit, s'acosta </l>
+     <l n="30" xml:id="C038-l30"> sera content / del vostre poch, ho molt </l>
+     <l n="31" xml:id="C038-l31"> donchs enuers mi / noy cal, anar, de'scolt </l>
+     <l n="32" xml:id="C038-l32"> lo cami's pla / sens barranch, ne gran costa </l>
+    </lg>
+
+    <pb n="49r"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_106.html"/>
+
+    <lg type="cobla" n="5" xml:id="C038-lg5">
+     <l n="33" xml:id="C038-l33"> Vostre voler / tot <choice>
+       <abbr>quât</abbr>
+       <expan>quant</expan>
+      </choice> puch dar, me costa </l>
+     <l n="34" xml:id="C038-l34"> nom resta pus / quel viure doloros </l>
+     <l n="35" xml:id="C038-l35"> dos grans contrasts / de voler veig, en vos </l>
+     <l n="36" xml:id="C038-l36"> en viur eus plau / de mort, es la resposta </l>
+     <l n="37" xml:id="C038-l37"> los vlls <choice>
+       <abbr>tîchcluchs</abbr>
+       <expan>tinchcluchs</expan>
+      </choice> / no conech, nit ne, jorn </l>
+     <l n="38" xml:id="C038-l38"> ne tinch hom prop / qui del temps, me avise </l>
+     <l n="39" xml:id="C038-l39"> no sent res ferm / ab que lo temps, diuise </l>
+     <l n="40" xml:id="C038-l40"> ab tot aço / ma pensa no pren born<note type="gloss"
+       place="margin left">Born. per volta.</note></l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C038-lg6">
+     <l n="41" xml:id="C038-l41"> Lir entre carts / dins mi, port vn calt forn </l>
+     <l n="42" xml:id="C038-l42"> cohent vn pa / d'una dolça, sabor </l>
+     <l n="43" xml:id="C038-l43"> y aquell mateix / sent de gran amargor </l>
+     <l n="44" xml:id="C038-l44"> tot açom pren / deu hores, enlo jorn </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

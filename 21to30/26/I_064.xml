@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 26</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/">
+     <msIdentifier xml:id="I_Ms_10_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus> 77v after end of previous poem, before this one: </locus>Mossen Auzias march </rubric>
+       <rubric>
+        <locus> 78r between lines 48 and 49 </locus>Tornada </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_155.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_156.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C026-I064">
+    <pb n="77v"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_155.html"/>
+    <lg type="cobla" n="1" xml:id="C026-lg1">
+     <l n="1" xml:id="C026-l1">jVnt<add place="margin left">J</add> es lo temps<choice>
+       <abbr>tṕs</abbr>
+       <expan>temps</expan>
+      </choice> / que sera conegut<add place="margin left">aquest cant no es enlo
+       libre</add>
+     </l>
+     <l n="2" xml:id="C026-l2"> Lom qui son cor / haura fort ho cohart </l>
+     <l n="3" xml:id="C026-l3"> E ja negun / no cuyt saber tal art </l>
+     <l n="4" xml:id="C026-l4"> Que si es flach / tal no sia sabut </l>
+     <l n="5" xml:id="C026-l5"> Car desestruch / al perill dela mort </l>
+     <l n="6" xml:id="C026-l6"> Ladonchs nol val / enginy ne maestria </l>
+     <l n="7" xml:id="C026-l7"> Per ben cobrir / sastrema coherdia </l>
+     <l n="8" xml:id="C026-l8"> Ans elegesch<add  place="margin left">ans
+       eleges</add> fugir<choice>
+       <abbr>ꝑser</abbr>
+       <expan>perser</expan>
+      </choice> estort </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C026-lg2">
+     <l n="9" xml:id="C026-l9"> Ans del perill / se deu metrel conort </l>
+     <l n="10" xml:id="C026-l10"> Emprenent risch / hom ha dels bons paria </l>
+     <l n="11" xml:id="C026-l11"> Aconsegujnt / honor e senyoria </l>
+     <l n="12" xml:id="C026-l12"> Ffahent venir / cessars en vn recort </l>
+     <l n="13" xml:id="C026-l13"> Les armes fan / los <choice>
+      <abbr>proꝯ</abbr>
+       <expan>prous</expan>
+      </choice> homens valer </l>
+     <l n="14" xml:id="C026-l14"> Els puja tost / en semblant de moment </l>
+     <l n="15" xml:id="C026-l15"> Aquest es loch / don lo cohart decent </l>
+     <l n="16" xml:id="C026-l16"> Pus prop de si / es les dones vaher </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C026-lg4">
+     <l n="17" xml:id="C026-l25"> Los homens morts / dactes bons no desombren </l>
+     <l n="18" xml:id="C026-l26"> Car dels absents / nols cal hauer enueia </l>
+     <l n="19" xml:id="C026-l27"> Pahir nos pot / aquesta cosa leia </l>
+     <l n="20" xml:id="C026-l28"> Dins los ventrels / qui denueiar sescombren </l>
+     <l n="21" xml:id="C026-l29"> No dau lahor / al viu qui les percassa </l>
+     <l n="22" xml:id="C026-l30"> Ans fan rahons / com lay poran sostraure </l>
+     <l n="23" xml:id="C026-l31"> E sil bon fet / del mon no poden raure </l>
+     <l n="24" xml:id="C026-l32"> Dien ne mal / tant que lo be desfassa </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C026-lg5">
+     <l n="25" xml:id="C026-l33"> Bondat virtut / han perdud<add place="interlinear">a</add> sa
+      rassa </l>
+     <l n="26" xml:id="C026-l34"> Cossors humans / han molt diminuit </l>
+     <l n="27" xml:id="C026-l35"> Deu es pernos / mal honrat e seruit </l>
+     <l n="28" xml:id="C026-l36"> Eia la mort / pus estret nos abrassa </l>
+     <l n="29" xml:id="C026-l37"> Tot quant per deu / es jus lo cel creat </l>
+     <l n="30" xml:id="C026-l38"> Ha molt perdut / de son propi cabal </l>
+     <l n="31" xml:id="C026-l39"> Saber se pert / esperiment no val </l>
+     <l n="32" xml:id="C026-l40"> Lo viure curt / quel mig tost es passat </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C026-lg6">
+     <l n="33" xml:id="C026-l41"> Hon es lenginy / deristotil trobat </l>
+     <l n="34" xml:id="C026-l42"> Darmogenes / sen<add place="interlinear">e</add>cha e plato </l>
+     <l n="35" xml:id="C026-l43"> Qui mostraren / semblant al fort sampso </l>
+     <l n="36" xml:id="C026-l44"> Hon es tant bell / con Absalon trobat </l>
+     <l n="37" xml:id="C026-l45">
+      <choice>
+       <abbr>Lintę</abbr>
+       <expan>Linteus</expan>
+      </choice> fos / qui res non escapaue </l>
+     <l n="38" xml:id="C026-l46"> Que no fos vjst / per sa vista subtil </l>
+     <l n="39" xml:id="C026-l47"> Dins en la mar / veya de mjllas mil </l>
+     <l n="40" xml:id="C026-l48"> Lo viure lur / mes quel present duraue </l>
+    </lg>
+    <pb n="78r"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_156.html"/>
+    <lg type="cobla" n="6" xml:id="C026-lg7">
+     <l n="41" xml:id="C026-l49"> Foll es aquell / qui no ymaginaue </l>
+     <l n="42" xml:id="C026-l50"> Que fallirem / pus fall ço per que som </l>
+     <l n="43" xml:id="C026-l51"> Sicom decau / la rama e lo pom </l>
+     <l n="44" xml:id="C026-l52"> Si la rael / del arbre hom tallaue </l>
+     <l n="45" xml:id="C026-l53"> Ffallirem nos / pus lo quins soste fall </l>
+     <l n="46" xml:id="C026-l54"> Bens mostre deu / que vol lo mon finir </l>
+     <l n="47" xml:id="C026-l55"> Car lo quins te / vol que vengua fallir </l>
+     <l n="48" xml:id="C026-l56"> Son poch ha poch / natura nos deffall </l>
+    </lg>
+    <lg type="tornada" n="7" xml:id="C026-lg8">
+     <l n="49" xml:id="C026-l57"> Lir entre carts / nom basta lescandall </l>
+     <l n="50" xml:id="C026-l58"> Per trobar fons / en la vostra estima </l>
+     <l n="51" xml:id="C026-l59"> Equant vos lou / no trob raho nj rima </l>
+     <l n="52" xml:id="C026-l60"> Dequem content / e per ço io men call </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

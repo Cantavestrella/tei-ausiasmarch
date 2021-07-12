@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 40</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://bdh-rd.bne.es/viewer.vm?id=0000149777">
+     <msIdentifier xml:id="E_Ms_3695_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.33v After end of previous poem, before this one</locus>Mossen ausias
+        march</rubric>
+       <rubric>
+        <locus>f.34v between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C040-E023">
+
+    <pb n="33r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+
+    <lg type="cobla" n="1" xml:id="C040-lg1">
+     <l n="1" xml:id="C040-l1">
+      <c rend="large">C</c>ell qui daltruy / reb enuig e plaher </l>
+     <l n="2" xml:id="C040-l2"> e perdre vol / totalment samistat </l>
+     <l n="3" xml:id="C040-l3"> es li mester / haia per oblidat </l>
+     <l n="4" xml:id="C040-l4"> tot lo plaer / hauent ne desesper </l>
+     <l n="5" xml:id="C040-l5"> E tot primer / ques lluny desapresença </l>
+     <l n="6" xml:id="C040-l6"> dellur plaer / no sia recordant </l>
+     <l n="7" xml:id="C040-l7"> car si aquella / lis presenta dauant </l>
+     <l n="8" xml:id="C040-l8"> quant es pus lluny / dobla sa ben volença </l>
+    </lg>
+
+    <pb n="33v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+
+    <lg type="cobla" n="2" xml:id="C040-lg2">
+     <l n="9" xml:id="C040-l9"><c rend="large">T</c> res coses son / que llunyen lo voler </l>
+     <l n="10" xml:id="C040-l10"> dan e desalt / e gran iniquitat </l>
+     <l n="11" xml:id="C040-l11"> al propi be / hom es tan jnclinat </l>
+     <l n="12" xml:id="C040-l12"> que no vol be / don gran dan pot hauer </l>
+     <l n="13" xml:id="C040-l13"> En gran desalt / nons basta la potença </l>
+     <l n="14" xml:id="C040-l14"> que çell amem / quins es desagradant </l>
+     <l n="15" xml:id="C040-l15"> lo nostresforç / no sab fer en nos tant </l>
+     <l n="16" xml:id="C040-l16"> quel prim voler / no vench en mal volença </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C040-lg3">
+     <l n="17" xml:id="C040-l17">
+      <c rend="large">J</c>niquitat / met lom en desesper </l>
+     <l n="18" xml:id="C040-l18"> auorrint Deu / senyor quil ha creat </l>
+     <l n="19" xml:id="C040-l19"> ço fa lo seny / del hom quant es yrat </l>
+     <l n="20" xml:id="C040-l20"> si auorrint / amant se tant primer </l>
+     <l n="21" xml:id="C040-l21"> Apres de si / lom ama sa semença </l>
+     <l n="22" xml:id="C040-l22"> tant que lo nan / cuyda esser gigan </l>
+     <l n="23" xml:id="C040-l23"> e tant pot ser / en vers nos mal vsan </l>
+     <l n="24" xml:id="C040-l24"> quen mal voler / giram nostra sciença </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C040-lg4">
+
+     <l n="25" xml:id="C040-l25"><c rend="large">S</c>i col lom fort / quis egual de poder </l>
+     <l n="26" xml:id="C040-l26"> ab lenemich / qui les deuant posat </l>
+     <l n="27" xml:id="C040-l27"> fins que lun dells / es per laltre sobrat </l>
+     <l n="28" xml:id="C040-l28"> algu no pot degun dret juhi fer </l>
+     <l n="29" xml:id="C040-l29"> Tot en axi / no pusch donar sentença </l>
+     <l n="30" xml:id="C040-l30"> entre amor / ab oy desacordant </l>
+     <l n="31" xml:id="C040-l31"> cascu daquests / en mi es tan puxant </l>
+     <l n="32" xml:id="C040-l32"> que mon saber / noy coneix differença </l>
+    </lg>
+
+    <pb n="34r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+
+    <lg type="cobla" n="5" xml:id="C040-lg5">
+     <l n="33" xml:id="C040-l33">
+      <c rend="large">A</c>mor al camp / no fonch lopus derrer </l>
+     <l n="34" xml:id="C040-l34"> mas oy vench lla / darmes tan esforçat </l>
+     <l n="35" xml:id="C040-l35"> qual pus estrem / del camp landerrerat<note type="editorial">Per
+       landerrocat.</note>
+     </l>
+     <l n="36" xml:id="C040-l36"> que yom pensi / nos pogues may refer </l>
+     <l n="37" xml:id="C040-l37"> Mas nol falli / amor sobta volença </l>
+     <l n="38" xml:id="C040-l38"> monfoll voler / li fonch prest ajudant </l>
+     <l n="39" xml:id="C040-l39"> Oy dona crit / quel çel fonch traspassant </l>
+     <l n="40" xml:id="C040-l40"> cridant raho / e vench en sa valença </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C040-lg6">
+     <l n="41" xml:id="C040-l41">
+      <c rend="large">S</c>opplich a Deu / quem tolga conexença </l>
+     <l n="42" xml:id="C040-l42"> o volent ell / hus yo de passio </l>
+     <l n="43" xml:id="C040-l43"> daquella que / sia prop de raho </l>
+     <l n="44" xml:id="C040-l44"> lexant amor / quim traix encrehuença </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

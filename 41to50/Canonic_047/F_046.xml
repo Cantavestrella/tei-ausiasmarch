@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 47</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/poesias-de-ausias-y-mena-manuscrito--0/">
+     <msIdentifier xml:id="F_Ms_2244_BGHUS">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.46r After end of previous poem, before this one</locus>Altra</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_95.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_96.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C047-F046">
+    <pb n="46r"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_95.html"/>
+    <lg type="cobla" n="1" xml:id="C047-lg1">
+     <l n="1" xml:id="C047-l1">
+      <c rend="large">B</c>em marauell com layre nosaltera </l>
+     <l n="2" xml:id="C047-l2"> E com lo foch per fexuch pes no cau </l>
+     <l n="3" xml:id="C047-l3"> E com nos mou la que fexugaiau </l>
+     <l n="4" xml:id="C047-l4"> Ffermant son loch en la pus altaspera </l>
+     <l n="5" xml:id="C047-l5"> Maior senyal no pot mostrar lo mon </l>
+     <l n="6" xml:id="C047-l6"> E digne molt quelcom sen marauell </l>
+     <l n="7" xml:id="C047-l7"> Ab vn poch mes haure creure per ell </l>
+     <l n="8" xml:id="C047-l8"> Que periran tots quants en lo mon son </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C047-lg2">
+     <l n="9" xml:id="C047-l9">
+      <c rend="large">A</c> mon Juhi ses leys amor confon </l>
+     <l n="10" xml:id="C047-l10"> Speriment ia del tot es errant </l>
+     <l n="11" xml:id="C047-l11"> Tot amador ama per son semblant </l>
+     <l n="12" xml:id="C047-l12"> Lo contraffer en per null temps no fon </l>
+     <l n="13" xml:id="C047-l13"> Vos quj bastant sou per vn mon regir </l>
+     <l n="14" xml:id="C047-l14"> Poras be fer que ameu lome pech </l>
+     <l n="15" xml:id="C047-l15"> Per acte leig sentiment haureu cech </l>
+     <l n="16" xml:id="C047-l16"> No haueu pus escusau lo meu dir </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C047-lg3">
+     <l n="17" xml:id="C047-l17">
+      <c rend="large">M</c>on creure ferm no por be soferir </l>
+     <l n="18" xml:id="C047-l18"> Vn cas tan fort <del rend="overstrike">que</del>
+      <add place="interlinear">e</add> per moltes rahons </l>
+     <l n="19" xml:id="C047-l19"> Mas tan besse quela carn hasperons </l>
+     <l n="20" xml:id="C047-l20"> E nous ueig fre bastant aretenjr </l>
+     <l n="21" xml:id="C047-l21"> E daltra part amor per sa furor </l>
+     <l n="22" xml:id="C047-l22"> Secretament sens compte lo cors liga </l>
+     <l n="23" xml:id="C047-l23"> En actes tals quals honestat castiga </l>
+     <l n="24" xml:id="C047-l24"> E pot esser ameu de tal amor </l>
+    </lg>
+    <pb n="46v"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_96.html"/>
+    <lg type="cobla" n="4" xml:id="C047-lg4">
+     <l n="25" xml:id="C047-l25">
+      <c rend="large">S</c>i uer sera prech deu quela calor </l>
+     <l n="26" xml:id="C047-l26"> De tots los fochs creme la uostra carn </l>
+     <l n="27" xml:id="C047-l27"> Sino tenju enterrible escarn </l>
+     <l n="28" xml:id="C047-l28"> Que no vencau una tan gran eror </l>
+     <l n="29" xml:id="C047-l29"> Mas uostre cors peruenturasdelita </l>
+     <l n="30" xml:id="C047-l30"> Husar dels fruyts que na uenus conrea </l>
+     <l n="31" xml:id="C047-l31"> Mas uostre seny deuriauer ferea </l>
+     <l n="32" xml:id="C047-l32"> De fer tals fets e gens nanja sospita </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C047-lg5">
+     <l n="33" xml:id="C047-l33">
+      <c rend="large">P</c>er tal dolor no fare vidarmjta </l>
+     <l n="34" xml:id="C047-l34"> Palesament sera mavidactiua </l>
+     <l n="35" xml:id="C047-l35"> E de parlar notendre lenguasqujua </l>
+     <l n="36" xml:id="C047-l36"> E uer parlar dessi gran dolcor gita </l>
+     <l n="37" xml:id="C047-l37"> Cells quj sabran mon uer complanyiment </l>
+     <l n="38" xml:id="C047-l38"> Tots planyeran mj per ma causa justa </l>
+     <l n="39" xml:id="C047-l39"> E planyiment dessi amor ajusta </l>
+     <l n="40" xml:id="C047-l40"> E rependran natura sju consent </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C047-lg6">
+     <l n="41" xml:id="C047-l41">
+      <c rend="large">O</c> ffolla mor de uos no son content </l>
+     <l n="42" xml:id="C047-l42"> E ia molt menys del fets delaqueu am </l>
+     <l n="43" xml:id="C047-l43"> Nose de quj hauer pus honest clam </l>
+     <l n="44" xml:id="C047-l44"> Per no errar maldich uos egualment <add place="bottom">O loco de
+       Amor no se en que contente ny espero me pague aquella que amo O loco de Amor no se en que
+       contente ny espero me pague aquella que amo no se de qual mas, mas deentra mos reclamo <gap
+        reason="illegible" extent="several characters"/> maldice ygualmente</add>
+      <note type="editorial">Versos copiats al marge inferior del full per una mà diferent.</note>
+     </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

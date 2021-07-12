@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 48</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/">
+     <msIdentifier xml:id="C_Ms_L.iij.26_EE">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.97v between lines 40 and 41</locus>~:Tornada:~</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_194.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_195.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_196.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C048-C072m">
+    <pb n="96v"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_194.html"/>
+    <lg type="cobla" n="1" xml:id="C048-lg1">
+     <l n="1" xml:id="C048-l1"> Abuos me por <note type="editorial">Per pot.</note>
+      / amor ben smenar </l>
+     <l n="2" xml:id="C048-l2"> del temps passat / lo seu gran falliment </l>
+     <l n="3" xml:id="C048-l3"> la for dolor / per mon mal pensament </l>
+     <l n="4" xml:id="C048-l4"> uos mi amant / se pot acabalar </l>
+     <pb n="97r"
+      facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_195.html"/>
+     <l n="5" xml:id="C048-l5"> Yo li perdon / m'ha dat mal dormir </l>
+     <l n="6" xml:id="C048-l6"> yo li perdon / lo mal gualardonat </l>
+     <l n="7" xml:id="C048-l7"> yo li perdon / si m'ha d'armar forçat </l>
+     <l n="8" xml:id="C048-l8"> dona tan uil / quem fos uergonya'l dir </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C048-lg2">
+     <l n="9" xml:id="C048-l9"> Si cosa fos / laujer'a comportar </l>
+     <l n="10" xml:id="C048-l10"> que yo deuos / hagues tal uantament </l>
+     <l n="11" xml:id="C048-l11"> quem pogues dir / esser uostre seruent </l>
+     <l n="12" xml:id="C048-l12"> lo nom <note type="editorial">Llegim nom tot i que està esborrat. Ed. c1545:nom. </note>
+     sens pus / me basta contentar</l>
+     <l n="13" xml:id="C048-l13"> tal me pareu / que si de ferm uos mir </l>
+     <l n="14" xml:id="C048-l14"> lo meu desig / roman tan alterat </l>
+     <l n="15" xml:id="C048-l15"> que no uol res / del que ha desijat </l>
+     <l n="16" xml:id="C048-l16"> ne del present / ne delque pot uenir. </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C048-lg3">
+     <l n="17" xml:id="C048-l17"> Creheu de ferm / que nom uull apartar </l>
+     <l n="18" xml:id="C048-l18"> del que sabre / que sera uos plasent </l>
+     <l n="19" xml:id="C048-l19"> e sim manau / cosa degran turment </l>
+     <l n="20" xml:id="C048-l20"> sera molt leus / carrech de sopportar </l>
+     <l n="21" xml:id="C048-l21"> donchs en manar / nous cal molt entardir </l>
+     <l n="22" xml:id="C048-l22"> tot se fara / lo que sera manat </l>
+     <l n="23" xml:id="C048-l23"> ab que d'amar / no sia defensat </l>
+     <l n="24" xml:id="C048-l24"> car mon ualer / en als no pot seruir. </l>
+    </lg>
+    <pb n="97v"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_196.html"/>
+    <lg type="cobla" n="4" xml:id="C048-lg4">
+     <l n="25" xml:id="C048-l25"> Acort no us cal / en uoler mi amar </l>
+     <l n="26" xml:id="C048-l26"> si us ne altau / e de mon sentiment </l>
+     <l n="27" xml:id="C048-l27"> de mon uoler / creheu segurament </l>
+     <l n="28" xml:id="C048-l28"> que per nulls temps / uos pora desaltar </l>
+     <l n="29" xml:id="C048-l29"> ell amara / e no fara mentir </l>
+     <l n="30" xml:id="C048-l30"> los meus scrits / qui d'ell han tant parlat </l>
+     <l n="31" xml:id="C048-l31"> ne scarnira / mon uerdader dictat </l>
+     <l n="32" xml:id="C048-l32"> ans en millor / lo ueureu affegir. </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C048-lg5">
+     <l n="33" xml:id="C048-l33"> A Deu no plach / bellea uos donar </l>
+     <l n="34" xml:id="C048-l34"> sino que fos / d'amor seruiment </l>
+     <l n="35" xml:id="C048-l35"> car en tot l'als / legea bastament </l>
+     <l n="36" xml:id="C048-l36"> en fer tot quant / lomon li pot manar </l>
+     <l n="37" xml:id="C048-l37"> no sabeu prou / si leixau temps fugir </l>
+     <l n="38" xml:id="C048-l38"> e temps perdut / no pot esser cobrat </l>
+     <l n="39" xml:id="C048-l39"> e donchs restau / ab uoler terminat </l>
+     <l n="40" xml:id="C048-l40"> de ben amar / lo qui us sabra grair. </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C048-lg6">
+     <l n="41" xml:id="C048-l41"> Lir entre carts / los meus jons uull finir </l>
+     <l n="42" xml:id="C048-l42"> amant a uos / sols que men hajau grat </l>
+     <l n="43" xml:id="C048-l43"> esi amor / d'amar ha mi loat </l>
+     <l n="44" xml:id="C048-l44"> creheulo ferm / carno fa desmentir </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

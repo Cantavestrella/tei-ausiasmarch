@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 32</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name> Mar Pamblanco </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo Hilario </name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://bdh.bne.es/bnesearch/detalle/bdh0000117162" 
+  /><!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C032-D032">
+
+    <pb n="29r"
+     facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+
+    <lg type="cobla" n="1" xml:id="C032-lg1">
+     <l n="1" xml:id="C032-l1"> <c rend="large">P</c>ujar no pot algu en molt valer </l>
+     <l n="2" xml:id="C032-l2"> sens hauer bens bondat linajegran </l>
+     <l n="3" xml:id="C032-l3"> mas ladel mig val mes que la restan </l>
+     <l n="4" xml:id="C032-l4"> eno val molt sens les altres hauer </l>
+     <l n="5" xml:id="C032-l5"> Per ellas fan les dues molt prear </l>
+     <l n="6" xml:id="C032-l6"> car poder valtant com es ministrat </l>
+     <l n="7" xml:id="C032-l7"> linajeval tant com es <add place="interlinear">mes</add> honrat </l>
+     <l n="8" xml:id="C032-l8"> la valor dom ho fatot graduar </l>
+    </lg>
+   
+    <lg type="cobla" n="2" xml:id="C032-lg2">
+     <l n="9" xml:id="C032-l9"> <c rend="large">M</c>as no sera lom sabent de sonar </l>
+     <l n="10" xml:id="C032-l10"> sinalgun temps no sona esturmen </l>
+     <l n="11" xml:id="C032-l11"> car pervoler sonar lo nom nos pren </l>
+     <l n="12" xml:id="C032-l12"> mas linstrument sonant be acordar </l>
+    
+     <pb n="29v"
+      facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+
+     <l n="13" xml:id="C032-l13"><c rend="large">T</c> ot enaxi aquell qui dins sival </l>
+     <l n="14" xml:id="C032-l14"> pobre de bens e dauilat linaje </l>
+     <l n="15" xml:id="C032-l15"> no tels arreus per mostrar gran coratje </l>
+     <l n="16" xml:id="C032-l16"> en la virtut quel hauer dom hi cal </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C032-lg3">
+
+     <l n="17" xml:id="C032-l17"> <c rend="large">S</c>on e seran molts dun altre cabal </l>
+     <l n="18" xml:id="C032-l18"> hauents molts bens edalta sanch fauor </l>
+     <l n="19" xml:id="C032-l19"> evalent poch / hanlapart no millor </l>
+     <l n="20" xml:id="C032-l20"> car sens lom bo quant <add place="interlinear">pot</add><del rend="scraped">hauer</del> es mal</l>
+     <l n="21" xml:id="C032-l21"> Emoltas veu han la culpa natura </l>
+     <l n="22" xml:id="C032-l22"> car forabo talquevaler no sab </l>
+     <l n="23" xml:id="C032-l23"> ningun saber nopot viuren lur cap </l>
+     <l n="24" xml:id="C032-l24"> sens culpalur devaler han fretura </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C032-lg4">
+
+     <l n="25" xml:id="C032-l25"> <c rend="large">E</c>ntrels extrems al mig virtut atura </l>
+     <l n="26" xml:id="C032-l26"> molt greu dobrar y entre pochs conegut </l>
+     <l n="27" xml:id="C032-l27"> per ell saber no consegueix hom virtut </l>
+     <l n="28" xml:id="C032-l28"> mas fets obrant forans dins tal mesura </l>
+     <l n="29" xml:id="C032-l29"> <c rend="large">A</c>ytant es larch hom menys de fer larguesa </l>
+     <l n="30" xml:id="C032-l30"> com es escas sino fall endespendre </l>
+     <l n="31" xml:id="C032-l31"> vicis virtuts peractes san apendre </l>
+     <l n="32" xml:id="C032-l32"> apres lo fet es lur potença presa </l>
+    </lg>
+ 
+    <lg type="cobla" n="5" xml:id="C032-lg5">
+     <l n="33" xml:id="C032-l33"><c rend="large">N</c> os conquiren virtuts per gran abtesa </l>
+     <l n="34" xml:id="C032-l34"> no les hauran poetes per lur art </l>
+     <l n="35" xml:id="C032-l35"> hanles aquells metent vicis apart </l>
+     <l n="36" xml:id="C032-l36"> obrant virtuts per amor de bonesa </l>
+     <l n="37" xml:id="C032-l37"><c rend="large">R</c> es no duptant viciosa vergonya </l>
+     <l n="38" xml:id="C032-l38"> mas solament amant virtuospreu </l>
+     
+     <pb n="30r"
+      facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+
+     <l n="39" xml:id="C032-l39"> el ompech / enaquestbanch no seu </l>
+     <l n="40" xml:id="C032-l40"> equi es luny / lograndelit salonya </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C032-lg6">
+     <l n="41" xml:id="C032-l41"> <c rend="large">L</c>ir entre carts tostemps faremaponya </l>
+     <l n="42" xml:id="C032-l42"> queladolor james demis partesca </l>
+     <l n="43" xml:id="C032-l43"> eno penseu que moncas enferesca </l>
+     <l n="44" xml:id="C032-l44"> car majordan mereix magran vergonya </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

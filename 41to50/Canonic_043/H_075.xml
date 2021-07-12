@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 43</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="IS">
+               <name>Isabel Sellés</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2020-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/">
+               <msIdentifier xml:id="H_Ms_110_BUZ">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f.258v after end of previous poem, before this one</locus>Mossen auzias march</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March"s poems" synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_499.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C043-H075">
+            <pb n="258v"
+               facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_499.html"/>
+            <lg type="cobla" n="1" xml:id="C043-lg1">
+               <l n="1" xml:id="C043-l1">
+                  <c rend="large">C</c>oratge meu a pendresforç molt tart </l>
+               <l n="2" xml:id="C043-l2"> No piados <choice>
+                  <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice> tots los qujt sostenen </l>
+               <l n="3" xml:id="C043-l3"> Larmay lo cors adepertir se venen </l>
+               <l n="4" xml:id="C043-l4"> Per tu ser flach lo cors <choice>
+                  <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice> viures fart </l>
+               <l n="5" xml:id="C043-l5"> Mos huls no son liberts fer son offici </l>
+               <l n="6" xml:id="C043-l6"> Mon pas es tolt ma llengua nom profita </l>
+               <l n="7" xml:id="C043-l7"> E de aço vergonyas delita </l>
+               <l n="8" xml:id="C043-l8"> Com so plagat <choice>
+                  <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice> tan bestial vici </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C043-lg2">
+               <l n="9" xml:id="C043-l9"> Pahor me sent gran suor me comença </l>
+               <l n="10" xml:id="C043-l10"> Surtint mon cor los pits me cuyda rompre </l>
+               <l n="11" xml:id="C043-l11"> Nom trop esforç per vergonya corrompre </l>
+               <l n="12" xml:id="C043-l12"> E sser no pot masperança por vença </l>
+               <l n="13" xml:id="C043-l13"> No pusch trobar lo secret <choice>
+                  <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice> ma pença </l>
+               <l n="14" xml:id="C043-l14"> E uanament he por <choice>
+                  <abbr>ƌla</abbr>
+                     <expan>dela</expan>
+                  </choice> resposta </l>
+               <l n="15" xml:id="C043-l15"> Lo meu dubtar maior dubtem acosta </l>
+               <l n="16" xml:id="C043-l16"> Ffemjnjll gest ardiment me deffença </l>
+            </lg>
+            <lg type="cobla" n="3" xml:id="C043-lg3">
+               <l n="17" xml:id="C043-l17"> Alguns han dit que vergonya nos troba </l>
+               <l n="18" xml:id="C043-l18"> Mas ion pusch fer daquella testimonj </l>
+               <l n="19" xml:id="C043-l19"> De vista no semblant es al demonj </l>
+               <l n="20" xml:id="C043-l20"> Part de mos senys e perlar me derroba </l>
+               <l n="21" xml:id="C043-l21"> Dona sentir desi alguns forts actes </l>
+               <l n="22" xml:id="C043-l22"> Segons <choice>
+                  <abbr>ƌ</abbr>
+                     <expan>de</expan>
+                  </choice> molts hauem hoidas gestas </l>
+               <l n="23" xml:id="C043-l23"> Crehen lo tals <choice>
+                  <abbr>ꝙ</abbr>
+                     <expan>qui</expan>
+                  </choice> descolan ses festas </l>
+               <l n="24" xml:id="C043-l24"> Senyor es meu <choice>
+                  <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> amigables pactes </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

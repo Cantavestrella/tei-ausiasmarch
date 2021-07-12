@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 48</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/obres-dausias-march-manuscrito--0/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.43r between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_88.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_89.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C048-B050">
+    <pb n="42v"
+     facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_88.html"/>
+    <lg type="cobla" n="1" xml:id="C048-lg1">
+     <l n="1" xml:id="C048-l1"> <c rend="large">A</c>b vos me pot amor ben stimar </l>
+     <l n="2" xml:id="C048-l2"> Del temps passat lo seu gran falliment </l>
+     <l n="3" xml:id="C048-l3"> Sa fort dolor per mon mal pensament </l>
+     <l n="4" xml:id="C048-l4"> Vos mi amant se pora compenssar </l>
+     <l n="5" xml:id="C048-l5"> Yo li perdon si ma dat mal dormjr </l>
+     <l n="6" xml:id="C048-l6"> Yo li perdon voler mal guardonat </l>
+     <l n="7" xml:id="C048-l7"> Yo li perdon sima damar forçat </l>
+     <l n="8" xml:id="C048-l8"> Dona tan vil quem fos vergonyal dir </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C048-lg2">
+     <l n="9" xml:id="C048-l9"> <c rend="large">S</c>i cosa fos lauiera comportar </l>
+     <l n="10" xml:id="C048-l10"> Que yo dauos agues tal vantament </l>
+     <l n="11" xml:id="C048-l11"> Quem pogues dir esser vostre seruent </l>
+     <l n="12" xml:id="C048-l12"> Lo nom sens pus me basta contentar </l>
+     <l n="13" xml:id="C048-l13"> Tal me pareu que si de ferm vos mjr </l>
+     <l n="14" xml:id="C048-l14"> Lo meu desitx roman tan alterat </l>
+     <l n="15" xml:id="C048-l15"> Que no vol res del que aie desijat </l>
+     <l n="16" xml:id="C048-l16"> Ne del present ne del <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> pot venjr </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C048-lg3">
+     <l n="17" xml:id="C048-l17"> <c rend="large">C</c> reheu de ferm que nom vull apartar </l>
+     <l n="18" xml:id="C048-l18"> Del que sabre a vos esser plaent </l>
+     <l n="19" xml:id="C048-l19"> E sim manau cosa de gran turment </l>
+     <l n="20" xml:id="C048-l20"> Seram leuger carrech de soportar </l>
+     <l n="21" xml:id="C048-l21"> Dons en manar nous cal molt enardjr </l>
+     <l n="22" xml:id="C048-l22"> Tot se fara lo quem sera manat </l>
+     <l n="23" xml:id="C048-l23"> Ab que damar no sia deffençat </l>
+     <l n="24" xml:id="C048-l24"> Car mon voler en als no pot seruir </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C048-lg4">
+     <l n="25" xml:id="C048-l25"> <c rend="large">A</c>cort <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> cal en volermj amar </l>
+     <l n="26" xml:id="C048-l26"> Simaueu grat e demon sentiment </l>
+     <l n="27" xml:id="C048-l27"> Demon voler creheu seguretat </l>
+     <l n="28" xml:id="C048-l28"> Que per null temps vos pora desaltar </l>
+     <pb n="43r"
+      facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_89.html"/>
+     <l n="29" xml:id="C048-l29"> Ell amara eno fara mentjr </l>
+     <l n="30" xml:id="C048-l30"> Los meus scrits que dell an tant parlat </l>
+     <l n="31" xml:id="C048-l31"> Nescarnjra mon vertader dictat </l>
+     <l n="32" xml:id="C048-l32"> Ans en mellor lo veureu affegir </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C048-lg5">
+     <l n="33" xml:id="C048-l33"> <c rend="large">A</c> deu no plach bellea a vos donar </l>
+     <l n="34" xml:id="C048-l34"> Sino que fos de amor seruiment </l>
+     <l n="35" xml:id="C048-l35"> Car entot lals legea bastament </l>
+     <l n="36" xml:id="C048-l36"> En fer tot quant lo mon li pot manar </l>
+     <l n="37" xml:id="C048-l37"> No sabeu prou si lexau temps fugir </l>
+     <l n="38" xml:id="C048-l38"> E temps perdut no pot esser cobrat </l>
+     <l n="39" xml:id="C048-l39"> E donchs restau ab voler termenat </l>
+     <l n="40" xml:id="C048-l40"> De ben amar lo quius sabra grayr </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C048-lg6">
+     <l n="41" xml:id="C048-l41"> <c rend="large">L</c>ir entre carts los meus jorns vull finir </l>
+     <l n="42" xml:id="C048-l42"> Amant avos sols que men ajau grat </l>
+     <l n="43" xml:id="C048-l43"> E si amor damar ha mj loat </l>
+     <l n="44" xml:id="C048-l44"> Creheu lo ferm car nou fa <choice>
+       <abbr>desmêtjr</abbr>
+       <expan>desmentjr</expan>
+      </choice>
+     </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

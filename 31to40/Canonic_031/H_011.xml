@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 31 </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="MP">
+               <name> Mar Pamblanco </name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo Hilario </name>
+               <resp> </resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+               <msIdentifier xml:id="H_Ms_110_BUZ">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>f.19r between lines 40 and 41<locus/>Tornada</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_20.html"/>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_21.html" />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C031-H011">
+
+            <pb n="19r"
+               facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_20.html"/>
+
+            <lg type="cobla" n="1" xml:id="C031-lg2">
+               <l n="4" xml:id="C031-l11"> Nesguart del uer lo seny es oradura <note type="editorial">Fragment de la poesia Molts homens hoig clamar-se de Fortuna. </note></l>
+               <l n="2" xml:id="C031-l12"> E lom girat al mundenal saber </l>
+               <l n="3" xml:id="C031-l13"> Hidoles creu donant hi plena fe </l>
+               <l n="4" xml:id="C031-l14"> En bens mundans creu esser complit be </l>
+               <l n="5" xml:id="C031-l15"> Volent morir solament per auer </l>
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C031-lg3">
+               <l n="6" xml:id="C031-l16"> Salgu pogues de fortuna tener </l>
+               <l n="7" xml:id="C031-l17"> Ab hun fort clau sa roda quant es sus </l>
+               <l n="8" xml:id="C031-l18"> Fora li bo anar amunt e ius </l>
+               <l n="9" xml:id="C031-l19"> Sofferint mals per trobar tal mester </l>
+               <l n="10" xml:id="C031-l20"> Mas los matals no han tanta vigor </l>
+               <l n="11" xml:id="C031-l21"> Que tan gran pes ab lur força retingan </l>
+               <l n="12" xml:id="C031-l22"> Ne gin<add place="interlinear">y</add>s ne arts que dalt en baix no vingen </l>
+               <l n="13" xml:id="C031-l23"> Los <choice>
+                     <abbr>ꝙ</abbr>
+                     <expan>qui</expan>
+                  </choice> seuran en la falça honor </l>
+            </lg>
+
+            <lg type="cobla" n="3" xml:id="C031-lg4">
+               <l n="14" xml:id="C031-l24"> Per negun temps pendra fortunador </l>
+               <l n="15" xml:id="C031-l25"> De fer lochs plans delles timpes e <choice>
+                     <abbr>mût</abbr>
+                     <expan>munt</expan>
+                  </choice></l>
+               <l n="16" xml:id="C031-l26"> E quant del tot son desijat es junt </l>
+               <l n="17" xml:id="C031-l27"> E no pot fer pus ab sa gran foror <note type="editorial">Per furor (sembla esmenat).</note>
+               </l>
+               <l n="18" xml:id="C031-l28"> Torna refer desabitada casa </l>
+               <l n="19" xml:id="C031-l29"> Quen poch espay auja feta buyda </l>
+               <l n="20" xml:id="C031-l30"> E lom desert quen raqujr james cuyda </l>
+               <l n="21" xml:id="C031-l31"> Humple granes oljs e vjns embassa </l>
+            </lg>
+     
+            <lg type="cobla" n="4" xml:id="C031-lg5">
+               <l n="22" xml:id="C031-l32"> En son costat no deu portar espasa </l>
+               <l n="23" xml:id="C031-l33"> Com a foll hom deu franch arbitre perdre </l>
+               <l n="24" xml:id="C031-l34"> Quj no creu sert <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> fortuna pot perdre </l>
+               <l n="25" xml:id="C031-l35"> Los bens mouents e los scients arassa </l>
+               
+               <pb n="19v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_21.html"/>
+              
+               <l n="26" xml:id="C031-l36"> Mas lom del mon per fortuna mjrat </l>
+               <l n="27" xml:id="C031-l37"> Ab lo esguart de rialossa cara </l>
+               <l n="28" xml:id="C031-l38"> La part del por no ha vista encara </l>
+               <l n="29" xml:id="C031-l39"> Creu <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> sos ginys lan de be prosperat </l>
+            </lg>
+
+            <lg type="tornada" n="5" xml:id="C031-lg6">
+               <l n="30" xml:id="C031-l40"> Lir entre carts propi so comperat </l>
+               <l n="31" xml:id="C031-l41"> A tantalus per continu desig </l>
+               <l n="32" xml:id="C031-l42"> No se <choice>
+                     <abbr>ṗ</abbr>
+                     <expan>per</expan>
+                  </choice> que tots dies hi afig </l>
+               <l n="33" xml:id="C031-l43"> Puys que mes prop comte desesperat </l>
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

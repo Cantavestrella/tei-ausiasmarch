@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 40</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/poesias-de-ausias-y-mena-obras-de-osias-marco-transcripcio/">
+     <msIdentifier xml:id="F_Ms_2244_BGHUS">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.39v  After end of previous poem, before this one</locus>Altra<note type="editorial">Lletra d’aquesta rúbrica menor que la resta.</note></rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_82.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_83.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_84.html"></graphic> </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C040-F040">
+
+    <pb n="39v" facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_82.html"/>
+
+    <lg type="cobla" n="1" xml:id="C040-lg1">
+     <l n="1" xml:id="C040-l1"> <c rend="large">C</c>ell quj daltruy reb enug e plaer </l>
+     <l n="2" xml:id="C040-l2"> E perdre uol totalment samjstat </l>
+     <l n="3" xml:id="C040-l3"> Es li mester haia per oblidat </l>
+     <l n="4" xml:id="C040-l4"> Tot lo plaer hauent ne desesper </l>
+     <l n="5" xml:id="C040-l5"> E tot primer ques luny de sa presenca </l>
+     <l n="6" xml:id="C040-l6"> E del plaer no sia recordant </l>
+     <l n="7" xml:id="C040-l7"> Car si aquell lis presental <choice>
+       <abbr>dauât</abbr>
+       <expan>dauant</expan>
+      </choice></l>
+     <l n="8" xml:id="C040-l8"> Enoyarament dobla saben uolenca </l>
+    </lg>
+
+    <pb n="40r" facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_83.html"/>
+
+    <lg type="cobla" n="2" xml:id="C040-lg2">
+     <l n="9" xml:id="C040-l9"> <c rend="large">T</c>res coses son que lunyen bon uoler </l>
+     <l n="10" xml:id="C040-l10"> Dan e desalt e gran <choice>
+      <abbr>jniꝙtat</abbr>
+       <expan>jniquitat</expan>
+      </choice></l>
+     <l n="11" xml:id="C040-l11"> Al propi be hom es tan jnclinat </l>
+     <l n="12" xml:id="C040-l12"> Que no uol be don gran dan pot hauer </l>
+     <l n="13" xml:id="C040-l13"> En gran desalt nons basta la potenca </l>
+     <l n="14" xml:id="C040-l14"> Que cell amem qujns es desagradant </l>
+     <l n="15" xml:id="C040-l15"> Lo nostresforc no sab fer en uos tant </l>
+     <l n="16" xml:id="C040-l16"> Quel prim uoler no vingan maluolenca </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C040-lg3">
+     <l n="17" xml:id="C040-l17"> <c rend="large">J</c>niquitat met lom en desesper </l>
+     <l n="18" xml:id="C040-l18"> Auorrint deu senyor qujl ha creat </l>
+     <l n="19" xml:id="C040-l19"> Co fa lo seny del hom quant es irat </l>
+     <l n="20" xml:id="C040-l20"> Se auorrint amant se tant primer </l>
+     <l n="21" xml:id="C040-l21"> Apres desi lom ama sa semenca </l>
+     <l n="22" xml:id="C040-l22"> Tant quelo nan cuyda esser gigant </l>
+     <l n="23" xml:id="C040-l23"> E tant pot ser en uers nos mal usant </l>
+     <l n="24" xml:id="C040-l24"> Quen mal uoler giram nostra scienca </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C040-lg4">
+     <l n="25" xml:id="C040-l25"> <c rend="large">S</c>i com lom fort qujs egual de poder </l>
+     <l n="26" xml:id="C040-l26"> Ab lenemjch qujles dauant posat </l>
+     <l n="27" xml:id="C040-l27"> Ffins quel hun dells es per laltre sobrat </l>
+     <l n="28" xml:id="C040-l28"> Algu no pot negun dret juhuy fer </l>
+     <l n="29" xml:id="C040-l29"> Tot en axi no puch donar sentenca </l>
+     <l n="30" xml:id="C040-l30"> Entre amor ab oy desacordant </l>
+     <l n="31" xml:id="C040-l31"> Cascu daquests en mj es tant poxant </l>
+     <l n="32" xml:id="C040-l32"> Que mon saber noy coneix differenca </l>
+    </lg>
+
+    <pb n="40v" facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_84.html"/>
+
+    <lg type="cobla" n="5" xml:id="C040-lg5">
+     <l n="33" xml:id="C040-l33"> <c rend="large">A</c>mor al ca<add place="interlinear">m</add>p no fon lo pus derrer </l>
+     <l n="34" xml:id="C040-l34"> Mas oy vench lla darmes tan esforcat </l>
+     <l n="35" xml:id="C040-l35"> Cal <choice>
+      <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> estrem del camp la derrocat </l>
+     <l n="36" xml:id="C040-l36"> Que yom penssi nos pogues may reffer </l>
+     <l n="37" xml:id="C040-l37"> Mas nol falli damor sopta valenca </l>
+     <l n="38" xml:id="C040-l38"> Mon foll uoler li fon prest ajudant </l>
+     <l n="39" xml:id="C040-l39"> Hoy dona crit dient o llas e quant </l>
+     <l n="40" xml:id="C040-l40"> Tarda raho qujm tolga de temenca </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C040-lg6">
+     <l n="41" xml:id="C040-l41"> <c rend="large">S</c>upplich adeu quem tolga conexenca </l>
+     <l n="42" xml:id="C040-l42"> O uolent ell hus yo de passio </l>
+     <l n="43" xml:id="C040-l43"> Daquella que sia prop de raho </l>
+     <l n="44" xml:id="C040-l44"> Lexant amor qujm traeix en crehenca </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

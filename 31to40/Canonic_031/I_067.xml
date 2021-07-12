@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 31 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name> Mar Pamblanco </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo Hilario </name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/canconer-dobres-enamorades-manuscrit--0/">
+     <msIdentifier xml:id="I_Ms_10_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>f.79r After end of previous poem, before this one<locus/>Mossen Auzias march</rubric>
+       <rubric>f.79v between lines 40 and 41<locus/>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_158.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_159.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C031-I067">
+
+    <pb n="79r"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_158.html"/>
+
+    <lg type="cobla" n="1" xml:id="C031-lg1">
+     <l n="1" xml:id="C031-l1"> Olt home veig / clamar de sa fortuna </l>
+     <l n="2" xml:id="C031-l2"> E malahir / aquella per sos actes </l>
+     <l n="3" xml:id="C031-l3"> Volents ab leys / fer amjgables pactes </l>
+     <l n="4" xml:id="C031-l4"> Donant lurs be / e que tostemps fos vna </l>
+     <l n="5" xml:id="C031-l5"> No recordant / sapropia natura </l>
+     <l n="6" xml:id="C031-l6"> Ques lalt baxar / e lo baix muntar alt </l>
+     <l n="7" xml:id="C031-l7"> Equi daço / se dona gran desalt </l>
+     <l n="8" xml:id="C031-l8"> Lexa los bens / portants en si fretura </l>
+    </lg>
+
+    <pb n="79v"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_159.html"/>
+
+    <lg type="cobla" n="2" xml:id="C031-lg2">
+     <l n="9" xml:id="C031-l9"> Adeu no plach / del mon hauer tal cura </l>
+     <l n="10" xml:id="C031-l10"> Que noy jaquis / de terribles affanys </l>
+     <l n="11" xml:id="C031-l11"> Per dues son / en nombre mes <choice>
+       <abbr>ꝗls</abbr>
+       <expan>quels</expan>
+      </choice> guanys </l>
+     <l n="12" xml:id="C031-l12"> Enuers lauer / lo seny es oradura </l>
+     <l n="13" xml:id="C031-l13"> Elom girat / al mundanal saber </l>
+     <l n="14" xml:id="C031-l14"> Jdoles creu / donant li plena fe </l>
+     <l n="15" xml:id="C031-l15"> Quen bens mundans / cuydesser complit be </l>
+     <l n="16" xml:id="C031-l16"> E vol morir / solament per hauer </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C031-lg3">
+     <l n="17" xml:id="C031-l17"> Silguns pogues / de fortuna tener </l>
+     <l n="18" xml:id="C031-l18"> Ab vn fort clau / la roda com es sus </l>
+     <l n="19" xml:id="C031-l19"> Ffora menys mal / anar <choice>
+       <abbr>amût</abbr>
+       <expan>amunt</expan>
+      </choice> e jus </l>
+     <l n="20" xml:id="C031-l20"> Sofferint mals / per cobrar tal mester </l>
+     <l n="21" xml:id="C031-l21"> Mas los malalts / no han tanta vigor </l>
+     <l n="22" xml:id="C031-l22"> Que tant gran pes / ab lur força retinguen </l>
+     <l n="23" xml:id="C031-l23"> Ne ginys ne arts / no faran que no <add place="interlinear">a</add> vinguen</l>
+     <l n="24" xml:id="C031-l24"> Los quey seran / en la falsa honor </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C031-lg4">
+     <l n="25" xml:id="C031-l25"> E per null temps / perdra fortunador </l>
+     <l n="26" xml:id="C031-l26"> Deffer lonchs plants / deles terras amunt </l>
+     <l n="27" xml:id="C031-l27"> E quant del tot / son desigat <del rend="overstrike">son</del><add place="interlinear">es</add> junt </l>
+     <l n="28" xml:id="C031-l28"> E no pot fer / pus ab sa gran furor </l>
+     <l n="29" xml:id="C031-l29"> Torna reffer / desabitada cassa </l>
+     <l n="30" xml:id="C031-l30"> Quen poch espay / ell laura feta buyda </l>
+     <l n="31" xml:id="C031-l31"> Elom de sert / que enriquir no cuyda </l>
+     <l n="32" xml:id="C031-l32"> Vmple greners / <hi rend="underline">olis e vins enbassa</hi> <add type="gloss" place="margin right">olins evins embasa. </add></l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C031-lg5">
+     <l n="33" xml:id="C031-l33"> En son costat / no deu portar espassa </l>
+     <l n="34" xml:id="C031-l34"> Com afoll hom / deu franch arbitre perdre </l>
+     <l n="35" xml:id="C031-l35"> Que no creu cert / que fortuna pot perdre </l>
+     <l n="36" xml:id="C031-l36"> Los bens mouents / e los scients embassa </l>
+     <l n="37" xml:id="C031-l37"> Mas lom qui es / per fortuna mirat </l>
+     <l n="38" xml:id="C031-l38"> Ab lo esguard / de riallosa cara </l>
+     <l n="39" xml:id="C031-l39"> E daltra part / no aiuda encara </l>
+     <l n="40" xml:id="C031-l40"> Creu que tots ginys / lan de bens prosperat </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C031-lg6">
+     <l n="41" xml:id="C031-l41"> Lir entre carts / propi son comperat </l>
+     <l n="42" xml:id="C031-l42"> A <hi rend="underline">Tantalus</hi> / per continuu desig </l>
+     <l n="43" xml:id="C031-l43"> No sce per que / tots dies hi affig </l>
+     <l n="44" xml:id="C031-l44"> Pusque mes prop / conte desesperat </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

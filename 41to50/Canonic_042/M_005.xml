@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 42</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/cancionero-catalan-del-ateneu-ba1-manuscrit--0/">
+     <msIdentifier xml:id="M_Ms_1_BA">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.155r After end of previous poem, before this one</locus>Mossen auzias march
+        maldit</rubric>
+       <rubric>
+        <locus>f.155v between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_313.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_314.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C042-M005">
+    <pb n="155r"
+     facs="http://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_313.html"/>
+    <lg type="cobla" n="1" xml:id="C042-lg1">
+     <l n="1" xml:id="C042-l1"> Vos quj sabeu / delatortral costum </l>
+     <l n="2" xml:id="C042-l2"> Esinoufeu / placieluos hojr </l>
+     <l n="3" xml:id="C042-l3"> Quant mort litol / sonpar siuol jaqujr </l>
+     <l n="4" xml:id="C042-l4"> Dobres damor / nebeu aygua de flum </l>
+     <l n="5" xml:id="C042-l5"> Pus enlos clots / ensutza <choice>
+       <abbr>ṗmer</abbr>
+       <expan>primer</expan>
+      </choice> laygua </l>
+     <l n="6" xml:id="C042-l6"> Nesposamay / enloarbre ffullat </l>
+     <l n="7" xml:id="C042-l7"> Mas contraso / es uostra callitat </l>
+     <l n="8" xml:id="C042-l8"> Pergran voler / no cast quen vos sacaygua </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C042-lg2">
+     <l n="9" xml:id="C042-l9"> Enopenseu / dona que <choice>
+       <abbr>beꝯ</abbr>
+       <expan>beus</expan>
+      </choice> escaygua </l>
+     <l n="10" xml:id="C042-l10"> Que pus agues / tastat lacarn jentjl </l>
+     <l n="11" xml:id="C042-l11"> Amarcader / ljuras vostra cors vjl </l>
+     <l n="12" xml:id="C042-l12"> E son dret nom / en johan mepens caygua </l>
+     <l n="13" xml:id="C042-l13"> Esj uoleu / queus nedo conaxenca </l>
+     <l n="14" xml:id="C042-l14"> Sa fas esgran / ablaujsta molt loscha </l>
+     <l n="15" xml:id="C042-l15"> Sos fonaments / son <choice>
+       <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> lagost o moscha </l>
+     <l n="16" xml:id="C042-l16"> Sert nomereix / vendre drab <choice>
+       <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> florenca </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C042-lg3">
+     <l n="17" xml:id="C042-l17"> Vosconaxeu / lauostra gran <hi rend="underline">ffallenca</hi>
+     </l>
+     <l n="18" xml:id="C042-l18"> Volgues muntar / en amar cauallr </l>
+     <l n="19" xml:id="C042-l19"> E sabent ell / tot vostre fet enpler </l>
+     <l n="20" xml:id="C042-l20"> Deuos amar / sedara concienca </l>
+     <l n="21" xml:id="C042-l21"> Sabent molt clar / molt sutzeadaujda </l>
+     <l n="22" xml:id="C042-l22"> Prenent publich / lesplagues del peccat </l>
+     <l n="23" xml:id="C042-l23"> Vostrecorsleig / per drap es baratat </l>
+     <l n="24" xml:id="C042-l24"> Vostre seruey / es bo sol <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice>a dida </l>
+    </lg>
+    <pb n="155v"
+     facs="http://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_314.html"/>
+    <lg type="cobla" n="4" xml:id="C042-lg4">
+     <l n="25" xml:id="C042-l25"> Eno cuydeu / fillaus agues jaqujda </l>
+     <l n="26" xml:id="C042-l26"> Vos allentant / aquell ab vostrelet </l>
+     <l n="27" xml:id="C042-l27"> Caruostre cors / es dauarj raplet </l>
+     <l n="28" xml:id="C042-l28"> Emostrenho / vostres pels foramjda </l>
+     <l n="29" xml:id="C042-l29"> Car sius jaquju / vostra barbacrjada </l>
+     <l n="30" xml:id="C042-l30"> Elaus toleu / puys ab los pels dels bracos </l>
+     <l n="31" xml:id="C042-l31"> Poran senfer / auantatjosos lacors <note type="editorial">Per
+       laços.</note>
+     </l>
+     <l n="32" xml:id="C042-l32"> Prenjnts perdius / otortres sentardada </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C042-lg5">
+     <l n="33" xml:id="C042-l33"> Quant hoireu / alcauota prouada </l>
+     <l n="34" xml:id="C042-l34"> Responeu prest / que <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> vos ho diran </l>
+     <l n="35" xml:id="C042-l35"> E puys <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> nom / <choice>
+       <abbr>propiꝯ</abbr>
+       <expan>propius</expan>
+      </choice> nomenaran </l>
+     <l n="36" xml:id="C042-l36"> En lo respost / nous mostreu empetxada </l>
+     <l n="37" xml:id="C042-l37"> Jnterogant / amjchs equeuolleu </l>
+     <l n="38" xml:id="C042-l38"> Enfets damor / ayres quejo fer pusque </l>
+     <l n="39" xml:id="C042-l39"> Entractatal / james mj trobj criuscha </l>
+     <l n="40" xml:id="C042-l40"> Presta sare / aquant demanareu </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C042-lg6">
+     <l n="41" xml:id="C042-l41"> Tots los quj trop ocunscament volreu </l>
+     <l n="42" xml:id="C042-l42"> En fets damor / enpraunena <choice>
+       <abbr>mȗt</abbr>
+       <expan>munt</expan>
+      </choice> buy </l>
+     <l n="43" xml:id="C042-l43"> Elaus fera / tot lo que feu amj </l>
+     <l n="44" xml:id="C042-l44"> No spot saber / lan dres quey trobareu </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

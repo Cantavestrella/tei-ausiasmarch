@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 26</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo HIlario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064.html">
+               <msIdentifier xml:id="G2_Ms_210_BHUV">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>137v  centre, before first line</locus><choice>
+                           <abbr>Moß</abbr>
+                           <expan>Mossen</expan>
+                        </choice> auzias march </rubric>
+                     <rubric><locus>138r between lines 16 and 17</locus>Tornada </rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_285.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_286.html"/>
+
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C028-G2098">
+            <pb n="137v"
+               facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_285.html"/>
+            <lg type="cobla" n="1" xml:id="C028-lg1">
+               <l n="1" xml:id="C028-l1"> Lo jorn apor / deperdre sa claror</l>
+               <l n="2" xml:id="C028-l2"> com velanit / quespandeix les tenebres </l>
+               <l n="3" xml:id="C028-l3"> dormen los senys / edelcor les palpebres </l>
+               <l n="4" xml:id="C028-l4"> elos malalts crexen / delur dolor </l>
+               <l n="5" xml:id="C028-l5"> Los mal factors / volgren tot lany duras </l>
+               <l n="6" xml:id="C028-l6"> perque llurs mals / aguesencobriment </l>
+               <l n="7" xml:id="C028-l7"> mas yo qui visch / menys depar <choice>
+                     <abbr>enturmȇt</abbr>
+                     <expan>enturment</expan>
+                  </choice>
+               </l>
+               <l n="8" xml:id="C028-l8"> esens malfer / volgra que tost passas </l>
+            </lg>
+            <pb n="138r"
+               facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_286.html"/>
+            <lg type="cobla" n="2" xml:id="C028-lg2">
+               <l n="9" xml:id="C028-l9"> E daltra part faç pus que si matas </l>
+               <l n="10" xml:id="C028-l10"> mil homens junts / menys dalguna merçe </l>
+               <l n="11" xml:id="C028-l11"> car tots mos ginys etrets per trahirme </l>
+               <l n="12" xml:id="C028-l12"> eno cuy den quel jorn men escusas </l>
+               <l n="13" xml:id="C028-l13"> Ans enlanit treball rompent ma pensa </l>
+               <l n="14" xml:id="C028-l14"> perquen lo jorn / lo trahiment cometa </l>
+               <l n="15" xml:id="C028-l15"> por de morir nedefer vidastreta </l>
+               <l n="16" xml:id="C028-l16"> nom tol esforç / percomplir maoffenssa </l>
+            </lg>
+            <lg type="tornada" n="3" xml:id="C028-lg3">
+               <l n="17" xml:id="C028-l17"> Plenade seny / mon enteniment penssa </l>
+               <l n="18" xml:id="C028-l18"> com abtament / lo llaç damor semeta </l>
+               <l n="19" xml:id="C028-l19"> sens aturar / pas tenint via dreta </l>
+               <l n="20" xml:id="C028-l20"> vaig alafi / simerce nom deffensa </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

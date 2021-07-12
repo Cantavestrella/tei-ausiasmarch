@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 34</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/">
+     <msIdentifier xml:id="C_Ms_L.iij.26_EE">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>f.25v between lines 40 and 41<locus/>~:Tornada:~</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_50.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_51.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_52.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C034-C016m">
+
+    <pb n="24v"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_50.html"/>
+
+    <lg type="cobla" n="1" xml:id="C034-lg1">
+
+     <l n="1" xml:id="C034-l1"> Tot los desigs <hi rend="underline">escampats</hi><note type="gloss"
+       place="margin right">esparçido</note> en lo mon </l>
+     <l n="2" xml:id="C034-l2"> entre les gents segons <hi rend="underline">ford de</hi><note
+       type="gloss" place="margin right">fuero oser</note> cascu </l>
+     <l n="3" xml:id="C034-l3">
+      <hi rend="underline">ab trencat</hi><note type="gloss" place="margin left">con pie
+       quebrado</note>peu / apres uan detras <hi rend="underline">hu</hi><note type="gloss"
+       place="margin right">uno</note></l>
+     <l n="4" xml:id="C034-l4"> qui es lo meu / e lonch temps ha que fon. </l>
+     <l n="5" xml:id="C034-l5"> si com los puigs<note type="gloss" place="margin left">montes</note>
+      / poran fugir alsuents </l>
+     <l n="6" xml:id="C034-l6"> ma uoluntat / dell poria <del rend="overstrike">es</del><choice>
+       <abbr>câpar</abbr>
+       <expan>campar</expan>
+      </choice>
+     </l>
+     <l n="7" xml:id="C034-l7"> en un loch ferm / li conue esperar </l>
+     <l n="8" xml:id="C034-l8"> nel pot<hi rend="underline">minuar</hi><note type="gloss"
+       place="margin left">menguar</note> / aquell mal <hi rend="underline">pensament.</hi><note
+       type="gloss" place="margin right">que es el pensar o no amalla</note>
+     </l>
+    </lg>
+
+    <pb n="25r"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_51.html"/>
+
+    <lg type="cobla" n="2" xml:id="C034-lg2">
+     <l n="9" xml:id="C034-l9">
+      <hi rend="underline">En remeyar </hi><note type="gloss" place="margin left">en
+       remediarme</note>/ nom <hi rend="underline">conech</hi><note type="gloss"
+       place="margin right">conosco</note> sentiment </l>
+     <l n="10" xml:id="C034-l10">
+      <hi rend="underline">si be'l asaig / he yo'sperimentat</hi><note type="gloss" place="margin left">si bien e echo la
+       prueva</note></l>
+     <l n="11" xml:id="C034-l11"> per mon esforç / <hi rend="underline">pograsser</hi><note
+       type="gloss" place="margin right">pudiera</note>
+      <hi rend="underline">desliurat</hi><note type="gloss" place="margin right">libre</note>
+     </l>
+     <l n="12" xml:id="C034-l12"> d'una gran part / dela dolor que sent </l>
+     <l n="13" xml:id="C034-l13"> amor supplich / quem lejx donar entendre </l>
+     <l n="14" xml:id="C034-l14"> lo sobresalt / que de uos donam ue </l>
+     <l n="15" xml:id="C034-l15"> entenent uos / <hi rend="underline">quin</hi>'<note type="gloss"
+       place="margin right">qual</note> obra fa dins me </l>
+     <l n="16" xml:id="C034-l16"> e com sens mort / yo no men puch defendre </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C034-lg3">
+     <l n="17" xml:id="C034-l17"> Passar donchs puch / sens honestat offendre </l>
+     <l n="18" xml:id="C034-l18"> monstrant uirtut / com res no cast no uull </l>
+     <l n="19" xml:id="C034-l19"> si mon desig / no casta pensa <hi rend="underline">cull</hi><note
+       type="gloss" place="margin right">coge</note></l>
+     <l n="20" xml:id="C034-l20">
+      <choice>
+       <abbr>nô</abbr>
+       <expan>non</expan>
+      </choice> trob enpunt / que res pens de uos pendre </l>
+     <l n="21" xml:id="C034-l21"> so<del rend="overstrike">n</del><add place="interlinear">s</add>
+      mouiments / ningu pot esquiuar </l>
+     <l n="22" xml:id="C034-l22"> seruents no so<del rend="overstrike">a</del><add
+       place="interlinear">n</add> / de nostre <hi rend="underline">franch iuhi</hi><note
+       type="gloss" place="margin right">de nuestro libre juicio</note>
+     </l>
+     <l n="23" xml:id="C034-l23"> donchs com sera / que yo fuja de mi </l>
+     <l n="24" xml:id="C034-l24"> culpa nous tinch / si forçat so d'amar </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C034-lg4">
+     <l n="25" xml:id="C034-l25"> Aquest amor / tant se pot esforçar </l>
+     <l n="26" xml:id="C034-l26"> que l'amador / a'mar fara uenir </l>
+     <l n="27" xml:id="C034-l27"> com es l'hom fort potent a resestir </l>
+     <l n="28" xml:id="C034-l28"> les passions / que uol amor donar. </l>
+
+     <pb n="25v"
+      facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_52.html"/>
+
+     <l n="29" xml:id="C034-l29"> donchs perque yo / dona so discordant </l>
+     <l n="30" xml:id="C034-l30"> mostrar a uos / la uoluntat queus port </l>
+     <l n="31" xml:id="C034-l31"> ma lengua te / ma uida e la mort </l>
+     <l n="32" xml:id="C034-l32"> lo meu poder / nom ual essent bastant. </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C034-lg5">
+     <l n="33" xml:id="C034-l33"> Si com aquell / qui esta deu pregant </l>
+     <l n="34" xml:id="C034-l34"> que plagues fort / sens lo temps nuuolos </l>
+     <l n="35" xml:id="C034-l35"> uull ser amat / sens dar notassios </l>
+     <l n="36" xml:id="C034-l36"> e nos pot fer / lo meu uoler celant </l>
+     <l n="37" xml:id="C034-l37"> l'enteniment / e calitat s'accorden </l>
+     <l n="38" xml:id="C034-l38"> amor <hi rend="underline">e</hi><note type="gloss"
+       place="margin left">en</note> vos / enqui es lur semblança </l>
+     <l n="39" xml:id="C034-l39"> e los uolers / han gran desacordança </l>
+     <l n="40" xml:id="C034-l40"> contra raho / en tanta part discorden. </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C034-lg6">
+     <l n="41" xml:id="C034-l41"> Lir entre carts / los <hi rend="underline">escurçons</hi><note
+       type="gloss" place="margin left">escorpiones</note> no morden </l>
+     <l n="42" xml:id="C034-l42"> ab tant fort mos / com es lo de amors </l>
+     <l n="43" xml:id="C034-l43">
+      <hi rend="underline">si bels</hi><note type="gloss" place="margin left">si bien los</note>
+      morduts / no passen tal <hi rend="underline">cuyçors</hi><note
+       type="gloss" place="margin right">escocimientos</note></l>
+     <l n="44" xml:id="C034-l44"> perden lo seny / y <hi rend="underline">les uistes exorben</hi><note
+      type="gloss" place="margin right">la vista les falla</note> </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

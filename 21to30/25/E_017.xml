@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 25 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+   <msDesc corresp="http://bdh-rd.bne.es/viewer.vm?id=0000149777"> 
+     <msIdentifier xml:id="E_Ms_3695_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>20v after end of previous poem, before this one: </locus> <choice><abbr>Moß</abbr><expan>Mossen</expan></choice> ausias march</rubric>
+       <rubric><locus>21r between lines 40 and 41 </locus>Tornada </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/><!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C025-E017">
+    <pb n="20v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="1" xml:id="C025-lg1">
+     <l n="1" xml:id="C025-l1"> Bem ven recort / lo temps tan delitos </l>
+     <l n="2" xml:id="C025-l2"> ques ja passat / ignor si tal venra </l>
+     <l n="3" xml:id="C025-l3"> sil conseguesch / merçe nom fallira </l>
+     <l n="4" xml:id="C025-l4"> car pietat / fet haura pau ab vos </l>
+     <l n="5" xml:id="C025-l5"> Preareu mi / quin temps antich preaueu </l>
+     <l n="6" xml:id="C025-l6"> e confessant / queus dolieu de mi </l>
+     <l n="7" xml:id="C025-l7"> ara queus am / pus que james ami </l>
+     <l n="8" xml:id="C025-l8"> tornats vos lla / hon de primer staueu </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C025-lg2">
+     <l n="9" xml:id="C025-l9"> Pus que dabans / me trobe desijos </l>
+     <l n="10" xml:id="C025-l10"> e lo desig / en mi james morra </l>
+     <l n="11" xml:id="C025-l11"> car per sa part / mon cos lo sostendra </l>
+     <l n="12" xml:id="C025-l12"> lenteniment / non sera despitos </l>
+     <l n="13" xml:id="C025-l13"> Vos desijau / ami qui desijaueu </l>
+     <l n="14" xml:id="C025-l14"> car per ma fe / vers vos james falli </l>
+     <l n="15" xml:id="C025-l15"> ara queus am / pus que james ami </l>
+     <l n="16" xml:id="C025-l16"> tornats vos lla / hon de primer staueu </l>
+    </lg>
+    <pb n="21r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="3" xml:id="C025-lg3">
+     <l n="17" xml:id="C025-l17"> Si raho fon / que ben volgut yo fos </l>
+     <l n="18" xml:id="C025-l18"> mils ho sabeu / mon vll nom desmentra </l>
+     <l n="19" xml:id="C025-l19"> car per gran dol / moltes veus ne plora </l>
+     <l n="20" xml:id="C025-l20"> e no plorant / mostraual cor hyros<note type="editorial">mot manipulat</note></l>
+     <l n="21" xml:id="C025-l21"> E vos de goig / lo thedeum cantaueu </l>
+     <l n="22" xml:id="C025-l22"> lagremejant / maledictions canti </l>
+     <l n="23" xml:id="C025-l23"> Ara queus am / pus que james ami </l>
+     <l n="24" xml:id="C025-l24"> tornats vos lla / hon de primer estaueu </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C025-lg4">
+     <l n="25" xml:id="C025-l25"> Contar no dech / les passades dolos </l>
+     <l n="26" xml:id="C025-l26"> car poca fe / per vos tost hi sera </l>
+     <l n="27" xml:id="C025-l27"> quis menys damor / altramor no sentra </l>
+     <l n="28" xml:id="C025-l28"> car no hasguart / lom rient al ploros </l>
+     <l n="29" xml:id="C025-l29"> Si be amant / lo terç dun jorn passaueu </l>
+     <l n="30" xml:id="C025-l30"> haurieu grat / del que per vos passi </l>
+     <l n="31" xml:id="C025-l31"> Ara queus am / pus que james ami </l>
+     <l n="32" xml:id="C025-l32"> tornats vos lla / hon de primer staueu </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C025-lg5">
+     <l n="33" xml:id="C025-l33"> Reclam atots / los meus predecessos </l>
+     <l n="34" xml:id="C025-l34"> cells qui amor / llurs pensaments alça </l>
+     <l n="35" xml:id="C025-l35"> e los presents / e qui mi llegira </l>
+     <l n="36" xml:id="C025-l36"> que per mos dits / entenguen mes clamos </l>
+     <l n="37" xml:id="C025-l37"> E si en vos / conexença justaueu </l>
+     <l n="38" xml:id="C025-l38"> mal grat haureu / del que fes vn mati </l>
+     <l n="39" xml:id="C025-l39"> Ara queus am / pus que james ami </l>
+     <l n="40" xml:id="C025-l40"> tornats vos lla / hon de primer staueu </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C025-lg6">
+     <l n="41" xml:id="C025-l41"> Plena de seny / sil cor me cartejaueu </l>
+     <l n="42" xml:id="C025-l42"> trobareu clar / queus amare sens fi </l>
+     <l n="43" xml:id="C025-l43"> Ara queus am / pus que james ami </l>
+     <l n="44" xml:id="C025-l44"> tornats vos lla / hon de primer staueu </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

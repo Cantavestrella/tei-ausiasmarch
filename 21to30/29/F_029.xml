@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 29 </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo HIlario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-O2.18</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064.html">
+               <msIdentifier xml:id="F_Ms_2244_BGHUS">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>29r after end of previous poem, before this one:</locus>Sparca </rubric>
+                     
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_61.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C029-F029">
+            <pb n="29r" facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_61.html"/>
+            <lg type="cobla" n="1" xml:id="C029-lg1">
+               <l n="1" xml:id="C029-l1"> Si com lo taur sen va fuyt pel desert </l>
+               <l n="2" xml:id="C029-l2"> Quant es sobrat per son semblant quil forca </l>
+               <l n="3" xml:id="C029-l3"> Ne torna may fins ha cobrada forca </l>
+               <l n="4" xml:id="C029-l4"> Per destruir aquell quil ha desert </l>
+               <l n="5" xml:id="C029-l5"> Tot en axim coue lunyar de uos </l>
+               <l n="6" xml:id="C029-l6"> Car uostre gest mon esforc ha confus </l>
+               <l n="7" xml:id="C029-l7"> No tornare fins del tot haia fus </l>
+               <l n="8" xml:id="C029-l8"> La gran pahor qujm toll ser delitos </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

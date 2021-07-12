@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 33 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name> Mar Pamblanco </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo Hilario </name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/mossen-ausias-march-poeta-manuscrito--0/">
+     <msIdentifier xml:id="G2_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus> f.149v After end of previous poem, before this one</locus> Mossen auzias march <add
+         type="gloss" place="margin left"> C. 14</add></rubric>
+       <rubric><locus>f.150r between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_291.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_292.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C033-G2102">
+
+    <pb n="140v"
+     facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_291.html"/>
+
+    <lg type="cobla" n="1" xml:id="C033-lg1">
+     <l n="1" xml:id="C033-l1"> Sens lo desig / decosa desonesta </l>
+     <l n="2" xml:id="C033-l2"> donve dolor / atot enamorat </l>
+     <l n="3" xml:id="C033-l3"> visch dolorit / desijant <choice>
+       <abbr>ß</abbr>
+       <expan>ser</expan>
+      </choice> amat </l>
+     <l n="4" xml:id="C033-l4"> epar hobe / quenous vulldesonesta </l>
+     <l n="5" xml:id="C033-l5"> Lo que pus am de vos es <choice>
+       <abbr>ʋre</abbr>
+       <expan>vostre</expan>
+      </choice> seny </l>
+     <l n="6" xml:id="C033-l6"> elos estats / <choice>
+       <abbr>deʋtra</abbr>
+       <expan>devostra</expan>
+      </choice> vida casta </l>
+     <l n="7" xml:id="C033-l7"> molt no deman / car mon desig no basta </l>
+     <l n="8" xml:id="C033-l8"> sino enço / que honestat atteny </l>
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C033-lg2">
+     <l n="9" xml:id="C033-l9"> Lenteniment / envos amar menpeny </l>
+     <l n="10" xml:id="C033-l10"> eno lo cos / ab lo voler deshonest </l>
+     <l n="11" xml:id="C033-l11"> tiram avos / vn amigable gest </l>
+     <l n="12" xml:id="C033-l12"> ab sentir prim / qui desperta desdeny </l>
+     <l n="13" xml:id="C033-l13"> Tant esta pres / lo meu <choice>
+       <abbr>entenimêt</abbr>
+       <expan>enteniment</expan>
+      </choice></l>
+     <l n="14" xml:id="C033-l14"> per moltapart / del <choice>
+       <abbr>ʋre</abbr>
+       <expan>vostre</expan>
+      </choice> queli alta </l>
+     <l n="15" xml:id="C033-l15"> quem tol sentir / emfa la carn malalta </l>
+     <l n="16" xml:id="C033-l16"> duntal dormir / que pert lo sentiment </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C033-lg3">
+     <l n="17" xml:id="C033-l17"> No cessara lo meu / egual talent </l>
+     <l n="18" xml:id="C033-l18"> puix mon depart / que nos cansa nes farta </l>
+     <l n="19" xml:id="C033-l19"> car lesperit / tot lo finit aparta </l>
+     <l n="20" xml:id="C033-l20"> no es entot / lo seu contentament </l>
+     <l n="21" xml:id="C033-l21"> Devos deman / lavoluntat guanyada </l>
+     <l n="22" xml:id="C033-l22"> cella qui es / enlarma jnfinida </l>
+     <l n="23" xml:id="C033-l23"> Ja part damor / quepot esser partida </l>
+     <l n="24" xml:id="C033-l24"> en lo meu cor / noy es molt esforçada </l>
+    </lg>
+
+    <pb n="141r"
+     facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_292.html"/>
+
+    <lg type="cobla" n="4" xml:id="C033-lg4">
+     <l n="25" xml:id="C033-l25"> Sicom lo foch creix / la sua flamada </l>
+     <l n="26" xml:id="C033-l26"> quant li son dats molts fusts perquels aflam<del rend="overstrike"
+       >a</del></l>
+     <l n="27" xml:id="C033-l27"> elladonchs crex e mostramajor fam<del rend="overstrike">a</del></l>
+     <l n="28" xml:id="C033-l28"> com pot sorbir cosa quels sia dada </l>
+     <l n="29" xml:id="C033-l29"> Ne pren ami carmavoluntat crex </l>
+     <l n="30" xml:id="C033-l30"> per los desigs presentats en la pensa </l>
+     <l n="31" xml:id="C033-l31"> e remoguts /serialofer offenssa </l>
+     <l n="32" xml:id="C033-l32"> car daltra part / mavoluntat nos peix </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C033-lg5">
+     <l n="33" xml:id="C033-l33">
+      <choice>
+       <abbr>Monpensamêt</abbr>
+       <expan>Monpensament</expan>
+      </choice> / mostraque mentrestexch </l>
+     <l n="34" xml:id="C033-l34"> quant entre gents / estich mut epenssiu </l>
+     <l n="35" xml:id="C033-l35"> lla donchs amor / peix sos fills en lo niu </l>
+     <l n="36" xml:id="C033-l36"> quedins mon cap / llonch temps aquenodrex </l>
+     <l n="37" xml:id="C033-l37"> cest es aquell voler / sens algun terme </l>
+     <l n="38" xml:id="C033-l38"> perço amor / enmi nosaparta </l>
+     <l n="39" xml:id="C033-l39"> car lamador / quison voler fart ha </l>
+     <l n="40" xml:id="C033-l40"> nol rou damor / lo nocansable verme </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C033-lg6">
+     <l n="41" xml:id="C033-l41"> Plenade seny / mon enteniment ferme </l>
+     <l n="42" xml:id="C033-l42"> enço que may / amador lo ferma </l>
+     <l n="43" xml:id="C033-l43"> esi yo falch / veramorfallira </l>
+     <l n="44" xml:id="C033-l44"> mellor detots / aure nom sim conferme </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

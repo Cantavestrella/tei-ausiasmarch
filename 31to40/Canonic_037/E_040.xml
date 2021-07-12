@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 37</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://bdh-rd.bne.es/viewer.vm?id=0000149777">
+     <msIdentifier xml:id="E_Ms_3695_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.65v After end of previous poem, before this one</locus>Mossen ausias
+        march</rubric>
+       <rubric>
+        <locus>f.66v between lines 48 and 49</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C037-E040">
+
+    <pb n="65r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+
+    <lg type="cobla" n="1" xml:id="C037-lg1">
+     <l n="1" xml:id="C037-l1"> La mia por / dalguna causa mou </l>
+     <l n="2" xml:id="C037-l2"> si bel juhi y<note type="editorial">Seqüència pràcticament esborrada
+       o bé reescrita damunt d’un raspat. La y correspon a la paraula esborrada Juy.</note> / se met
+      en bon sper </l>
+     <l n="3" xml:id="C037-l3"> mon sentiment / profeta vertader </l>
+     <l n="4" xml:id="C037-l4"> de bon pensar / mon pensament remou </l>
+     <l n="5" xml:id="C037-l5"> Que es ayço / quem veda tot repos </l>
+     <l n="6" xml:id="C037-l6"> e lo dormir / la congoxa nom tol </l>
+     <l n="7" xml:id="C037-l7"> e ma raho / cuyda morir per dol </l>
+     <l n="8" xml:id="C037-l8"> com en remey / donar james ha clos </l>
+    </lg>
+
+    <pb n="65v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+
+    <lg type="cobla" n="2" xml:id="C037-lg2">
+     <l n="9" xml:id="C037-l9"> Dolor me puny / quim donal cor gran mos </l>
+     <l n="10" xml:id="C037-l10"> causa<note type="editorial">causa: mot afegit per una altra mà.</note> no veig / del
+      auenidor </l>
+     <l n="11" xml:id="C037-l11"> mon sperit / es mal prenostican </l>
+     <l n="12" xml:id="C037-l12"> generalment / que speçial nol pos </l>
+     <l n="13" xml:id="C037-l13"> Quant me despert / me sembla quem desperta </l>
+     <l n="14" xml:id="C037-l14"> vna dolor / ab agut punyiment </l>
+     <l n="15" xml:id="C037-l15"> familiar / he tant est pensament </l>
+     <l n="16" xml:id="C037-l16"> quel dan vinent / ja tinch per cosa çerta </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C037-lg3">
+     <l n="17" xml:id="C037-l17"> Yo somben çert / que vos no sou ben çerta </l>
+     <l n="18" xml:id="C037-l18"> de mon voler / del qual he poch parlat </l>
+     <l n="19" xml:id="C037-l19"> ma colpa es / com nom so clar mostrat </l>
+     <l n="20" xml:id="C037-l20"> e tal amor / no mereix ser cuberta </l>
+     <l n="21" xml:id="C037-l21"> Ja so pus lluny / de mon voler mostrar </l>
+     <l n="22" xml:id="C037-l22"> apoch apoch / mon esforç sent descreixer </l>
+     <l n="23" xml:id="C037-l23"> lo que demi / sabeu no pot mereixer </l>
+     <l n="24" xml:id="C037-l24"> quen mi penseu / amar ne desamar </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C037-lg4">
+     <l n="25" xml:id="C037-l25"> Sobres amor / de vos ma fet llunyar </l>
+     <l n="26" xml:id="C037-l26"> e dintre si / vol esser departit </l>
+     <l n="27" xml:id="C037-l27"> per molt amar / mon voler no he dit </l>
+     <l n="28" xml:id="C037-l28"> e sentiment / dell a vos no vol dar </l>
+     <l n="29" xml:id="C037-l29"> Vos no sabeu / lo meu voler secret </l>
+     <l n="30" xml:id="C037-l30"> vos nol sentiu / e sobres dolor sent </l>
+     <l n="31" xml:id="C037-l31"> amor ho fa / sens vs denteniment </l>
+     <l n="32" xml:id="C037-l32"> fartant a vos / dant ami fam e set </l>
+    </lg>
+
+    <pb n="66r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+
+    <lg type="cobla" n="5" xml:id="C037-lg5">
+     <l n="33" xml:id="C037-l33"><c rend="large">L</c> os mals tan grans / que amor me promet </l>
+     <l n="34" xml:id="C037-l34"> esforç nose / quils gosas emparar </l>
+     <l n="35" xml:id="C037-l35"> yo am lo dan / vengut per vos amar </l>
+     <l n="36" xml:id="C037-l36"> pensar deueu / quant mes lo benifet </l>
+     <l n="37" xml:id="C037-l37"> A vos ador / sino men repreneu </l>
+     <l n="38" xml:id="C037-l38"> dexau ami / carrech de conciença </l>
+     <l n="39" xml:id="C037-l39"> en tant estrem / es ma gran benuolença </l>
+     <l n="40" xml:id="C037-l40"> que vos conech / per vn terrenal Deu </l>
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C037-lg6">
+     <l n="41" xml:id="C037-l41"> No dire may / que siau lo mal meu </l>
+     <l n="42" xml:id="C037-l42"> cartot lo mal / yo prench en molt gran be </l>
+     <l n="43" xml:id="C037-l43"> e si amich / semblant del meu mal te </l>
+     <l n="44" xml:id="C037-l44"> yo per son be / volgra nans fos en creu </l>
+     <l n="45" xml:id="C037-l45"> Amor me fa / lo carrech sostenir </l>
+     <l n="46" xml:id="C037-l46"> yol maleesch / si per null temps mefall </l>
+     <l n="47" xml:id="C037-l47"> e si mon cos / desa virtut defall </l>
+     <l n="48" xml:id="C037-l48"> no li don mort / per son mal no finir </l>
+    </lg>
+
+    <lg type="tornada" n="7" xml:id="C037-lg7">
+     <l n="49" xml:id="C037-l49">
+      <c rend="large">L</c>ir entre carts / tot quant de vos yo mir </l>
+     <l n="50" xml:id="C037-l50"> e quant me pens / mefa creixer damor </l>
+     <l n="51" xml:id="C037-l51"> delit me sent / ales veus sens dolor </l>
+     <l n="52" xml:id="C037-l52"> e puis me dol / tant com pusch sofferir </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 31</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name> Mar Pamblanco </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo Hilario </name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/">
+     <msIdentifier xml:id="d_Ed_1555_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.145v After end of previous poem, before this one</locus>CANTO MORAL. IIII.</rubric>
+       <rubric>
+        <locus>f.146v between lines 40 and 41 </locus>TORNADA.</rubric>
+       <rubric>
+        <locus>f.146v After end of previous poem, before this one</locus>Fin del Canto.iiij.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_295.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_296.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_297.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C031-d040">
+
+    <pb n="145v"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_295.html"/>
+
+    <lg type="cobla" n="1" xml:id="C031-lg1">
+
+     <l n="1" xml:id="C031-l1"><c rend="large">M</c>Olts <choice>
+       <abbr>homês</abbr>
+       <expan>homens</expan>
+      </choice> hoyg / clamar se <choice>
+       <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> fortuna </l>
+     <l n="2" xml:id="C031-l2"> e maleir / aquella per sos actes, </l>
+     <l n="3" xml:id="C031-l3"> volents ab leys / fer amigables pactes </l>
+     <l n="4" xml:id="C031-l4"> donant los be / e que tostemps fos vna. </l>
+     <l n="5" xml:id="C031-l5"> No recordant / sa propria natura </l>
+     <l n="6" xml:id="C031-l6"> que's lo alt baixar / e lo baix muntar alt, </l>
+     <l n="7" xml:id="C031-l7"> e qui d'aço / se dona gran desalt </l>
+     <l n="8" xml:id="C031-l8"> leixe los bens / portants abvsi fretura. </l>
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C031-lg2">
+     <l n="9" xml:id="C031-l9"> ¶ A Deu no plach / hauer del mon tal cura </l>
+     <l n="10" xml:id="C031-l10"> que noy jaquis / de terribles affanys </l>
+     <l n="11" xml:id="C031-l11"> perdues son / en nombre mes quels guanys </l>
+     <l n="12" xml:id="C031-l12"> en'sguart del ver / lo seny es oradura. </l>
+     <l n="13" xml:id="C031-l13"> El hom girat / al mondanal saber </l>
+     <l n="14" xml:id="C031-l14"> ydoles creu / donant y plena fer </l>
+     <l n="15" xml:id="C031-l15"> enbens mundans / creu esser complit be </l>
+     <l n="16" xml:id="C031-l16"> volent morir / solament pels hauer. </l>
+    </lg>
+
+    <pb n="146r"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_296.html"/>
+
+    <lg type="cobla" n="3" xml:id="C031-lg3">
+     <l n="17" xml:id="C031-l17"> ¶ Si algu pogues / de fortuna tener </l>
+     <l n="18" xml:id="C031-l18"> ab vn fort clau / sa roda quant es sus </l>
+     <l n="19" xml:id="C031-l19"> fora li bo / anar amunt ejus </l>
+     <l n="20" xml:id="C031-l20"> soferint mal / per trobar tal mester. </l>
+     <l n="21" xml:id="C031-l21"> Mas los metals / no han tanta vigor </l>
+     <l n="22" xml:id="C031-l22"> que tant gran pes / ab llur força retinguen </l>
+     <l n="23" xml:id="C031-l23"> ne'nginys nos fan / <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> d'alt,e baix,no vinguen </l>
+     <l n="24" xml:id="C031-l24"> los qui seuran / en la falsa honor. </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C031-lg4">
+     <l n="25" xml:id="C031-l25"> ¶ Per nengun temps / perdra fortuna'rdor </l>
+     <l n="26" xml:id="C031-l26"> de fer llochs plans / deles timpes e munt, </l>
+     <l n="27" xml:id="C031-l27"> e quant del tot / son desijat es junt </l>
+     <l n="28" xml:id="C031-l28"> e no pot fer / pus ab sa gran furor, </l>
+     <l n="29" xml:id="C031-l29"> Torna refer / deshabitada casa </l>
+     <l n="30" xml:id="C031-l30"> quen poch espay / hauie feta buyda </l>
+     <l n="31" xml:id="C031-l31"> el hom disert,que'nriquir james cuyda </l>
+     <l n="32" xml:id="C031-l32"> vmple graners / olis,e vins,embasa. </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C031-lg5">
+     <l n="33" xml:id="C031-l33"> ¶ En son costat / no deu portar espasa </l>
+     <l n="34" xml:id="C031-l34"> com a foll hom / deu franch arbitre perdre, </l>
+     <l n="35" xml:id="C031-l35"> qui no creu çert / que fortuna pot pendre </l>
+     <l n="36" xml:id="C031-l36"> los bens mouents / y los sehents arrasa. </l>
+     <l n="37" xml:id="C031-l37"> Mas l'hom del mon / per fortuna mirat </l>
+     <l n="38" xml:id="C031-l38"> ab lo esguart / de rriallosa cara </l>
+     <l n="39" xml:id="C031-l39"> la part del plor / no ha vista encara </l>
+     <l n="40" xml:id="C031-l40"> creu que sos ginys / l'han debe prosperat. </l>
+    </lg>
+
+    <pb n="146v"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_297.html"/>
+
+    <lg type="tornada" n="6" xml:id="C031-lg6">
+     <l n="41" xml:id="C031-l41"> ¶ Lir entre carts / propri so comparat </l>
+     <l n="42" xml:id="C031-l42"> a Tantalus / per continu desig, </l>
+     <l n="43" xml:id="C031-l43"> no se perque / tots dies hi affig </l>
+     <l n="44" xml:id="C031-l44"> puis quem es prop / compte desesperat. </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>
