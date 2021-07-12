@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 24</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/">
+     <msIdentifier xml:id="I_Ms_10_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus> 78r after end of previous poem, before this one: </locus>Mossen Auzias march </rubric>
+       <rubric>
+        <locus> 78v between lines 40 and 41 </locus>Tornada </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_156.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_157.html"/>
+
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C024-I065">
+    <pb n="78r"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_156.html"/>
+    <lg type="cobla" n="1" xml:id="C024-lg1">
+     <l n="1" xml:id="C024-l1">
+      <c rend="large">L</c>O cerch lo temps / mon pensament jnmoble<add place="margin left">mon
+       pensament immoble</add></l>
+     <l n="2" xml:id="C024-l2"> E nos muda / ja dun esser en altre </l>
+     <l n="3" xml:id="C024-l3"> Ffortuna vol / son torn variat pendre </l>
+     <l n="4" xml:id="C024-l4"> Si lamistat / ab fermetat acapta </l>
+     <l n="5" xml:id="C024-l5"> E res quen cent / al pus dins de son centre </l>
+     <l n="6" xml:id="C024-l6"> Enasprit ha / los torns desa gran roda </l>
+     <l n="7" xml:id="C024-l7"> Perquelissant / en altre torn no <choice>
+       <abbr>mȗta</abbr>
+       <expan>munta</expan>
+      </choice>
+     </l>
+     <l n="8" xml:id="C024-l8"> E sera lla / hon es complit desorde </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C024-lg2">
+     <l n="9" xml:id="C024-l9"> Com lenuegos / qui sobres mal vol rebre </l>
+     <l n="10" xml:id="C024-l10"> Perque maior / dan son enamich senta </l>
+     <l n="11" xml:id="C024-l11"> Epren delit / del dan que veu sofferre </l>
+     <l n="12" xml:id="C024-l12"> Tant que no sent / laffany quj les proisme </l>
+     <l n="13" xml:id="C024-l13"> Tal semblant cas / fortunab mj pratica </l>
+     <l n="14" xml:id="C024-l14"> Carson delit / vol fer proces de nulla </l>
+     <l n="15" xml:id="C024-l15"> Mudes lo mon / que pren desser no ferma </l>
+     <l n="16" xml:id="C024-l16"> Per son plaher / ques no dar temps al vogi </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C024-lg3">
+     <l n="17" xml:id="C024-l17"> Col turmentat / que dorm ab artiffici </l>
+     <l n="18" xml:id="C024-l18"> Son cors <choice>
+       <abbr>ꝑꝗ</abbr>
+       <expan>perque</expan>
+      </choice> / sa dolor no sufferta </l>
+     <l n="19" xml:id="C024-l19"> Volgra dormjr / los pensaments quj porten </l>
+     <l n="20" xml:id="C024-l20"> Cosas aque / ma voluntat senclina </l>
+     <l n="21" xml:id="C024-l21"> Causants en mj / desig may no fartable </l>
+     <l n="22" xml:id="C024-l22"> Passionat larma / quj es ajuncta </l>
+     <l n="23" xml:id="C024-l23"> En suffertar / aquest turment ten aspre </l>
+     <l n="24" xml:id="C024-l24"> Ab lo meu cors / par sentiment de bonba </l>
+    </lg>
+    <pb n="78v"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_157.html"/>
+    <lg type="cobla" n="4" xml:id="C024-lg4">
+     <l n="25" xml:id="C024-l25"> Com lo castor / cassat per mort estorcre </l>
+     <l n="26" xml:id="C024-l26"> Tirant ab dents / part de son cors arrancha </l>
+     <l n="27" xml:id="C024-l27"> Car per estinth / que natura li dona </l>
+     <l n="28" xml:id="C024-l28"> Sent qui son mal / ve tot per aquell membre </l>
+     <l n="29" xml:id="C024-l29"> Per ma raho / volgreuer conaxença </l>
+     <l n="30" xml:id="C024-l30"> Posant menys preu / al desig quem turmenta </l>
+     <l n="31" xml:id="C024-l31"> Matant mel cors / espessagant me larma </l>
+     <l n="32" xml:id="C024-l32"> Si que jaquir / los me coue per viure </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C024-lg5">
+     <l n="33" xml:id="C024-l33"> En aquell punt / que lo desig me sopte </l>
+     <l n="34" xml:id="C024-l34"> Volgresser foll / eque fos ten adintre </l>
+     <l n="35" xml:id="C024-l35"> Eque pensas / pus auenturat home </l>
+     <l n="36" xml:id="C024-l36"> Ffortunagues / prosperat dels bens mobles </l>
+     <l n="37" xml:id="C024-l37"> En gran calor / tot hom lo fret desige </l>
+     <l n="38" xml:id="C024-l38"> Neste per cert / que liuern tornar pusque </l>
+     <l n="39" xml:id="C024-l39"> Axi son jo / quant desigs me congoixen </l>
+     <l n="40" xml:id="C024-l40"> Veure no puix / que esser content basta </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C024-lg6">
+     <l n="41" xml:id="C024-l41"> Lir entre carts / lo meu voler se trempa </l>
+     <l n="42" xml:id="C024-l42"> Enço que null / amador sab lo tempra </l>
+     <l n="43" xml:id="C024-l43"> Ffas ho per ço / que ma vida emprengua </l>
+     <l n="44" xml:id="C024-l44"> E los estrems / durada no han larga </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

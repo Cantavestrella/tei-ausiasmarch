@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 23</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo HIlario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064.html">
+               <msIdentifier xml:id="G2_Ms_210_BHUV">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>138r before first line </locus><choice>
+                           <abbr>Moß</abbr>
+                           <expan>Mossen</expan>
+                        </choice> ausias march
+                     </rubric>
+
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_286.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C029-G2099">
+            <pb n="138r"
+               facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_286.html"/>
+            <lg type="cobla" n="1" xml:id="C029-lg1"><note type="gloss" place="margin right"> C. 2</note>
+               <l n="1" xml:id="C029-l1"> Si com lo taur / sen va fuit per desert </l>
+               <l n="2" xml:id="C029-l2"> quant es sobrat / per son senblant quil força </l>
+               <l n="3" xml:id="C029-l3"> ne torna may / fins acobradaforça </l>
+               <l n="4" xml:id="C029-l4"> per destruhir aquell quiladesert </l>
+               <l n="5" xml:id="C029-l5"> Tot enaxim coue llunyar devos </l>
+               <l n="6" xml:id="C029-l6"> car vostregest mon esforç aconfus </l>
+               <l n="7" xml:id="C029-l7"> no tornare fins deltot haja fus </l>
+               <l n="8" xml:id="C029-l8"> lagran paor / quim toll ser delitos </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 43</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/">
+     <msIdentifier xml:id="c_Ed_11V57_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.75v between lines 40 and 41</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_157.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_158.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_159.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C043-c078">
+    <pb n="74v"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_157.html"/>
+    <lg type="cobla" n="1" xml:id="C043-lg1">
+     <l n="1" xml:id="C043-l1"> <c rend="large">C</c>Oratje meu / a pendre'sforç molt tart </l>
+     <l n="2" xml:id="C043-l2"> no piados / de tots los quit sostenen </l>
+     <l n="3" xml:id="C043-l3"> la'rma y lo cos / a departir se venen </l>
+     <l n="4" xml:id="C043-l4"> per tu ser flach / lo cos de viure's fart </l>
+     <pb n="75r"
+      facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_158.html"/>
+     <l n="5" xml:id="C043-l5"> mos vlls no son / liberts a son ofici </l>
+     <l n="6" xml:id="C043-l6"> mon pas es tolt / ma lengua nom profita </l>
+     <l n="7" xml:id="C043-l7"> e de aço / la vergonyas delita </l>
+     <l n="8" xml:id="C043-l8"> com so plagat / de tant vergonyos vici. </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C043-lg2">
+     <l n="9" xml:id="C043-l9"> Pahor me sent / gran suor me comença </l>
+     <l n="10" xml:id="C043-l10"> surtint mon cor / los pits me cuyda rompre </l>
+     <l n="11" xml:id="C043-l11"> nom trobe'sforç / per vergonya corrompre </l>
+     <l n="12" xml:id="C043-l12"> esser no pot / esperança p'or vença. </l>
+     <l n="13" xml:id="C043-l13"> no puch mostrar / lo secret de ma pensa </l>
+     <l n="14" xml:id="C043-l14"> e vanament / he p'or de la resposta </l>
+     <l n="15" xml:id="C043-l15"> lo meu duptar / major dupte macosta </l>
+     <l n="16" xml:id="C043-l16"> femenil gest / ardiment me defensa. </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C043-lg3">
+     <l n="17" xml:id="C043-l17"> Alguns han dit / que vergonya nos troba </l>
+     <l n="18" xml:id="C043-l18"> mas yo puh 
+      <note type="editorial">Per puch.</note> fer / d'aquella testimoni </l>
+     <l n="19" xml:id="C043-l19"> de vista no / semblant es al dimoni </l>
+     <l n="20" xml:id="C043-l20"> part de mos senys / e parlar me derroba. </l>
+     <l n="21" xml:id="C043-l21"> dona'sentit / de si alguns forts acctes </l>
+     <l n="22" xml:id="C043-l22"> segons molts / hauem hoydes gestes </l>
+     <l n="23" xml:id="C043-l23"> crehent los tals / qui descolen les festes </l>
+     <l n="24" xml:id="C043-l24"> senyor es meu / amor fermal's contractes. </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C043-lg4">
+     <l n="25" xml:id="C043-l25"> E sil posques / / l'obediença tolre </l>
+     <l n="26" xml:id="C043-l26"> que per son colp / la mi'amor jau morta </l>
+     <l n="27" xml:id="C043-l27"> car no parent / l'es altr'amor estorta </l>
+     <l n="28" xml:id="C043-l28"> no se quin Deu / damnat sanct me fa colre, </l>
+     <l n="29" xml:id="C043-l29"> yo ag'ra'sforç / de metre tost en obra </l>
+     <l n="30" xml:id="C043-l30"> lo que no gos / mostrar vna parença </l>
+     <l n="31" xml:id="C043-l31"> ab gran esforç / vergonyam fa temença </l>
+     <l n="32" xml:id="C043-l32"> si qu'rdimen: / vn poch en mi no sobra. </l>
+    </lg>
+    <pb n="75v"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_159.html"/>
+    <lg type="cobla" n="5" xml:id="C043-lg5">
+     <l n="33" xml:id="C043-l33"> En tots aquells / hon gran amor no penja </l>
+     <l n="34" xml:id="C043-l34"> son giny no pot / de vergonya, ne força </l>
+     <l n="35" xml:id="C043-l35"> ami, e pochs / a son voler nos força </l>
+     <l n="36" xml:id="C043-l36"> lo meu voler / los meus enemichs venja, </l>
+     <l n="37" xml:id="C043-l37"> aquest voler / desig, y amor, sostenen </l>
+     <l n="38" xml:id="C043-l38"> causa d'aquests / sou vos, aqui sesguarden </l>
+     <l n="39" xml:id="C043-l39"> creure no puch / vostres sentiments tarden </l>
+     <l n="40" xml:id="C043-l40"> en descobrir / los mals que per vos venen. </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C043-lg6">
+     <l n="41" xml:id="C043-l41"> O foll amor / aquells dolors sostenen </l>
+     <l n="42" xml:id="C043-l42"> qui cerquen fi / hon la fi no pot esser </l>
+     <l n="43" xml:id="C043-l43"> de lur treball / nos mostra res en esser </l>
+     <l n="44" xml:id="C043-l44"> e son aquests / los qui de vos se'ncenen </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

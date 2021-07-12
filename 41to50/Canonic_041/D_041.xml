@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 41</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/poesies-3/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus/></rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <pb n="37r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+   <div type="poem" xml:id="C041-D041">
+    <lg type="cobla" n="1" xml:id="C041-lg1">
+     <l n="1" xml:id="C041-l1"> Volgra ser nat cent anys opus atras </l>
+     <l n="2" xml:id="C041-l2"> perque son cert ques pijorat lo mon </l>
+     <l n="3" xml:id="C041-l3"> aytant poch val quell mateix no sab hon </l>
+     <l n="4" xml:id="C041-l4"> saulesagran enpus baix loch baixas </l>
+     <l n="5" xml:id="C041-l5"> Eveig vncas deraho apartat </l>
+     <l n="6" xml:id="C041-l6"> quelomal hom facasaprop la forca </l>
+     <l n="7" xml:id="C041-l7"> elome just fuig es met en cauorca </l>
+     <l n="8" xml:id="C041-l8"> peraquell mal que james hapensat </l>
+    </lg>
+        <lg type="cobla" n="2" xml:id="C041-lg2">
+     <l n="9" xml:id="C041-l9"> Ffoll es aquell quivol hauer vsat </l>
+     <pb n="37v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+     <l n="10" xml:id="C041-l10"> de mal saber hon sera ben entes </l>
+     <l n="11" xml:id="C041-l11"> imaginar deuque serarepres </l>
+     <l n="12" xml:id="C041-l12"> esens murmur no deu ser comportat </l>
+     <l n="13" xml:id="C041-l13"> E lo mal homdeu ser cridat ab trompa </l>
+     <l n="14" xml:id="C041-l14"> perço que mi e altre no engan </l>
+     <l n="15" xml:id="C041-l15"> tants sonaquells qui per bonshomens van </l>
+     <l n="16" xml:id="C041-l16"> que diffamats cessaria lurpompa </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C041-lg3">
+     <l n="17" xml:id="C041-l17"> Lo just voler pensacom encorrompa </l>
+     <l n="18" xml:id="C041-l18"> fictevoler acolorat debe </l>
+     <l n="19" xml:id="C041-l19"> eladonchs es guardada bonafe </l>
+     <l n="20" xml:id="C041-l20"> com lo leig fet acusador lo trompa </l>
+     <l n="21" xml:id="C041-l21"> Aquell es dit misericordios </l>
+     <l n="22" xml:id="C041-l22"> queguardals bens que nolssiatort fet </l>
+     <l n="23" xml:id="C041-l23"> perdonador alqui leig fet comet </l>
+     <l n="24" xml:id="C041-l24"> dinfinits mals dona occasios </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C041-lg4">
+     <l n="25" xml:id="C041-l25"> Ffamatement lom es dit virtuos </l>
+     <l n="26" xml:id="C041-l26"> eaço no cau en homdesuergonyit </l>
+     <l n="27" xml:id="C041-l27"> donchs lo maldir no deu ser enoblit </l>
+     <l n="28" xml:id="C041-l28"> puis quevirtut mostra lom vicios </l>
+     <l n="29" xml:id="C041-l29"> A vici som moguts naturalment </l>
+     <l n="30" xml:id="C041-l30"> ecostreny nos por delamala fama </l>
+     <l n="31" xml:id="C041-l31"> beneyt aquell quelbe sa boca brama </l>
+     <l n="32" xml:id="C041-l32"> ediu lomal com ben es conexent </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C041-lg5">
+     <l n="33" xml:id="C041-l33"> Es mal senyal del quil es desplasent </l>
+     <l n="34" xml:id="C041-l34"> es mor denuig com mal dir sacostuma </l>
+     <l n="35" xml:id="C041-l35"> eles molt greu fins 
+      <add place="interlinear">ne</add> hou dir la suma </l>
+     <l n="36" xml:id="C041-l36"> dalgun leig fet vehent si mal mirent </l>
+     <pb n="38r" 
+      facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+     <l n="37" xml:id="C041-l37">Si com aquell quin forca veu morir</l>
+     <l n="38" xml:id="C041-l38"> son companyo qui nol pasa de mal </l>
+     <l n="39" xml:id="C041-l39"> ediu ques cosa molt descominal </l>
+     <l n="40" xml:id="C041-l40"> quepertal fet dega mort sostenir </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C041-lg6">
+     <l n="41" xml:id="C041-l41"> Jade present delit no puch sentir </l>
+     <l n="42" xml:id="C041-l42"> sino semblant aquell del tempspassat </l>
+     <l n="43" xml:id="C041-l43"> ecomlo cerch etal nol he trobat </l>
+     <l n="44" xml:id="C041-l44"> ami mateix e tot lo mon ahir </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

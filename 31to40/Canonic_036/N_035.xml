@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 36</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>f.70 After end of previous poem, before this one<locus/>§Mossen Ausias march</rubric>
+       <rubric>
+        <locus>f.72 between lines 40 and 41</locus>§Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_72.html"/>
+  <graphic url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_73.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_74.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C036-N035">
+
+    <pb n="70" facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_72.html"/>
+
+    <lg type="cobla" n="1" xml:id="C036-lg1">
+     <l n="1" xml:id="C036-l1"> ¶ Ho mort quj est de molts mals medicina </l>
+     <l n="2" xml:id="C036-l2"> E lo remey contra mala fortuna </l>
+     <l n="3" xml:id="C036-l3"> Encontramj agues ley eno cuna </l>
+     <l n="4" xml:id="C036-l4"> Puys vinch a tu lorella mj encljna </l>
+     <l n="5" xml:id="C036-l5"> Mas tu deffugs alhom quj atu crida </l>
+     <l n="6" xml:id="C036-l6"> Amant aquell quj del encontras lunya </l>
+     <l n="7" xml:id="C036-l7"> Per tun contrar nit hi jorn fac mapuya </l>
+     <l n="8" xml:id="C036-l8"> Per ser plagat de ta dolca ferida </l>
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C036-lg2">
+     <l n="9" xml:id="C036-l9"> Ma dolor gran no por esser perida </l>
+     <l n="10" xml:id="C036-l10"> Sino permal quen cantitat lapasse </l>
+     <l n="11" xml:id="C036-l11"> Per altre fany no crech mon cor se lasse </l>
+     <l n="12" xml:id="C036-l12"> E sia tant quem don penanfinida </l>
+     <l n="13" xml:id="C036-l13"> Torbant mon seny fins que dolor no senta </l>
+     <l n="14" xml:id="C036-l14"> La donch remey yo pens aconseguesca </l>
+     <l n="15" xml:id="C036-l15"> Altra dolor me plau que sia fresca </l>
+     <l n="16" xml:id="C036-l16"> Ho prech lamort que morir me consenta </l>
+    </lg>
+
+    <pb n="71" facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_73.html"/>
+
+    <lg type="cobla" n="3" xml:id="C036-lg3">
+     <l n="17" xml:id="C036-l17"> Limaginar per null temps nom esmenta </l>
+     <l n="18" xml:id="C036-l18"> Altra dolor eque apert no sia </l>
+     <l n="19" xml:id="C036-l19"> Hadonar plor perdent tota legria </l>
+     <l n="20" xml:id="C036-l20"> Ffug deles gents nom plau que algum senta </l>
+     <l n="21" xml:id="C036-l21"> Deman de vos que <choice>
+      <abbr>demjꝯ</abbr>
+       <expan>demjus</expan>
+      </choice> vullau dolre </l>
+     <l n="22" xml:id="C036-l22"> Aco deman que leument pusch ateyer </l>
+     <l n="23" xml:id="C036-l23"> E no es poch abque nou vullau fenyer </l>
+     <l n="24" xml:id="C036-l24"> Gran part del mal vos me poreu dissolre </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C036-lg4">
+     <l n="25" xml:id="C036-l25"> Dona tal sou que per vos me vull tolre </l>
+     <l n="26" xml:id="C036-l26"> Tots los delits quelmon al jouens done </l>
+     <l n="27" xml:id="C036-l27"> Lo meu voler alvostre sabandona </l>
+     <l n="28" xml:id="C036-l28"> Enaquest mon per dehessaus vull colre </l>
+     <l n="29" xml:id="C036-l29"> E si daco ues deu comet offensa </l>
+     <l n="30" xml:id="C036-l30"> Yomen confes apenedir no baste </l>
+     <l n="31" xml:id="C036-l31"> Lagran sabor delpenjdent no taste </l>
+     <l n="32" xml:id="C036-l32"> Lavostra pens ser deuerins defensa </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C036-lg5">
+     <l n="33" xml:id="C036-l33"> Tot lo reues muda ma vana pensa </l>
+     <l n="34" xml:id="C036-l34"> Pregant vos molt que mj no vullau planyer </l>
+     <l n="35" xml:id="C036-l35"> E si resclus me veu lagent complanyer </l>
+     <l n="36" xml:id="C036-l36"> De sos delits me pex amor empensa </l>
+     <l n="37" xml:id="C036-l37"> Amor amj tan comjnal semostra </l>
+     <l n="38" xml:id="C036-l38"> Que fa que foll <del rend="overstrike">de</del> quj de mon mal se planga </l>
+     <l n="39" xml:id="C036-l39"> E donchs enug demj <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> ne atanga </l>
+     <l n="40" xml:id="C036-l40"> Ma fort dolor sera meyns sens la vostra </l>
+    </lg>
+
+    <pb n="72" facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_74.html"/>
+
+    <lg type="tornada" n="6" xml:id="C036-lg6">
+     <l n="41" xml:id="C036-l41"> Lir entre carts amor mos mals me mostra </l>
+     <l n="42" xml:id="C036-l42"> Tots quants venir en vn amador <del rend="overstrike">mostren</del> poden </l>
+     <l n="43" xml:id="C036-l43"> Reblos mon cor tots quants enpensam roden </l>
+     <l n="44" xml:id="C036-l44"> E quant los call aquella es lur mostra </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

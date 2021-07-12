@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 45</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.40r After end of previous poem, before this one</locus>Estrams de mossen osias march</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C045-D045">
+    <pb n="40r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="1" xml:id="C045-lg1">
+     <l n="1" xml:id="C045-l1"> Los ignorants amor esos exemples </l>
+     <l n="2" xml:id="C045-l2"> crehents quels fets daquell son stats faula </l>
+     <pb n="40v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+     <l n="3" xml:id="C045-l3"> repreniu mi perquem tresport en altre</l>
+     <l n="4" xml:id="C045-l4"> prenent delit en franch arbitre pendre </l>
+     <l n="5" xml:id="C045-l5"> alur semblant vn gran miracle semble </l>
+     <l n="6" xml:id="C045-l6"> emaiorment alguns pus forts articles </l>
+     <l n="7" xml:id="C045-l7"> descreheu mort esser degrat suferta </l>
+     <l n="8" xml:id="C045-l8"> equendolordamordelit semescla </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C045-lg2">
+     <l n="9" xml:id="C045-l9"> Ffoch amagat nodrit dins en les venes </l>
+     <l n="10" xml:id="C045-l10"> gran fum fahent perviadretay torta </l>
+     <l n="11" xml:id="C045-l11"> jradins pau eturment molt alegre </l>
+     <l n="12" xml:id="C045-l12"> lum clar e bell ab siportant tenebres </l>
+     <l n="13" xml:id="C045-l13"> Aquests contrasts los fins amadorssenten </l>
+     <l n="14" xml:id="C045-l14"> dins envuntemps amordins ells alloja </l>
+     <l n="15" xml:id="C045-l15"> etots aquells no crehent ser possible </l>
+     <l n="16" xml:id="C045-l16"> solde sernats natura pren vergonya </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C045-lg3">
+     <l n="17" xml:id="C045-l17"> Vehent lo cel manaturadisposta </l>
+     <l n="18" xml:id="C045-l18"> volch jnfluir dos poders jnuencibles </l>
+     <l n="19" xml:id="C045-l19"> a mi vinents ab maneradiuersa </l>
+     <l n="20" xml:id="C045-l20"> cascuprenint lapart aell condigna </l>
+     <l n="21" xml:id="C045-l21"> fahent amar simplament la miarma </l>
+     <l n="22" xml:id="C045-l22"> lo seu semblant sentit devici munda </l>
+     <l n="23" xml:id="C045-l23"> elaltrapart en mi no roman solta </l>
+     <l n="24" xml:id="C045-l24"> ans al çech foch complidament seliura </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C045-lg4">
+     <l n="25" xml:id="C045-l25"> Aquell amor ques diu voluntat bona </l>
+     <l n="26" xml:id="C045-l26"> esolament esguarde part honesta </l>
+     <l n="27" xml:id="C045-l27"> aquest amor ha fet ami amable </l>
+     <l n="28" xml:id="C045-l28"> per mon semblant el migançant ministre </l>
+     <l n="29" xml:id="C045-l29"> Elaltramor quendelit sentitola </l>
+     <l n="30" xml:id="C045-l30"> edonestat es enemich rebelle </l>
+     <pb n="41r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+     <l n="31" xml:id="C045-l31"> menys de saberdins mi aport ses armes </l>
+     <l n="32" xml:id="C045-l32"> aportants pau e guerratot ensemble </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C045-lg5">
+     <l n="33" xml:id="C045-l33"> Aquest amor per nostres senys nos entra </l>
+     <l n="34" xml:id="C045-l34"> e fa present alcomun seny epassa </l>
+     <l n="35" xml:id="C045-l35"> lo presentat per sos migs ha lentendre </l>
+     <l n="36" xml:id="C045-l36"> don voler creix tant quant lom sedelita </l>
+     <l n="37" xml:id="C045-l37"> Eperquelcos engraudelitos munte </l>
+     <l n="38" xml:id="C045-l38"> dins en lostal quevenus lo alleuja </l>
+     <l n="39" xml:id="C045-l39"> totes virtuts e seny de lapersona </l>
+     <l n="40" xml:id="C045-l40"> son desijats en seruitut del acte </l>
+    </lg>
+    <lg type="cobla" n="6" xml:id="C045-lg6">
+     <l n="41" xml:id="C045-l41"> Cells qui amor bestialment pratiquen </l>
+     <l n="42" xml:id="C045-l42"> sens acollir enpart delit dentendre </l>
+     <l n="43" xml:id="C045-l43"> sols per la carn lur apetit se liga </l>
+     <l n="44" xml:id="C045-l44"> que sino brut plaher nols acompanya </l>
+     <l n="45" xml:id="C045-l45"> Qui voltrobar amor que null temps folga </l>
+     <l n="46" xml:id="C045-l46"> nola cerchla hon lo poder sevença </l>
+     <l n="47" xml:id="C045-l47"> cartota res perdent la sua causa </l>
+     <l n="48" xml:id="C045-l48"> no es trobat d'aquell algun esser </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C045-lg7">
+     <l n="49" xml:id="C045-l49"> Alguns elets en moltes poqua nombre </l>
+     <l n="50" xml:id="C045-l50"> qui solament damor desperit amen </l>
+     <l n="51" xml:id="C045-l51"> daquest amor participen abangel </l>
+     <l n="52" xml:id="C045-l52"> e tal voler enper null temps se cansa </l>
+     <l n="53" xml:id="C045-l53"> Los qui amor abcos earma senten </l>
+     <l n="54" xml:id="C045-l54"> amant locos e mes lapart de larma </l>
+     <l n="55" xml:id="C045-l55"> grau de amor homeniuol attenyen </l>
+     <l n="56" xml:id="C045-l56"> sobre dos colls lojou de amor aporten </l>
+    </lg>
+    <pb n="41v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="8" xml:id="C045-lg8">
+     <l n="57" xml:id="C045-l57"> Puis armaycos donen esser alhome </l>
+     <l n="58" xml:id="C045-l58"> quasi forçat es aquests dos complaure </l>
+     <l n="59" xml:id="C045-l59"> ame lo cos a son semblant conforme </l>
+     <l n="60" xml:id="C045-l60"> ne fareptar sils jnfinits no cerca </l>
+     <l n="61" xml:id="C045-l61"> nostresperit ason semblant cobeja </l>
+     <l n="62" xml:id="C045-l62"> ede aquell tots los actes quen jxen </l>
+     <l n="63" xml:id="C045-l63"> les voluntats que daquests composts naxen </l>
+     <l n="64" xml:id="C045-l64"> sonpus ardents que dalgun amor simple </l>
+    </lg>
+    <lg type="cobla" n="9" xml:id="C045-lg9">
+     <l n="65" xml:id="C045-l65"> Delavirtut es nostravidaxempta </l>
+     <l n="66" xml:id="C045-l66"> siquelo cos venç alarma batalles </l>
+     <l n="67" xml:id="C045-l67"> yels pochs volers lo seny del hom no tempta </l>
+     <l n="68" xml:id="C045-l68"> edonchs quant menys los qui gran força porten </l>
+     <l n="69" xml:id="C045-l69"> Etal amor lo juhi no escolta </l>
+     <l n="70" xml:id="C045-l70"> tant de la carn benivolença capta </l>
+     <l n="71" xml:id="C045-l71"> abcor segur de veuraquella tempta </l>
+     <l n="72" xml:id="C045-l72"> ses blanes mans los forts diamants pasten </l>
+    </lg>
+    <lg type="cobla" n="10" xml:id="C045-lg10">
+     <l n="73" xml:id="C045-l73"> Sibe amorles passions auança </l>
+     <l n="74" xml:id="C045-l74"> en serprimer lo desig lida força </l>
+     <l n="75" xml:id="C045-l75"> epuis delit lo soste dins son regne </l>
+     <l n="76" xml:id="C045-l76"> fallint aquest de fall damor lo ceptre </l>
+     <l n="77" xml:id="C045-l77"> No siantes present desonest acte </l>
+     <l n="78" xml:id="C045-l78"> car fin amor daltramor secontenta </l>
+     <l n="79" xml:id="C045-l79"> sinol atteny viu desperança sola </l>
+     <l n="80" xml:id="C045-l80"> elagran pahor segueix lo seucontrarj </l>
+    </lg>
+    <lg type="cobla" n="11" xml:id="C045-lg11">
+     <l n="81" xml:id="C045-l81"> Cell qui damor deltot nos leixa vencre </l>
+     <l n="82" xml:id="C045-l82"> sique raho del seuconsell no lunya </l>
+     <l n="83" xml:id="C045-l83"> nomereix pas lacoronade martre </l>
+     <l n="84" xml:id="C045-l84"> daquells passius no hauents altrecompte </l>
+     <pb n="42r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+     <l n="85" xml:id="C045-l85"> Sino pensar hauer lurvidaterme </l>
+     <l n="86" xml:id="C045-l86"> fenit aquell quital estrem los mena </l>
+     <l n="87" xml:id="C045-l87"> crehent de ferm los fets del mon ser ombra </l>
+     <l n="88" xml:id="C045-l88"> daquell sol clar qui tot lur sol escalfa </l>
+    </lg>
+    <lg type="cobla" n="12" xml:id="C045-lg12">
+     <l n="89" xml:id="C045-l89"> O tuamor dequi mort no triumfa </l>
+     <l n="90" xml:id="C045-l90"> segons lo dant historia reconta </l>
+     <l n="91" xml:id="C045-l91"> e ningun seny presumir nos ocupe </l>
+     <l n="92" xml:id="C045-l92"> contratu fort victoria consegre </l>
+     <l n="93" xml:id="C045-l93"> e cossos dos ab vnarmagouernes </l>
+     <l n="94" xml:id="C045-l94"> lavidalur envn esperit penja </l>
+     <l n="95" xml:id="C045-l95"> çell qui detu lo terme pensatenyer </l>
+     <l n="96" xml:id="C045-l96"> no sab detu ignoranças dexeble </l>
+    </lg>
+    <lg type="tornada" n="13" xml:id="C045-lg13">
+     <l n="97" xml:id="C045-l97"> Lir entre carts tres son les grans carreres </l>
+     <l n="98" xml:id="C045-l98"> onveritat per null temps sepasseja </l>
+     <l n="99" xml:id="C045-l99"> jra yamor ab si no la consenten </l>
+     <l n="100" xml:id="C045-l100"> ealtre es <choice>
+      <abbr>genŕal</abbr>
+       <expan>general</expan>
+      </choice> ignorança </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

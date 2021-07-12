@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 32</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name> Mar Pamblanco </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo Hilario </name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>f.62 after end of previous poem, before this one:<locus/>§ Mossen Ausias march §
+       </rubric>
+       <rubric>
+        <locus> f.64 between lines 40 and 41 </locus>§ Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_64.html"/>
+  <graphic url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_65.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_66.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C032-N031">
+
+    <pb n="62" facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_64.html"/>
+
+    <lg type="cobla" n="1" xml:id="C032-lg1">
+
+     <l n="1" xml:id="C032-l1"> ¶ Lome pelmon no muntan gran valer </l>
+     <l n="2" xml:id="C032-l2"> Sens hauer bens bondat linatge gran </l>
+     <l n="3" xml:id="C032-l3"> Mas la delmig valmes quela restan </l>
+     <l n="4" xml:id="C032-l4"> E no valmolt sens les altres hauer </l>
+     <l n="5" xml:id="C032-l5"> Per ellas fan les dues molt prear </l>
+     <l n="6" xml:id="C032-l6"> Car poder val tant com es ministrat </l>
+     <l n="7" xml:id="C032-l7"> Linatge val aytant com es honrat </l>
+     <l n="8" xml:id="C032-l8"> La valor dom ho fa tot graduar </l>
+    </lg>
+    
+    <lg type="cobla" n="2" xml:id="C032-lg2">
+     <l n="9" xml:id="C032-l9"> Mas no sera lom sabent de sonar </l>
+     <l n="10" xml:id="C032-l10"> Sin algun teps no sona estrumen </l>
+     <l n="11" xml:id="C032-l11"> Car per voler sonar lo nom nos pren </l>
+     <l n="12" xml:id="C032-l12"> Mas lestrument sonant ben acordar </l>
+     <l n="13" xml:id="C032-l13"> Tot enaxi aquell que dins si val </l>
+     <l n="14" xml:id="C032-l14"> Pobre de bens e dauilat linatge </l>
+     <l n="15" xml:id="C032-l15"> No tels areus per mostrar gran coratge </l>
+     <l n="16" xml:id="C032-l16"> En la virtut ques nomena moral </l>
+    </lg>
+    
+    <pb n="63" facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_65.html"/>
+
+    <lg type="cobla" n="3" xml:id="C032-lg3">
+     <l n="17" xml:id="C032-l17"> Son eseran molts dun altre cabal </l>
+     <l n="18" xml:id="C032-l18"> Auents molts bens edalta sanch fauor </l>
+     <l n="19" xml:id="C032-l19"> E valen poch enlapart no mellor </l>
+     <l n="20" xml:id="C032-l20"> Car sens lom bo quant pot hauer es mal </l>
+     <l n="21" xml:id="C032-l21"> E montes <choice>
+      <abbr>veꝯ</abbr>
+       <expan>veus</expan>
+      </choice> anlacolpa natura </l>
+     <l n="22" xml:id="C032-l22"> Car fora bo tal que valer no sab </l>
+     <l n="23" xml:id="C032-l23"> Negun saber no pot viuren son cap </l>
+     <l n="24" xml:id="C032-l24"> Sens culpa lur de valer han fretura </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C032-lg4">
+     <l n="25" xml:id="C032-l25"> Entrels estrems virtut almig atura </l>
+     <l n="26" xml:id="C032-l26"> Molt greu dobrar hi entre pochs conegut </l>
+     <l n="27" xml:id="C032-l27"> Per ell saber nos hom perbo tengut </l>
+     <l n="28" xml:id="C032-l28"> Mas fets hobrant forans dins tal mesura </l>
+     <l n="29" xml:id="C032-l29"> Aytant es larch lom meyns de fer larguessa </l>
+     <l n="30" xml:id="C032-l30"> Com es estas sino fall endespendre </l>
+     <l n="31" xml:id="C032-l31"> Vicis virtuts per actes deuen pendre </l>
+     <l n="32" xml:id="C032-l32"> Apres lo fet es lur potenca pressa </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C032-lg5">
+     <l n="33" xml:id="C032-l33"> Nos conquerran virtuts per gran abtessa </l>
+     <l n="34" xml:id="C032-l34"> Ne les auran poetes per lur art </l>
+     <l n="35" xml:id="C032-l35"> An les aquells metent vicis apart </l>
+     <l n="36" xml:id="C032-l36"> Obrant virtut per amor de bonessa </l>
+     <l n="37" xml:id="C032-l37"> Res no dubtant viciosa vergonya </l>
+     <l n="38" xml:id="C032-l38"> Mas solament amant virtuos preu </l>
+     <l n="39" xml:id="C032-l39"> E lome pech enaquest banch no seu </l>
+     <l n="40" xml:id="C032-l40"> E qujnes luny lo gran delit se lonya </l>
+    </lg>
+    
+    <pb n="64" facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_66.html"/>
+    
+    <lg type="tornada" n="6" xml:id="C032-lg6">
+     <l n="41" xml:id="C032-l41"> Lir entre carts totstemps fare ma ponya </l>
+     <l n="42" xml:id="C032-l42"> Que la dolor james demis partesqua </l>
+     <l n="43" xml:id="C032-l43"> E no penseu quemon cas enferesqua </l>
+     <l n="44" xml:id="C032-l44"> Car major dan merex magran <choice>
+      <abbr>vergoña.</abbr>
+      <expan>vergonya.</expan>
+     </choice>
+     </l>
+     
+    </lg>
+    
+   </div>
+  </body>
+ </text>
+</TEI>

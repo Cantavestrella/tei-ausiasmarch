@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 42</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+     <msIdentifier xml:id="H_Ms_110_BUZ">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.85v After end of previous poem, before this one</locus>Mossen azias march</rubric>
+       <rubric>
+        <locus>f.86r between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_153.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_154.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C042-H069">
+    <pb n="85v"
+     facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_153.html"/>
+    <lg type="cobla" n="1" xml:id="C042-lg1">
+     <l n="1" xml:id="C042-l1"> <c rend="large">U</c>os qui sabeu / dela tortrall costum </l>
+     <l n="2" xml:id="C042-l2"> E si nou feu placial vos hoir </l>
+     <l n="3" xml:id="C042-l3"> Quant mort li toll / son par se vol <choice>
+      <abbr>iaꝙr</abbr>
+       <expan>iaquir</expan>
+      </choice>
+     </l>
+     <l n="4" xml:id="C042-l4"> Dobres damor / ne beu aygua <choice>
+      <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> flum </l>
+     <l n="5" xml:id="C042-l5"> Ans en los clots ensutza <choice>
+      <abbr>ṗmer</abbr>
+       <expan>primer</expan>
+      </choice> laygua </l>
+     <l n="6" xml:id="C042-l6"> Nes posa may en vert arbre fullat </l>
+     <l n="7" xml:id="C042-l7"> Mas contraço es vostra calitat </l>
+     <l n="8" xml:id="C042-l8"> Per gran desig / no cast quen vos sa raygua </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C042-lg2">
+     <l n="9" xml:id="C042-l9"> E no cuydeu dona que beus escaygua </l>
+     <l n="10" xml:id="C042-l10"> Que puys hagues tastat la carn gentill </l>
+     <l n="11" xml:id="C042-l11"> A mercader lliuras vostre cors vil </l>
+     <l n="12" xml:id="C042-l12"> E son dret nom en iohan me pens caygua </l>
+     <l n="13" xml:id="C042-l13"> E si uoleu queus nedo conexença </l>
+     <l n="14" xml:id="C042-l14"> Sa faç es gran ab la vista molt losca </l>
+     <l n="15" xml:id="C042-l15"> Sos fonaments son <choice>
+      <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> lagost o mosca </l>
+     <l n="16" xml:id="C042-l16"> Cert no mereix draps vendre <choice>
+      <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> florença </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C042-lg3">
+     <l n="17" xml:id="C042-l17"> E conaxent la vostra gran falença </l>
+     <l n="18" xml:id="C042-l18"> Volgues muntar en amar caualer </l>
+     <l n="19" xml:id="C042-l19"> E sabent ell tot vostre fet en ver </l>
+     <l n="20" xml:id="C042-l20"> En uos amar / se te aconsiença </l>
+     <l n="21" xml:id="C042-l21"> Sabent molt clar lansutzeada vida </l>
+     <l n="22" xml:id="C042-l22"> Prenent pubblich / les pagues dels peccat </l>
+     <l n="23" xml:id="C042-l23"> Vostre cors leig / per drap es baretat </l>
+     <l n="24" xml:id="C042-l24"> Vostre serujr es bo sol per ha dida </l>
+    </lg>
+    <pb n="86r"
+     facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_154.html"/>
+    <lg type="cobla" n="4" xml:id="C042-lg4">
+     <l n="25" xml:id="C042-l25"> E no cuydeu fillaus hagues <choice>
+      <abbr>iaꝙda</abbr>
+       <expan>iaquida</expan>
+      </choice>
+     </l>
+     <l n="26" xml:id="C042-l26"> Vos alletant aquel ab vostra llet </l>
+     <l n="27" xml:id="C042-l27"> Car vostre cors es <choice>
+      <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> ueri replet </l>
+     <l n="28" xml:id="C042-l28"> E mostrenho vostres pels fora mjda </l>
+     <l n="29" xml:id="C042-l29"> Car sius jaquju vostra barba criada </l>
+     <l n="30" xml:id="C042-l30"> E laus toleu puys ab los pels <choice>
+      <abbr>ƌls</abbr>
+       <expan>dels</expan>
+      </choice> braços </l>
+     <l n="31" xml:id="C042-l31"> Poran sen fer auentegossos laços </l>
+     <l n="32" xml:id="C042-l32"> Prenjnts predius / o tortra o bequada </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C042-lg5">
+     <l n="33" xml:id="C042-l33"> Quant hoyreu alcauota prouada </l>
+     <l n="34" xml:id="C042-l34"> Responeu tost <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> per vos ho diran </l>
+     <l n="35" xml:id="C042-l35"> E puys per nom propi vos cridaran </l>
+     <l n="36" xml:id="C042-l36"> Ja nous mostreu en loir enpatxada </l>
+     <l n="37" xml:id="C042-l37"> Enterrogant amjchs e <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> voleu </l>
+     <l n="38" xml:id="C042-l38"> En dret damor voleu res <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> fer pusque </l>
+     <l n="39" xml:id="C042-l39"> Tracte semblant iames me troba cusqua </l>
+     <l n="40" xml:id="C042-l40"> Presta sere / aquant demanareu </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C042-lg6">
+     <l n="41" xml:id="C042-l41"> <note type="gloss" place="margin left">Tots</note> 
+      <note type="editorial">Al marge.</note> Los <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> torb ho cunsament </l>
+     <l n="42" xml:id="C042-l42"> En fets damor / anprauna monboy </l>
+     <l n="43" xml:id="C042-l43"> Ellaus fara / tot lo que feu amj </l>
+     <l n="44" xml:id="C042-l44"> Nos pot saber lendreç quey trobareu </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

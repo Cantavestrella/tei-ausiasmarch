@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 38</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/">
+     <msIdentifier xml:id="K_Ms_2025_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.38r between lines 40 and 41</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_80.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_81.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_82.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C038-K038">
+
+    <pb n="37r" facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_80.html"/>
+
+    <lg type="cobla" n="1" xml:id="C038-lg1">
+
+     <l n="1" xml:id="C038-l1"> s J be mostrau <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> mj no auorriu </l>
+     <l n="2" xml:id="C038-l2"> Ans vos altau de simpla paraula </l>
+     <l n="3" xml:id="C038-l3"> E mos escrits no creeu esser faula </l>
+     <l n="4" xml:id="C038-l4"> E us plau de mj si <choice>
+       <abbr>algû</abbr>
+       <expan>algun</expan>
+      </choice> hom ben diu </l>
+     <l n="5" xml:id="C038-l5"> Quant ymagin <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> per vos yo amar </l>
+     <l n="6" xml:id="C038-l6"> Auorresch mj qui res noy fall <choice>
+       <abbr>dêtegre</abbr>
+       <expan>dentegre</expan>
+      </choice></l>
+     <l n="7" xml:id="C038-l7">
+      <choice>
+       <abbr>Enaꝗll</abbr>
+       <expan>Enaquell</expan>
+      </choice><choice>
+       <abbr>pût</abbr>
+       <expan>punt</expan>
+      </choice> tot <choice>
+       <abbr>mô</abbr>
+       <expan>mon</expan>
+      </choice> bon voler negue </l>
+     <l n="8" xml:id="C038-l8"> Puys <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> vostralt no pensan ben amar </l>
+    </lg>
+
+    <pb n="37v" facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_81.html"/>
+
+    <lg type="cobla" n="2" xml:id="C038-lg2">
+     <l n="9" xml:id="C038-l9"> <c rend="large">C</c>onort bastant en mi no puch <choice>
+       <abbr>pêsar</abbr>
+       <expan>pensar</expan>
+      </choice></l>
+     <l n="10" xml:id="C038-l10"> E si per temps <choice>
+       <abbr>algûa</abbr>
+       <expan>alguna</expan>
+      </choice> part ne tench </l>
+     <l n="11" xml:id="C038-l11"> Sera <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> ço com part damor tal <choice>
+       <abbr>prêch</abbr>
+       <expan>prench</expan>
+      </choice></l>
+     <l n="12" xml:id="C038-l12"> Quel sabra mal sil he desamparar </l>
+     <l n="13" xml:id="C038-l13"> Haure amor demj despossehit </l>
+     <l n="14" xml:id="C038-l14"> Que per null temps tal seruent cobrara </l>
+     <l n="15" xml:id="C038-l15"> Aquest penssar conort maportara </l>
+     <l n="16" xml:id="C038-l16"> Durara tant <choice>
+       <abbr>cô</abbr>
+       <expan>com</expan>
+      </choice> serenfellonjt </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C038-lg3">
+
+     <l n="17" xml:id="C038-l17"> <c rend="large">S</c>o <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice><choice>
+       <abbr>demâ</abbr>
+       <expan>deman</expan>
+      </choice> merex preu jnfinit </l>
+     <l n="18" xml:id="C038-l18"> Nol vull hauer ab res <choice>
+       <abbr>nomerexêt</abbr>
+       <expan>nomerexent</expan>
+      </choice></l>
+     <l n="19" xml:id="C038-l19"> Lanimaus do ques adeu bell present </l>
+     <l n="20" xml:id="C038-l20"> Ella nol plau hauer los cos jaquit </l>
+     <l n="21" xml:id="C038-l21"> Nos prech damor mas <choice>
+      <abbr>ꝗlam</abbr>
+       <expan>quelam</expan>
+      </choice><choice>
+       <abbr>ƌmostreu</abbr>
+       <expan>demostreu</expan>
+      </choice></l>
+     <l n="22" xml:id="C038-l22"> Del ques anuos haure <choice>
+      <abbr>singɫar</abbr>
+       <expan>singular</expan>
+      </choice> grat </l>
+     <l n="23" xml:id="C038-l23"> Si bon voler me tenju amagat </l>
+     <l n="24" xml:id="C038-l24"> Tant am lo mal ab <choice>
+      <abbr>ꝗl</abbr>
+       <expan>quel</expan>
+      </choice>
+      <choice>
+       <abbr>ḿ</abbr>
+       <expan>me</expan>
+      </choice> amagueu </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C038-lg4">
+     <l n="25" xml:id="C038-l25"> <c rend="large">Y</c>o so ben cert que vos mj conexeu </l>
+     <l n="26" xml:id="C038-l26"> E los tres <choice>
+       <abbr>têps</abbr>
+       <expan>temps</expan>
+      </choice> de mj jgnorau </l>
+     <l n="27" xml:id="C038-l27"> Mos <choice>
+       <abbr>pêsaments</abbr>
+       <expan>pensaments</expan>
+      </choice> yo creu <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> sapiau </l>
+     <l n="28" xml:id="C038-l28"> Nous preheu donchs si <choice>
+       <abbr>nô</abbr>
+       <expan>nom</expan>
+      </choice> regonexeu </l>
+     <l n="29" xml:id="C038-l29"> Lo meu voler al jnfinit sacosta </l>
+     <l n="30" xml:id="C038-l30"> Sera <choice>
+       <abbr>côtent</abbr>
+       <expan>content</expan>
+      </choice> del <choice>
+       <abbr>ʋre</abbr>
+       <expan>vostre</expan>
+      </choice> poch o molt </l>
+     <l n="31" xml:id="C038-l31"> Donchs enues mj nous cal anar <choice>
+      <abbr>ƌscolt</abbr>
+       <expan>descolt</expan>
+      </choice></l>
+     <l n="32" xml:id="C038-l32"> Lo camjs pla sens <choice>
+       <abbr>barrâch</abbr>
+       <expan>barranch</expan>
+      </choice> ne <choice>
+       <abbr>grâ</abbr>
+       <expan>gran</expan>
+      </choice> costa </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C038-lg5">
+     <l n="33" xml:id="C038-l33"> <c rend="large">V</c>ostra valor tot <choice>
+       <abbr>quât</abbr>
+       <expan>quant</expan>
+      </choice> puch dar <choice>
+       <abbr>ḿ</abbr>
+       <expan>me</expan>
+      </choice> costa </l>
+     
+     <pb n="38r" facs="http://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_82.html"/>
+
+     <l n="34" xml:id="C038-l34"> <c rend="large">N</c>om resta pus quel viure doloros </l>
+     <l n="35" xml:id="C038-l35"> Dos grans contrasts de voles vetx en vos </l>
+     <l n="36" xml:id="C038-l36"> Mon viureus plau de mort es la resposta </l>
+     <l n="37" xml:id="C038-l37"> Los vlls tinch cluchs no conech njt ne jorn </l>
+     <l n="38" xml:id="C038-l38"> Ne tinch hom prop qui <choice>
+      <abbr>ƌl</abbr>
+       <expan>del</expan>
+      </choice><choice>
+       <abbr>têps</abbr>
+       <expan>temps</expan>
+      </choice> me auise </l>
+     <l n="39" xml:id="C038-l39"> Ne sent res ferm ab <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> lo <choice>
+       <abbr>têps</abbr>
+       <expan>temps</expan>
+      </choice> diuise </l>
+     <l n="40" xml:id="C038-l40"> Ab tot aço ma <choice>
+       <abbr>pêsa</abbr>
+       <expan>pensa</expan>
+      </choice> no pren born </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C038-lg6">
+     <l n="41" xml:id="C038-l41"> <c rend="large">L</c>ir entre carts djns en mj port vn forn </l>
+     <l n="42" xml:id="C038-l42"> Coent vn pa duna dolça sabor </l>
+     <l n="43" xml:id="C038-l43"> Y <choice>
+      <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice> matex sent duna <choice>
+       <abbr>grâ</abbr>
+       <expan>gran</expan>
+      </choice> amargor </l>
+     <l n="44" xml:id="C038-l44"> Tot açom pren deu hores en lo jorn </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

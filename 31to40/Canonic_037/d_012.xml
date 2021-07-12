@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 37</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/">
+     <msIdentifier xml:id="d_Ed_1555_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.18r After end of previous poem, before this one</locus>DE AMOR CANTO. XII.</rubric>
+       <rubric>
+        <locus>f.19r between lines 48 and 49</locus>TORNADA.</rubric>
+       <rubric>
+        <locus>f.19r After end of poem</locus>FIN DEL CANTO. XII.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_40.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_41.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_42.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C037-d012">
+
+    <pb n="18r"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_40.html"/>
+
+    <lg type="cobla" n="1" xml:id="C037-lg1">
+     <l n="1" xml:id="C037-l1"><c rend="large">L</c>A mia por / d'alguna causa's mou </l>
+     <l n="2" xml:id="C037-l2"> per be quel juhi / se meta en bon essér: </l>
+     <l n="3" xml:id="C037-l3"> mon sentiment / propheta verdadér </l>
+     <l n="4" xml:id="C037-l4"> de bon pensar / mon pensament remou. </l>
+     <l n="5" xml:id="C037-l5"> Ques aço donchs / quem lleua mon repos? </l>
+     <l n="6" xml:id="C037-l6"> e lo dormir / la congoixa lom tol? </l>
+     <l n="7" xml:id="C037-l7"> e ma raho / cuyda morir per dol </l>
+     <l n="8" xml:id="C037-l8"> com en remey / donar james ha clos </l>
+    </lg>
+
+    <pb n="18v"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_41.html"/>
+    
+    <lg type="cobla" n="2" xml:id="C037-lg2">
+     <l n="9" xml:id="C037-l9"> Dolor me puny / quem dona'l cor <choice>
+       <abbr>grâ</abbr>
+       <expan>gran</expan>
+      </choice> mos </l>
+     <l n="10" xml:id="C037-l10"> ne causa veig / del auenidor dan </l>
+     <l n="11" xml:id="C037-l11"> mon espirit / es mal pronostican </l>
+     <l n="12" xml:id="C037-l12"> generalment / que especial nol pos. </l>
+     <l n="13" xml:id="C037-l13"><choice>
+       <abbr>Quâ</abbr>
+       <expan>Quan</expan>
+      </choice> me despert / me <choice>
+       <abbr>sêbla</abbr>
+       <expan>sembla</expan>
+      </choice><choice>
+       <abbr>quê</abbr>
+       <expan>quem</expan>
+      </choice> desperta </l>
+     <l n="14" xml:id="C037-l14"> huna dolor / ab agut punyiment </l>
+     <l n="15" xml:id="C037-l15"> familiar / hetant est pensament, </l>
+     <l n="16" xml:id="C037-l16"> quel dan vinent / ja tinch per cosa çerta. </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C037-lg3">
+     <l n="17" xml:id="C037-l17"> ¶ Yo so ben cert / que vos no sou ben çerta </l>
+     <l n="18" xml:id="C037-l18"> de mon voler / del qual me so callat </l>
+     <l n="19" xml:id="C037-l19"> ma colpa es / com nom so clar mostrát </l>
+     <l n="20" xml:id="C037-l20"> tal Amor no / mereix esser cuberta. </l>
+     <l n="21" xml:id="C037-l21"> Ia so pus lluny / de mon voler mostrar </l>
+     <l n="22" xml:id="C037-l22"> apoch apoch / mon esforç sent descreixer </l>
+     <l n="23" xml:id="C037-l23"> lo que de mi sabeu no pot mereixer </l>
+     <l n="24" xml:id="C037-l24"> que'n mi penseu / amar ne desamar. </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C037-lg4">
+     <l n="25" xml:id="C037-l25">  ¶ Sobres Amor / de vos me a fet lunyár </l>
+     <l n="26" xml:id="C037-l26"> e dintre si / vol esser departit </l>
+     <l n="27" xml:id="C037-l27"> per molt amar / mon voler no he dit </l>
+     <l n="28" xml:id="C037-l28"> e sentiment / dell, a vos no vull dar. </l>
+     <l n="29" xml:id="C037-l29"> Vos no sabeu / lo meu voler secret </l>
+     <l n="30" xml:id="C037-l30"> vos nol sentiu / yo sobres dolor sent: </l>
+     <l n="31" xml:id="C037-l31"> Amor ho fa / sens vs de'nteniment </l>
+     <l n="32" xml:id="C037-l32"> fartant a vos / dant a mi fam e set. </l>
+    </lg>
+
+    <pb n="19r"
+     facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_42.html"/>
+
+    <lg type="cobla" n="5" xml:id="C037-lg5">
+     <l n="33" xml:id="C037-l33"> ¶ Los mal tan grans / <choice>
+      <abbr>ꝗl</abbr>
+       <expan>quel</expan>
+      </choice> Amor me <choice>
+       <abbr>ṗmet</abbr>
+       <expan>promet</expan>
+      </choice> </l>
+     <l n="34" xml:id="C037-l34"> esforç no sent / quils gosas emparar, </l>
+     <l n="35" xml:id="C037-l35"> yo am lo dan / vengut per vos amar </l>
+     <l n="36" xml:id="C037-l36"> pensar deueu / quant m'hes lo benifét. </l>
+     <l n="37" xml:id="C037-l37"> A vos ador / sino men repreneu: </l>
+     <l n="38" xml:id="C037-l38"> dexau a mi / carrech de conçiença. </l>
+     <l n="39" xml:id="C037-l39"> en tant estrem / es ma gran ben volença </l>
+     <l n="40" xml:id="C037-l40"> que vos confes / per vn terrenal Deu. </l>
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C037-lg6">
+     <l n="41" xml:id="C037-l41"> ¶ No dire ja / que siau lo mal meu </l>
+     <l n="42" xml:id="C037-l42"> car tot lo mal / yol tinch en molt gran be </l>
+     <l n="43" xml:id="C037-l43"> si mon amich / semblant del meu mal te </l>
+     <l n="44" xml:id="C037-l44"> yo per son be / volgra'nans ser en creu: </l>
+     <l n="45" xml:id="C037-l45"> Amor me fa / lo carrech sostenir </l>
+     <l n="46" xml:id="C037-l46"> yol malehesch / si per null temps me fall: </l>
+     <l n="47" xml:id="C037-l47"> e si mon cos / de sa virtut de fall </l>
+     <l n="48" xml:id="C037-l48"> noli don mort / per son mal no finir. </l>
+    </lg>
+
+    <lg type="tornada" n="7" xml:id="C037-lg7">
+     <l n="49" xml:id="C037-l49"> ¶ Lir entre carts / tot quant deuos yo mir </l>
+     <l n="50" xml:id="C037-l50"> e quant me pens / me fa creixer de Amor </l>
+     <l n="51" xml:id="C037-l51"> delit me sent / ales veus sens dolor </l>
+     <l n="52" xml:id="C037-l52"> e puis me dol / tant com puch sofferir. </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

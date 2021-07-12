@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 45</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/poesias-de-ausias-y-mena-manuscrito--0/">
+     <msIdentifier xml:id="F_Ms_2244_BGHUS">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.42v After end of previous poem, before this one</locus>Altra</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_88.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_89.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_90.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_91.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_92.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C045-F044">
+    <pb n="42v"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_88.html"/>
+    <lg type="cobla" n="1" xml:id="C045-lg1">
+     <l n="1" xml:id="C045-l1"> <c rend="large">L</c>os ignorants amor e sos exemples </l>
+     <l n="2" xml:id="C045-l2"> Crehent quels fets daquell son estats faula </l>
+     <l n="3" xml:id="C045-l3"> Reprenen mj per quem trespo<del rend="overstrike">s</del>rt en altre </l>
+     <l n="4" xml:id="C045-l4"> Prenjnt delit en franch arbitre perdre </l>
+     <l n="5" xml:id="C045-l5"> A llur semblant un gran mjracle sembla </l>
+     <l n="6" xml:id="C045-l6"> E maiorment alguns pus forts articles </l>
+     <l n="7" xml:id="C045-l7"> Descreen mort esser de grat suferta </l>
+     <l n="8" xml:id="C045-l8"> E quen dolor damor delit se mescle </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C045-lg2">
+     <l n="9" xml:id="C045-l9"> <c rend="large">F</c>och amagat nudrit dins en les uenes </l>
+     <l n="10" xml:id="C045-l10"> Ffaent gran fum per vya dretay torta </l>
+     <l n="11" xml:id="C045-l11"> Jra dins pau e turment molt alegre </l>
+     <l n="12" xml:id="C045-l12"> Lum clar e bell ab si portant tenebres </l>
+     <l n="13" xml:id="C045-l13"> Aquests contrasts los fins amadors senten </l>
+     <l n="14" xml:id="C045-l14"> Dins en <note type="editorial">Dintre canviat a Dins en.</note>
+      un temps amor dins ells alloga </l>
+     <l n="15" xml:id="C045-l15"> E tots aquells no crehents ser possible </l>
+     <l n="16" xml:id="C045-l16"> Sols desser nats natura pren vergonya </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C045-lg3">
+     <l n="17" xml:id="C045-l17"> <c rend="large">V</c>ehent lo cel ma natura disposta </l>
+     <l n="18" xml:id="C045-l18"> Volch jnflujr dors poders separables </l>
+     <l n="19" xml:id="C045-l19"> Amj vinents ab manera diuersa </l>
+     <l n="20" xml:id="C045-l20"> Cascu prenent la part a ell condigna </l>
+     <l n="21" xml:id="C045-l21"> Ffahent amar simplament la mjarma </l>
+     <l n="22" xml:id="C045-l22"> Lo seu semblant sentit de ujci munda </l>
+     <l n="23" xml:id="C045-l23"> E laltra part en mj no roman solta </l>
+     <l n="24" xml:id="C045-l24"> Yen son uoler son decret larma posa </l>
+    </lg>
+    <pb n="43r"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_89.html"/>
+    <lg type="cobla" n="4" xml:id="C045-lg4">
+     <l n="25" xml:id="C045-l25"> <c rend="large">A</c>quellamor ques diu uoluntat bona </l>
+     <l n="26" xml:id="C045-l26"> E solament sguarda part honesta </l>
+     <l n="27" xml:id="C045-l27"> Aquestamor ha fet amj amable </l>
+     <l n="28" xml:id="C045-l28"> Per mon semblant el mjiancant mjnjstre </l>
+     <l n="29" xml:id="C045-l29"> E laltramor quen delit sentitola </l>
+     <l n="30" xml:id="C045-l30"> E donestat es enimich rebelle </l>
+     <l n="31" xml:id="C045-l31"> Marma e cors per ell prenen ses armes </l>
+     <l n="32" xml:id="C045-l32"> Aportants pau e guerra tot ensemble </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C045-lg5">
+     <l n="33" xml:id="C045-l33"> <c rend="large">A</c>questamor per nostres senys nos entra </l>
+     <l n="34" xml:id="C045-l34"> E fa present al comu seny e passa </l>
+     <l n="35" xml:id="C045-l35"> Lo presentat per sos mjgs al entendre </l>
+     <l n="36" xml:id="C045-l36"> Don uoler creix tant com lom si delita </l>
+     <l n="37" xml:id="C045-l37"> Mas per quen grau delitos lamant puge </l>
+     <l n="38" xml:id="C045-l38"> Dins en lostal que venus lo alleuja </l>
+     <l n="39" xml:id="C045-l39"> Totes uirtuts e seny dela persona </l>
+     <l n="40" xml:id="C045-l40"> Son desijats en serujtut del acte </l>
+    </lg>
+    <lg type="cobla" n="6" xml:id="C045-lg6">
+     <l n="41" xml:id="C045-l41"> <c rend="large">C</c>ells quj amor bestialment pratiquen </l>
+     <l n="42" xml:id="C045-l42"> Sens acollir en part delit dentendre </l>
+     <l n="43" xml:id="C045-l43"> Sol per la carn llur apetit se liga </l>
+     <l n="44" xml:id="C045-l44"> Que sino brut plaer nols acompanya </l>
+     <l n="45" xml:id="C045-l45"> Quj uol trobar amor quj null temps folgua </l>
+     <l n="46" xml:id="C045-l46"> Nola cerch lla on lo poder se venca </l>
+     <l n="47" xml:id="C045-l47"> Car tota res perdent la sua causa </l>
+     <l n="48" xml:id="C045-l48"> No es trobat de aquell algun esser </l>
+    </lg>
+    <pb n="43v"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_90.html"/>
+    <lg type="cobla" n="7" xml:id="C045-lg7">
+     <l n="49" xml:id="C045-l49"> <c rend="large">A</c>lguns elets en molt espoquat nombre </l>
+     <l n="50" xml:id="C045-l50"> Quj solament damor despirit amen </l>
+     <l n="51" xml:id="C045-l51"> Daquestamor participen ab angel </l>
+     <l n="52" xml:id="C045-l52"> E tal uoler en per null temps se canssa </l>
+     <l n="53" xml:id="C045-l53"> Los quj amor ab cors e arma senten </l>
+     <l n="54" xml:id="C045-l54"> A mant lo cors e mes la part delarma </l>
+     <l n="55" xml:id="C045-l55"> Grau de amor homeniuol atenyen </l>
+     <l n="56" xml:id="C045-l56"> Sobre dos colls lo jou damor aporten </l>
+    </lg>
+    <lg type="cobla" n="8" xml:id="C045-lg8">
+     <l n="57" xml:id="C045-l57"> <c rend="large">P</c>uys armay cors donen esser al home </l>
+     <l n="58" xml:id="C045-l58"> Prop de forcat es entrells lo complaure </l>
+     <l n="59" xml:id="C045-l59"> Ame lo cors asson semblant conforme </l>
+     <l n="60" xml:id="C045-l60"> Ne fa reptar sils jnfinjts no cerqua </l>
+     <l n="61" xml:id="C045-l61"> Nostresperit asson semblant cobeie </l>
+     <l n="62" xml:id="C045-l62"> E de aquell tots los actes quen hixen </l>
+     <l n="63" xml:id="C045-l63"> Mas los uolers que daquests composts naxen </l>
+     <l n="64" xml:id="C045-l64"> Son mes punyents que dalgunamor simple </l>
+    </lg>
+    <lg type="cobla" n="9" xml:id="C045-lg9">
+     <l n="65" xml:id="C045-l65"> <c rend="large">D</c>ela uirtut es nostra vidaxempta </l>
+     <l n="66" xml:id="C045-l66"> Si que lo cors venc alarma batalles </l>
+     <l n="67" xml:id="C045-l67"> Yels pochs uolers lo seny del hom no tempra </l>
+     <l n="68" xml:id="C045-l68"> E donchs quant me<del rend="overstrike">nys</del> 
+      <note type="editorial">En el manuscrit el mot apareix mig esborrat.</note>
+     los quj gran forca porten </l>
+     <l n="69" xml:id="C045-l69"> E tal amor lo juhi no escolta </l>
+     <l n="70" xml:id="C045-l70"> Tant dela carn benjuolenca capta </l>
+     <l n="71" xml:id="C045-l71"> Ab cor segur de vencraquella tempta </l>
+     <l n="72" xml:id="C045-l72"> Ses blanes mans los forts diamants pasten </l>
+    </lg>
+    <pb n="44r"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_91.html"/>
+    <lg type="cobla" n="10" xml:id="C045-lg10">
+     <l n="73" xml:id="C045-l73"> <c rend="large">S</c>i be amor les passions auanca </l>
+     <l n="74" xml:id="C045-l74"> En ser primer lo desig li da forca </l>
+     <l n="75" xml:id="C045-l75"> E puys delit lo soste djns son regne </l>
+     <l n="76" xml:id="C045-l76"> Ffallint aquest defall damor lo ceptre </l>
+     <l n="77" xml:id="C045-l77"> No siantes present desonest acte </l>
+     <l n="78" xml:id="C045-l78"> Car fjnamor daltramor se contenta </l>
+     <l n="79" xml:id="C045-l79"> Sino lateny vju desperanca sola </l>
+     <l n="80" xml:id="C045-l80"> E la gran por segueix lo seu contrari </l>
+    </lg>
+    <lg type="cobla" n="11" xml:id="C045-lg11">
+     <l n="81" xml:id="C045-l81"> <c rend="large">C</c>ell quj damor del tot nos lexa vencre </l>
+     <l n="82" xml:id="C045-l82"> Si que raho de son consell no lunya </l>
+     <l n="83" xml:id="C045-l83"> No mereix pas la corona de martre </l>
+     <l n="84" xml:id="C045-l84"> Daquells passjus no hauents altre compte </l>
+     <l n="85" xml:id="C045-l85"> Sino pensar hauer lur vida terme </l>
+     <l n="86" xml:id="C045-l86"> Ffjnjt aquell quj tal estrem los mena </l>
+     <l n="87" xml:id="C045-l87"> Crehent de ferm los fets del mon ser ombra </l>
+     <l n="88" xml:id="C045-l88"> Daquell sol clar quj tot lur cor escalfa </l>
+    </lg>
+    <lg type="cobla" n="12" xml:id="C045-lg12">
+     <l n="89" xml:id="C045-l89"> <c rend="large">O</c>bonamor aquj mort no trjumpha </l>
+     <l n="90" xml:id="C045-l90"> Segons lo dant ystoria recompta </l>
+     <l n="91" xml:id="C045-l91"> E negun seny presumjr nosocupe </l>
+     <l n="92" xml:id="C045-l92"> Contra tu fort victoria consegre </l>
+     <l n="93" xml:id="C045-l93"> E cossos dos abunarma gouernes </l>
+     <l n="94" xml:id="C045-l94"> Per la virtut que damjstat sengrendra </l>
+     <l n="95" xml:id="C045-l95"> Cell quj de tu lo terme penssatenyer </l>
+     <l n="96" xml:id="C045-l96"> No sab de tu dignorancas dexeble </l>
+    </lg>
+    <pb n="44v"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_92.html"/>
+    <lg type="cobla" n="13" xml:id="C045-lg13">
+     <l n="97" xml:id="C045-l97"> <c rend="large">L</c>ir entre carts tres son les grans carreres </l>
+     <l n="98" xml:id="C045-l98"> On veritat per negun temps passeia </l>
+     <l n="99" xml:id="C045-l99"> Jray amor ab si no la consenten </l>
+     <l n="100" xml:id="C045-l100"> E laltra es natural ignoranca </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

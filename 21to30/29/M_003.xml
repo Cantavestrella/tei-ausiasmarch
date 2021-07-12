@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 29</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064.html">
+               <msIdentifier xml:id="M_Ms_1_BA">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>147r after end of previous poem, before this one: </locus>
+                        Sparça <choice>
+                           <abbr>mossȇ</abbr>
+                           <expan>mossen</expan>
+                        </choice> auzias march</rubric>
+
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_297.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C029-M003">
+            <pb n="147r"
+               facs="http://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_297.html"/>
+            <lg type="cobla" n="1" xml:id="C029-lg1">
+               <l n="1" xml:id="C029-l1"> Sicom lo ta<add place="interlinear">ur</add>
+                  <note type="editorial">Grup "ur" afegit damunt d’una
+                     correcció il·legible</note> / seua fuy pel desert </l>
+               <l n="2" xml:id="C029-l2"> Quant es sobtat / <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> son semblant qujl força </l>
+               <l n="3" xml:id="C029-l3"> Netorne may / fins acobrada força </l>
+               <l n="4" xml:id="C029-l4"> Per destrojr / aquell qujl adesert </l>
+               <l n="5" xml:id="C029-l5"> Tot enaxjm / coue lunyar de uos </l>
+               <l n="6" xml:id="C029-l6"> Caruostre gest / mon esguart aconfus </l>
+               <l n="7" xml:id="C029-l7"> No tornare / fjns del tot ajafus </l>
+               <l n="8" xml:id="C029-l8"> Los pensaments / qujm porten les paors </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

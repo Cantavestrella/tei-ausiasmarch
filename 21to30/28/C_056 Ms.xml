@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 28</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez </name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo HIlario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2020-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/">
+               <msIdentifier xml:id="C_Ms_L.iij.26_EE">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+
+                     <rubric><locus>77r between lines 16 and 17</locus>~:Tornada:~</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_154.html"></graphic>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_155.html"></graphic> 
+     
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C028-C056m">
+            <pb n="76v" facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_154.html"/>
+            <lg type="cobla" n="1" xml:id="C028-lg1">
+               <l n="1" xml:id="C028-l1"> Lo jorn ha por / de perdre sa calor </l>
+               <l n="2" xml:id="C028-l2"> com ue la nit / qu'espandeix ses tenebres </l>
+               <l n="3" xml:id="C028-l3"> pochs animals / no clouen les palpebres </l>
+               <l n="4" xml:id="C028-l4"> e los malalts / creixen de lur dolor </l>
+               <l n="5" xml:id="C028-l5"> los mals factors / uolgren tot l'any duras </l>
+               <l n="6" xml:id="C028-l6"> perque lurs mals / haguessen <choice>
+                  <abbr>cobrimȇt</abbr>
+                     <expan>cobriment</expan>
+                  </choice>
+               </l>
+               <l n="7" xml:id="C028-l7"> mas yo uisch menys / depar em <choice>
+                  <abbr>montormȇt</abbr>
+                     <expan>montorment</expan>
+                  </choice>
+               </l>
+               <l n="8" xml:id="C028-l8"> e sens mal fer / uolgra que tost passas. </l>
+            </lg>
+            <pb n="77r" facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_155.html"/>
+            <lg type="cobla" n="2" xml:id="C028-lg2">
+               <l n="9" xml:id="C028-l9"> E d'altra part / fas pus que si matas </l>
+               <l n="10" xml:id="C028-l10"> mill homens justs / menys d'alguna merce </l>
+               <l n="11" xml:id="C028-l11"> car tots mos ginys / he trets per trahirme </l>
+               <l n="12" xml:id="C028-l12"> e no cuydeu / quel jorn men escusas. </l>
+               <l n="13" xml:id="C028-l13"> ans enla nit / treball / rompent ma pensa </l>
+               <l n="14" xml:id="C028-l14"> perqu'enlo jorn / lo trahiment cometa </l>
+               <l n="15" xml:id="C028-l15"> p'or de morir / ne de ser uida streta </l>
+               <l n="16" xml:id="C028-l16"> nom tol esforç / per complir ma offensa. </l>
+            </lg>
+            <lg type="tornada" n="3" xml:id="C028-lg3">
+               <l n="17" xml:id="C028-l17"> Plena de seny / mon <choice>
+                  <abbr>entenimȇt</abbr>
+                     <expan>enteniment</expan>
+                  </choice> pensa </l>
+               <l n="18" xml:id="C028-l18"> com abtament<note type="editorial">Podem llegir abtament o aptament, però ens decantem per la primera lectura</note>/ lo llas d'amor se meta </l>
+               <l n="19" xml:id="C028-l19"> sens aturar / pas tenint uida dreta </l>
+               <l n="20" xml:id="C028-l20"> uaig ala fi / si merce nom defensa. </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

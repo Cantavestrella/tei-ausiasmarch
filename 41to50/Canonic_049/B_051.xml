@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 49</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/obres-dausias-march-manuscrito--0/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.44r between lines 40 and 41</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_89.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_90.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_91.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C040-B051">
+    <pb n="43r"
+     facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_89.html"/>
+    <lg type="cobla" n="1" xml:id="C049-lg1">
+     <l n="1" xml:id="C049-l1">
+      <c rend="large">A</c> mal strany es la pena stranya </l>
+     <l n="2" xml:id="C049-l2"> E lo remey haura sser strany </l>
+     <l n="3" xml:id="C049-l3"> E qui de fret mor per entrar en bany </l>
+     <l n="4" xml:id="C049-l4"> Haura calor si aygua fredal banya </l>
+     <l n="5" xml:id="C049-l5"> E sil comens sacostal jmpossible </l>
+     <l n="6" xml:id="C049-l6"> Lo mjtx seguex ela fi lo <choice>
+       <abbr>comȇs</abbr>
+       <expan>comens</expan>
+      </choice>
+     </l>
+     <l n="7" xml:id="C049-l7"> Ab forces tals amor mj amant vens </l>
+     <l n="8" xml:id="C049-l8"> Que planament lo dir nomes possible </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C049-lg2">
+     <l n="9" xml:id="C049-l9">
+      <c rend="large">E</c>n contramj amor es molt orrible </l>
+     <l n="10" xml:id="C049-l10"> E tant plaent quema fet ser <choice>
+       <abbr>contêt</abbr>
+       <expan>content</expan>
+      </choice>
+     </l>
+     <l n="11" xml:id="C049-l11"> Car dauant mj tinch be <choice>
+       <abbr>côplit</abbr>
+       <expan>complit</expan>
+      </choice> present </l>
+     <l n="12" xml:id="C049-l12"> E daltra part me puny dolor terrible<note type="editorial">Acaba
+       el full amb un vers quasi repetit per error del copista, "Aquesta es vna dolor terrjble".</note>
+     </l>
+     <pb n="43v"
+      facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_90.html"/>
+     <l n="13" xml:id="C049-l13"> Aquesta es vna dolor nouella </l>
+     <l n="14" xml:id="C049-l14"> Que dins mon cap ha fet nouella obra </l>
+     <l n="15" xml:id="C049-l15"> Desasentant la mja pensa pobra </l>
+     <l n="16" xml:id="C049-l16"> Que assos mals tenia sa jahella </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C049-lg3">
+     <l n="17" xml:id="C049-l17">
+      <c rend="large">A</c>mor en mj no fa gran marauella </l>
+     <l n="18" xml:id="C049-l18"> Fermant sas leys en <choice>
+       <abbr>têps</abbr>
+       <expan>temps</expan>
+      </choice> passat posades </l>
+     <l n="19" xml:id="C049-l19"> Mas per lonch temps eren ja oblidades </l>
+     <l n="20" xml:id="C049-l20"> Per mj amor son poder tornan sella </l>
+     <l n="21" xml:id="C049-l21"> E si com deu mjracles volch mostrar </l>
+     <l n="22" xml:id="C049-l22"> Perquels jueus fermament lo creguessen </l>
+     <l n="23" xml:id="C049-l23"> Fahents parlar los muts e quels sechs vessen </l>
+     <l n="24" xml:id="C049-l24"> Amor li plau que perda lo parlar </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C049-lg4">
+     <l n="25" xml:id="C049-l25">
+      <c rend="large">E</c>nues alguns aço miracle par </l>
+     <l n="26" xml:id="C049-l26"> Mas sins membram de <hi rend="underline">arnau danjel</hi></l>
+     <l n="27" xml:id="C049-l27"> E de aquells que la terrals es vell </l>
+     <l n="28" xml:id="C049-l28"> Sabrem amor ves nos <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> pot mostrar </l>
+     <l n="29" xml:id="C049-l29"> La que yo am en egual dela vida </l>
+     <l n="30" xml:id="C049-l30"> Mostre vorrir en fets e continent </l>
+     <l n="31" xml:id="C049-l31"> Quant li so prop he della <choice>
+       <abbr>sbaymêt</abbr>
+       <expan>sbayment</expan>
+      </choice>
+     </l>
+     <l n="32" xml:id="C049-l32"> Ab continent de hauerla auorrida </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C049-lg5">
+     <l n="33" xml:id="C049-l33">
+      <c rend="large">D</c>ins en mj sent vna forçanfinida </l>
+     <l n="34" xml:id="C049-l34"> Tant ques pus fort que lo desitx damor </l>
+     <l n="35" xml:id="C049-l35"> Cascu daquests damor pren sa fauor </l>
+     <l n="36" xml:id="C049-l36"> Mas egual ment entrells no es partida </l>
+     <l n="37" xml:id="C049-l37"> Car mon desitx no basta fer manasses </l>
+     <l n="38" xml:id="C049-l38"> A la gran por que sens bastol castiga </l>
+     <l n="39" xml:id="C049-l39"> Daquesta es amor tan gran amjga </l>
+     <l n="40" xml:id="C049-l40"> Que tol poder al desitx de sos braços </l>
+    </lg>
+    <pb n="44r"
+     facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_91.html"/>
+    <lg type="tornada" n="6" xml:id="C049-lg6">
+     <l n="41" xml:id="C049-l41">
+      <c rend="large">L</c>ir entre carts amor no te pus laços </l>
+     <l n="42" xml:id="C049-l42"> Quem tinguen pres si daquests yo scape </l>
+     <l n="43" xml:id="C049-l43"> Vngles no te ab que ma carn arrape </l>
+     <l n="44" xml:id="C049-l44"> Mas dorm segur de present en sos braços </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

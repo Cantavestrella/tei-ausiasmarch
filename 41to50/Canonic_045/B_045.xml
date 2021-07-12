@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 45</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/obres-dausias-march-manuscrito--0/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.39r between lines 96 and 97</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_77.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_78.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_79.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_80.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_81.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C045-B045">
+    <pb n="37r"
+     facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_77.html"/>
+    <lg type="cobla" n="1" xml:id="C045-lg1">
+     <l n="1" xml:id="C045-l1"> <c rend="large">L</c>os jgnorans amor e sos exemples </l>
+     <l n="2" xml:id="C045-l2"> Crehents quels fets daquell son stats faula </l>
+     <l n="3" xml:id="C045-l3"> Reprenent mi perquem transport en altre </l>
+     <l n="4" xml:id="C045-l4"> Prenent delit en franch arbitre perdre </l>
+     <l n="5" xml:id="C045-l5"> A llur semblant vn gran miraccle sembla </l>
+     <l n="6" xml:id="C045-l6"> E maiorment alguns pus forts articcles </l>
+     <l n="7" xml:id="C045-l7"> Descrehen mort esser de grat sufferta </l>
+     <l n="8" xml:id="C045-l8"> E quen delit dolor damor se mescla </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C045-lg2">
+     <l n="9" xml:id="C045-l9"> <c rend="large">F</c>och amagat nodrit dintre les venes </l>
+     <l n="10" xml:id="C045-l10"> Fahent gran fum per via dreta y torta </l>
+     <pb n="37v"
+      facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_78.html"/>
+     <l n="11" xml:id="C045-l11"> Jra dins pau e turment molt alegre </l>
+     <l n="12" xml:id="C045-l12"> Lum clar e bell ab si portant tenebres </l>
+     <l n="13" xml:id="C045-l13"> Aquests contrasts los grans amados senten </l>
+     <l n="14" xml:id="C045-l14"> Dins en vn temps amor djns ells alloga </l>
+     <l n="15" xml:id="C045-l15"> E tots <choice>
+      <abbr>ȃqlls</abbr>
+       <expan>aquells</expan>
+      </choice> no crehent ser possible </l>
+     <l n="16" xml:id="C045-l16"> Sol desser nats natura pren vergonya </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C045-lg3">
+     <l n="17" xml:id="C045-l17"> <c rend="large">D</c>eu elo cel ma natura disposta </l>
+     <l n="18" xml:id="C045-l18"> Volgren fluir dos pedres separables </l>
+     <l n="19" xml:id="C045-l19"> Mi enclinant ab natura diuersa </l>
+     <l n="20" xml:id="C045-l20"> Cascu prenent la part a ell condigna </l>
+     <l n="21" xml:id="C045-l21"> Faent amar simplament lamiarma </l>
+     <l n="22" xml:id="C045-l22"> Lo seu semblant <choice>
+      <abbr>sentȋt</abbr>
+       <expan>sentint</expan>
+      </choice> de viçi mudada </l>
+     <l n="23" xml:id="C045-l23"> E laltra part en mj no roman solta </l>
+     <l n="24" xml:id="C045-l24"> Y en tal voler son decret larma posa </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C045-lg4">
+     <l n="25" xml:id="C045-l25"> <c rend="large">A</c>quellamor ques diu voluntat bona </l>
+     <l n="26" xml:id="C045-l26"> E solament sguarda part honesta </l>
+     <l n="27" xml:id="C045-l27"> Aquesta mor ha fet amj amable </l>
+     <l n="28" xml:id="C045-l28"> Per mon semblant ell mjjançant ministre </l>
+     <l n="29" xml:id="C045-l29"> Elaltramor que delitables dita </l>
+     <l n="30" xml:id="C045-l30"> E son exces adesonestat guarda </l>
+     <l n="31" xml:id="C045-l31"> Arma e cos per ell prenen ses armes </l>
+     <l n="32" xml:id="C045-l32"> Aportans pau e guerra tot ensemble </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C045-lg5">
+     <l n="33" xml:id="C045-l33"><c rend="large">A</c>questamor per los senys forans entra </l>
+     <l n="34" xml:id="C045-l34"> E fa present al comu seny e passa </l>
+     <l n="35" xml:id="C045-l35"> Lo presentat per sos mjtxs al entendre </l>
+     <l n="36" xml:id="C045-l36"> Don voler crex tant com lom si delita </l>
+     <l n="37" xml:id="C045-l37"> Mas per quen grau dilitos lamant puie </l>
+     <l n="38" xml:id="C045-l38"> Dins en lostal que venus lo alleuia </l>
+     <l n="39" xml:id="C045-l39"> Totes virtuts dela personamada </l>
+     <l n="40" xml:id="C045-l40"> Requer lamant en seruitut del acte </l>
+    </lg>
+    <pb n="38r"
+     facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_79.html"/>
+    <lg type="cobla" n="6" xml:id="C045-lg6">
+     <l n="41" xml:id="C045-l41"><c rend="large">L</c>os qui amor bestialment pratiquen </l>
+     <l n="42" xml:id="C045-l42"> Sens acollir en part delit dentendre </l>
+     <l n="43" xml:id="C045-l43"> Sol per la carn llur apetit se ligua </l>
+     <l n="44" xml:id="C045-l44"> Que sino brut plaer nols <choice>
+      <abbr>acompȃya</abbr>
+       <expan>acompanya</expan>
+      </choice>
+     </l>
+     <l n="45" xml:id="C045-l45"> Qui vol t<add place="interlinear">r</add>obar amor que null temps falga </l>
+     <l n="46" xml:id="C045-l46"> Nola crech lla hon lo poder se vença </l>
+     <l n="47" xml:id="C045-l47"> Car tota res perdent la sua causa </l>
+     <l n="48" xml:id="C045-l48"> No es trobat de <choice>
+      <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice> algun esser </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C045-lg7">
+     <l n="49" xml:id="C045-l49"> <c rend="large">A</c>lguns elets en molt spocat nombre </l>
+     <l n="50" xml:id="C045-l50"> Qui solament damor desperit amen </l>
+     <l n="51" xml:id="C045-l51"> Daquestamor partiçipen ab langel </l>
+     <l n="52" xml:id="C045-l52"> Etal voler per algun temps nos cança </l>
+     <l n="53" xml:id="C045-l53"> Los qui amor ab cos e arma senten </l>
+     <l n="54" xml:id="C045-l54"> Amant lo cos emes la part delarma </l>
+     <l n="55" xml:id="C045-l55"> Grau de amor homeniuol atenyen </l>
+     <l n="56" xml:id="C045-l56"> Sobre dos colls lo jou damor aporten </l>
+    </lg>
+    <lg type="cobla" n="8" xml:id="C045-lg8">
+     <l n="57" xml:id="C045-l57"> <c rend="large">P</c>uys arma y cos donen esser al home </l>
+     <l n="58" xml:id="C045-l58"> Prop de forcat es entrells lo conplaure </l>
+     <l n="59" xml:id="C045-l59"> Ama lo cos ason semblant conforme </l>
+     <l n="60" xml:id="C045-l60"> Ne fa reptar sils jnfinjts no cerqua </l>
+     <l n="61" xml:id="C045-l61"> Nostrespirit ason semblant cobeia </l>
+     <l n="62" xml:id="C045-l62"> E de aquell tots los actes quen jxen </l>
+     <l n="63" xml:id="C045-l63"> Mas los voles que daquests composts naxen </l>
+     <l n="64" xml:id="C045-l64"> Son mes punyents que dalgunamor simple </l>
+    </lg>
+    <lg type="cobla" n="9" xml:id="C045-lg9">
+     <l n="65" xml:id="C045-l65"> <c rend="large">D</c>ela virtut es nostra vidaxempta </l>
+     <l n="66" xml:id="C045-l66"> Si que lo cos venç alarma batalles </l>
+     <l n="67" xml:id="C045-l67"> Los pochs voles la raho dom no tempra </l>
+     <l n="68" xml:id="C045-l68"> E donchs quant menys los qui gran força porten </l>
+     <pb n="38v"
+      facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_80.html"/>
+     <l n="69" xml:id="C045-l69"> E tal amor lo juhi no escolta </l>
+     <l n="70" xml:id="C045-l70"> Tant dela carn beniuolença capta </l>
+     <l n="71" xml:id="C045-l71"> Ab cor segur de vencraquella tempta </l>
+     <l n="72" xml:id="C045-l72"> Ses blanes mans los forts diamants pastan </l>
+    </lg>
+    <lg type="cobla" n="10" xml:id="C045-lg10">
+     <l n="73" xml:id="C045-l73"> <c rend="large">S</c>i be amor les pations auança </l>
+     <l n="74" xml:id="C045-l74"> En ser primer lo desitx li da força </l>
+     <l n="75" xml:id="C045-l75"> E puys delit lo soste dins son regne </l>
+     <l n="76" xml:id="C045-l76"> Fallint aquest fallix damor lo ceptre </l>
+     <l n="77" xml:id="C045-l77"> No siantes present desonest acte </l>
+     <l n="78" xml:id="C045-l78"> Car veramor daltramor se contenta </l>
+     <l n="79" xml:id="C045-l79"> Sinolateny viu desperança sola </l>
+     <l n="80" xml:id="C045-l80"> Ela gran por seguex lo seu contrari </l>
+    </lg>
+    <lg type="cobla" n="11" xml:id="C045-lg11">
+     <l n="81" xml:id="C045-l81"> <c rend="large">L</c>o qui damor del tot nos dexa vencre </l>
+     <l n="82" xml:id="C045-l82"> Si que raho de son conçell no llunya </l>
+     <l n="83" xml:id="C045-l83"> No merex pas la corona de martre </l>
+     <l n="84" xml:id="C045-l84">
+      <choice>
+       <abbr>Daꝗlls</abbr>
+       <expan>Daquells</expan>
+      </choice> passius no fahents altre compte </l>
+     <l n="85" xml:id="C045-l85"> Sino penssar hauer lur vida terme </l>
+     <l n="86" xml:id="C045-l86"> Finjt aquell quin tal strem los mena </l>
+     <l n="87" xml:id="C045-l87"> Crehent de ferm los fets del mon ser ombra </l>
+     <l n="88" xml:id="C045-l88"> Daquell sol clar efoch mes <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> tenebra </l>
+    </lg>
+    <lg type="cobla" n="12" xml:id="C045-lg12">
+     <l n="89" xml:id="C045-l89"> <c rend="large">O</c> bonamor aqui mort no triumpha </l>
+     <l n="90" xml:id="C045-l90"> Segons lo dant ystorial recompta </l>
+     <l n="91" xml:id="C045-l91"> E nengun seny presomjr se occupa </l>
+     <l n="92" xml:id="C045-l92"> Contra tu fort victoria consegre </l>
+     <l n="93" xml:id="C045-l93"> E cossos dos ab vnarma gouernes </l>
+     <l n="94" xml:id="C045-l94"> Pel gran delit que damjstat sengendre </l>
+     <l n="95" xml:id="C045-l95"> Lo qui de tu lo terme pensatenyer </l>
+     <l n="96" xml:id="C045-l96"> No sab qui est dignoranças dexeble </l>
+    </lg>
+    <pb n="39r"
+     facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_81.html"/>
+    <lg type="tornada" n="13" xml:id="C045-lg13">
+     <l n="97" xml:id="C045-l97"> <c rend="large">L</c>ir entre carts tres son les grans carreras </l>
+     <l n="98" xml:id="C045-l98"> On veritat per ningun temps passeija </l>
+     <l n="99" xml:id="C045-l99"> Jra y amor ab si nola consenten </l>
+     <l n="100" xml:id="C045-l100"> E laltra es natural <choice>
+      <abbr>jgnorȃça</abbr>
+       <expan>jgnorança</expan>
+      </choice>
+     </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

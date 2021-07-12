@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 49</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.99 After end of previous poem, before this one</locus>§ Mossen Ausias march
+        §</rubric>
+       <rubric>
+        <locus>p.100 between lines 40 and 41</locus>§Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_101.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_102.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C049-N048">
+    <pb n="99"
+     facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_101.html"/>
+    <lg type="cobla" n="1" xml:id="C049-lg1">
+     <l n="1" xml:id="C049-l1"> ¶ Amal estrany es lapena estranya </l>
+     <l n="2" xml:id="C049-l2"> Elo remey auria ser estrany </l>
+     <l n="3" xml:id="C049-l3"> E quj de fret mor per entrar enbany </l>
+     <l n="4" xml:id="C049-l4"> Aura calor si aygua fredalbanya </l>
+     <l n="5" xml:id="C049-l5"> E sil comenc ve per mig imposible </l>
+     <l n="6" xml:id="C049-l6"> Lo mig seguex ela fi lo comenc </l>
+     <l n="7" xml:id="C049-l7"> Ab forces tal amor mj amant venc </l>
+     <l n="8" xml:id="C049-l8"> Que planament lo dir nom es posible </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C049-lg2">
+     <l n="9" xml:id="C049-l9"> En contramj lamor es molt orible </l>
+     <l n="10" xml:id="C049-l10"> E tant plaent quemha fet ser content </l>
+     <l n="11" xml:id="C049-l11"> Car dauant mj tinch be complit present </l>
+     <l n="12" xml:id="C049-l12"> E daltra part me puny dolor terible </l>
+     <l n="13" xml:id="C049-l13"> Aquesta es vna dolor nouella </l>
+     <l n="14" xml:id="C049-l14"> Que dins mon cap ha fet nouella hobra </l>
+     <l n="15" xml:id="C049-l15"> Desasentant lamia pensa pobra </l>
+     <l n="16" xml:id="C049-l16"> Que asos mals tema sagaella </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C049-lg3">
+     <l n="17" xml:id="C049-l17"> Amor enmj no fa gran marauella </l>
+     <l n="18" xml:id="C049-l18"> Ffermant ses leys entemps passar posades </l>
+     <l n="19" xml:id="C049-l19"> Mas per lonch temps eren ja oblidades </l>
+     <l n="20" xml:id="C049-l20"> Permj amor son poder tornan sella </l>
+     <l n="21" xml:id="C049-l21"> E si com deu miracles volch mostrar </l>
+     <l n="22" xml:id="C049-l22"> Perquels <choice>
+       <abbr>juheꝯ</abbr>
+       <expan>juheus</expan>
+      </choice> fermament locreguessen </l>
+     <l n="23" xml:id="C049-l23"> Ffahent parlar los muts equels cechs vessen </l>
+     <l n="24" xml:id="C049-l24"> Amor lj plau que perda lo parlar </l>
+    </lg>
+    <pb n="100"
+     facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_102.html"/>
+    <lg type="cobla" n="4" xml:id="C049-lg4">
+     <l n="25" xml:id="C049-l25"> Enuers alguns aco miracle par </l>
+     <l n="26" xml:id="C049-l26"> Mas <choice>
+       <abbr>siꝯ</abbr>
+       <expan>sius</expan>
+      </choice> membrau de arnau danjell </l>
+     <l n="27" xml:id="C049-l27"> E de aquells que laterals es vel </l>
+     <l n="28" xml:id="C049-l28"> Sabrem amor ves nos que pot mostrar </l>
+     <l n="29" xml:id="C049-l29"> Cella que am en agual dela vida </l>
+     <l n="30" xml:id="C049-l30"> Mostrauorrir en fets yen continent </l>
+     <l n="31" xml:id="C049-l31"> Quant lj so prop he dellasbeyment </l>
+     <l n="32" xml:id="C049-l32"> Ab continent de auerlauorida </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C049-lg5">
+     <l n="33" xml:id="C049-l33"> Djns enmj sent vna forcanfinida </l>
+     <l n="34" xml:id="C049-l34"> Tant ques pus fort que lo desig damor </l>
+     <l n="35" xml:id="C049-l35"> Cascu daquests damors pren sa furor </l>
+     <l n="36" xml:id="C049-l36"> Mas egualment entrells no es partida </l>
+     <l n="37" xml:id="C049-l37"> Car mon desig no basta fermenaces </l>
+     <l n="38" xml:id="C049-l38"> A la gran por<del rend="overstrike">t</del> quil bat fort el
+      castiga </l>
+     <l n="39" xml:id="C049-l39"> Daquesta es amor tan gran amiga </l>
+     <l n="40" xml:id="C049-l40"> Que tol poder als desigs de sos bracos </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C049-lg6">
+     <l n="41" xml:id="C049-l41"> Lir entre carts amor no te <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> lacos </l>
+     <l n="42" xml:id="C049-l42"> Quem tinguen pres si daquests yo escape </l>
+     <l n="43" xml:id="C049-l43"> Ungles no te abque ma carn arrape </l>
+     <l n="44" xml:id="C049-l44"> Mas dorm segur de<choice>
+      <abbr>ꝑsent</abbr>
+       <expan>present</expan>
+      </choice> en sos bracos </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 34</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/><!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C034-D034">
+
+    <pb n="31r"
+     facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+
+    <lg type="cobla" n="1" xml:id="C034-lg1">
+     <l n="1" xml:id="C034-l1"> <c rend="large">T</c>ots los desigs escampats enlo mon </l>
+     <l n="2" xml:id="C034-l2"> entrelesgents segons forde cascu </l>
+     <l n="3" xml:id="C034-l3"> ab trencat peu apas vandetras hu </l>
+     <l n="4" xml:id="C034-l4"> qui es lo meu elonch temps haquefon </l>
+     <l n="5" xml:id="C034-l5"> Sicom los puigs / poran fugir als vents </l>
+     <l n="6" xml:id="C034-l6"> <del rend="overstrike">e</del>ma voluntat / dell poriacampar </l>
+     <l n="7" xml:id="C034-l7"> envn loch ferm / licoue esperar </l>
+     <l n="8" xml:id="C034-l8"> nel pot minuar / aquell mal pensament </l>
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C034-lg2">
+     <l n="9" xml:id="C034-l9"> <c rend="large">E</c>n remeyar / nom conech sentiment </l>
+     <l n="10" xml:id="C034-l10"> sibe la saig / heyo <del rend="overstrike">e</del>sperimentat </l>
+     <l n="11" xml:id="C034-l11"> per mon esforç / pograsser desliurat </l>
+     <l n="12" xml:id="C034-l12"> d'unagran part / deladolor que sent </l>
+     <l n="13" xml:id="C034-l13"> <c rend="large">A</c>mor suplich / quem leix donar entendre </l>
+     <l n="14" xml:id="C034-l14"> lo sobresalt / que de vos donam ve </l>
+     <l n="15" xml:id="C034-l15"> entenent vos / quin obra fa dins me </l>
+     <l n="16" xml:id="C034-l16"><add place="margin left">h</add>e com sens mort / yo no men puch defendre </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C034-lg3">
+     <l n="17" xml:id="C034-l17"> <c rend="large">P</c>assardonchs puch / sens <add place="interlinear">h</add>onestat offendre </l>
+     <l n="18" xml:id="C034-l18"> mostrant virtut / com res no cast no vull </l>
+     <l n="19" xml:id="C034-l19"> simondesig / no castapensa cull </l>
+     <l n="20" xml:id="C034-l20"> nom trop enpunt / queres pens de vos pendre </l>
+     
+     <pb n="31v"
+      facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/> 
+     
+     <l n="21" xml:id="C034-l21"> Sos mouiments ningu pot esquiuar </l>
+     <l n="22" xml:id="C034-l22"> seruents no son de nostre franch juhi </l>
+     <l n="23" xml:id="C034-l23"> donchs com sera que jo fuja demi </l>
+     <l n="24" xml:id="C034-l24"> culpa nous tinch siforçat sodamar </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C034-lg4">
+     <l n="25" xml:id="C034-l25"> <c rend="large">A</c>questamor tant sepot esforçar </l>
+     <l n="26" xml:id="C034-l26"> quel amador amort faravenir </l>
+     <l n="27" xml:id="C034-l27"> hon es lom fort potent aresistir </l>
+     <l n="28" xml:id="C034-l28"> les passions que vol amor donar </l>
+     <l n="29" xml:id="C034-l29"> Donchs perque yo so discordant </l>
+     <l n="30" xml:id="C034-l30"> mostrar avos lavoluntat queus port </l>
+     <l n="31" xml:id="C034-l31"> malengua te ma vida elamort </l>
+     <l n="32" xml:id="C034-l32"> lomeu poder nomval essent bastant </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C034-lg5">
+     <l n="33" xml:id="C034-l33"> <c rend="large">S</c>icom aquell qui estadeu pregant </l>
+     <l n="34" xml:id="C034-l34"> queplogues fort sens lo temps nuuolos </l>
+     <l n="35" xml:id="C034-l35"> vull ser amat sens darnoccassions </l>
+     <l n="36" xml:id="C034-l36"> enos pot fer lo meu voler celant </l>
+     <l n="37" xml:id="C034-l37"> Lenteniment equalitat sacorden </l>
+     <l n="38" xml:id="C034-l38"> amor a vos enqui es lur semblanca </l>
+     <l n="39" xml:id="C034-l39"> elos volers han gran desacordança </l>
+     <l n="40" xml:id="C034-l40"> contra raho entanta part discorden </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C034-lg6">
+     <l n="41" xml:id="C034-l41"> <c rend="large">L</c>ir entre carts los escurçons no morden </l>
+     <l n="42" xml:id="C034-l42"> ab tant fort mos comes lo de amors </l>
+     <l n="43" xml:id="C034-l43"> sibels morduts no passen tals cuyçors </l>
+     <l n="44" xml:id="C034-l44"> perden lo seny eles vistes exorben </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

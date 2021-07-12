@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 44</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="IS">
+               <name>Isabel Sellés</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2020-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/mossen-ausias-march-poeta-manuscrito--0/">
+               <msIdentifier xml:id="G1a_Ms_210_BHUV">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>f.46r After end of previous poem, before this one</locus>Mossen Ausias march</rubric>
+                     <rubric>
+                        <locus>f.47v between lines 24 and 25</locus>Tornada</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_104.html"/>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_105.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C044-G1a037">
+            <pb n="47r"
+               facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_104.html"/>
+            <lg type="cobla" n="1" xml:id="C044-lg1">
+               <l n="1" xml:id="C044-l1"> <c rend="large">T</c>ot metge pren carrech de consciença </l>
+               <l n="2" xml:id="C044-l2"> si lo perill al malalt te secret </l>
+               <l n="3" xml:id="C044-l3"> lo cos y pert mas larman bon loch met </l>
+               <l n="4" xml:id="C044-l4"> comtes mortals porten regonoxença </l>
+               <l n="5" xml:id="C044-l5"> vos que sabeu clarament lo meu esser </l>
+               <l n="6" xml:id="C044-l6"> feu me ser cert del esdeuenjdor </l>
+               <l n="7" xml:id="C044-l7"> yo vull saber quem te cubert amor </l>
+               <l n="8" xml:id="C044-l8"> mon mal e be defet me feu conexer </l>
+            </lg>
+            <pb n="47v"
+               facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_105.html"/>
+            <lg type="cobla" n="2" xml:id="C044-lg2">
+               <l n="9" xml:id="C044-l9"> <c rend="large">M</c>on ignorar be no fara merexer </l>
+               <l n="10" xml:id="C044-l10"> e per null temps james be aportara </l>
+               <l n="11" xml:id="C044-l11"> o tart o breu mon mal asi venrra </l>
+               <l n="12" xml:id="C044-l12"> e desperar mon mal porra crexer </l>
+               <l n="13" xml:id="C044-l13"> si plau avos que bem deia venjr </l>
+               <l n="14" xml:id="C044-l14"> nom detardeu hauer ne sentiment </l>
+               <l n="15" xml:id="C044-l15"> e per tardar aquest conexjment </l>
+               <l n="16" xml:id="C044-l16"> non perçebesch de mon voler cobrir </l>
+            </lg>
+            <lg type="cobla" n="3" xml:id="C044-lg3">
+               <l n="17" xml:id="C044-l17"> <c rend="large">T</c>arda de temps nom fa damor jaqujr </l>
+               <l n="18" xml:id="C044-l18"> los temps en mj vençre amor no poran </l>
+               <l n="19" xml:id="C044-l19"> tots los meus jorns vn moment semblaran </l>
+               <l n="20" xml:id="C044-l20"> corre lo sol nos mou amon albir </l>
+               <l n="21" xml:id="C044-l21"> si pert amor per forcat desesper </l>
+               <l n="22" xml:id="C044-l22"> vos me dolrreu y el no vist perdut temps </l>
+               <l n="23" xml:id="C044-l23"> donchs vos y amor acordau vos ensemps </l>
+               <l n="24" xml:id="C044-l24"> tot prestament queus plaura de mj fer </l>
+            </lg>
+            <lg type="tornada" n="4" xml:id="C044-lg4">
+               <l n="25" xml:id="C044-l25"> <c rend="large">L</c>ir entre carts qui mal o be vol fer </l>
+               <l n="26" xml:id="C044-l26"> no deu pensar algun dan sil seguex </l>
+               <l n="27" xml:id="C044-l27"> car lo voler en sos parts se partex </l>
+               <l n="28" xml:id="C044-l28"> ecor partit dengun fet no requer </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

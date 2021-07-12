@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 25 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064.html">
+     <msIdentifier xml:id="G2_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>132v  centre, before first line</locus><choice>
+        <abbr>Moß</abbr>
+        <expan>Mossen</expan>
+       </choice> ausias march
+       </rubric>
+       <rubric><locus>132v margin left</locus>C. 64</rubric>
+       
+       <rubric><locus>133v between lines 40 and 41</locus>Tornada </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_279.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_280.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_281.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C025-G2095">
+    <pb n="134v" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_279.html"/>
+    <lg type="cobla" n="1" xml:id="C025-lg1">
+     <l n="1" xml:id="C025-l1"> Bem venrecort / lo temps tan delitos </l>
+     <l n="2" xml:id="C025-l2"> quesjapassat / ignor sital venrra </l>
+     <l n="3" xml:id="C025-l3"> sil consegueixch / merce no fallira </l>
+     <l n="4" xml:id="C025-l4"> car pietat fet aurapau ab vos </l>
+     <l n="5" xml:id="C025-l5"> Preareumi / quintemps antich preaueu </l>
+     <l n="6" xml:id="C025-l6"> econfessant / queus dolreu demi </l>
+     <l n="7" xml:id="C025-l7">
+      <choice>
+       <abbr>araqueꝯ</abbr>
+       <expan>araqueus</expan>
+      </choice> am / pus <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> james ami </l>
+     <l n="8" xml:id="C025-l8"> tornau vos lla / on deprimer estaueu </l>
+    </lg>
+    <pb n="135r" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_280.html"/>
+    <lg type="cobla" n="2" xml:id="C025-lg2">
+     <l n="9" xml:id="C025-l9"> Pus quedabans / metrobe desijos </l>
+     <l n="10" xml:id="C025-l10"> elo desig en mi / james morra </l>
+     <l n="11" xml:id="C025-l11"> car <choice>
+      <abbr>ꝑsapart</abbr>
+       <expan>persapart</expan>
+      </choice> / moncorslo <choice>
+       <abbr>sostȇdra</abbr>
+       <expan>sostendra</expan>
+      </choice>
+     </l>
+     <l n="12" xml:id="C025-l12"> lenteniment <choice>
+      <abbr>nonßadespitos</abbr>
+       <expan>nonseradespitos</expan>
+      </choice>
+     </l>
+     <l n="13" xml:id="C025-l13"> vos desijau / ami qui desijaueu </l>
+     <l n="14" xml:id="C025-l14">
+      <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> tal voler / dequi yom contenti </l>
+     <l n="15" xml:id="C025-l15">
+      <choice>
+       <abbr>araqueꝯ</abbr>
+       <expan>araqueus</expan>
+      </choice> am / pus que james ami </l>
+     <l n="16" xml:id="C025-l16"> tornau vos lla / non deprimer estaueu </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C025-lg3">
+     <l n="17" xml:id="C025-l17"> Si raho fon queyo ben volgut fos </l>
+     <l n="18" xml:id="C025-l18"> mils / omeresch mon vll nom <choice>
+      <abbr>desmȇtra</abbr>
+       <expan>desmentra</expan>
+      </choice>
+     </l>
+     <l n="19" xml:id="C025-l19"> car <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> gran dol / moltes <choice>
+       <abbr>veꝯ</abbr>
+       <expan>veus</expan>
+      </choice> neplora </l>
+     <l n="20" xml:id="C025-l20"> enoplorant / mostrauam doloros </l>
+     <l n="21" xml:id="C025-l21"> Evos degoig tedeum cantaueu </l>
+     <l n="22" xml:id="C025-l22"> lagremejant / maldicionscanti </l>
+     <l n="23" xml:id="C025-l23">
+      <choice>
+       <abbr>araqueꝯ</abbr>
+       <expan>araqueus</expan>
+      </choice> am / pus que james ami </l>
+     <l n="24" xml:id="C025-l24"> tornau vos lla / ondeprimer estaueu </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C025-lg4">
+     <l n="25" xml:id="C025-l25"> Comptar no dech / les pasades dolors </l>
+     <l n="26" xml:id="C025-l26"> car poca fe per / vos tost y <choice>
+      <abbr>saßa</abbr>
+       <expan>ssera</expan>
+      </choice>
+     </l>
+     <l n="27" xml:id="C025-l27"> quis menys damor / altramor nosentra </l>
+     <l n="28" xml:id="C025-l28"> car no asguart / lom rient alploros </l>
+     <l n="29" xml:id="C025-l29"> Siben amant lo terç dun jorn passaueu </l>
+     <l n="30" xml:id="C025-l30"> aurieu grat delque <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> vos pasi </l>
+     <l n="31" xml:id="C025-l31">
+      <choice>
+       <abbr>araqueꝯ</abbr>
+       <expan>araqueus</expan>
+      </choice> am / pus <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> james ami </l>
+     <l n="32" xml:id="C025-l32"> tornau vos lla / on deprimer estaueu </l>
+    </lg>
+    <pb n="135v" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_281.html"/>
+    <lg type="cobla" n="5" xml:id="C025-lg5">
+     <l n="33" xml:id="C025-l33"> Reclam atots / los <choice>
+      <abbr>meꝯ</abbr>
+       <expan>meus</expan>
+      </choice>
+      predecessos<note type="editorial" >Corregit sobre predecessors.</note>
+     
+     </l>
+     <l n="34" xml:id="C025-l34"> cells qui amor / llurs cors enamora </l>
+     <l n="35" xml:id="C025-l35"> elos <choice>
+      <abbr>ṗsents</abbr>
+       <expan>presents</expan>
+      </choice> / equim ellegira </l>
+     <l n="36" xml:id="C025-l36"> que <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+     </choice> mos dits / entenguenmes clamos <note type="editorial"> clamors</note></l>
+     <l n="37" xml:id="C025-l37"> E si en vos conexenca / justauen </l>
+     <l n="38" xml:id="C025-l38"> malgrat aureu / delquefes vn mati </l>
+     <l n="39" xml:id="C025-l39">
+      <choice>
+       <abbr>araqueꝯ</abbr>
+       <expan>araqueus</expan>
+      </choice> am / pus que james ami </l>
+     <l n="40" xml:id="C025-l40"> tornau vos lla / on deprimer estaueu </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C025-lg6">
+     <l n="41" xml:id="C025-l41"> Plena deseny / sil cor me cartejaueu </l>
+     <l n="42" xml:id="C025-l42"> trobareu clar / <choice>
+      <abbr>queꝯ</abbr>
+       <expan>queus</expan>
+      </choice> amare sens fi </l>
+     <l n="43" xml:id="C025-l43">
+      <choice>
+       <abbr>araqueꝯ</abbr>
+       <expan>araqueus</expan>
+      </choice> ham/ pus <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> james ami </l>
+     <l n="44" xml:id="C025-l44"> tornau vos lla hon deprimer estaueu </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

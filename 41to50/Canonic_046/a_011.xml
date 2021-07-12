@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 46</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+     <msIdentifier xml:id="a_Ed_1539_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.184r After end of previous poem, before this one</locus>¶ Capitulo.XXVI 
+        <note type="editorial">Realment és l’XI de la secció Cantica de amor.</note>
+       </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March"s poems" synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_420.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_421.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C046-a011">
+    <pb n="184r"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_420.html"/>
+    <lg type="cobla" n="1" xml:id="C046-lg1">
+     <l n="1" xml:id="C046-l1"> ¶ Veles y vents / han mos delits complir </l>
+     <l n="2" xml:id="C046-l2"> Fahent camins / duptosos per la mar </l>
+     <l n="3" xml:id="C046-l3"> Mestre y ponent / contra dells veg armar </l>
+     <l n="4" xml:id="C046-l4"> Xaloch lleuant / los venen subuenir </l>
+     <l n="5" xml:id="C046-l5"> Ab llurs amichs / lo grech e lo migjorn </l>
+     <l n="6" xml:id="C046-l6"> Fent humils prechs / al vent tramuntanal </l>
+     <l n="7" xml:id="C046-l7"> Quen son bufar / los sia parcial </l>
+     <l n="8" xml:id="C046-l8"> Que tots en semps / complixquen mon retorn </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C046-lg2">
+     <l n="9" xml:id="C046-l9"> ¶ Bulliral mar / com la cassola al forn </l>
+     <l n="10" xml:id="C046-l10"> Mudant color / y lestat natural </l>
+     <l n="11" xml:id="C046-l11"> De fet mostrant / voler tot a res mal </l>
+     <l n="12" xml:id="C046-l12"> Que sobre si / atur vn punt de jorn </l>
+     <l n="13" xml:id="C046-l13"> Grans e pochs peix / a recos correran </l>
+     <l n="14" xml:id="C046-l14"> E sercaran / amagatalls secrets </l>
+     <l n="15" xml:id="C046-l15"> Fugint la mar / hon son nodrits e fets </l>
+     <l n="16" xml:id="C046-l16"> Per son remey / en terra exiran </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C046-lg3">
+     <l n="17" xml:id="C046-l17"> ¶ Los pelegrins / tots en semps votaran </l>
+     <l n="18" xml:id="C046-l18"> E prometran / molts dons de sera fets </l>
+     <l n="19" xml:id="C046-l19"> La gran pauor / traura a llum molts secrets </l>
+     <l n="20" xml:id="C046-l20"> Que als confessors / descuberts no hauran </l>
+     <l n="21" xml:id="C046-l21"> En tal perill / nom caureu del esment </l>
+     <l n="22" xml:id="C046-l22"> Ans votare / al deu quins ha lligats </l>
+     <l n="23" xml:id="C046-l23"> De no minuar / mes fermes voluntats </l>
+     <l n="24" xml:id="C046-l24"> E que tots temps / me sereu de present. </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C046-lg4">
+     <l n="25" xml:id="C046-l25"> ¶ Yo tem la mort / per no seruos absent </l>
+     <l n="26" xml:id="C046-l26"> Perque amor / per mort es anullats </l>
+     <l n="27" xml:id="C046-l27"> Mas yo no crech / que mon voler sobrats </l>
+     <l n="28" xml:id="C046-l28"> Puxca esser / per tal departiment </l>
+     <l n="29" xml:id="C046-l29"> Yo so gelos / de vostre escas voler </l>
+     <l n="30" xml:id="C046-l30"> Que yo morint / no meta en oblit </l>
+     <l n="31" xml:id="C046-l31"> Sols est pensar / me tol del mon delit </l>
+     <l n="32" xml:id="C046-l32"> Car vos viuint / no creu se puixca fer. </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C046-lg5">
+     <l n="33" xml:id="C046-l33"> ¶ Apres ma mort / amor perdal poder </l>
+     <l n="34" xml:id="C046-l34"> Sia tostemps / en yra conuertit </l>
+     <l n="35" xml:id="C046-l35"> E yo forsat / daquest mon ser exit </l>
+     <l n="36" xml:id="C046-l36"> Tot lo meu mal / sera vos no veher </l>
+     <l n="37" xml:id="C046-l37"> Odeu perque / terme noy ha en amor </l>
+     <l n="38" xml:id="C046-l38"> Car prop daquell / yom trobara tot sol </l>
+     <l n="39" xml:id="C046-l39"> Vostre voler / sabera quant me vol </l>
+     <l n="40" xml:id="C046-l40"> Tement fiant / de tot lo venidor </l>
+    </lg>
+    <pb n="184v" facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_421.html"/>
+    <lg type="cobla" n="6" xml:id="C046-lg6">
+     <l n="41" xml:id="C046-l41"> Yo so aquell / pus estrem amador </l>
+     <l n="42" xml:id="C046-l42"> Apres de qui / la vida deus li tol </l>
+     <l n="43" xml:id="C046-l43"> Puix yo so viu / mon cor no mostra dol </l>
+     <l n="44" xml:id="C046-l44"> Tant com la mort / per estrema dolor </l>
+     <l n="45" xml:id="C046-l45"> A be y a mal / damor yo so dispost </l>
+     <l n="46" xml:id="C046-l46"> Mas per mon fat / fortuna cas nom porta </l>
+     <l n="47" xml:id="C046-l47"> Tot esuellat / ab esbarrada porta </l>
+     <l n="48" xml:id="C046-l48"> Me trobara / fahent humil respost </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C046-lg7">
+     <l n="49" xml:id="C046-l49"> ¶ Yo desig so / quem pora ser gran cost </l>
+     <l n="50" xml:id="C046-l50"> Y aquell sper / de molts mals me conorta </l>
+     <l n="51" xml:id="C046-l51"> A mi no plau / ma vida ser storta </l>
+     <l n="52" xml:id="C046-l52"> Dun cas molt fer / qual prech deu sia tost </l>
+     <l n="53" xml:id="C046-l53"> Lla donchs les gens nols calra donar fe </l>
+     <l n="54" xml:id="C046-l54"> Al que amor / fora mi obrara </l>
+     <l n="55" xml:id="C046-l55"> Lo seu poder / en actes mostrara </l>
+     <l n="56" xml:id="C046-l56"> E los meus dits / ab los fets prouare. </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

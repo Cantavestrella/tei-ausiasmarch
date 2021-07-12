@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 42</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/mossen-ausias-march-poeta-manuscrito--0/">
+     <msIdentifier xml:id="G1a_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.45r After end of previous poem, before this one</locus>Mossen azias march</rubric>
+       <rubric>
+        <locus>f.46r between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_100.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_101.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_102.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C042-G1a035">
+    <pb n="45r" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_100.html"/>
+    <lg type="cobla" n="1" xml:id="C042-lg1">
+     <l n="1" xml:id="C042-l1"> <c rend="large">V</c>os quj sabeu dela tortral costum </l>
+     <l n="2" xml:id="C042-l2"> e si nou feu placial vos hoyr </l>
+     <l n="3" xml:id="C042-l3"> quant mort li tol son par se vol jaqujr </l>
+     <l n="4" xml:id="C042-l4"> dobres damor ne beu aygua de flum </l>
+     <l n="5" xml:id="C042-l5"> ans en los clots ensutza primer laygua </l>
+     <l n="6" xml:id="C042-l6"> nes posa may en vert arbre fullat </l>
+     <l n="7" xml:id="C042-l7"> mas contra aço es vostra qualitat </l>
+     <l n="8" xml:id="C042-l8"> per gran desig no cast quan vos se raygua </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C042-lg2">
+     <pb n="45v" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_101.html"/>
+     <l n="9" xml:id="C042-l9"> <c rend="large">E</c> no cuydeu dona que beus escaygua </l>
+     <l n="10" xml:id="C042-l10"> que puys hagues tatast la carn gentil </l>
+     <l n="11" xml:id="C042-l11"> a mercader liuras vostre cors vil </l>
+     <l n="12" xml:id="C042-l12"> eson dret nom en Johan me pens caygua </l>
+     <l n="13" xml:id="C042-l13"> e si voleu queus ne don conexença </l>
+     <l n="14" xml:id="C042-l14"> sa faz es gran ab la vista molt llosqua </l>
+     <l n="15" xml:id="C042-l15"> sos fonaments son de llagost o mosqua </l>
+     <l n="16" xml:id="C042-l16"> cert no merex vendre draps de florença </l>
+     </lg>
+    <lg type="cobla" n="3" xml:id="C042-lg3">
+     <l n="17" xml:id="C042-l17"> <c rend="large">E</c> conexent la vostra grant fallença </l>
+     <l n="18" xml:id="C042-l18"> volgues muntar en amar caualler </l>
+     <l n="19" xml:id="C042-l19"> e sabent ell tot vostre fet en ver </l>
+     <l n="20" xml:id="C042-l20"> en vos amar se tengra conciença </l>
+     <l n="21" xml:id="C042-l21"> sabent molt cert lansutzada vida </l>
+     <l n="22" xml:id="C042-l22"> prenent publich les pagues del peccat </l>
+     <l n="23" xml:id="C042-l23"> vostre cos leig per drap es baratat </l>
+     <l n="24" xml:id="C042-l24"> vostre serujr es bo sol pera dida </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C042-lg4">
+     <l n="25" xml:id="C042-l25"> <c rend="large">N</c>o cuydeu fillaus hagues jaquida </l>
+     <l n="26" xml:id="C042-l26"> vos alletant aquellab vostra llet </l>
+     <l n="27" xml:id="C042-l27"> car vostre cos es de veri replet </l>
+     <l n="28" xml:id="C042-l28"> e mostren ho vostres pels fora mjda </l>
+     <l n="29" xml:id="C042-l29"> car sius jaquiu vostra barba criada </l>
+     <l n="30" xml:id="C042-l30"> e laus toleu puix ab los pels dels braços </l>
+     <l n="31" xml:id="C042-l31"> poran sen fer auantaiosos llaços </l>
+     <l n="32" xml:id="C042-l32"> prenjnts perdius etortra o bequada </l>
+    </lg>
+    <pb n="46r" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_102.html"/>
+    <lg type="cobla" n="5" xml:id="C042-lg5">
+     <l n="33" xml:id="C042-l33"> <c rend="large">Q</c>uan hoyreu alcauota prouada </l>
+     <l n="34" xml:id="C042-l34"> responeu tost que per vos ho diran </l>
+     <l n="35" xml:id="C042-l35"> e puix per nom propi vos cridaran </l>
+     <l n="36" xml:id="C042-l36"> jaus nos mostreu en loyr empachada </l>
+     <l n="37" xml:id="C042-l37"> enterroguant amichs eque voleu </l>
+     <l n="38" xml:id="C042-l38"> en dret damor hay res que yo fer pusca </l>
+     <l n="39" xml:id="C042-l39"> tracte semblant james me trobe cusca </l>
+     <l n="40" xml:id="C042-l40"> presta sere aquant demanareu </l>
+    </lg>
+    <lg type="Tornada" n="6" xml:id="C042-lg6">
+     <l n="41" xml:id="C042-l41"> <c rend="large">T</c>ots los quj trob o cunçament volrreu </l>
+     <l n="42" xml:id="C042-l42"> en fets damor amprau na monboy </l>
+     <l n="43" xml:id="C042-l43"> ellaus fara tot lo qui feu a mj </l>
+     <l n="44" xml:id="C042-l44"> nos pot saber lendreç quey trobareu </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 28</title>
+            <author>Ausiàs March </author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name>Jordi Caparrós Gutiérrez</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2019.</p>
+               </licence>
+            </availability>
+            <date>2021-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/">
+               <msIdentifier xml:id="d_Ed_1555_BC">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>59V after end of previous poem, before this one</locus> DE AMOR CANTO. XLVIII.</rubric>
+                     <rubric>
+                        <locus>59V between lines 16 and 17</locus> TORNADA.</rubric>
+                     <rubric><locus>59V after line 60</locus> FIN DEL CANTO. XLVIII. </rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_123.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C028-d048">
+            <pb n="69v" facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_123.html"/>
+            <lg type="cobla" n="1" xml:id="C028-lg1">
+               <l n="1" xml:id="C028-l1">
+                  <c rend="large">Y</c>O jorn ha por / de perdre sa clarór </l>
+               <l n="2" xml:id="C028-l2"> com ve la nit <choice>
+                  <abbr>/ques'pȃdeix</abbr>
+                     <expan>/ques'pandeix</expan>
+                  </choice> ses tenébres </l>
+               <l n="3" xml:id="C028-l3"> pochs animals / no clouen les palpébres </l>
+               <l n="4" xml:id="C028-l4"> e los malalts / creixen de llur dolor. </l>
+               <l n="5" xml:id="C028-l5"> Los mals factors / volgren tot lany durás </l>
+               <l n="6" xml:id="C028-l6"> per que llurs mals / aguesen cobrimént </l>
+               <l n="7" xml:id="C028-l7"> mas yo visch menyis / de par:en <choice>
+                  <abbr>mȏ</abbr>
+                     <expan>mon</expan>
+                  </choice> turment </l>
+               <l n="8" xml:id="C028-l8"> e sens mal fer / volgra que tost passás. </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C028-lg2">
+               <l n="9" xml:id="C028-l9"> ¶ E d'altra part / fas pus que si matás </l>
+               <l n="10" xml:id="C028-l10"> mill homens justs / menys d'alguna merçé </l>
+               <l n="11" xml:id="C028-l11"> car tots mos ginys / he trets per trahir mé </l>
+               <l n="12" xml:id="C028-l12"> e no cuideu / quel jorn men escusas. </l>
+               <l n="13" xml:id="C028-l13"> Ans en la nit / treball rompent ma pensa </l>
+               <l n="14" xml:id="C028-l14"> per que'n lo jorn / lo trahiment cometa </l>
+               <l n="15" xml:id="C028-l15"> por de morir / ne de fer vida'streta </l>
+               <l n="16" xml:id="C028-l16"> nom tol esforç / per complir ma offensa. </l>
+            </lg>
+            <lg type="tornada" n="3" xml:id="C028-lg3">
+               <l n="17" xml:id="C028-l17"> ¶ Plena de seny / mon enteniment pensa </l>
+               <l n="18" xml:id="C028-l18"> com abtament / lo llas d'Amor semeta </l>
+               <l n="19" xml:id="C028-l19"> sens aturar / pas, tenint vida dreta </l>
+               <l n="20" xml:id="C028-l20"> vaig ala fi / si merçe nom de fensa. </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

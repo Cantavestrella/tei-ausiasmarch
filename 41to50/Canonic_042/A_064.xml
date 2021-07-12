@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 42</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/canconer-dobres-enamorades-manuscrito--0/">
+     <msIdentifier xml:id="A_Ms_ESP_225_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f. 206r After end of previous poem, before this one</locus>Mossen auzias
+        march</rubric>
+       <rubric>
+        <locus>f. 206v after line 40, margin left</locus>
+        Tornada
+       </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_464.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_465.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C042-A064">
+    <pb n="206r"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_464.html"/>
+    <lg type="cobla" n="1" xml:id="C042-lg1">
+     <l n="1" xml:id="C042-l1">V<note type="editorial">Consonant afegida per una altra mà.</note>Os
+      qui sabeu / dela tortral costum </l>
+     <l n="2" xml:id="C042-l2"> Esi nol feu / placiel vos hoyr </l>
+     <l n="3" xml:id="C042-l3"> Quant mort litol / son par si vol jaquir </l>
+     <l n="4" xml:id="C042-l4"> Dobres damor / nebeu aygua de flum </l>
+     <l n="5" xml:id="C042-l5"> Ans en los clots / ensutza primer laygua </l>
+     <l n="6" xml:id="C042-l6"> Nes posa may / en lo arbre fullat </l>
+     <l n="7" xml:id="C042-l7"> Mas contraço / es vostra calitat </l>
+     <l n="8" xml:id="C042-l8"> Per gran voler / no cast quen vos seraygua </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C042-lg2">
+     <l n="9" xml:id="C042-l9"> E no penseu dona / que <choice>
+       <abbr>beꝯ</abbr>
+       <expan>beus</expan>
+      </choice> escaygua </l>
+     <l n="10" xml:id="C042-l10"> Que pus hagues / tastat la carn gentil </l>
+     <l n="11" xml:id="C042-l11"> Amercader / liuras vostre cors vil </l>
+     <l n="12" xml:id="C042-l12"> E son dret nom / en Johan me pens caygua </l>
+     <l n="13" xml:id="C042-l13"> E si voleu / <choice>
+       <abbr>queꝯ</abbr>
+       <expan>queus</expan>
+      </choice> ne do conaxença </l>
+     <l n="14" xml:id="C042-l14"> Sa fas es gran / ab la vista molt loscha </l>
+     <l n="15" xml:id="C042-l15"> Sos fonaments / son de legost o moscha </l>
+     <l n="16" xml:id="C042-l16"> Cert no mereys / vendre drap deflorença </l>
+    </lg>
+    <pb n="206v"
+     facs="http://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_465.html"/>
+    <lg type="cobla" n="3" xml:id="C042-lg3">
+     <l n="17" xml:id="C042-l17"> Vos conaxeu / la vostra gran fallença </l>
+     <l n="18" xml:id="C042-l18"> Volgues <choice>
+       <abbr>mûtar</abbr>
+       <expan>muntar</expan>
+      </choice> / en amor caualler </l>
+     <l n="19" xml:id="C042-l19"> Esabent ell / tot vostre fet en pler </l>
+     <l n="20" xml:id="C042-l20"> Devos amar / sedara consciença </l>
+     <l n="21" xml:id="C042-l21"> Sabent molt clar / molt sutzeada vida </l>
+     <l n="22" xml:id="C042-l22"> Prenent publich / les plagues del peccat </l>
+     <l n="23" xml:id="C042-l23"> Vostre cors <del rend="overstrike">g</del> leig / per drap es
+      baratat </l>
+     <l n="24" xml:id="C042-l24"> Vostre seruey / es sol bo per adida </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C042-lg4">
+     <l n="25" xml:id="C042-l25"> E no cuydeu / <choice>
+       <abbr>filleꝯ</abbr>
+       <expan>filleus</expan>
+      </choice> hagues jaquida </l>
+     <l n="26" xml:id="C042-l26"> Vos alletant / aquell ab vostre let </l>
+     <l n="27" xml:id="C042-l27"> Car vostre cors / es de veri replet </l>
+     <l n="28" xml:id="C042-l28"> Emostren ho / vostres pels fora mida </l>
+     <l n="29" xml:id="C042-l29"> Car <choice>
+       <abbr>siꝯ</abbr>
+       <expan>sius</expan>
+      </choice> jaquiu / vostra barba criada </l>
+     <l n="30" xml:id="C042-l30"> E <choice>
+       <abbr>laꝯ</abbr>
+       <expan>laus</expan>
+      </choice> toleu / puys ab los pels dels braçors </l>
+     <l n="31" xml:id="C042-l31"> Poran sen fer / auentatgosos laçors </l>
+     <l n="32" xml:id="C042-l32"> Prenjnts <choice>
+       <abbr>perdiꝯ</abbr>
+       <expan>perdius</expan>
+      </choice> / o tortres sens tardada </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C042-lg5">
+     <l n="33" xml:id="C042-l33"> Quant hoyreu / alcauota prouada </l>
+     <l n="34" xml:id="C042-l34"> Responeu prest / que per vos ho diran </l>
+     <l n="35" xml:id="C042-l35"> Epuys per nom / <choice>
+       <abbr>propiꝯ</abbr>
+       <expan>propius</expan>
+      </choice> nomenaran </l>
+     <l n="36" xml:id="C042-l36"> En lo respost / <choice>
+       <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> mostreu empetxada </l>
+     <l n="37" xml:id="C042-l37"> Interrogant / amichs e que voleu </l>
+     <l n="38" xml:id="C042-l38"> En fets damor / ayres que io fer pusque </l>
+     <l n="39" xml:id="C042-l39"> En tracte tal / iames me trobi cruscha </l>
+     <l n="40" xml:id="C042-l40"> Presta sere / aquant demanareu </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C042-lg6">
+     <l n="41" xml:id="C042-l41">
+      <add place="margin left">Tots los <choice>
+        <abbr>ꝙ</abbr>
+        <expan>qui</expan>
+       </choice> trop / o<choice>
+        <abbr>cȗcament</abbr>
+        <expan>ocuncament</expan>
+       </choice> volreu</add></l>
+     <l n="42" xml:id="C042-l42">
+      <add place="margin left">Enfets damor / enprau ne <choice>
+        <abbr>namȗbuy</abbr>
+        <expan>namuntbuy</expan>
+       </choice></add>
+     </l>
+     <l n="43" xml:id="C042-l43">
+      <add place="margin left">Ellaus fara / tot lo <choice>
+        <abbr>ꝗ</abbr>
+        <expan>que</expan>
+       </choice> feu amj </add></l>
+     <l n="44" xml:id="C042-l44">
+      <add place="margin left">Nos pot saber / lendreç <choice>
+       <abbr>ꝗy</abbr>
+        <expan>quey</expan>
+       </choice> trobareu</add>
+     </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

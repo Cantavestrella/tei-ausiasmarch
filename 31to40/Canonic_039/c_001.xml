@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 39</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="MP">
+     <name>Mar Pamblanco</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp> </resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/">
+     <msIdentifier xml:id="c_Ed_11V57_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.1r header</locus>LES OBRES DEL FACVNDISSIM Y ELEGANT VIGIL POeta. Strenu y
+        antiquissim Caualler. Ausiás March.</rubric>
+       <rubric>
+        <locus>f.1v between lines 40 and 41</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_10.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_11.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C039-c001">
+
+    <pb n="1r"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_10.html"/>
+
+    <lg type="cobla" n="1" xml:id="C039-lg1">
+     <l n="1" xml:id="C039-l1"><c rend="large">Q</c>Vi <gap reason="illegible"
+       extent="several characters"/>s trist / <choice>
+       <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> mos dictats no cur </l>
+     <l n="2" xml:id="C039-l2"> o'nalgun temps / que sia trist'stat. </l>
+     <l n="3" xml:id="C039-l3"> e lo qui es /de mals passionat, </l>
+     <l n="4" xml:id="C039-l4"> per fer se trist / no cerque loch scur. </l>
+     <l n="5" xml:id="C039-l5"> lija mos dits / mostrant pensa torbada </l>
+     <l n="6" xml:id="C039-l6"> sens algun art, / eixits d'hom fora seny, </l>
+     <l n="7" xml:id="C039-l7"> e la rao /que'n tal dolor m'enpeny </l>
+     <l n="8" xml:id="C039-l8"> amor ho sab / quin es la causa'stada. </l>
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C039-lg2">
+     <l n="9" xml:id="C039-l9"> Alguna part / e molta es trobada </l>
+     <l n="10" xml:id="C039-l10"> de gran delit /en la pensa del trist </l>
+     <l n="11" xml:id="C039-l11"> e si les <gap reason="illegible" extent="several characters"/>s /
+      ab gran dolor m'an vist </l>
+     <l n="12" xml:id="C039-l12"> de gran d<gap reason="illegible" extent="several characters"/> m'arma
+      fon companyada. </l>
+     <l n="13" xml:id="C039-l13"> quant simplament / amor ab mi habita </l>
+     <l n="14" xml:id="C039-l14"> tal delit sent / que nom cuyt ser al mon </l>
+     <l n="15" xml:id="C039-l15"> e com sos fets / vull veure de pregon </l>
+     <l n="16" xml:id="C039-l16"> mescladament /ab dolorne delita. </l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C039-lg3">
+     <l n="17" xml:id="C039-l17"> Prest ve lo temps / que fare vida h'rmita </l>
+     <l n="18" xml:id="C039-l18"> per mils poder / d'amor les festes colre </l>
+     <l n="19" xml:id="C039-l19"> d'est viure'strany / algu nos vulla dolre </l>
+     <l n="20" xml:id="C039-l20"> car per sa cort / amor me vol, em cita: </l>
+
+     <pb n="1v"
+      facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_11.html"/>
+
+     <l n="21" xml:id="C039-l21"> e yo quil am / per si tant solament </l>
+     <l n="22" xml:id="C039-l22"> no denegant /lo do, quem pot donar, </l>
+     <l n="23" xml:id="C039-l23"> a sa tristor / me plau abandonar </l>
+     <l n="24" xml:id="C039-l24"> e per tostens /viure'n tristadament. </l>
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C039-lg4">
+     <l n="25" xml:id="C039-l25"> Traure no puch / de mon enteniment </l>
+     <l n="26" xml:id="C039-l26"> que sia cert /e molt pus bell pa<gap reason="illegible"
+       extent="several characters"/>t</l>
+     <l n="27" xml:id="C039-l27"> sa tristor gran / que tot, altr<gap reason="illegible"
+       extent="several characters"/>t</l>
+     <l n="28" xml:id="C039-l28"> puix hi recau /delitos langui<gap reason="illegible"
+       extent="several characters"/>nt.</l>
+     <l n="29" xml:id="C039-l29"> Alguna part /de mon gran delit, es, </l>
+     <l n="30" xml:id="C039-l30"> aquella que / tot home trist aporta </l>
+     <l n="31" xml:id="C039-l31"> que planyent si / lo planyer lo conforta </l>
+     <l n="32" xml:id="C039-l32"> mes que si d' ell /tot lo mon se dolgues. </l>
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C039-lg5">
+
+     <l n="33" xml:id="C039-l33"> Esser me cuyt / per moltes gents repres </l>
+     <l n="34" xml:id="C039-l34"> puis que tant llou / viure'n la vida trista </l>
+     <l n="35" xml:id="C039-l35"> mas yo qui he / sa gloria'l vll vista </l>
+     <l n="36" xml:id="C039-l36"> desig sos mals / puix delit l'es permes. </l>
+     <l n="37" xml:id="C039-l37"> nos pot saber / menys de la, sperinça, </l>
+     <l n="38" xml:id="C039-l38"> lo gran delit / que's en lo sols voler </l>
+     <l n="39" xml:id="C039-l39"> d'aquel qui es /amador verdader </l>
+     <l n="40" xml:id="C039-l40"> e ama, si / vehent s'en tal volença. </l>
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C039-lg6">
+     <l n="41" xml:id="C039-l41"> Lir entre cars / Deu vos don coneixança </l>
+     <l n="42" xml:id="C039-l42"> com so per vos / a tot, estrem, posat </l>
+     <l n="43" xml:id="C039-l43"> ab mon poder / amor ma'nderrocat </l>
+     <l n="44" xml:id="C039-l44"> sens aquell seu / d' infinida potença. </l>
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 30</title>
+    <author>Ausiàs March </author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name>Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2019.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/">
+     <msIdentifier xml:id="d_Ed_1555_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       
+       <rubric>
+        <locus>144v between lines 56 and 57</locus> TORNADA.</rubric>
+       <rubric><locus>144v after line 60</locus> Fin del segundo Canto Moral. </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_290.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_291.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_292.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_293.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C030-d104">
+    <pb n="143r" facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_290.html"/>
+    <lg type="cobla" n="1" xml:id="C030-lg1">
+     <l n="1" xml:id="C030-l1"> ¶ Vengut es temps / que sera valerós </l>
+     <l n="2" xml:id="C030-l2"> l'hom qui son cor / haura fort no couart </l>
+     <l n="3" xml:id="C030-l3"> e ja negu / no cuyt saber tal art </l>
+     <l n="4" xml:id="C030-l4"> que si es flach / de virtut es oçiós. </l>
+     <l n="5" xml:id="C030-l5"> Car desastruch / al perill dela mort </l>
+     <l n="6" xml:id="C030-l6"> lla donchs nol val / enginy ni maestria </l>
+     <l n="7" xml:id="C030-l7"> per ben cobrir / sa'strema couardia </l>
+     <l n="8" xml:id="C030-l8"> ans elegeix / fugir per ser estort. </l>
+    </lg>
+    <pb n="143v" facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_292.html"/>
+    <lg type="cobla" n="2" xml:id="C030-lg2">
+     <l n="9" xml:id="C030-l9"> ¶ Ans del perill / se deu metre'l conort </l>
+     <l n="10" xml:id="C030-l10"> ans prenent risch / hom ha dels bons paría </l>
+     <l n="11" xml:id="C030-l11"> aconseguint / honor e senyoría </l>
+     <l n="12" xml:id="C030-l12"> fahent venir / los Çesars en recort. </l>
+     <l n="13" xml:id="C030-l13"> Les armes fan / los prous homens valer </l>
+     <l n="14" xml:id="C030-l14"> e ls puja tost / ensemblant de momén </l>
+     <l n="15" xml:id="C030-l15"> aquest es lloch / d'hon lo couart dexén </l>
+     <l n="16" xml:id="C030-l16"> pus prop de si / en les dones veher. </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C030-lg3">
+     <l n="17" xml:id="C030-l17"> ¶ Renom d'ardit / vol l'home parençer </l>
+     <l n="18" xml:id="C030-l18"> mas no sera / comportat son engan </l>
+     <l n="19" xml:id="C030-l19"> car los qui mes / de tals afets sabran </l>
+     <l n="20" xml:id="C030-l20"> diran quin nom / sobre si deu hauer. </l>
+     <l n="21" xml:id="C030-l21"> E baxament / entre si volrran dir </l>
+     <l n="22" xml:id="C030-l22"> hom virtuos / no deu ser nomenat </l>
+     <l n="23" xml:id="C030-l23"> mas prenedor / del que no a guanyat </l>
+     <l n="24" xml:id="C030-l24"> entre aquells / que nol vehen fallír. </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C030-lg4">
+     <l n="25" xml:id="C030-l25"> ¶ L'ome tastart / qui no tembra morir </l>
+     <l n="26" xml:id="C030-l26"> no faent fruyt / son perill hasajar </l>
+     <l n="27" xml:id="C030-l27"> grau de virtut / volia en si posar </l>
+     <l n="28" xml:id="C030-l28"> mas en aquest / se deu mils soferir. </l>
+     <l n="29" xml:id="C030-l29"> Puix ab perill / molt gran,desa persona </l>
+     <l n="30" xml:id="C030-l30"> cuyda guanyar / lo que no es de son dret </l>
+     <l n="31" xml:id="C030-l31"> car la virtut / en lo mig lloch semet </l>
+     <l n="32" xml:id="C030-l32"> e los estrems / per viçis'abandona. </l>
+    </lg>
+    <pb n="144r" facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_291.html"/>
+    <lg type="cobla" n="5" xml:id="C030-lg5">
+     <l n="33" xml:id="C030-l33"> ¶ Guanya virtut / qui son cos amort dona </l>
+     <l n="34" xml:id="C030-l34"> per vn gran be / o de molts benifet </l>
+     <l n="35" xml:id="C030-l35"> pensar no deu / compte lin sia fet </l>
+     <l n="36" xml:id="C030-l36"> virtut de si / lo virtuos guardona. </l>
+     <l n="37" xml:id="C030-l37"> L'hom de cor flach / meta perill apárt </l>
+     <l n="38" xml:id="C030-l38"> car son honor / luny de perill esta </l>
+     <l n="39" xml:id="C030-l39"> e lo tastart / per temps venir pora </l>
+     <l n="40" xml:id="C030-l40"> en ser temprat / e vsar de Renart. </l>
+    </lg>
+    <lg type="cobla" n="6" xml:id="C030-lg6">
+     <l n="41" xml:id="C030-l41"> ¶ Quant dels passats / llig ,alguns fets e guart </l>
+     <l n="42" xml:id="C030-l42"> los per venir / gracia'Deu nos fan </l>
+     <l n="43" xml:id="C030-l43"> com son en temps / que al mon dispost <choice>
+      <abbr>estȃ</abbr>
+       <expan>estan</expan>
+      </choice>
+     </l>
+     <l n="44" xml:id="C030-l44"> per grans affers / e de cascuna part. </l>
+     <l n="45" xml:id="C030-l45"> Espeçial / per nostre gran senyor </l>
+     <l n="46" xml:id="C030-l46"> qui festejant / la gent ab por lo mira </l>
+     <l n="47" xml:id="C030-l47"> tot gran senyor / dintre son cor sospira </l>
+     <l n="48" xml:id="C030-l48"> crehent qu'ell vol / ser dels senyors major. </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C030-lg7">
+     <l n="49" xml:id="C030-l49"> ¶ Fortuna es / sobtos cambiador </l>
+     <l n="50" xml:id="C030-l50"> nengu no sab / en son voler la tíra </l>
+     <l n="51" xml:id="C030-l51"> e lo semblant / de son Amor,es yra </l>
+     <l n="52" xml:id="C030-l52"> sa yra es /moltes veus gran Amor. </l>
+     <l n="53" xml:id="C030-l53"> Ningu nos'pot / regir person penell </l>
+     <l n="54" xml:id="C030-l54"> sino quels flachs / desa cort fora gita </l>
+     <l n="55" xml:id="C030-l55"> el coratjos / de sos bens lo delita </l>
+     <l n="56" xml:id="C030-l56"> hauent esforç / vehent la contra dell. </l>
+    </lg>
+    <pb n="144v" facs="http://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_293.html"/>
+    <lg type="tornada" n="8" xml:id="C030-lg8">
+     <l n="57" xml:id="C030-l57"> ¶ Contra la mort / es aquest aparell </l>
+     <l n="58" xml:id="C030-l58"> menyspreu del mon / e no tembre fortuna </l>
+     <l n="59" xml:id="C030-l59"> tenir sa ley / e si es moro Çuna </l>
+     <l n="60" xml:id="C030-l60"> e Deu lla donchs / lo fara segur dell. </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

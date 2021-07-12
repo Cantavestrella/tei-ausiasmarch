@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 25</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo HIlario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+               <msIdentifier xml:id="D_Ms_2985_BnM">
+                  <repository>Biblioteca Nacional de España </repository>
+               </msIdentifier>
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+      <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C025-D025">
+            <pb n="23v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+            <lg type="cobla" n="1" xml:id="C025-lg1">
+               <l n="1" xml:id="C025-l1">
+                  <c rend="large">Y</c>om recort be / del temps tan delitos </l>
+               <l n="2" xml:id="C025-l2"> ques ja passat / ignor sital ven <del rend="overstrike"
+                     >r</del>ra </l>
+               <l n="3" xml:id="C025-l3"> sil conseguesch / merce nom fallira </l>
+               <l n="4" xml:id="C025-l4"> car pietat / fet aura pau ab vos </l>
+               <l n="5" xml:id="C025-l5"> Preareu mi / quin temps antich preaueu </l>
+               <l n="6" xml:id="C025-l6"> e confessant / queus dolieu de mi </l>
+               <l n="7" xml:id="C025-l7"> araqueus am / pus que james ami </l>
+               <l n="8" xml:id="C025-l8"> tornauvos lla / honde primer estaueu </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C025-lg2">
+               <l n="9" xml:id="C025-l9">
+                  <c rend="large">P</c>us que dabans / me trobe desijos </l>
+               <l n="10" xml:id="C025-l10"> elo desig / james en mi morra </l>
+               <l n="11" xml:id="C025-l11"> car per sapart / mon cos lo sostendra </l>
+               <l n="12" xml:id="C025-l12"> lenteniment / no sera despitos </l>
+               <pb n="24r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+               <l n="13" xml:id="C025-l13"> Vos desijau / ami que desijaueu </l>
+               <l n="14" xml:id="C025-l14"> pertal voler / de qui yom contenti </l>
+               <l n="15" xml:id="C025-l15"> ara<add type="glosse" place="margin left">>Al marge esquerre, trebol, per
+                     assenyalar l'inici del refrany</add> queus am / pus que james ami </l>
+               <l n="16" xml:id="C025-l16"> tornauvos lla / hondeprimer estaueu </l>
+            </lg>
+            <lg type="cobla" n="3" xml:id="C025-lg3">
+               <l n="17" xml:id="C025-l17"> Esirahoń / fon, que benvolgut fos </l>
+               <l n="18" xml:id="C025-l18"> mils ho meresch / monvll nomdesmentra </l>
+               <l n="19" xml:id="C025-l19"> car pergrandol / moltas veus ne plora </l>
+               <l n="20" xml:id="C025-l20"> e no plorant / mostrauam dolors </l>
+               <l n="21" xml:id="C025-l21"> Vos de<add place="interlinear">gran</add>goig / lo
+                  tedeum, cantaueu </l>
+               <l n="22" xml:id="C025-l22"> lagrimejant / maledicions, canti </l>
+               <l n="23" xml:id="C025-l23"> araqueus<add type="glosse" place="margin left"> trebol,
+                     per assenyalar l'inici del refrany</add>am et caeteranote</l>
+
+
+            </lg>
+            <lg type="cobla" n="4" xml:id="C025-lg4">
+               <l n="24" xml:id="C025-l25">
+                  <c rend="large">C</c>omptar nodech / les passades dolors </l>
+               <l n="25" xml:id="C025-l26"> carpoca fe / pervos tost hi sera </l>
+               <l n="26" xml:id="C025-l27"> quis menys d'amor / altramor no sentra </l>
+               <l n="27" xml:id="C025-l28"> car no hasguart / <add place="interlinear">h</add> rient
+                  alploros </l>
+               <l n="28" xml:id="C025-l29"> Si ben amant / lo terç dun jorn passaueu </l>
+               <l n="29" xml:id="C025-l30"> haurieu grat / del que pervos pasi </l>
+               <l n="30" xml:id="C025-l31"> Ara<add type="glosse" place="margin left"> trebol, per
+                     assenyalar l'inici del refrany</add> que us am et caetera</l>
+
+            </lg>
+            <lg type="cobla" n="5" xml:id="C025-lg5">
+               <l n="31" xml:id="C025-l33">
+                  <c rend="large">R</c>eclam / atots / los meus predecessors </l>
+               <l n="32" xml:id="C025-l34"> çells qui amor / lur cor enamora </l>
+               <l n="33" xml:id="C025-l35"> elos presents / e qui d'apres vendra </l>
+               <l n="34" xml:id="C025-l36"> que per mos dits / entenguen mes clamors </l>
+               <l n="35" xml:id="C025-l37"> Esienvos / conexença justaueu </l>
+               <l n="36" xml:id="C025-l38"> mal grat haureu / delque fes, un mati </l>
+               <l n="37" xml:id="C025-l39"> Araqueus<add type="glosse" place="margin left">
+                     trebol, per assenyalar l'inici del refrany</add>am et caetera</l>
+
+            </lg>
+            <pb n="24v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+            <lg type="tornada" n="6" xml:id="C025-lg6">
+               <l n="38" xml:id="C025-l41">
+                  <c rend="large">P</c>lena de seny / sil cor me cartejaueu </l>
+               <l n="39" xml:id="C025-l42"> trobareu clar / queus amare sens fi </l>
+               <l n="40" xml:id="C025-l43"> araqueus am / pus que james ami </l>
+               <l n="41" xml:id="C025-l44"> tornauvos lla / honde primer estaveu </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 43</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/poesies-3/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.39r header</locus>Mosen Marc</rubric>
+       <rubric>
+        <locus>f.39v between lines 40 and 41</locus>tor</rubric>
+       <rubric>
+        <locus>f.39v after line 44 </locus>Fi</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C043-D043">
+    <pb n="39r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="1" xml:id="C043-lg1">
+     <l n="1" xml:id="C043-l1"> Coratge meu / a pendre <del rend="overstrike">e</del>sforç molt tart </l>
+     <l n="2" xml:id="C043-l2"> no piados / detots los quit sostenen </l>
+     <l n="3" xml:id="C043-l3"> larma y lo cos / adepartir sevenen </l>
+     <l n="4" xml:id="C043-l4"> pertu ser flach / lo cos deviures fart </l>
+     <l n="5" xml:id="C043-l5"> Mos vlls no son / liberts a <del rend="overstrike">fer</del> son
+      ofici </l>
+     <l n="6" xml:id="C043-l6"> monpas es tolt / ma lengua nomprofita </l>
+     <l n="7" xml:id="C043-l7"> edeaço / lavergonyas delita </l>
+     <l n="8" xml:id="C043-l8"> com so plagat / detan vergonyos vici </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C043-lg2">
+     <l n="9" xml:id="C043-l9"> Pahor me sent / gran suor mecomença </l>
+     <l n="10" xml:id="C043-l10"> surtint moncor / los pits me cuydarompre </l>
+     <l n="11" xml:id="C043-l11"> nomtrob esforç / pervergonya corrompre </l>
+     <l n="12" xml:id="C043-l12"> esser no pot <add place="interlinear">ma</add> esperança por uença </l>
+     <l n="13" xml:id="C043-l13"> No puch mostrar / lo secret de mapensa </l>
+     <l n="14" xml:id="C043-l14"> evanament / hepordelaresposta </l>
+     <l n="15" xml:id="C043-l15"> lo meu duptar / major duptem acosta </l>
+     <l n="16" xml:id="C043-l16"> femenil gest / ardiment me defensa </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C043-lg3">
+     <l n="17" xml:id="C043-l17"> Alguns handit / quevergonya nos troba </l>
+     <l n="18" xml:id="C043-l18"> mas yo puch fer / d'aquellatestimoni </l>
+     <l n="19" xml:id="C043-l19"> devista no / semblant es al dimoni </l>
+     <l n="20" xml:id="C043-l20"> part de mos senys / eparlar me derroba </l>
+     <l n="21" xml:id="C043-l21"> Dona sentir / de si alguns forts actes </l>
+     <l n="22" xml:id="C043-l22"> segons demolts / hauem hoydes gestes </l>
+     <l n="23" xml:id="C043-l23"> crehent los tals / qui descolen les festes </l>
+     <l n="24" xml:id="C043-l24">
+      <choice>
+       <abbr>señor</abbr>
+       <expan>senyor</expan>
+      </choice> es meu / amor fermal's contractes </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C043-lg4">
+     <l n="25" xml:id="C043-l25"> Esil posques / lobedienç<del rend="overstrike">i</del>a tolre </l>
+     <l n="26" xml:id="C043-l26"> que per soncolp / lamia'mor jau morta </l>
+     <l n="27" xml:id="C043-l27"> car no parent / l'es altra'mor estorta </l>
+     <l n="28" xml:id="C043-l28"> no se quin deu / damnat sanct me fa colre </l>
+     <pb n="39v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+     <l n="29" xml:id="C043-l29"> Yo agra'sforç / de metre tost en obra </l>
+     <l n="30" xml:id="C043-l30"> lo que nogos / mostrar vnaparença </l>
+     <l n="31" xml:id="C043-l31"> abgran esforç / vergonyam fa temença </l>
+     <l n="32" xml:id="C043-l32"> siqu'ardiment <note type="editorial"> siqu’a: escrit sobre un
+       paraula raspada i il·legible. Al marge esquerre, hi ha una annotació també il·legible.</note>
+      / vn poch en mi no sobra </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C043-lg5">
+     <l n="33" xml:id="C043-l33"> Entots aquells / on gran amor no penja </l>
+     <l n="34" xml:id="C043-l34"> son giny no pot / devergonya ne força </l>
+     <l n="35" xml:id="C043-l35"> a mi e pochs / a sonvoler nos força </l>
+     <l n="36" xml:id="C043-l36"> lo meu voler / los meus enemichs venja </l>
+     <l n="37" xml:id="C043-l37"> Aquest voler / desig y amor sostenen </l>
+     <l n="38" xml:id="C043-l38"> causa d'aquests / souvos aqui sesguarden </l>
+     <l n="39" xml:id="C043-l39"> creure no puch / vostres sentiments tarden </l>
+     <l n="40" xml:id="C043-l40"> endescobrir / los mals quepervos venen </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C043-lg6">
+     <l n="41" xml:id="C043-l41"> O follamor / aquells dolor sostenen </l>
+     <l n="42" xml:id="C043-l42"> que cerquen fi / on la fi no pot esser </l>
+     <l n="43" xml:id="C043-l43"> delurtreball / nos mostra resen esser </l>
+     <l n="44" xml:id="C043-l44"> e sonaquests / los quidevos s'en cenen <note type="editorial">Al
+       marge dret, d'una altra mà: Fi</note>
+     </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

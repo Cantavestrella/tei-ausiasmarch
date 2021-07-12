@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 46</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IS">
+     <name>Isabel Sellés</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>f.42r After end of previous poem, before this one</locus>C</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C046-D046">
+    <pb n="42r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="1" xml:id="C046-lg1">
+     <l n="1" xml:id="C046-l1"> Veles events han mondesig cumplir </l>
+     <l n="2" xml:id="C046-l2"> fahent camins dubtosos per la mar </l>
+     <l n="3" xml:id="C046-l3"> mestre y ponent contradells veig armar </l>
+     <l n="4" xml:id="C046-l4"> xaloch leuant losdeuen subuenir </l>
+     <l n="5" xml:id="C046-l5"> Ab lurs amichs logrech e lo mig jorn </l>
+     <l n="6" xml:id="C046-l6"> fent humils prechs al vent tremuntanal </l>
+     <l n="7" xml:id="C046-l7"> que son buffar los siaparcial </l>
+     <l n="8" xml:id="C046-l8">
+      <add place="margin left"><choice>
+        <abbr>ꝑ</abbr>
+        <expan>per</expan>
+       </choice></add>que tots cinch complisquen monretorn </l>
+    </lg>
+    <pb n="42v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="2" xml:id="C046-lg2">
+     <l n="9" xml:id="C046-l9"> Bulliral mar com la caçolalforn </l>
+     <l n="10" xml:id="C046-l10"> mudant color <del rend="overstrike">o</del> elestat natural </l>
+     <l n="11" xml:id="C046-l11"> emostraravoler totares mal </l>
+     <l n="12" xml:id="C046-l12"> que sobreaci atur vnpunt aljorn </l>
+     <l n="13" xml:id="C046-l13"> Grans e pochs peixs arecors correran </l>
+     <l n="14" xml:id="C046-l14"> ecercaran amagatalls secrets </l>
+     <l n="15" xml:id="C046-l15"> fugint <note type="editorial">Corregit sobre fugent.</note> al mar
+      hon son nudrits </l>
+     <l n="16" xml:id="C046-l16"> <hi rend="underline">pergran</hi> remey enterra exiran </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C046-lg3">
+     <l n="17" xml:id="C046-l17"> Los pelegrins <note type="editorial">Corregit sobre
+       peregrins.</note> tots ensemps votaran </l>
+     <l n="18" xml:id="C046-l18"> eprometran molts dons de cera fets </l>
+     <l n="19" xml:id="C046-l19"> lagranpahor trauralum los secrets </l>
+     <l n="20" xml:id="C046-l20"> que al confes descuberts noseran </l>
+     <l n="21" xml:id="C046-l21"> En lo perill nom caureudel esment </l>
+     <l n="22" xml:id="C046-l22"> ans votare aldeu quins haligats </l>
+     <l n="23" xml:id="C046-l23"> de no minuar mes fermes voluntats </l>
+     <l n="24" xml:id="C046-l24"> e que tots temps mesereudepresent </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C046-lg4">
+     <l n="25" xml:id="C046-l25"> Yotemlamort per no servos absent </l>
+     <l n="26" xml:id="C046-l26"> perque amor per mort es anullat </l>
+     <l n="27" xml:id="C046-l27"> mas yo no crech que monvoler sobrat </l>
+     <l n="28" xml:id="C046-l28"> pusque <add place="interlinear">mai</add>
+      <del rend="overstrike">e</del>sser pertaldepartiment </l>
+     <l n="29" xml:id="C046-l29"> Yo sogelos de vostrescas voler </l>
+     <l n="30" xml:id="C046-l30"> que yo morint no metaminoblit </l>
+     <l n="31" xml:id="C046-l31"> sol est pensar metoldelmondelit </l>
+     <l n="32" xml:id="C046-l32"> carvos viuint no creu sepusca fer </l>
+    </lg>
+    <pb n="43r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="5" xml:id="C046-lg5">
+     <l n="33" xml:id="C046-l33"> Apres mamort damar perdaupoder </l>
+     <l n="34" xml:id="C046-l34"> esiatots en jraconuertit </l>
+     <l n="35" xml:id="C046-l35"> eyo forçat daquest mon serexit </l>
+     <l n="36" xml:id="C046-l36"> tot lomeu mal sera vos no veher </l>
+     <l n="37" xml:id="C046-l37"> O deu perque terme noy han amor </l>
+     <l n="38" xml:id="C046-l38"> car prop daquell yom trobara tot sol </l>
+     <l n="39" xml:id="C046-l39"> vostrevoler saber aquant mevol </l>
+     <l n="40" xml:id="C046-l40"> tement fiant detot lauenidor </l>
+    </lg>
+    <lg type="cobla" n="6" xml:id="C046-lg6">
+     <l n="41" xml:id="C046-l41"> Yo son aquell pus estrem amador </l>
+     <l n="42" xml:id="C046-l42"> apres daquell aqui deus vidatol </l>
+     <l n="43" xml:id="C046-l43"> puis yo sonviu moncor no mostradol </l>
+     <l n="44" xml:id="C046-l44"> tant comlamort per sastremadolor </l>
+     <l n="45" xml:id="C046-l45"> Abe omaldamor yo so dispost </l>
+     <l n="46" xml:id="C046-l46"> mas per mon fat fortuna cas nouporta </l>
+     <l n="47" xml:id="C046-l47"> tot esuellat ab desbarradaporta </l>
+     <l n="48" xml:id="C046-l48"> metrobara fahent humil respost </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C046-lg7">
+     <l n="49" xml:id="C046-l49"> Yo desig ço quempora ser gran cost </l>
+     <l n="50" xml:id="C046-l50"> y aquest esper de molts mals meconorta </l>
+     <l n="51" xml:id="C046-l51"> ami no plau mavida ser estorta </l>
+     <l n="52" xml:id="C046-l52"> dun cas molt fer qual prech deu sia tost </l>
+     <l n="53" xml:id="C046-l53"> Ladonchs les gents nols calrradonar fe </l>
+     <l n="54" xml:id="C046-l54"> alque amor fora mj obrara </l>
+     <l n="55" xml:id="C046-l55"> lo seu poder en actes mostrara </l>
+     <l n="56" xml:id="C046-l56"> elos meus dits ablos fets prouare </l>
+    </lg>
+    <lg type="cobla" n="8" xml:id="C046-lg8">
+     <l n="57" xml:id="C046-l57"> Amordevos / yon sent mes que no se </l>
+     <l n="58" xml:id="C046-l58"> daquella part pijor men romandra </l>
+     <l n="59" xml:id="C046-l59"> edevos sab / cell qui sens vos esta </l>
+     <l n="60" xml:id="C046-l60"> a joch dedaus vos acomparare </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>
