@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Poema 25</title>
+        <author>Ausiàs March</author>
+        <respStmt xml:id="RC">
+          <name>Rosanna Cantavella, Universitat de València</name>
+          <resp>Coordinator of LaTEX into TEI transformations</resp>
+        </respStmt>
+        <respStmt xml:id="JCG">
+          <name>Jordi Caparrós Gutiérrez</name>
+          <resp>Changes LaTEX to TEI, coding volunteer</resp>
+        </respStmt>
+        <respStmt xml:id="AH">
+          <name>Adolfo HIlario, Universitat Politècnica de València</name>
+          <resp>laTEX encoding supervision, Research Software Engineer</resp>
+        </respStmt>
+        <respStmt xml:id="LMP">
+          <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+          <resp>Coordinator of manuscript transcription into LaTEX</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Rosanna Cantavella</authority>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+            <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to
+              this document.</p>
+            <p>This licence applies to this TEI-XML document which is the transformed result work
+              from a previous LaTEX format file out of the variorum diplomatic edition of the
+              complete poemes of Ausiàs March in all its witnesses.</p>
+            <p>The licence was added on May 1, 2020.</p>
+          </licence>
+        </availability>
+        <date>2020-05-01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc
+          corresp="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/">
+          <msIdentifier xml:id="H_Ms_110_BUZ">
+            <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <rubric>
+                <locus>84v header</locus>Mossen auzias march<note type="editorial">Rúbrica
+                  tallada</note></rubric>
+
+              <rubric><locus>85r header</locus>Mossen auzias march<note type="editorial">Rúbrica
+                  tallada</note></rubric>
+              <rubric>
+                <locus>85r, centre, previous to tornada</locus>Tornada </rubric>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="CA">Catalan</language>
+      </langUsage>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum
+          edition, from all witnesses.</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic
+      url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_151.html"/>
+    <graphic
+      url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_152.html"
+    />
+  </facsimile>
+  <text>
+    <body>
+      <div type="poem" xml:id="C025-H068">
+        <pb n="84v"
+          facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_151.html"/>
+        <lg type="cobla" n="1" xml:id="C025-lg1">
+          <l n="1" xml:id="C025-l1"> Nom fall recort <choice>
+              <abbr>ƌl</abbr>
+              <expan>del</expan>
+            </choice> temps tan delitos </l>
+          <l n="2" xml:id="C025-l2"> Ques ia passat / pens <choice>
+              <abbr>ꝗ</abbr>
+              <expan>que</expan>
+            </choice> tall no venrra </l>
+          <l n="3" xml:id="C025-l3"> Sill consaguesch / merçe nom fallira </l>
+          <l n="4" xml:id="C025-l4"> Car pietat fetaura pau ab vos </l>
+          <l n="5" xml:id="C025-l5"> Preareu mj <choice>
+              <abbr>ꝙn</abbr>
+              <expan>quin</expan>
+            </choice> temps antich preaueu </l>
+          <l n="6" xml:id="C025-l6"> E confessant queus dolieu de mj </l>
+          <l n="7" xml:id="C025-l7"> Ara queus am pus <choice>
+              <abbr>ꝗ</abbr>
+              <expan>que</expan>
+            </choice> iames amj </l>
+          <l n="8" xml:id="C025-l8"> Tornau vos lla hon <choice>
+              <abbr>ƌ</abbr>
+              <expan>de</expan>
+            </choice> prjmer estaueu </l>
+        </lg>
+        <lg type="cobla" n="2" xml:id="C025-lg2">
+          <l n="9" xml:id="C025-l9"> Pus que debans me trobe desigos </l>
+          <l n="10" xml:id="C025-l10"> E lo desig en mj iames morra </l>
+          <l n="11" xml:id="C025-l11"> Car per sa part mon cors lo sostenrra </l>
+          <l n="12" xml:id="C025-l12"> Lentenjment non sera despitos </l>
+          <l n="13" xml:id="C025-l13"> Vos desigau amj <choice>
+              <abbr>ꝙ</abbr>
+              <expan>qui</expan>
+            </choice> desijaueu </l>
+          <l n="14" xml:id="C025-l14"> Per tall voler del qual iom contenti </l>
+          <l n="15" xml:id="C025-l15"> Ara queus am pus <choice>
+              <abbr>ꝗ</abbr>
+              <expan>que</expan>
+            </choice> iames amj </l>
+          <l n="16" xml:id="C025-l16"> Tornau vos lla hon <choice>
+              <abbr>ƌ</abbr>
+              <expan>de</expan>
+            </choice>
+            <choice>
+              <abbr>ṗmer</abbr>
+              <expan>primer</expan>
+            </choice> estaueu </l>
+        </lg>
+        <lg type="cobla" n="3" xml:id="C025-lg3">
+          <l n="17" xml:id="C025-l17"> E si raho fon que ben volgut fos </l>
+          <l n="18" xml:id="C025-l18"> Mils ho meresch / mon hull nom desmentra </l>
+          <l n="19" xml:id="C025-l19"> Car per gran doll moltes veus ne plora </l>
+          <l n="20" xml:id="C025-l20"> E no plorant mostrauem doloros </l>
+          <l n="21" xml:id="C025-l21"> E uos de goig / lo tedeum cataueu </l>
+          <l n="22" xml:id="C025-l22"> Lagremeiant maldicsions canti </l>
+          <l n="23" xml:id="C025-l23"> Ara queus am pus <choice>
+              <abbr>ꝗ</abbr>
+              <expan>que</expan>
+            </choice> iames amj </l>
+          <l n="24" xml:id="C025-l24"> Tornau vos lla / hon <choice>
+              <abbr>ƌ</abbr>
+              <expan>de</expan>
+            </choice> primer estaueu </l>
+        </lg>
+        <pb n="85r"
+          facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_152.html"/>
+        <lg type="cobla" n="4" xml:id="C025-lg4">
+          <l n="25" xml:id="C025-l25"> Comptar no dech les passadas dolors </l>
+          <l n="26" xml:id="C025-l26"> Car poqua fe <choice>
+              <abbr>ꝑ</abbr>
+              <expan>per</expan>
+            </choice> vos tost hi sera </l>
+          <l n="27" xml:id="C025-l27"> Qujsmenys damor altramor no sentra </l>
+          <l n="28" xml:id="C025-l28"> Car no hasguart lom rient al ploros </l>
+          <l n="29" xml:id="C025-l29"> Si ben amant lo terç dun jorn passaueu </l>
+          <l n="30" xml:id="C025-l30"> Haurieu grat del que <choice>
+              <abbr>ꝑ</abbr>
+              <expan>per</expan>
+            </choice> vos passi </l>
+          <l n="31" xml:id="C025-l31"> Ara queus ham pus <choice>
+              <abbr>ꝗ</abbr>
+              <expan>que</expan>
+            </choice> iames amj </l>
+          <l n="32" xml:id="C025-l32"> Tornau vos lla hon <choice>
+              <abbr>ƌ</abbr>
+              <expan>de</expan>
+            </choice>
+            <choice>
+              <abbr>ṗmer</abbr>
+              <expan>primer</expan>
+            </choice> estaueu </l>
+        </lg>
+        <lg type="cobla" n="5" xml:id="C025-lg5">
+          <l n="33" xml:id="C025-l33"> Reclam a tots los meus predessessos </l>
+          <l n="34" xml:id="C025-l34"> Cells <choice>
+              <abbr>ꝙ</abbr>
+              <expan>qui</expan>
+            </choice> amor / llur cor enamora </l>
+          <l n="35" xml:id="C025-l35"> E los pressents elo quj nexera </l>
+          <l n="36" xml:id="C025-l36"> Que per mos dits entenguen mas clamors </l>
+          <l n="37" xml:id="C025-l37"> E si en vos conexenca justaueu </l>
+          <l n="38" xml:id="C025-l38"> Mal grat aureu del que fes vn mati </l>
+          <l n="39" xml:id="C025-l39"> Ara queus am pus <choice>
+              <abbr>ꝗ</abbr>
+              <expan>que</expan>
+            </choice> iames amj </l>
+          <l n="40" xml:id="C025-l40"> Tornau vos lla hon <choice>
+              <abbr>ƌ</abbr>
+              <expan>de</expan>
+            </choice>
+            <choice>
+              <abbr>ṗmer</abbr>
+              <expan>primer</expan>
+            </choice> estaueu </l>
+        </lg>
+        <lg type="tornada" n="6" xml:id="C025-lg6">
+          <l n="41" xml:id="C025-l41"> Plena de seny / sil cor me carteiaueu </l>
+          <l n="42" xml:id="C025-l42"> Trobareu clar / queus amare sens ffi </l>
+          <l n="43" xml:id="C025-l43"> Ara queus ham pus <choice>
+              <abbr>ꝗ</abbr>
+              <expan>que</expan>
+            </choice> iames amj </l>
+          <l n="44" xml:id="C025-l44"> Tornau vos lla hon <choice>
+              <abbr>ƌ</abbr>
+              <expan>de</expan>
+            </choice>
+            <choice>
+              <abbr>ṗmer</abbr>
+              <expan>primer</expan>
+            </choice> estaueu </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

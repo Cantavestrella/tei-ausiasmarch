@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 52</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/poesies-3/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>margin left, first line</locus>/>9999</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C052-D052">
+
+    <pb n="47v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="1" xml:id="C052-lg1">
+
+     <l n="1" xml:id="C052-l1"><c rend="large">C</c>lamar nos deu / qui mal cerca eltroba </l>
+
+     <l n="2" xml:id="C052-l2"> donchs vos moncor / nous senta pus clamar </l>
+
+     <l n="3" xml:id="C052-l3"> vostres gemechs / nos poden comportar </l>
+
+     <l n="4" xml:id="C052-l4"> evostres colps / se mostren sus maroba </l>
+
+     <l n="5" xml:id="C052-l5"> hajau esforç / carlo pijor es mort </l>
+
+     <l n="6" xml:id="C052-l6"> puis adeu plau / preniu hi paciencia </l>
+
+     <l n="7" xml:id="C052-l7"> ell es aquell / qui fadevos sentencia </l>
+
+     <l n="8" xml:id="C052-l8"> creure deueu / que no fa negun tort </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C052-lg2">
+
+     <l n="9" xml:id="C052-l9"><c rend="large">A</c>ns que lo mon / fonvostra mala sort </l>
+
+     <l n="10" xml:id="C052-l10"> puis fon endeu / lo vostre cas present </l>
+
+     <l n="11" xml:id="C052-l11"> elo saber / de aquell no consent </l>
+
+     <l n="12" xml:id="C052-l12"> que sia menys / vostre cas ne pus fort </l>
+
+     <pb n="48r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="13" xml:id="C052-l13"> Sino ay tal / comper ell es sabut </l>
+
+     <l n="14" xml:id="C052-l14"> la tarda es / lavostra enemiga </l>
+
+     <l n="15" xml:id="C052-l15"> laque amau / vejau sius es amiga </l>
+
+     <l n="16" xml:id="C052-l16"> Lança li veig / portar eno scut </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C052-lg3">
+
+     <l n="17" xml:id="C052-l17"><c rend="large">E</c>naquell jorn / sereu pijorcaygut </l>
+
+     <l n="18" xml:id="C052-l18"> car yo morint / tot mondelit morra </l>
+
+     <l n="19" xml:id="C052-l19"> algun plaher / luny nomaportara </l>
+
+     <l n="20" xml:id="C052-l20"> que de aquest / moltes veus men ajut </l>
+
+     <l n="21" xml:id="C052-l21"> Com sefara / quenvn tangran risch meta </l>
+
+     <l n="22" xml:id="C052-l22"> tot lo meu be / ab taldubte deperdre </l>
+
+     <l n="23" xml:id="C052-l23"> Lo meu esforç / cascun jorn sent esperdre </l>
+
+     <l n="24" xml:id="C052-l24"> null pensament / no veig que bem prometa </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C052-lg4">
+
+     <l n="25" xml:id="C052-l25"><c rend="large">Q</c>uant me feri / amor ab sa sageta </l>
+
+     <l n="26" xml:id="C052-l26"> no viu lo lanç / ans de sentirdolor </l>
+
+     <l n="27" xml:id="C052-l27"> vntada fon / devnagrandolçor </l>
+
+     <l n="28" xml:id="C052-l28"> material / dolç portaua en latreta </l>
+
+     <l n="29" xml:id="C052-l29"> Nom conselleu / sinom consellau viure </l>
+
+     <l n="30" xml:id="C052-l30"> saber nomplau / lo jorn de maspra fi </l>
+
+     <l n="31" xml:id="C052-l31"> aquellaque / veuratalcas en mi </l>
+
+     <l n="32" xml:id="C052-l32"> seque lo plor / haura pus prop que riure </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C052-lg5">
+
+     <l n="33" xml:id="C052-l33"><c rend="large">E</c>n humanal / loch amich nous veig <del rend="overstrike">a</del>siure </l>
+
+     <l n="34" xml:id="C052-l34"> sique tot hom / vos nete pergrosser </l>
+
+     <l n="35" xml:id="C052-l35"> comvos creheu / quens dara mal saber </l>
+
+     <l n="36" xml:id="C052-l36"> quant de la mort / <choice>
+       <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> veura be desliure </l>
+
+     <l n="37" xml:id="C052-l37"> Enella sta / lavostramort e vida </l>
+
+     <pb n="48v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="38" xml:id="C052-l38"> sapiau donchs / sius vol hauer merce </l>
+
+     <l n="39" xml:id="C052-l39"> nous consell pus / sino saber lo be </l>
+
+     <l n="40" xml:id="C052-l40"> queus vol laque / vos tant haueu seruida </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C052-lg6">
+
+     <l n="41" xml:id="C052-l41"><c rend="large">S</c>i be del tot / pora esser perrida </l>
+
+     <l n="42" xml:id="C052-l42"> per mon saber / vida y ma esperança </l>
+
+     <l n="43" xml:id="C052-l43"> eveig la mort / ab lavida'n balança </l>
+
+     <l n="44" xml:id="C052-l44"> lou lo consell / car es bo enpartida </l>
+
+     <l n="45" xml:id="C052-l45"> Ningu nos deu / lunyar desa natura </l>
+
+     <l n="46" xml:id="C052-l46"> alhom es dat / per sondret natural </l>
+
+     <l n="47" xml:id="C052-l47"> desijar be / volent saber lo mal </l>
+
+     <l n="48" xml:id="C052-l48"> d'aquest saber / vull donchs hauer gran cura </l>
+
+    </lg>
+
+    <lg type="tornada" n="7" xml:id="C052-lg7">
+
+     <l n="49" xml:id="C052-l49"><c rend="large">A</c>ls amadors / amor los assegura </l>
+
+     <l n="50" xml:id="C052-l50"> que no hauran / en ell<del rend="scraped" extent="two characters"/> seguretat </l>
+
+     <l n="51" xml:id="C052-l51"> en lurs volers / no cabra fermetat </l>
+
+     <l n="52" xml:id="C052-l52"> donchs com sera / entrells cosa segura </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

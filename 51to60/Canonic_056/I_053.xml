@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 56</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+       to this document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result
+       work from a previous LaTEX format file out of the variorum diplomatic edition
+       of the complete poemes of Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>   
+   
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/">
+     <msIdentifier xml:id="I_Ms_10_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>69v, centre, before first line</locus>·54· Mossen Auzias march</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_139.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_140.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C056-I053">
+
+    <pb n="69v" facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_139.html"/>
+
+    <lg type="cobla" n="1" xml:id="C056-lg1">
+
+     <l n="1" xml:id="C056-l1"> A voluntat / amant vos se contenta </l>
+
+     <l n="2" xml:id="C056-l2"> Hauent desig / de possehir la vostra </l>
+
+     <l n="3" xml:id="C056-l3"> E so content / de tal com se demostra </l>
+
+     <l n="4" xml:id="C056-l4"> Lo freturos / desig prech deu no senta </l>
+
+     <l n="5" xml:id="C056-l5"> Si be damor / terme no puch atenyer </l>
+
+     <l n="6" xml:id="C056-l6"> En aquell loch / hon amadors conexen </l>
+
+     <l n="7" xml:id="C056-l7"> Lur gros desig / complit damor se leixen </l>
+
+     <l n="8" xml:id="C056-l8"> E io ladonchs / me sent damor estrenyer </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C056-lg2">
+
+     <l n="9" xml:id="C056-l9"> Amor nom cal / jemechs ne sospirs fenyer </l>
+
+     <l n="10" xml:id="C056-l10"> Vehent penjar / son estat prim enlayre </l>
+
+     <l n="11" xml:id="C056-l11"> Cantar no deu / ab alegre becayre </l>
+
+     <l n="12" xml:id="C056-l12"> Mas ab bemolls / alegria constrenyer </l>
+
+     <l n="13" xml:id="C056-l13"> Sol en nos dos / amor se manjfesta </l>
+
+     <l n="14" xml:id="C056-l14"> Enos viuents / no li fallira casa </l>
+
+     <l n="15" xml:id="C056-l15"> E si del mon / es nostra vida rasa </l>
+
+     <l n="16" xml:id="C056-l16"> Tolra fauor / arecord daltra gesta </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C056-lg3">
+
+     <l n="17" xml:id="C056-l17"> Lo meu delit / no cab en nulla testa </l>
+
+     <l n="18" xml:id="C056-l18"> Ne pot muntar / glorian pus alt signe </l>
+
+     <l n="19" xml:id="C056-l19"> Pus nom deffall / sino que deu consigne </l>
+
+     <l n="20" xml:id="C056-l20"> Que fermetat / me sien fauor presta </l>
+
+     <l n="21" xml:id="C056-l21"> E si es ver / que deu sia fortuna </l>
+
+     <l n="22" xml:id="C056-l22"> Soplich lo molt / repo se son offici </l>
+
+     <l n="23" xml:id="C056-l23"> Lalt derrocar / ma par terrible vici </l>
+
+     <l n="24" xml:id="C056-l24"> Ffahent morir / dos cors en vida vna </l>
+
+    </lg>
+
+    <pb n="70r" facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_140.html"/>
+
+    <lg type="cobla" n="4" xml:id="C056-lg4">
+
+     <l n="25" xml:id="C056-l25"> Tot simplament / e sens dolor alguna </l>
+
+     <l n="26" xml:id="C056-l26"> Visch en delit / ab ma voluntat solta </l>
+
+     <l n="27" xml:id="C056-l27"> Que lo cor fosch / quela tenian volta </l>
+
+     <l n="28" xml:id="C056-l28"> Clar possehesch / fent me lum sol e luna </l>
+
+     <l n="29" xml:id="C056-l29"> E noy veig als / que puramor entegra </l>
+
+     <l n="30" xml:id="C056-l30"> Si transportant / en la presonamada </l>
+
+     <l n="31" xml:id="C056-l31"> Res nom deffall / avida contentada </l>
+
+     <l n="32" xml:id="C056-l32"> Lama de deu / amj res no denegua </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C056-lg5">
+
+     <l n="33" xml:id="C056-l33"> Volgresser orb / fahent fortuna cegua </l>
+
+     <l n="34" xml:id="C056-l34"> Perdent lo pas / hon tan alt ma fet metra </l>
+
+     <l n="35" xml:id="C056-l35"> E si de loch / aquell me fa remetra </l>
+
+     <l n="36" xml:id="C056-l36"> En aquest temps / la mort me regonegua </l>
+
+     <l n="37" xml:id="C056-l37"> Ans quels costats / senten la dura terra </l>
+
+     <l n="38" xml:id="C056-l38"> En est espay / ma vida pendra terme </l>
+
+     <l n="39" xml:id="C056-l39"> Lo meu estat / ab la mort lo conferme </l>
+
+     <l n="40" xml:id="C056-l40"> Perdent aquell / dela mort me plau guerra </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C056-lg6">
+
+     <l n="41" xml:id="C056-l41"> Lir entre carts / en lespay dela terra </l>
+
+     <l n="42" xml:id="C056-l42"> Noy ha delit / que dure ne contenta </l>
+
+     <l n="43" xml:id="C056-l43"> Sols es lo meu / que no vull que augmenta </l>
+
+     <l n="44" xml:id="C056-l44"> Mas del durar / quant hi pens dol ma fferra </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 57</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CG">
+               <name>Cèlia Garrido</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2023.</p>
+               </licence>
+            </availability>
+            <date>2023-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/">
+               <msIdentifier xml:id="a_Ed_1539_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>96r, centre,before first line</locus>¶ Capitulo.VI Marco.</rubric>
+                     <rubric>
+                        <locus>96r, header</locus>Demuerte Fo. XCVI</rubric>
+                     <rubric>
+                        <locus>96v, header</locus>Cantica. Marco.</rubric>
+                     
+                     <rubric>
+                        <locus>96v, beteen lines 16 and 17</locus>Marco.</rubric>
+                     <rubric>
+                        <locus>97r, header</locus>Demuerte Fo. XCVII. Marco.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_192.html"/>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_193.html"/>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_194.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C057-a038">
+
+            <pb n="96r"
+               facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_192.html"/>
+
+            <lg type="cobla" n="1" xml:id="C057-lg1">
+
+               <l n="1" xml:id="C057-l1">¶ Por de pijor / a molts fa pendre mort </l>
+
+               <l n="2" xml:id="C057-l2"> Per esquiuar / mal esdeuenidor </l>
+
+               <l n="3" xml:id="C057-l3"> Si be la mort / ressembla cas pijor </l>
+
+               <l n="4" xml:id="C057-l4"> Cell qui la pren / la te por bona sort </l>
+
+               <l n="5" xml:id="C057-l5"> E de asso / Cato mostra cami: </l>
+
+               <l n="6" xml:id="C057-l6"> E ly mes nom / hus dela libertat, </l>
+
+               <l n="7" xml:id="C057-l7"> Car de tot als / pot esser lom forsat </l>
+
+               <l n="8" xml:id="C057-l8"> Sino en morir / ques en lo franch juhy </l>
+
+            </lg>
+
+            <pb n="96v"
+               facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_193.html"/>
+
+            <lg type="cobla" n="2" xml:id="C057-lg2">
+
+               <l n="9" xml:id="C057-l9">¶ Algu pren mort / e reb nom de mezqui </l>
+
+               <l n="10" xml:id="C057-l10"> Fugint perill / qui les dauant posat </l>
+
+               <l n="11" xml:id="C057-l11"> Altre sera / de cor noble animat </l>
+
+               <l n="12" xml:id="C057-l12"> Que vol morir / per la dolor de si </l>
+
+               <l n="13" xml:id="C057-l13"> Venint en mans / de enemich seu potent, </l>
+
+               <l n="14" xml:id="C057-l14"> Sobratlo cos / guerreja ab lo voler </l>
+
+               <l n="15" xml:id="C057-l15"> De uensedor / encaras veu poder </l>
+
+               <l n="16" xml:id="C057-l16"> Vol perdrel cos / per lespirit vensent </l>
+
+            </lg>
+
+            <lg type="cobla" n="3" xml:id="C057-lg4">
+
+               <l n="17" xml:id="C057-l25">¶ Del viure llonch / ja sent lo gran repos </l>
+
+               <l n="18" xml:id="C057-l26"> Qui daquest carcre / lo viure auorreix </l>
+
+               <l n="19" xml:id="C057-l27"> E la dolor / dela mort se parteix </l>
+
+               <l n="20" xml:id="C057-l28"> Com loqui mor / comptes de mort a clos </l>
+
+               <l n="21" xml:id="C057-l29"> Lla donchs virtut / la forsa multiplica </l>
+
+               <l n="22" xml:id="C057-l30"> Del virtuos / que sa peticio ferma </l>
+
+               <l n="23" xml:id="C057-l31"> En qualque part / on virtut la conferma </l>
+
+               <l n="24" xml:id="C057-l32"> E sol a deu / del sperit suplica. </l>
+
+            </lg>
+
+            <pb n="97r"
+               facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_194.html"/>
+
+            <lg type="cobla" n="4" xml:id="C057-lg5">
+
+               <l n="25" xml:id="C057-l33">¶ Alguns passats / que voluntat inica </l>
+
+               <l n="26" xml:id="C057-l34"> Los feu morir / o la opinio vana </l>
+
+               <l n="27" xml:id="C057-l35"> Aquests no llou / mas los de pensa sana </l>
+
+               <l n="28" xml:id="C057-l36"> Volents morir / per fer lur arma rica </l>
+
+               <l n="29" xml:id="C057-l37"> Perdent vn poch / per linfinit atendre </l>
+
+               <l n="30" xml:id="C057-l38"> Guanyant lo goig / que al fill de deu molt costa </l>
+
+               <l n="31" xml:id="C057-l39"> Gran es lo be / segons lo molt que costa </l>
+
+               <l n="32" xml:id="C057-l40"> Que per la mort / de tal hom sagues vendre </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

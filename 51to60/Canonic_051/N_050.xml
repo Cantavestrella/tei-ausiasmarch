@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 51</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>103 header</locus>{Mossen Auzias march}</rubric>
+       <rubric>
+        <locus>104, centre, between lines 40 and 41</locus>{Tornada}</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_105.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_106.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C051-N050">
+
+    <pb n="103"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_105.html"/>
+
+    <lg type="cobla" n="1" xml:id="C051-lg1">
+
+     <l n="1" xml:id="C051-l1"> ¶ Tal so com <gap reason="illegible" extent="two characters"/>ll quj
+      pensa que mora </l>
+
+     <l n="2" xml:id="C051-l2"> E ya lan lest moltas <choice>
+       <abbr>veꝯ</abbr>
+       <expan>veus</expan>
+      </choice> la sentenca </l>
+
+     <l n="3" xml:id="C051-l3"> Mas permerce les donadandienca<note type="editorial">Per
+       donadaudienca.</note></l>
+
+     <l n="4" xml:id="C051-l4"> Creu eno creu que merce lj valra </l>
+
+     <l n="5" xml:id="C051-l5"> Lo mal elbe uan almesquj dauant </l>
+
+     <l n="6" xml:id="C051-l6"> Que no tem prou ne ferm pot esperar </l>
+
+     <l n="7" xml:id="C051-l7"> Axi no puch auos ferm desijar </l>
+
+     <l n="8" xml:id="C051-l8"> Nesser non puch del tot desesparant </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C051-lg2">
+
+     <l n="9" xml:id="C051-l9"> Aytant com puch hire vidalargant </l>
+
+     <l n="10" xml:id="C051-l10"> Perque lestrem de tots los mals es mort </l>
+
+     <l n="11" xml:id="C051-l11"> Nom trobesforc per auerne conort </l>
+
+     <l n="12" xml:id="C051-l12"> Mes ham dolor mort e vida dubtant </l>
+
+     <l n="13" xml:id="C051-l13"> E tant com pus dema dolor creheu </l>
+
+     <l n="14" xml:id="C051-l14"> E loremey enuos lo deteniu </l>
+
+     <l n="15" xml:id="C051-l15"> Lomeu esforc jau mort molt mes que viu </l>
+
+     <l n="16" xml:id="C051-l16"> Ans desamort <choice>
+      <abbr>pregeꝯ</abbr>
+       <expan>pregeus</expan>
+      </choice> lj perdoneu </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C051-lg3">
+
+     <l n="17" xml:id="C051-l17"> La donchs more com parlar nom volreu </l>
+
+     <l n="18" xml:id="C051-l18"> E tinch per foll quj demort nos defen </l>
+
+     <l n="19" xml:id="C051-l19"> Aquela es derer dan e turmen </l>
+
+     <l n="20" xml:id="C051-l20"> No meresch yo que los <choice>
+      <abbr>meꝯ</abbr>
+       <expan>meus</expan>
+      </choice> jorns fineu </l>
+
+     <l n="21" xml:id="C051-l21"> No guardeu mj sino ma benuolenca </l>
+
+     <l n="22" xml:id="C051-l22"> Mi ofent hofendreu lo voler </l>
+
+     <l n="23" xml:id="C051-l23"> Que vos amant demj es homeyer </l>
+
+     <l n="24" xml:id="C051-l24"> E conexent vos fall rregonexenca </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C051-lg4">
+
+     <pb n="104"
+      facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_106.html"/>
+
+     <l n="25" xml:id="C051-l25"> Hon es jason esadesconaxenca </l>
+
+     <l n="26" xml:id="C051-l26"> Hon es teseu quj trehi edriana </l>
+
+     <l n="27" xml:id="C051-l27"> E dido fon desperanca tan vana </l>
+
+     <l n="28" xml:id="C051-l28"> Que la trahi eneas encrehenca </l>
+
+     <l n="29" xml:id="C051-l29"> Los fets passats de present me consolen </l>
+
+     <l n="30" xml:id="C051-l30"> Yrat me trob ves femenin linatge </l>
+
+     <l n="31" xml:id="C051-l31"> Los fins amants no an en ell estatge </l>
+
+     <l n="32" xml:id="C051-l32"> Sembren los <del rend="overstrike">boꝯ</del> bons cullen los mals
+      emolen</l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C051-lg5">
+
+     <l n="33" xml:id="C051-l33"> Sauis son tots quj les festes no colen </l>
+
+     <l n="34" xml:id="C051-l34"> Daquellamor que enles dones cau </l>
+
+     <l n="35" xml:id="C051-l35"> Ab desleals souint ellas an pau </l>
+
+     <l n="36" xml:id="C051-l36"> Lexant aquells quj perben amar moren </l>
+
+     <l n="37" xml:id="C051-l37"> E recort es aquell pau de bell viure </l>
+
+     <l n="38" xml:id="C051-l38"> Qua per amar sa dona torna foll </l>
+
+     <l n="39" xml:id="C051-l39"> Tal camj tinch soptat rompent lo coll </l>
+
+     <l n="40" xml:id="C051-l40"> De tot mon dan dubtem <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> veya riure </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C051-lg6">
+
+     <l n="41" xml:id="C051-l41"> Plena deseny nom abreugeu lo viure </l>
+
+     <l n="42" xml:id="C051-l42"> Car mentre visch vostra laor salarga </l>
+
+     <l n="43" xml:id="C051-l43"> E uos loant nom trob lapochamargua </l>
+
+     <l n="44" xml:id="C051-l44"> Ne tart lama quant vull de vos escriure </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

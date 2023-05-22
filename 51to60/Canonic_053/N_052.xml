@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 53</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>107, centre, before first line</locus>{Mossen Ausias march}</rubric>
+       <rubric>
+        <locus>109, centre, between lines 40 and 41</locus>{Tornada}</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_109.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_110.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_111.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C053-N052">
+
+    <pb n="107"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_109.html"/>
+
+    <lg type="cobla" n="1" xml:id="C053-lg1">
+
+     <l n="1" xml:id="C053-l1">¶ Ab tal dolor com lesperit sarenca </l>
+
+     <l n="2" xml:id="C053-l2"> E dins lo cors comenca fer camj </l>
+
+     <l n="3" xml:id="C053-l3"> E roman fret lo loch donpartex si </l>
+
+     <l n="4" xml:id="C053-l4"> Laviua carn saltera gro<del rend="overstrike">ss</del>ga hi blanqua </l>
+
+     <l n="5" xml:id="C053-l5"> Molt <choice>
+       <abbr>epꝯ</abbr>
+       <expan>epus</expan>
+      </choice> fort dolor mon desig sent </l>
+
+     <l n="6" xml:id="C053-l6"> Com apartir dela mia speranca </l>
+
+     <l n="7" xml:id="C053-l7"> Noy es detot mas enlo camjs lanca </l>
+
+     <l n="8" xml:id="C053-l8"> Ya mon esper demostra alterament </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C053-lg2">
+
+     <l n="9" xml:id="C053-l9"> Nom pens que deu me done tal turment </l>
+
+     <l n="10" xml:id="C053-l10"> Quem vejalmon si pert lo meu desig </l>
+
+     <l n="11" xml:id="C053-l11"> Nom restara sino que mude lig </l>
+
+     <l n="12" xml:id="C053-l12"> Car detot lalt mon esforc es potent </l>
+
+     <l n="13" xml:id="C053-l13"> Tots los asags que amados an fets </l>
+
+     <l n="14" xml:id="C053-l14"> Tots me son poc sino mort acordada </l>
+
+     <l n="15" xml:id="C053-l15"> Sim fall amor nom fall pensa irada </l>
+
+     <l n="16" xml:id="C053-l16"> Per castigar mos passats malifets </l>
+
+    </lg>
+
+    <pb n="108"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_110.html"/>
+
+    <lg type="cobla" n="3" xml:id="C053-lg3">
+
+     <l n="17" xml:id="C053-l17"> Tan gran amor aurian deserets </l>
+
+     <l n="18" xml:id="C053-l18"> Que tal afer meyns de seyal passats </l>
+
+     <l n="19" xml:id="C053-l19"> De be homal sen deu mostrar gran cas </l>
+
+     <l n="20" xml:id="C053-l20"> Amor lj plau ques mostren los secrets </l>
+
+     <l n="21" xml:id="C053-l21"> Tant mon voler amor ha obeyt </l>
+
+     <l n="22" xml:id="C053-l22"> Que nom dolra saperillosa plaga </l>
+
+     <l n="23" xml:id="C053-l23"> Si per null temps la <del rend="overstrike">plaga</del> fama
+      nosapagua </l>
+
+     <l n="24" xml:id="C053-l24"> Com sen francesch dela sua jaquit </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C053-lg4">
+
+     <l n="25" xml:id="C053-l25"> Vos dona sou mon deu emon delit </l>
+
+     <l n="26" xml:id="C053-l26"> Donchs <choice>
+       <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> dolgau si pert lomon pervos </l>
+
+     <l n="27" xml:id="C053-l27"> Nom teniu tort enles mjes dolos </l>
+
+     <l n="28" xml:id="C053-l28"> E uos dolent me feu <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> dolorit </l>
+
+     <l n="29" xml:id="C053-l29"> Res nom dol tal com si <choice>
+       <abbr>demiꝯ</abbr>
+       <expan>demius</expan>
+      </choice> doleu </l>
+
+     <l n="30" xml:id="C053-l30"> Lexau amj acomenat amor </l>
+
+     <l n="31" xml:id="C053-l31"> Car de aquell nom trobe gran pahor </l>
+
+     <l n="32" xml:id="C053-l32"> De jra prech quem vulla guardar deu </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C053-lg5">
+
+     <l n="33" xml:id="C053-l33"> Si com alhom franetich es molt greu </l>
+
+     <l n="34" xml:id="C053-l34"> Quant afer mal se uol esser leuat </l>
+
+     <l n="35" xml:id="C053-l35"> Lo fort ligam que lj auran posat </l>
+
+     <l n="36" xml:id="C053-l36"> Yell mal no sent fjns la follia veu </l>
+
+     <l n="37" xml:id="C053-l37"> Ne pren amj quant so torbat perjra </l>
+
+     <l n="38" xml:id="C053-l38"> Yom trob esforc <del rend="overstrike">q</del> tant que no sent
+      treball </l>
+
+     <l n="39" xml:id="C053-l39"> Quant me jaquex sibe tot jorn ho call </l>
+
+     <l n="40" xml:id="C053-l40"> Romanch tan las que sol mon cor sospira </l>
+
+    </lg>
+
+    <pb n="109"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_111.html"/>
+
+    <lg type="tornada" n="6" xml:id="C053-lg6">
+
+     <l n="41" xml:id="C053-l41"> Lir entre carts ma voluntat segira </l>
+
+     <l n="42" xml:id="C053-l42"> Tant que <choice>
+       <abbr>yoꝯ</abbr>
+       <expan>yous</expan>
+      </choice> vull honestay desonesta </l>
+
+     <l n="43" xml:id="C053-l43"> Lo sant hayr aquell del qual tinch festa </l>
+
+     <l n="44" xml:id="C053-l44"> E plaume co de que vinch tost enjra </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

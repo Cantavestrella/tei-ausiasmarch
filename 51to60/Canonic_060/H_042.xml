@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 60 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+     <msIdentifier xml:id="H_Ms_110_BUZ">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>46r, centre, before first line</locus>mos auzias march </rubric>
+       <rubric><locus/></rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_74.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_75.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_76.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C060-H042">
+
+    <pb n="46r"
+     facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_74.html"/>
+
+    <lg type="cobla" n="1" xml:id="C060-lg1">
+
+     <l n="1" xml:id="C060-l1"> Mes volentats en gran part <choice>
+       <abbr>discordāts</abbr>
+       <expan>discordants</expan>
+      </choice>
+     </l>
+
+     <l n="2" xml:id="C060-l2"> Dona <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> uos / les he fetas concordas </l>
+
+     <l n="3" xml:id="C060-l3"> Per uos han pau / solent esser discordes </l>
+
+     <l n="4" xml:id="C060-l4"> Per uos conech lerror hon erabans </l>
+
+     <l n="5" xml:id="C060-l5"> Per vos conech / tot lo delit de vjure </l>
+
+     <l n="6" xml:id="C060-l6"> Mos pensaments / concordian conexen </l>
+
+     <l n="7" xml:id="C060-l7"> Ja de contrast si com debans nos veixen </l>
+
+     <l n="8" xml:id="C060-l8"> Ans als amjchs / de pau poden escriure </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C060-lg2">
+
+     <l n="9" xml:id="C060-l9"> A ymaginar / nom call duymes asiura </l>
+
+     <l n="10" xml:id="C060-l10"> Per aplegar ma pença molt confussa </l>
+
+     <l n="11" xml:id="C060-l11"> Dela virtut de fermetat molt vsse </l>
+
+     <l n="12" xml:id="C060-l12"> De dos affanys / del primer son desliure </l>
+
+     <l n="13" xml:id="C060-l13"> Per ensercar / nom cal traball <choice>
+       <abbr>đ</abbr>
+       <expan>de</expan>
+      </choice> pença </l>
+
+     <l n="14" xml:id="C060-l14"> Trobat es ia / tot obs <choice>
+       <abbr>đla</abbr>
+       <expan>dela</expan>
+      </choice> mjarma </l>
+
+     <pb n="46v"
+      facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_75.html"/>
+
+     <l n="15" xml:id="C060-l15"> E per guanyar / sas flaques <choice>
+       <abbr>mās</abbr>
+       <expan>mans</expan>
+      </choice> fortarme </l>
+
+     <l n="16" xml:id="C060-l16"> E per auer al cors de mals defença </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C060-lg3">
+
+     <l n="17" xml:id="C060-l17"> E si del cors ma fortuna dispença </l>
+
+     <l n="18" xml:id="C060-l18"> Que per son mal / marma perda batalla </l>
+
+     <l n="19" xml:id="C060-l19"> Ja sab <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> fer / e ma lengua no calla </l>
+
+     <l n="20" xml:id="C060-l20"> Viren <note type="editorial">Per viure en.</note> lo mon / hauer
+      en gran hofença </l>
+
+     <l n="21" xml:id="C060-l21"> Mall consellat mon cors volch pendre lança </l>
+
+     <l n="22" xml:id="C060-l22"> E ple dapor ab ses armas volch noura </l>
+
+     <l n="23" xml:id="C060-l23"> Mas pres consell / <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> les tornas al foura </l>
+
+     <l n="24" xml:id="C060-l24"> Prenjnt escut armas doffendra lança </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C060-lg4">
+
+     <l n="25" xml:id="C060-l25"> Nom ha del tot derrenclit masperança </l>
+
+     <l n="26" xml:id="C060-l26"> Ab ella ensemps espirare ma vida </l>
+
+     <l n="27" xml:id="C060-l27"> Mas io conech la mjarman fortida </l>
+
+     <l n="28" xml:id="C060-l28"> Que tot perill / se ten molt gran <choice>
+      <abbr>bonāça</abbr>
+       <expan>bonança</expan>
+      </choice>
+     </l>
+
+     <l n="29" xml:id="C060-l29"> Dolgues tot hom / com yo be no atench </l>
+
+     <l n="30" xml:id="C060-l30"> Nos dolgalgu de mon terrjble mal </l>
+
+     <l n="31" xml:id="C060-l31"> Null gunyidor / no feu encontra tal </l>
+
+     <l n="32" xml:id="C060-l32"> Don fos content com yo souent lo rench </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C060-lg5">
+
+     <l n="33" xml:id="C060-l33"> Si mos mals fets ab forçaltra no trench </l>
+
+     <l n="34" xml:id="C060-l34"> Malahuyrat nom vullalgu jutgar </l>
+
+     <l n="35" xml:id="C060-l35"> Si vagabunt / me veu lo mon anar </l>
+
+     <l n="36" xml:id="C060-l36"> En tan sagur / port home<del rend="overstrike">s</del> iames vench </l>
+
+     <l n="37" xml:id="C060-l37"> Mon desig es en molta part complit </l>
+
+     <l n="38" xml:id="C060-l38"> Trob-ant molt mes / del <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> fuy desigos </l>
+
+     <l n="39" xml:id="C060-l39"> Si no atench no pens algu <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> fos </l>
+
+     <l n="40" xml:id="C060-l40"> Ab tal dolor sens molt maior delit </l>
+
+    </lg>
+    <pb n="47r"
+     facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_76.html"/>
+
+    <lg type="tornada" n="6" xml:id="C060-lg6">
+
+     <l n="41" xml:id="C060-l41"> Lir entre carts / lo <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> dauos he dit </l>
+
+     <l n="42" xml:id="C060-l42"> Placia deu / nom faça mentidor </l>
+
+     <l n="43" xml:id="C060-l43"> Y el que suffert / essent vos amador </l>
+
+     <l n="44" xml:id="C060-l44"> Per mal sentir / nom sia mal grayt </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

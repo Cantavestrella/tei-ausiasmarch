@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 22</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/">
+     <msIdentifier xml:id="F_Ms_2244_BGHUS">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       
+       <rubric>
+        <locus>22r after end of previous poem, before this one:</locus>Altra </rubric>
+       <rubric>
+        <locus>23r between lines 40 and 41 tornada
+        </locus>
+       </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_47.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_47.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_48.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C022-F022">
+    <pb n="22r" facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_47.html"/>
+    <lg type="cobla" n="1" xml:id="C022_lg1">
+     <l n="1" xml:id="C022_l1"> Callen aquells que damor han parlat </l>
+     <l n="2" xml:id="C022_l2"> E dels passats deliu tots lurs escrits </l>
+     <l n="3" xml:id="C022_l3"> En mj penssant meteu los en oblits </l>
+     <l n="4" xml:id="C022_l4"> En mon esguart degus enamorat </l>
+     <l n="5" xml:id="C022_l5"> Car pas desig sensesperancauer </l>
+     <l n="6" xml:id="C022_l6"> Tal passio james home sostench </l>
+     <l n="7" xml:id="C022_l7"> Per als dampnats nostre deu la retench </l>
+     <l n="8" xml:id="C022_l8"> Sol per aquells quj moren sens esper </l>
+    </lg>
+    <pb n="22v" facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_47.html"/>
+    <lg type="cobla" n="2" xml:id="C022_lg2">
+     <l n="9" xml:id="C022_l9"> Puys mon afany es entre tots primer </l>
+     <l n="10" xml:id="C022_l10"> Amor fa tort com se rete mon dret </l>
+     <l n="11" xml:id="C022_l11"> Als fals e pechs non dona fam ne set </l>
+     <l n="12" xml:id="C022_l12"> Ne fret ne calt tots han complit mester </l>
+     <l n="13" xml:id="C022_l13"> Car non es hu no trobe tot son alt </l>
+     <l n="14" xml:id="C022_l14"> Merce hauent si iames la demana </l>
+     <l n="15" xml:id="C022_l15"> E yo damor visch desperanca vana </l>
+     <l n="16" xml:id="C022_l16"> Sjm pens hauer raho desserne calt </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C022_lg3">
+     <l n="17" xml:id="C022_l17"> No so empes ne temptat per desalt </l>
+     <l n="18" xml:id="C022_l18"> Deres quen uos los <choice>
+      <abbr>meꝯ</abbr>
+       <expan>meus</expan>
+      </choice> hulls hagen vist </l>
+     <l n="19" xml:id="C022_l19"> Lenteniment per los uostres conquist </l>
+     <l n="20" xml:id="C022_l20"> En gran raho es causat aquest alt </l>
+     <l n="21" xml:id="C022_l21"> Vos no ueheu mapurantencio </l>
+     <l n="22" xml:id="C022_l22"> Car desamor uos enfosqueix la uista </l>
+     <l n="23" xml:id="C022_l23"> Per co romanch ab lamiarma trista </l>
+     <l n="24" xml:id="C022_l24"> Com no meriu la mja ffeccio </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C022_lg4">
+     <l n="25" xml:id="C022_l25"> Del pare sant nom cal hauer perdo </l>
+     <l n="26" xml:id="C022_l26"> Car mon peccat es amar follament </l>
+     <l n="27" xml:id="C022_l27"> Deman la mj cab mon consentiment </l>
+     <l n="28" xml:id="C022_l28"> He fet damor catiua ma raho </l>
+     <l n="29" xml:id="C022_l29"> Sia content amors del cors sens pus </l>
+     <l n="30" xml:id="C022_l30"> E la raho seruira son offici </l>
+     <l n="31" xml:id="C022_l31"> Mon sentiment qujs ueu prim sia njci </l>
+     <l n="32" xml:id="C022_l32"> Que no sesguart ab quj tinga lull clus </l>
+    </lg>
+    <pb n="23r" facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_48.html"/>
+    <lg type="cobla" n="5" xml:id="C022_lg5">
+     <l n="33" xml:id="C022_l33"> Ffent be amolts a la mort me acus </l>
+     <l n="34" xml:id="C022_l34"> Car sere spill de leals amadors </l>
+     <l n="35" xml:id="C022_l35"> Prenjnts remey atotes lurs dolors </l>
+     <l n="36" xml:id="C022_l36"> Car enuers mj tota dolor es jus </l>
+     <l n="37" xml:id="C022_l37"> Aytant com he pus alt leuada pensa </l>
+     <l n="38" xml:id="C022_l38"> E netament hay en amor entes </l>
+     <l n="39" xml:id="C022_l39"> Seny femenil fora si ma empes </l>
+     <l n="40" xml:id="C022_l40"> Ffent assi tort e amj gran offensa </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C022_lg6">
+     <l n="41" xml:id="C022_l41"> Plena de seny yo vull e deu dispensa </l>
+     <l n="42" xml:id="C022_l42"> Que per amor yo fenesqua mos jorns </l>
+     <l n="43" xml:id="C022_l43"> Mas sim escap per null temps dare torns </l>
+     <l n="44" xml:id="C022_l44"> Per dona que ueramor se deffensa </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

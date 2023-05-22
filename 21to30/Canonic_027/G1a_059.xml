@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 27 </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo HIlario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064.html">
+               <msIdentifier xml:id="G1a_Ms_210_BHUV">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>90v after end of previous poem, before this one: </locus><choice>
+                           <abbr>moß</abbr>
+                           <expan>mossen</expan>
+                        </choice> Ausias march </rubric>
+                     <rubric><locus>90v between lines 16 and 17</locus>Tornada </rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_191.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C027-G1a059">
+            <pb n="90v"
+               facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_191.html"/>
+            <lg type="cobla" n="1" xml:id="C027-lg4">
+               <l n="1" xml:id="C027-l25"> Yo contrafas nau en golf perillan<note type="gloss" place="margin left" >comenca esta obra Sobresdolor, es ja copiada en lo llibre nou</note>
+               </l>
+               <l n="2" xml:id="C027-l26"> larbre perdent e son gouernador </l>
+               <l n="3" xml:id="C027-l27"> e per contrast de dos vents no discor </l>
+               <l n="4" xml:id="C027-l28"> los marjners embadalits estan </l>
+               <l n="5" xml:id="C027-l29"> e cascu dells la sua carta tenta </l>
+               <l n="6" xml:id="C027-l30"> e son discorts en llur acordament </l>
+               <l n="7" xml:id="C027-l31"> vn volgra ser prop terra passes cent </l>
+               <l n="8" xml:id="C027-l32"> laltre tan luny com vent pot dar empenta </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C027-lg5">
+               <l n="9" xml:id="C027-l33"> La voluntad ab quen la mar fuy mes </l>
+               <l n="10" xml:id="C027-l34"> fallida es epogram fer aiuda </l>
+               <l n="11" xml:id="C027-l35"> ja ma raho de son loch es cayguda </l>
+               <l n="12" xml:id="C027-l36"> mos pensaments contrarjs man ates </l>
+               <l n="13" xml:id="C027-l37"> jamos desigs no saben elegir </l>
+               <l n="14" xml:id="C027-l38"> vida ne mort qual es la mjlloria </l>
+               <l n="15" xml:id="C027-l39"> naturam mj vsa de maestria </l>
+               <l n="16" xml:id="C027-l40"> e pren la mort per maior dan fogir </l>
+            </lg>
+            <lg type="tornada" n="3" xml:id="C027-lg6">
+               <l n="17" xml:id="C027-l41"> Plena de seny nos pot ben sostenjr </l>
+               <l n="18" xml:id="C027-l42"> vida y dolor sens pendralgun spay </l>
+               <l n="19" xml:id="C027-l43"> lo meu desig se conuertex en glay </l>
+               <l n="20" xml:id="C027-l44"> quant me recort que res vos haia dir </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

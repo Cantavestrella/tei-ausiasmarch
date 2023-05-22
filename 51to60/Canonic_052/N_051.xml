@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 52</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>105 header</locus>{Mossen Auzias march}</rubric>
+       <rubric>
+        <locus>105 centre, between lines 16 and 17</locus>{Lo cors}</rubric>
+       <rubric>
+        <locus>106, centre, between lines 32 and 33</locus>{Lesperit}</rubric>
+       <rubric>
+        <locus>106, centre, between lines 40 and 41</locus>{Lo cors}</rubric>
+       <rubric>
+        <locus>107, header</locus>{Tornada}</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_107.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_108.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_109.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C052-N051">
+
+    <pb n="105"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_107.html"/>
+
+    <lg type="cobla" n="1" xml:id="C052-lg1">
+
+     <l n="1" xml:id="C052-l1">¶ Clamar nos deu quj molt cerqua e troba </l>
+
+     <l n="2" xml:id="C052-l2"> Donchs vos mon cor <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> senta <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> clamar </l>
+
+     <l n="3" xml:id="C052-l3"> Vostres gemechs nos poden comportar </l>
+
+     <l n="4" xml:id="C052-l4"> E vostres colps se mostren sus maroba </l>
+
+     <l n="5" xml:id="C052-l5"> Ajau esforc car lo pijor es mort </l>
+
+     <l n="6" xml:id="C052-l6"> Pus adeu plau preneuhi pacienca </l>
+
+     <l n="7" xml:id="C052-l7"> Ell es aquell quj fa dauos sentenca </l>
+
+     <l n="8" xml:id="C052-l8"> Creure deueu que no fa degun tort </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C052-lg2">
+
+     <l n="9" xml:id="C052-l9"> Ans que lo mon fon vostra mala sort </l>
+
+     <l n="10" xml:id="C052-l10"> Puys fon en deu lo vostre cas present </l>
+
+     <l n="11" xml:id="C052-l11"> En be <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> es son saber costrenyent </l>
+
+     <l n="12" xml:id="C052-l12"> No sera menys nostre cars ne <choice>
+      <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> fort </l>
+
+     <l n="13" xml:id="C052-l13"> Sino aytal com per ell es sabut </l>
+
+     <l n="14" xml:id="C052-l14"> La tarda es lavostra enemiga </l>
+
+     <l n="15" xml:id="C052-l15"> La que amau vejau <choice>
+      <abbr>siꝯ</abbr>
+       <expan>sius</expan>
+      </choice> es amiga </l>
+
+     <l n="16" xml:id="C052-l16"> Lanca lj veg portar eno escut </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C052-lg3">
+
+     <l n="17" xml:id="C052-l17"> En aquell jorn seren fort punt caygut </l>
+
+     <l n="18" xml:id="C052-l18"> Car yo morint tot mon delit morra </l>
+
+     <l n="19" xml:id="C052-l19"> Algun plaer lull nom aportara </l>
+
+     <l n="20" xml:id="C052-l20"> Que de aquest moltes <choice>
+      <abbr>veꝯ</abbr>
+       <expan>veus</expan>
+      </choice> men ajut </l>
+
+     <l n="21" xml:id="C052-l21"> Com se fara quen vn tan gran risch meta </l>
+
+     <l n="22" xml:id="C052-l22"> Tot lomeu be al tal dubte de perdre </l>
+
+     <l n="23" xml:id="C052-l23"> Lo meu esforc qujscun jorn sent esperdre </l>
+
+     <l n="24" xml:id="C052-l24"> Null penssament no veig que bem prometa </l>
+
+    </lg>
+
+    <pb n="106"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_108.html"/>
+
+    <lg type="cobla" n="4" xml:id="C052-lg4">
+
+     <l n="25" xml:id="C052-l25"> Quant me farj amor abla sageta </l>
+
+     <l n="26" xml:id="C052-l26"> No viu lo lac ans de sentir dolor </l>
+
+     <l n="27" xml:id="C052-l27"> Untada fon de vna gran dolcor </l>
+
+     <l n="28" xml:id="C052-l28"> Material dolc portaua latreta </l>
+
+     <l n="29" xml:id="C052-l29"> Nom conselleu si nom coselau viure </l>
+
+     <l n="30" xml:id="C052-l30"> Saber nom plau lojorn demaspra fi </l>
+
+     <l n="31" xml:id="C052-l31"> Aquella que veura tal cas enmj </l>
+
+     <l n="32" xml:id="C052-l32"> Se que lo plor aura pus prop que riure </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C052-lg5">
+
+     <l n="33" xml:id="C052-l33"> En vn tal loch amich vos veig asiure </l>
+
+     <l n="34" xml:id="C052-l34"> Si que tot hom vos ne te per groser </l>
+
+     <l n="35" xml:id="C052-l35"> Com vos creheu ques dara mal saber </l>
+
+     <l n="36" xml:id="C052-l36"> Quant delamort <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> veure be desliure </l>
+
+     <l n="37" xml:id="C052-l37"> En ell esta lauostramort e vida </l>
+
+     <l n="38" xml:id="C052-l38"> Sapiau donchs <choice>
+      <abbr>siꝯ</abbr>
+       <expan>sius</expan>
+      </choice> vol auer merce </l>
+
+     <l n="39" xml:id="C052-l39">
+      <choice>
+       <abbr>Noꝯ</abbr>
+       <expan>Nous</expan>
+      </choice> consell <choice>
+       <abbr>pꝯ </abbr>
+       <expan>pus</expan>
+      </choice> sino saber lo be </l>
+
+     <l n="40" xml:id="C052-l40">
+      <choice>
+       <abbr>Queꝯ</abbr>
+       <expan>Queus</expan>
+      </choice> uol laque uos tant aueu serujda </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C052-lg6">
+
+     <l n="41" xml:id="C052-l41"> Si be del tot pora esser parida </l>
+
+     <l n="42" xml:id="C052-l42"> Per mon saber mauiday ma speranca </l>
+
+     <l n="43" xml:id="C052-l43"> E veg lamort abma vidan balanca </l>
+
+     <l n="44" xml:id="C052-l44"> Lou lo consell car es bo enpartida </l>
+
+     <l n="45" xml:id="C052-l45"> Algu nos deu luyar desanatura </l>
+
+     <l n="46" xml:id="C052-l46"> Al hom es dat per son dret natural </l>
+
+     <l n="47" xml:id="C052-l47"> Desijant be volent saber lomal </l>
+
+     <l n="48" xml:id="C052-l48"> Daquest saber vull donchs auer gran cura </l>
+
+     <pb n="107"
+      facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_109.html"
+     />
+    </lg>
+
+    <lg type="tornada" n="7" xml:id="C052-lg7">
+
+     <l n="49" xml:id="C052-l49"> Als amadors amor los asegura </l>
+
+     <l n="50" xml:id="C052-l50"> Que no auran en ell seguretat </l>
+
+     <l n="51" xml:id="C052-l51"> En lurs volers no trobe fermetat </l>
+
+     <l n="52" xml:id="C052-l52"> Donchs com sere entrels cossa segura </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

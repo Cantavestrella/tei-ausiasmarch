@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 68</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="VGR">
+               <name>Victoria García Ripoll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2023.</p>
+               </licence>
+            </availability>
+            <date>2023-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/">
+               <msIdentifier xml:id="C_Ms_L.iij.26_EE">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>19r, header</locus>-:Tornada:-</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_38.html"/>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_39.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C068-C010m">
+
+            <pb n="18v"
+               facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_38.html"/>
+
+            <lg type="cobla" n="1" xml:id="C068-lg1">
+
+               <l n="1" xml:id="C068-l1"> Nom pren axi / com al petit uaylet </l>
+
+               <l n="2" xml:id="C068-l2"> qui ua çercant / senyor qui festa'l faça </l>
+
+               <l n="3" xml:id="C068-l3"> tenint lo çalt / enel temps dela glaça </l>
+
+               <l n="4" xml:id="C068-l4"> e fresch d'estiu comla calor semet. </l>
+
+               <l n="5" xml:id="C068-l5"> preant <del rend="overstrike">muy</del><add
+                     place="interlinear">molt</add> poch / la ualor del senyor </l>
+
+               <l n="6" xml:id="C068-l6"> e concebent / <hi rend="underline">desalt</hi><note
+                     type="gloss" place="margin right">menosprecio el sentido es concibiendo vileça
+                     de su manera</note> desa manera </l>
+
+               <l n="7" xml:id="C068-l7"> uehent molt clar / que te mala carrera </l>
+
+               <l n="8" xml:id="C068-18"> de cambiar / çon estat en major.</l>
+
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C068-lg3">
+
+               <l n="8" xml:id="C068-l17"> Yo son aquell / quen lo temps de tempesta </l>
+
+               <l n="9" xml:id="C068-l18"> quant les mes gents / festejen prop los fochs </l>
+
+               <l n="10" xml:id="C068-l19"> e puch hauer / ab ells los propris jochs </l>
+
+               <l n="11" xml:id="C068-l20"> uaig sobre neu / descals, ab nua testa </l>
+
+               <l n="12" xml:id="C068-l21"> seruint senyor / que iames fon uassall </l>
+
+               <l n="13" xml:id="C068-l22"> nel uench esment / de fer may homenatge </l>
+
+               <l n="14" xml:id="C068-l23">
+                  <hi rend="underline">en tot leg fet</hi><note type="gloss" place="margin left">en
+                     cualquier echo feo</note> / hagues lo cor salvatje </l>
+
+               <l n="15" xml:id="C068-l24"> solament diu / <hi rend="underline">que bon guardo nom
+                     fall.</hi><note type="gloss" place="margin right">que no le falta una buena
+                     cara</note>
+               </l>
+
+            </lg>
+
+            <pb n="19r"
+               facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_39.html"/>
+
+            <lg type="tornada" n="3" xml:id="C068-lg4">
+
+               <l n="16" xml:id="C068-l25"> Plena de seny / <hi rend="underline">leigs desigs demi
+                     tall.</hi><note type="gloss" place="margin left">feos deseos corto de
+                     mi</note><note type="gloss" place="margin right">leigs feos tall tali</note>
+               </l>
+
+               <l n="17" xml:id="C068-l26"> herbes nos fan / males en mon <hi rend="underline"
+                     >ribatje</hi><note type="gloss" place="margin right">ribera</note>
+               </l>
+
+               <l n="18" xml:id="C068-l27"> sia entes / com dins en mon <hi rend="underline"
+                     >coratje</hi><note type="gloss" place="margin right">coraçon</note>
+               </l>
+
+               <l n="19" xml:id="C068-l28"> los pensamens / <hi rend="underline">nom deuallen
+                     auall.</hi><note type="gloss" place="margin right">no me abaxan abaxo</note>
+               </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

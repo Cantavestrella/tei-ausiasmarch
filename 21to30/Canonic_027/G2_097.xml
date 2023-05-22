@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 27 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064.html">
+     <msIdentifier xml:id="G2_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>137r between first rubric and line </locus><choice>
+         <abbr>Moß</abbr>
+         <expan>Mossen</expan>
+        </choice> ausias march <note type="gloss" place="margin right"> C. 40</note></rubric>
+       <rubric><locus>137v between lines 40 and 41</locus>tornada </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_284.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_285.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C027-G2-97">
+    <pb n="137r"
+     facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_284.html"/>
+    <lg type="cobla" n="1" xml:id="C027-lg1">
+     <l n="1" xml:id="C027-l1"> Sobres dolor matolt limaginar<note type="editorial">Canvi de lletra
+       dins d’aquesta mateixa secció</note>
+     </l>
+     <l n="2" xml:id="C027-l2">
+      <choice>
+       <abbr>lentenjmȇt</abbr>
+       <expan>lentenjment</expan>
+      </choice> nos dol njs pot sbatre </l>
+     <l n="3" xml:id="C027-l3"> ay tant es dolc <choice>
+       <abbr>ꝗl</abbr>
+       <expan>quel</expan>
+      </choice> acalgut abatre </l>
+     <l n="4" xml:id="C027-l4"> e mon affany plorant nos pot mostrar </l>
+     <l n="5" xml:id="C027-l5"> no trop rremey car ma dolor es tanta </l>
+     <l n="6" xml:id="C027-l6"> que mon voler enparts no tinch partit </l>
+     <l n="7" xml:id="C027-l7"> nensol <choice>
+       <abbr>hȗ</abbr>
+       <expan>hun</expan>
+      </choice> lloch lom trobe ahunjt </l>
+     <l n="8" xml:id="C027-l8"> sjnon morir e vjure ques decanta </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C027-lg2">
+     <l n="9" xml:id="C027-l9"> Si com lom flach quil es forcat triar </l>
+     <l n="10" xml:id="C027-l10"> ab qual de dos <choice>
+       <abbr>homȇs</abbr>
+       <expan>homens</expan>
+      </choice> forts sacombatre </l>
+     <l n="11" xml:id="C027-l11"> no sap pensar ab qual deja debatre </l>
+     <l n="12" xml:id="C027-l12"> spahordit sos comtes no pot far </l>
+     <l n="13" xml:id="C027-l13"> ne pren amj qui lo vjure mespanta </l>
+     <l n="14" xml:id="C027-l14"> e lo morir me seran gran dispit </l>
+     <l n="15" xml:id="C027-l15"> com vjure vull lamort prench en delit </l>
+     <l n="16" xml:id="C027-l16"> com vull morir la vjda tjnch per sancta </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C027-lg3">
+     <l n="17" xml:id="C027-l17"> Sicom <choice>
+       <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice> qui es verj <choice>
+       <abbr>donȃt</abbr>
+       <expan>donant</expan>
+      </choice>
+     </l>
+     <l n="18" xml:id="C027-l18"> al <choice>
+       <abbr>mʋre</abbr>
+       <expan>mestre</expan>
+      </choice> seu / e <choice>
+       <abbr>quȃt</abbr>
+       <expan>quant</expan>
+      </choice> veu sa dolor </l>
+     <l n="19" xml:id="C027-l19"> apietat <choice>
+       <abbr>ƌl</abbr>
+       <expan>del</expan>
+      </choice> mal de son senyor </l>
+     <l n="20" xml:id="C027-l20"> esobre <choice>
+       <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice> vol <choice>
+       <abbr>ess</abbr>
+       <expan>esser</expan>
+      </choice> ajudant </l>
+     <l n="21" xml:id="C027-l21"> vos <choice>
+       <abbr>pensamȇt</abbr>
+       <expan>pensament</expan>
+      </choice> per qui <choice>
+       <abbr>mȏ</abbr>
+       <expan>mon</expan>
+      </choice> seny sapcenta </l>
+     <l n="22" xml:id="C027-l22"> per los treballs dant li <choice>
+       <abbr>alteramȇt</abbr>
+       <expan>alterament</expan>
+      </choice>
+     </l>
+     <l n="23" xml:id="C027-l23"> ason affany donau acorriment </l>
+     <l n="24" xml:id="C027-l24"> puis <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> sos mals per mija vostrels senta </l>
+    </lg>
+    <pb n="137v"
+     facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_285.html"/>
+    <lg type="cobla" n="4" xml:id="C027-lg4">
+     <l n="25" xml:id="C027-l25"> <add type="over"><del rend="overstrike">mossen ausias march</del></add> Yo contrafaç nau en golf perillan
+      
+      <note type="gloss" place="margin left">seqüència il·legible</note>
+     </l>
+     <l n="26" xml:id="C027-l26"> larbre perdent / e son governador </l>
+     <l n="27" xml:id="C027-l27"> e per contrast de dos vents no discor </l>
+     <l n="28" xml:id="C027-l28"> los marjners enbadalits stan </l>
+     <l n="29" xml:id="C027-l29"> e cascu <choice>
+       <abbr>ƌlls</abbr>
+       <expan>dells</expan>
+      </choice> la sua carta tenta </l>
+     <l n="30" xml:id="C027-l30"> e son discorts en llur acordament </l>
+     <l n="31" xml:id="C027-l31"> lu volgra <choice>
+       <abbr>sß</abbr>
+       <expan>sser</expan>
+      </choice> prop terra passos cent </l>
+     <l n="32" xml:id="C027-l32"> laltre tan lluny com vent pot dar empenta </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C027-lg5">
+     <l n="33" xml:id="C027-l33"> Mavoluntat ab quen lamar fuy mes </l>
+     <l n="34" xml:id="C027-l34"> fallida es e pogram fer ajuda </l>
+     <l n="35" xml:id="C027-l35"> savia raho de son lloch es cayguda </l>
+     <l n="36" xml:id="C027-l36"> mos <choice>
+       <abbr>pensamȇts</abbr>
+       <expan>pensaments</expan>
+      </choice> contraris man attes </l>
+     <l n="37" xml:id="C027-l37"> ja mos desigs no saben elegir </l>
+     <l n="38" xml:id="C027-l38"> vida ne mort qual es la millor tria </l>
+     <l n="39" xml:id="C027-l39"> naturan mj husa de maestria </l>
+     <l n="40" xml:id="C027-l40"> e pren la mort per major dan fugir </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C027-lg6">
+     <l n="41" xml:id="C027-l41"> Plena de seny nos pot be sofferir </l>
+     <l n="42" xml:id="C027-l42"> vida y dolor sens pendralgun espay </l>
+     <l n="43" xml:id="C027-l43"> lo meu desig se converteix en glay </l>
+     <l n="44" xml:id="C027-l44">
+      <choice>
+       <abbr>quȃt</abbr>
+       <expan>quant</expan>
+      </choice> me rrecort <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> rres vos haja djr </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

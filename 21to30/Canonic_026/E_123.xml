@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 26 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://bdh-rd.bne.es/viewer.vm?id=0000149777">
+     <msIdentifier xml:id="E_Ms_3695_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>187v after end of previous poem, before this one: </locus> <choice><abbr>Moß</abbr><expan>Mossen</expan></choice> ausias march</rubric>
+       <rubric><locus>188v between lines 56 and 57 </locus>Tornada </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/><!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C026-E123">
+    <pb n="187v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="1" xml:id="C026-lg1">
+     <l n="1" xml:id="C026-l1"> Yo crit lo be / si nalgun lloch lose </l>
+     <l n="2" xml:id="C026-l2"> callant lo mal / sens passarne despit </l>
+     <l n="3" xml:id="C026-l3"> car en mal dir / mon cor no pren delit </l>
+     <l n="4" xml:id="C026-l4"> nem cal cridar / puis no veig lo per que </l>
+     <l n="5" xml:id="C026-l5"> No per aytant / que molts bens yo no senta </l>
+     <l n="6" xml:id="C026-l6"> mas poch val crit / entre lo sort e mut </l>
+     <l n="7" xml:id="C026-l7"> per quel bon hom / per tal no es sabut </l>
+     <l n="8" xml:id="C026-l8"> e sa valor / en lo mon nol augmenta </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C026-lg2">
+     <l n="9" xml:id="C026-l9"> Menys que la lley / crestianas presenta </l>
+     <l n="10" xml:id="C026-l10"> als affricans / nela volen hoyr </l>
+     <l n="11" xml:id="C026-l11"> vey la virtut / en null <choice>
+      <abbr>haumȇt</abbr>
+       <expan>haument</expan>
+      </choice> venir </l>
+     <l n="12" xml:id="C026-l12"> Per que say be / viçi la dat empenta </l>
+     <l n="13" xml:id="C026-l13"> Salamo diu / quen pochs es sauiesa </l>
+     <l n="14" xml:id="C026-l14"> e yo conech / en menys homens virtut </l>
+     <l n="15" xml:id="C026-l15"> dients que sots home foll conegut </l>
+     <l n="16" xml:id="C026-l16"> si del costum / se llonya vostrabtesa </l>
+    </lg>
+    <pb n="188r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="3" xml:id="C026-lg3">
+     <l n="17" xml:id="C026-l17"> Lo viçis tant / que virtut ha empesa </l>
+     <l n="18" xml:id="C026-l18"> e lo profit / honor ha tret del mon </l>
+     <l n="19" xml:id="C026-l19"> en tant pochs es / e poch a poch se fon </l>
+     <l n="20" xml:id="C026-l20"> que fall calor / en los fets de bonesa </l>
+     <l n="21" xml:id="C026-l21"> Lo nombrestant / daquells qui la desonren </l>
+     <l n="22" xml:id="C026-l22"> que ja noy val / empara de algu </l>
+     <l n="23" xml:id="C026-l23"> e si voleu / queus digal crit comu </l>
+     <l n="24" xml:id="C026-l24"> peresquen çells / qui donor no <add place="interlinear">sats</add>
+      asombren </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C026-lg4">
+     <l n="25" xml:id="C026-l25"> Als homens morts / de llur bons actes honrren </l>
+     <l n="26" xml:id="C026-l26"> car de aquells / nols cal hauer enueja </l>
+     <l n="27" xml:id="C026-l27"> pahir nos pot / aquesta cosa lleja </l>
+     <l n="28" xml:id="C026-l28"> dins los ventrells / qui denuejar sescombren </l>
+     <l n="29" xml:id="C026-l29"> No dant llaor / al viu qui las percaça </l>
+     <l n="30" xml:id="C026-l30"> ans fan rahons / com lay poran sostraure </l>
+     <l n="31" xml:id="C026-l31"> e sil ben fet / del mon no poden raure </l>
+     <l n="32" xml:id="C026-l32"> dihen ne mal / tant que lo besdesfaça </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C026-lg5">
+     <l n="33" xml:id="C026-l33"> Bondat virtut / han perduda sa raça </l>
+     <l n="34" xml:id="C026-l34"> cossos humans / han molt disminuit </l>
+     <l n="35" xml:id="C026-l35"> Deu es per nos / mal honrrat e seruit </l>
+     <l n="36" xml:id="C026-l36"> e ja la mort / pus estret nos abraça </l>
+     <l n="37" xml:id="C026-l37"> Tot quant per Deu / es jus lo çel creat </l>
+     <l n="38" xml:id="C026-l38"> ha molt perdut / de son propi cabal </l>
+     <l n="39" xml:id="C026-l39"> saber se pert / speriment no val </l>
+     <l n="40" xml:id="C026-l40"> lo viures curt / quel mig tost es passat </l>
+    </lg>
+    <pb n="188v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="6" xml:id="C026-lg6">
+     <l n="41" xml:id="C026-l41"> Hon es leginy / daristotil trobat </l>
+     <l n="42" xml:id="C026-l42"> Dermogenes / seneca e Plato </l>
+     <l n="43" xml:id="C026-l43"> qui mostrarem / semblant al fort Sanso </l>
+     <l n="44" xml:id="C026-l44"> hon es tant bell / com absalon format </l>
+     <l n="45" xml:id="C026-l45"> Linçeus fon / qui res no lescapaua </l>
+     <l n="46" xml:id="C026-l46"> que no fos vist / per sa vista subtil </l>
+     <l n="47" xml:id="C026-l47"> dins en la mar / veya de millers mil </l>
+     <l n="48" xml:id="C026-l48"> corrent cami <gap reason="illegible" extent="several words"/>
+      sus per la mar anaua  
+     
+     
+     
+     </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C026-lg7">
+     <l n="49" xml:id="C026-l49"> Foll es aquell / qui no ymaginaua </l>
+     <l n="50" xml:id="C026-l50"> que fallirem / puis fall ço per que som </l>
+     <l n="51" xml:id="C026-l51"> si com decau / la rama e lo pom </l>
+     <l n="52" xml:id="C026-l52"> si la rael / del arbre hom tallaua </l>
+     <l n="53" xml:id="C026-l53"> Fallirem nos / puis ço quens soste fall </l>
+     <l n="54" xml:id="C026-l54"> bens mostra deu / que vol lo mon finir </l>
+     <l n="55" xml:id="C026-l55"> puis lo quins te / vol que vinga perir </l>
+     <l n="56" xml:id="C026-l56"> son poch a poch / natura nos defall </l>
+    </lg>
+    <lg type="tornada" n="8" xml:id="C026-lg8">
+     <l n="57" xml:id="C026-l57"> Lir entre carts / nom basta lescandall </l>
+     <l n="58" xml:id="C026-l58"> per trobar fons / enla vostra estima </l>
+     <l n="59" xml:id="C026-l59"> e quant vos llou / no trob raho ne rima </l>
+     <l n="60" xml:id="C026-l60"> de quem content / e perço yo men call </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

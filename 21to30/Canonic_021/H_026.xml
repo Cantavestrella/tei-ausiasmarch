@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 21</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name>Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp>laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/">
+     <msIdentifier xml:id="H_Ms_110_BUZ">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>31v previous to poem</locus>Mossen auzias march</rubric>
+       <rubric>
+        <locus>32v, center, between 40 to 41 vers</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanehttps-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_45.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_46.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_47.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C021_H026">
+    <lg type="cobla" n="1" xml:id="C021-lg1">
+     <pb n="31v"
+      facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_45.html"/>
+     <l n="1" xml:id="C021-l1"> Tant en amor / ma pença ha consentit </l>
+     <l n="2" xml:id="C021-l2"> Que sens aquell en als no puch entendre </l>
+     <l n="3" xml:id="C021-l3"> Amj que plau / que dals no pusca pendre </l>
+     <l n="4" xml:id="C021-l4"> Tot altre ffer me corren gran despit </l>
+     <l n="5" xml:id="C021-l5"> Los grans tresors / ne tot lonor del mon </l>
+     <l n="6" xml:id="C021-l6"> Nom plau auer / ab menys desser amat </l>
+     <l n="7" xml:id="C021-l7"> Car sens aço / nom de benuyrat </l>
+     <l n="8" xml:id="C021-l8"> No es amj car desig me confon </l>
+    </lg>
+    <pb n="32r"
+     facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_46.html"/>
+    <lg type="cobla" n="2" xml:id="C021-lg2">
+     <l n="9" xml:id="C021-l9"> Pobre so donchs / molt me<add place="interlinear">s</add>
+      <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> job no fon </l>
+     <l n="10" xml:id="C021-l10"> Puys es dit rich / çell <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> no ha desig </l>
+     <l n="11" xml:id="C021-l11"> En pasions / jom trob dins en lo mjg </l>
+     <l n="12" xml:id="C021-l12"> Si desigar / ab desesper lom fon </l>
+     <l n="13" xml:id="C021-l13"> James amor hach axi avjnent </l>
+     <l n="14" xml:id="C021-l14"> En be mostrar / sa famossa virtut </l>
+     <l n="15" xml:id="C021-l15"> Com al muntar / mj <choice>
+       <abbr>ꝙm</abbr>
+       <expan>quim</expan>
+      </choice> trop abatut </l>
+     <l n="16" xml:id="C021-l16"> Benuyrat / sus tots complidament </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C021-lg3">
+     <l n="17" xml:id="C021-l17"> Per dos estrems amor es mal mjrent </l>
+     <l n="18" xml:id="C021-l18"> Per molt e poch e lo mjg se iaqueix </l>
+     <l n="19" xml:id="C021-l19"> Bes mostra pech puys contra si faleix </l>
+     <l n="20" xml:id="C021-l20"> Car tot ço cau questrem es son tinent </l>
+     <l n="21" xml:id="C021-l21"> Bem merauell si amor no decau </l>
+     <l n="22" xml:id="C021-l22"> Puys quen estrem vol questiga son pes </l>
+     <l n="23" xml:id="C021-l23"> Lo meu voler es mes <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> tota res </l>
+     <l n="24" xml:id="C021-l24"> Lo vostres <choice>
+       <abbr>mñys</abbr>
+       <expan>menys</expan>
+      </choice> quell terç dun <choice>
+       <abbr>pȗt</abbr>
+       <expan>punt</expan>
+      </choice> de dau </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C021-lg4">
+     <l n="25" xml:id="C021-l25"> Durar no pot sino mes fet gran frau </l>
+     <l n="26" xml:id="C021-l26"> Trencant amor <choice>
+       <abbr>ƌ</abbr>
+       <expan>de</expan>
+      </choice> natura costums </l>
+     <l n="27" xml:id="C021-l27"> Pochs menys contrasts que tenebres e lums </l>
+     <l n="28" xml:id="C021-l28"> En mon voler yell de madona jau </l>
+     <l n="29" xml:id="C021-l29"> O deu <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> que amor es desiguall </l>
+     <l n="30" xml:id="C021-l30"> Que no consent <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> vostre voler cresca </l>
+     <l n="31" xml:id="C021-l31"> Per <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> lo meu per null temps no peresca </l>
+     <l n="32" xml:id="C021-l32"> Si be nom sent quant me venra aquest mal </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C021-lg5">
+     <l n="33" xml:id="C021-l33"> Deu <del rend="overstrike">ben</del> per bondat vol ser tan comjnall</l>
+     <l n="34" xml:id="C021-l34"> Que no consent hun cor dur e saluatie </l>
+     <pb n="32v"
+      facs="http://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_47.html"/>
+     <l n="35" xml:id="C021-l35"> E ser amat agran desauentaje </l>
+     <l n="36" xml:id="C021-l36"> Daquell quj es en amor son caball </l>
+     <l n="37" xml:id="C021-l37"> Per ço no pens / que amor en mj dur </l>
+     <l n="38" xml:id="C021-l38"> Car en amar / vos he pres tot estrem </l>
+     <l n="39" xml:id="C021-l39"> E uostre cor es damor axi sem </l>
+     <l n="40" xml:id="C021-l40"> Quen mj pensar no creu james atur </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C021-lg6">
+     <l n="41" xml:id="C021-l41"> Plena de seny per la mor queus port jur </l>
+     <l n="42" xml:id="C021-l42"> Que si ve tart la vostra ben uolença </l>
+     <l n="43" xml:id="C021-l43"> Present de tots fare de mj sentença </l>
+     <l n="44" xml:id="C021-l44"> Que sonara <choice>
+       <abbr>mȇtrel</abbr>
+       <expan>mentrel</expan>
+      </choice> mon del vius dur </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

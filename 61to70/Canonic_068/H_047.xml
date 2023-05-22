@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 68</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="VGR">
+               <name>Victoria García Ripoll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+                     document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result work from a
+                     previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+                     Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2023.</p>
+               </licence>
+            </availability>
+            <date>2023-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+               <msIdentifier xml:id="H_Ms_110_BUZ">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>51r, before first line</locus><choice>
+                        <abbr>Mossʒ</abbr>
+                        <expan>Mossen</expan>
+                     </choice> auzias march</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_84.html"/>
+      <graphic url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_85.html"></graphic>
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C068-H047">
+
+            <pb n="´51r" facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_84.html"/>
+
+            <lg type="cobla" n="1" xml:id="C068-lg1">
+
+               <l n="1" xml:id="C068-l1"> <c rend="large">P</c>ren men axi con al patit vallet </l>
+
+               <l n="2" xml:id="C068-l2"> Quj va sercant senyor <choice>
+                  <abbr>ꝙ</abbr>
+                     <expan>qui</expan>
+                  </choice> festal faça </l>
+
+               <l n="3" xml:id="C068-l3"> Tenjnt lo calt en lo temps dela glaça </l>
+
+               <l n="4" xml:id="C068-l4"> E fret destju con la calor sa met </l>
+
+               <l n="5" xml:id="C068-l5"> E preant molt la volor del senyor </l>
+
+               <l n="6" xml:id="C068-l6"> E consabut desalt de sa manera </l>
+
+               <l n="7" xml:id="C068-l7"> Vahent molt clar <choice>
+                  <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> te mala manera </l>
+
+               <l n="8" xml:id="C068-l8"> De cambiar son estat en maior </l>
+
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C068-lg3">
+
+               <l n="9" xml:id="C068-l17"> Yo so aquell <choice>
+                  <abbr>ꝙn</abbr>
+                     <expan>quin</expan>
+                  </choice> lo temps de tempesta </l>
+
+               <l n="10" xml:id="C068-l18"> Quant les mes jents festegen prop los fochs </l>
+
+               <l n="11" xml:id="C068-l19"> E puch auer ab els los propis lochs </l>
+
+               <l n="12" xml:id="C068-l20"> Vaig sobre neu descalç ab nua testa </l>
+
+               <pb n="51v" facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_85.html"/>
+
+               <l n="13" xml:id="C068-l21"> Serujnt senyor <choice>
+                  <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> may no fo vassall </l>
+
+               <l n="14" xml:id="C068-l22"> Nel vench esment de fer may homenatie </l>
+
+               <l n="15" xml:id="C068-l23"> En tot leig fet hague lo cor saluatie </l>
+
+               <l n="16" xml:id="C068-l24"> Solament diu que bon guardo nom fall </l>
+
+            </lg>
+
+            <lg type="tornada" n="3" xml:id="C068-lg4">
+
+               <l n="17" xml:id="C068-l25"> Plena de seny leigs desigs de mj tall </l>
+
+               <l n="18" xml:id="C068-l26"> Erbas nos fan malas en mon ribatje </l>
+
+               <l n="19" xml:id="C068-l27"> Sia entes com dins en mon coratie </l>
+
+               <l n="20" xml:id="C068-l28"> Los pensaments nom deuallen auall </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

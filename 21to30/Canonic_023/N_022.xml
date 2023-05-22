@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 23 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>45 after end of previous poem, before this one: </locus> § Mossen Ausias march §</rubric>
+       <rubric>
+        <locus>47 between lines 40 and 41</locus> §Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_47.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_48.html"></graphic>
+  <graphic url="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_49.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C023-N022">
+    <pb n="45" facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_47.html"/>
+    <lg type="cobla" n="1" xml:id="C023-lg1">
+     <l n="1" xml:id="C023-l1"> ¶ Lexant apart lestill dels trobados </l>
+     <l n="2" xml:id="C023-l2"> Quj per escalf trespasen veritat </l>
+     <l n="3" xml:id="C023-l3"> E sostrahent mon voler apartat </l>
+     <l n="4" xml:id="C023-l4"> Perque nom trob direl que trob envos </l>
+     <l n="5" xml:id="C023-l5"> Tot mon parlar als quj <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> auran vista </l>
+     <l n="6" xml:id="C023-l6"> Res no valra car fe noy donaran </l>
+     <l n="7" xml:id="C023-l7"> E los vehents que dins vos no veuran </l>
+     <l n="8" xml:id="C023-l8"> En creuremj lur arma sera trista </l>
+    </lg>
+    <pb n="46" facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_48.html"/>
+    <lg type="cobla" n="2" xml:id="C023-lg2">
+     <l n="9" xml:id="C023-l9"> Lull del hom pech no ha tan fosca vista </l>
+     <l n="10" xml:id="C023-l10"> Que vostre cors no jutge per gentill </l>
+     <l n="11" xml:id="C023-l11"> Nol conex tal com lo quj es subtill </l>
+     <l n="12" xml:id="C023-l12"> Hoc la color mas no sab dela lista </l>
+     <l n="13" xml:id="C023-l13"> Quant es del cors menys de participar </l>
+     <l n="14" xml:id="C023-l14"> Ab lesperit conex be lo grosser </l>
+     <l n="15" xml:id="C023-l15"> Vostra color hi el tal pot be saber </l>
+     <l n="16" xml:id="C023-l16"> Mas ya del gest no pora be parlar </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C023-lg3">
+     <l n="17" xml:id="C023-l17"> Tots som groses enpoder esplicar </l>
+     <l n="18" xml:id="C023-l18"> Co que merex vn bell cors e  <del rend="overstrike">gentill</del> honest </l>
+     <l n="19" xml:id="C023-l19"> Jouens gentils bons sabens lan request </l>
+     <l n="20" xml:id="C023-l20"> E famegants los couench endurar </l>
+     <l n="21" xml:id="C023-l21"> Lo vostre seny faco qualtre no basta </l>
+     <l n="22" xml:id="C023-l22"> Que sab regir la molta subtilessa </l>
+     <l n="23" xml:id="C023-l23"> En fer tot be sadorm enuos peressa </l>
+     <l n="24" xml:id="C023-l24"> Verge no sou perque deu ne volch casta </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C023-lg4">
+     <l n="25" xml:id="C023-l25"> Sol per auos basta labona pasta </l>
+     <l n="26" xml:id="C023-l26"> Que deu retench per fer singulas dones </l>
+     <l n="27" xml:id="C023-l27"> Ffetes na sats molt singulars e bones </l>
+     <l n="28" xml:id="C023-l28"> Mas compliment dona teresaltasta </l>
+     <l n="29" xml:id="C023-l29"> Auent ensi tan gran coneximent </l>
+     <l n="30" xml:id="C023-l30"> Que res nol fall que tota nos conega </l>
+     <l n="31" xml:id="C023-l31"> Al hom deuot sabellessa encegua </l>
+     <l n="32" xml:id="C023-l32"> Past dentenets es son entenjment </l>
+    </lg>
+    <pb n="47" facs="http://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_49.html"/>
+    <lg type="cobla" n="5" xml:id="C023-lg5">
+     <l n="33" xml:id="C023-l33"> Venecians noan lo regiment </l>
+     <l n="34" xml:id="C023-l34"> Tan pacific com <choice>
+      <abbr>vrê</abbr>
+       <expan>vostre</expan>
+      </choice> seny regex </l>
+     <l n="35" xml:id="C023-l35"> Subtilitats que <choice>
+      <abbr>lentendrꝯ</abbr>
+       <expan>lentendreus</expan>
+      </choice> nodrex </l>
+     <l n="36" xml:id="C023-l36"> E del cors dell sens colpalmouiment </l>
+     <l n="37" xml:id="C023-l37"> Tan gran delit tot hom entenent ha </l>
+     <l n="38" xml:id="C023-l38"> E hocupat se trobanuos entendre </l>
+     <l n="39" xml:id="C023-l39"> Que lo desig del cors nos pot estendre </l>
+     <l n="40" xml:id="C023-l40"> Ha leg voler ans com amort sta </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C023-lg6">
+     <l n="41" xml:id="C023-l41"> Lir entre carts lo <del rend="overstrike">pen</del> meu poder nofa </l>
+     <l n="42" xml:id="C023-l42"> Tant que pogues fer coronan visible </l>
+     <l n="43" xml:id="C023-l43"> Mariu lavos car laquj es visible </l>
+     <l n="44" xml:id="C023-l44"> Nos deu possar la hon miracles ta<note type="editorial">Per esta</note> </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

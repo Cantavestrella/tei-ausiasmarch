@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 60 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/">
+     <msIdentifier xml:id="E_Ms_3695_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>88r, centre, before first line</locus><choice>
+         <abbr>Mossʒ</abbr>
+         <expan>Mossen</expan>
+        </choice> ausias march</rubric>
+       <rubric><locus>88v header</locus>obres</rubric>
+       <rubric><locus>89r header</locus>Damor</rubric>
+       <rubric><locus>89r, centre, between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C060-E058">
+
+    <pb n="88r"
+     facs="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+
+    <lg type="cobla" n="1" xml:id="C060-lg1">
+
+     <l n="1" xml:id="C060-l1"> Mes voluntats / en gran part discordants </l>
+
+     <l n="2" xml:id="C060-l2"> dona per vos / les he fetes concordes </l>
+
+     <l n="3" xml:id="C060-l3"> per vos han pau / solent esser discordes </l>
+
+     <l n="4" xml:id="C060-l4"> per vos conech / lerror hon herabans </l>
+
+     <l n="5" xml:id="C060-l5"> Per vos conech / tot lo delit de viure </l>
+
+     <l n="6" xml:id="C060-l6"> mos pensaments / concordian coneixen </l>
+
+     <l n="7" xml:id="C060-l7"> ja de contrast / si com dabans nos veixen </l>
+
+     <l n="8" xml:id="C060-l8"> ans als amichs / de pau poden escriure </l>
+
+    </lg>
+
+    <pb n="88v"
+     facs="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+
+    <lg type="cobla" n="2" xml:id="C060-lg2">
+
+     <l n="9" xml:id="C060-l9"> A ymaginar / nom cal duy mes asiure </l>
+
+     <l n="10" xml:id="C060-l10"> per aplegar / ma pensa molt confusa </l>
+
+     <l n="11" xml:id="C060-l11"> dela virtut / de fermetat molt vsa </l>
+
+     <l n="12" xml:id="C060-l12"> de dos affanys / del primer so delliure </l>
+
+     <l n="13" xml:id="C060-l13"> Per ençercar / nom cal treball de pensa </l>
+
+     <l n="14" xml:id="C060-l14"> trobat es ja / tot obs ala mi arma </l>
+
+     <l n="15" xml:id="C060-l15"> e per guanyar / ses flaques mans fort arma </l>
+
+     <l n="16" xml:id="C060-l16"> e per hauer / al cos de mals defensa </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C060-lg3">
+
+     <l n="17" xml:id="C060-l17"> E si del cos / la fortuna dispensa </l>
+
+     <l n="18" xml:id="C060-l18"> que per son mal / marma perda batalla </l>
+
+     <l n="19" xml:id="C060-l19"> ja sab que fa / e ma llengua no calla </l>
+
+     <l n="20" xml:id="C060-l20"> viuren lo mon / hauer en gran offensa </l>
+
+     <l n="21" xml:id="C060-l21"> Mal consellat / mon cos volch pendre llança </l>
+
+     <l n="22" xml:id="C060-l22"> e ple de por / ab ses armes volch noure </l>
+
+     <l n="23" xml:id="C060-l23"> mas pres consell / que les tornas alfoure </l>
+
+     <l n="24" xml:id="C060-l24"> prenint escut / armes doffenre llança </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C060-lg4">
+
+     <l n="25" xml:id="C060-l25"> No ma jaquit / del tot ma sperança </l>
+
+     <l n="26" xml:id="C060-l26"> ab ellan semps / spirara ma vida </l>
+
+     <l n="27" xml:id="C060-l27"> mas yo conech / la mi arman fortida </l>
+
+     <l n="28" xml:id="C060-l28"> que tot perill / se te en gran bonança </l>
+
+     <l n="29" xml:id="C060-l29"> Dolgas tot om / com yo be no atench </l>
+
+     <l n="30" xml:id="C060-l30"> nos dolgalgu / de mon terrible mal </l>
+
+     <l n="31" xml:id="C060-l31"> null junyidor / no feu encontre tal </l>
+
+     <l n="32" xml:id="C060-l32"> don fos content / com yo vehent lo rench </l>
+
+    </lg>
+
+    <pb n="89r"
+     facs="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+
+    <lg type="cobla" n="5" xml:id="C060-lg5">
+
+     <l n="33" xml:id="C060-l33"> Si mos mal fats / ab forçaltra no trench </l>
+
+     <l n="34" xml:id="C060-l34"> mal ahuyrat / nom vullalgu jutgar </l>
+
+     <l n="35" xml:id="C060-l35"> si vagabun / me veu lo mon anar </l>
+
+     <l n="36" xml:id="C060-l36"> null hom james / en port tan segur vench </l>
+
+     <l n="37" xml:id="C060-l37"> Mon desig es / en molta part complit </l>
+
+     <l n="38" xml:id="C060-l38"> trobant molt mes / del que fuy desijos </l>
+
+     <l n="39" xml:id="C060-l39"> sino atench / no pens algu que fos </l>
+
+     <l n="40" xml:id="C060-l40"> ab tal dolor / sens molt maior delit </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C060-lg6">
+
+     <l n="41" xml:id="C060-l41"> Lir entre carts / lo que de vos he dit </l>
+
+     <l n="42" xml:id="C060-l42"> placia Deu / nom faça mentidor </l>
+
+     <l n="43" xml:id="C060-l43"> yel que suffert / essent vos amador </l>
+
+     <l n="44" xml:id="C060-l44"> per mal esguart / nom sia mal grahit </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

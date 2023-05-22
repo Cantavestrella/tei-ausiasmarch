@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 68</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="VGR">
+               <name>Victoria García Ripoll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+                     document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result work from a
+                     previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+                     Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2023.</p>
+               </licence>
+            </availability>
+            <date>2023-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/">
+               <msIdentifier xml:id="b_Ed_1543_BC">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>9r, header</locus>DE AMORS. Fo. VIIII.</rubric>
+                     <rubric><locus>9r, centre, between lines 16 and 17</locus>Tornada.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_26.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C068-b010">
+
+            <pb n="9r" facs="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_26.html"/>
+
+            <lg type="cobla" n="1" xml:id="C068-lg1">
+
+               <l n="1" xml:id="C068-l1"> <c rend="large">N</c>om pren axi / com al petit vaylet </l>
+
+               <l n="2" xml:id="C068-l2"> qui va cercant / senyor qui festal faça </l>
+
+               <l n="3" xml:id="C068-l3"> tenint lo calt / enlo temps delaglaça </l>
+
+               <l n="4" xml:id="C068-l4"> he fresch destiu / com la calor se, met </l>
+
+               <l n="5" xml:id="C068-l5"> preant molt poch / la valor del senyor </l>
+
+               <l n="6" xml:id="C068-l6"> he concebent / desalt, de sa manera </l>
+
+               <l n="7" xml:id="C068-l7"> vehent molt clar / que te mala carrera </l>
+
+               <l n="8" xml:id="C068-l8"> de cambiar / son, estat, en major </l>
+
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C068-lg3">
+
+               <l n="9" xml:id="C068-l17"> Yo son, aquell / qui'n lo temps de tempesta </l>
+
+               <l n="10" xml:id="C068-l18">
+                  <choice>
+                     <abbr>quāt</abbr>
+                     <expan>quant</expan>
+                  </choice> les mes gents / festejen prop los fochs </l>
+
+               <l n="11" xml:id="C068-l19"> he puch hauer / ab ells los propris jochs </l>
+
+               <l n="12" xml:id="C068-l20"> vaig sobre neu / descalç'ab, nua, testa </l>
+
+               <l n="13" xml:id="C068-l21"> seruint senyor / qui james fon vassall </l>
+
+               <l n="14" xml:id="C068-l22"> nel vench esment / de fer may homenatje </l>
+
+               <l n="15" xml:id="C068-l23"> en tot leg fet / hagues lo cor saluatje </l>
+
+               <l n="16" xml:id="C068-l24"> solament diu que bon guardo, nom fall </l>
+
+            </lg>
+
+            <lg type="tornada" n="3" xml:id="C068-lg4">
+
+               <l n="17" xml:id="C068-l25"> plena de seny / leigs desigs de mi, tall </l>
+
+               <l n="18" xml:id="C068-l26"> herbes nos fan / males en mom<note type="editorial">Per mon.</note> ribatje </l>
+
+               <l n="19" xml:id="C068-l27"> sia, entes / com dins en mon coratje </l>
+
+               <l n="20" xml:id="C068-l28"> los pensaments / nom deuallen auall </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

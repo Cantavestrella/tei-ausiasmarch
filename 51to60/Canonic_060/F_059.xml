@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 60 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/poesias-de-ausias-y-mena-manuscrito--0/">
+     <msIdentifier xml:id="F_Ms_2244_BGHUS">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>59r, centre, before first line</locus>Altra</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_121.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_122.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_123.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C060-F059">
+
+    <pb n="59r"
+     facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_121.html"/>
+
+    <lg type="cobla" n="1" xml:id="C060-lg1">
+
+     <l n="1" xml:id="C060-l1"> Mes voluntats en gran part discordants </l>
+
+     <l n="2" xml:id="C060-l2"> Dona per uos les he fetes concordes </l>
+
+     <l n="3" xml:id="C060-l3"> Per uos han pau solent esser discordes </l>
+
+     <l n="4" xml:id="C060-l4"> Per uos conech lerror oner<add place="interlinear">a</add>bans </l>
+
+     <l n="5" xml:id="C060-l5"> Per uos conech tot lo delit de ujure </l>
+
+     <l n="6" xml:id="C060-l6"> Mos penssaments concordian conexen </l>
+
+     <l n="7" xml:id="C060-l7"> Ja de contrast si com dabans nos uexen </l>
+
+     <l n="8" xml:id="C060-l8"> Ans als amjchs de pau poden escriure </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C060-lg2">
+
+     <l n="9" xml:id="C060-l9"> A ymaginar nom cal duymes assiure </l>
+
+     <l n="10" xml:id="C060-l10"> Per aplegar ma pensa molt confusa </l>
+
+     <l n="11" xml:id="C060-l11"> Dela uirtut de fermetat molt usa </l>
+
+     <l n="12" xml:id="C060-l12"> De dos afanys del primer so deliure </l>
+
+     <l n="13" xml:id="C060-l13"> Per encertar nom cal treball de penssa </l>
+
+     <l n="14" xml:id="C060-l14"> Trobat es ja tot obs dela mjarma </l>
+
+     <l n="15" xml:id="C060-l15"> E per guanyar ses flaque<del rend="illegible"
+       extent="one character"/><add>s</add> mans fort arma </l>
+
+     <l n="16" xml:id="C060-l16"> E per hauer al cors de mals deffenssa </l>
+
+    </lg>
+
+    <pb n="59v"
+     facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_122.html"/>
+
+    <lg type="cobla" n="3" xml:id="C060-lg3">
+
+     <l n="17" xml:id="C060-l17"> E si del cors ma fortuna dispensa </l>
+
+     <l n="18" xml:id="C060-l18"> Que per son mal marma perda batalla </l>
+
+     <l n="19" xml:id="C060-l19"> Ja sab que fer e ma lengua non calla </l>
+
+     <l n="20" xml:id="C060-l20"> Viuren lo mon auer en gran offenssa </l>
+
+     <l n="21" xml:id="C060-l21"> Mal consellat mon cors uolch p<choice>
+      <abbr>ē</abbr>
+       <expan>en</expan>
+      </choice><del rend="overstrike">r</del>dre lanca </l>
+
+     <l n="22" xml:id="C060-l22"> E ple de por ab ses armes uolch noure </l>
+
+     <l n="23" xml:id="C060-l23"> Mas pres consell queles tornas al foure </l>
+
+     <l n="24" xml:id="C060-l24"> Prenjnt escut armes doffendre lanca </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C060-lg4">
+
+     <l n="25" xml:id="C060-l25"> Nom ha jaquit del tot maesperanca </l>
+
+     <l n="26" xml:id="C060-l26"> Ab ellansemps espirara ma vida </l>
+
+     <l n="27" xml:id="C060-l27"> Mas yo conech la mjarman fortida </l>
+
+     <l n="28" xml:id="C060-l28"> Que tot perill seten molt gran bonanca </l>
+
+     <l n="29" xml:id="C060-l29"> Dolgas tot hom com yo be no atench </l>
+
+     <l n="30" xml:id="C060-l30"> Nos dolgalgu de mon terrible mal </l>
+
+     <l n="31" xml:id="C060-l31"> Null junydor no feu encontre tal </l>
+
+     <l n="32" xml:id="C060-l32"> Don fos content com yo veent lo rench </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C060-lg5">
+
+     <l n="33" xml:id="C060-l33"> Si mos mals fats ab forcaltra no tench </l>
+
+     <l n="34" xml:id="C060-l34"> Malauyrat nom uullalgu iutiar </l>
+
+     <l n="35" xml:id="C060-l35"> Si vagabunt me ueu lo mon anar </l>
+
+     <l n="36" xml:id="C060-l36"> En tan segur port home james uench </l>
+
+     <l n="37" xml:id="C060-l37"> Mon desig es en molta part complit </l>
+
+     <l n="38" xml:id="C060-l38"> Trobant molt mes del que fuy desigos </l>
+
+     <l n="39" xml:id="C060-l39"> Sino atench no pens algu que fos </l>
+
+     <l n="40" xml:id="C060-l40"> Ab tal dolor sens molt maior delit </l>
+
+    </lg>
+
+    <pb n="60r"
+     facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_123.html"/>
+
+    <lg type="tornada" n="6" xml:id="C060-lg6">
+
+     <l n="41" xml:id="C060-l41"> Lir entre carts lo que deuos he dit </l>
+
+     <l n="42" xml:id="C060-l42"> Placia deu nom faca mentidor </l>
+
+     <l n="43" xml:id="C060-l43"> Yel que sufert essent uos amador </l>
+
+     <l n="44" xml:id="C060-l44"> Per mal esguart nom sia mal grahit </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

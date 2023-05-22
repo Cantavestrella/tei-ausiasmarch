@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 56</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/">
+     <msIdentifier xml:id="G1a_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>50v, centre, before first line</locus>{Mossen auzias march<note type="editorial">Al
+         marge dret, c. (il·legible)</note>
+       </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_111.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_112.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_113.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C056-G1a041">
+
+    <pb n="50v"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_111.html"/>
+
+    <lg type="cobla" n="1" xml:id="C056-lg1">
+
+     <l n="1" xml:id="C056-l1"><c rend="large">M</c>a voluntat amant vos se contenta </l>
+
+     <l n="2" xml:id="C056-l2"> hauent desig de possehir la vostra </l>
+
+     <l n="3" xml:id="C056-l3"> e so content de tal com se demostra </l>
+
+     <l n="4" xml:id="C056-l4"> lo freturos desig prech deu no senta </l>
+
+     <l n="5" xml:id="C056-l5"> si be damor terme no puch atenyer </l>
+
+     <l n="6" xml:id="C056-l6"> en aquell loch hon amadors conexen </l>
+
+     <l n="7" xml:id="C056-l7"> lur gros desig complit damor se lexen </l>
+
+     <l n="8" xml:id="C056-l8"> e yo ladonchs me sent damor estrenyer </l>
+
+    </lg>
+
+    <pb n="51r"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_112.html"/>
+
+    <lg type="cobla" n="2" xml:id="C056-lg2">
+
+     <l n="9" xml:id="C056-l9"><c rend="large">A</c>mor no cal gemechs ne sospirs fenyer </l>
+
+     <l n="10" xml:id="C056-l10"> vehent penjar son estat prim en layre </l>
+
+     <l n="11" xml:id="C056-l11"> cantar no deu ab alegre becayre </l>
+
+     <l n="12" xml:id="C056-l12"> mas ab bemolls alegria costrenyer </l>
+
+     <l n="13" xml:id="C056-l13"> sol en nos dos amor se manifesta </l>
+
+     <l n="14" xml:id="C056-l14"> e no viuent no li fallira casa </l>
+
+     <l n="15" xml:id="C056-l15"> e si del mon es nostraujda rasa </l>
+
+     <l n="16" xml:id="C056-l16"> tolrra fauor a recort daltra gesta </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C056-lg3">
+
+     <l n="17" xml:id="C056-l17"><c rend="large">L</c>o meu delit no cap en nulla testa </l>
+
+     <l n="18" xml:id="C056-l18"> ne pot muntar ma gloria pus alt signe </l>
+
+     <l n="19" xml:id="C056-l19"> pus nom defall sino que deu consigne </l>
+
+     <l n="20" xml:id="C056-l20"> que fermetat me sian fauor presta </l>
+
+     <l n="21" xml:id="C056-l21"> e si es ver que deu sia fortuna </l>
+
+     <l n="22" xml:id="C056-l22"> soplich lo molt repose son offiçi </l>
+
+     <l n="23" xml:id="C056-l23"> lalt derroquar me par terrible viçi </l>
+
+     <l n="24" xml:id="C056-l24"> fahent morir dos cors en vida vna </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C056-lg4">
+
+     <l n="25" xml:id="C056-l25"><c rend="large">T</c>ot simplement e sens dolor alguna </l>
+
+     <l n="26" xml:id="C056-l26"> visch en delit ab ma voluntat solta </l>
+
+     <l n="27" xml:id="C056-l27"> que lo cor soste qui la tenianbolta </l>
+
+     <l n="28" xml:id="C056-l28"> clar posseesch fent me lum sol e lluna </l>
+
+     <l n="29" xml:id="C056-l29"> e noyveig als que pura mor entregua </l>
+
+     <l n="30" xml:id="C056-l30"> si trasportant en la personamada </l>
+
+     <l n="31" xml:id="C056-l31"> res nom defall a vida contentada </l>
+
+     <l n="32" xml:id="C056-l32"> la ma de deu ami res no denegua </l>
+
+    </lg>
+
+    <pb n="51v"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_113.html"/>
+
+    <lg type="cobla" n="5" xml:id="C056-lg5">
+
+     <l n="33" xml:id="C056-l33"><c rend="large">V</c>olgra ser orb fahent fortuna cegua </l>
+
+     <l n="34" xml:id="C056-l34"> perdent lo pas en tant alt ma fet metre </l>
+
+     <l n="35" xml:id="C056-l35"> e si del loch aquell me fa remetre </l>
+
+     <l n="36" xml:id="C056-l36"> en aquest temps la mort me reguonegua </l>
+
+     <l n="37" xml:id="C056-l37"> ans quels costats sentan la dura terra </l>
+
+     <l n="38" xml:id="C056-l38"> en est espay ma vida pendra terme </l>
+
+     <l n="39" xml:id="C056-l39"> lo meu estat ab la mort lo conferme </l>
+
+     <l n="40" xml:id="C056-l40"> perdent aquell dela mort me plau guerra </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C056-lg6">
+
+     <l n="41" xml:id="C056-l41"><c rend="large">L</c>ir entre carts en lespay dela terra </l>
+
+     <l n="42" xml:id="C056-l42"> noya delit que dure ne contente </l>
+
+     <l n="43" xml:id="C056-l43"> sol es lo meu que no vull ques aumente </l>
+
+     <l n="44" xml:id="C056-l44"> mas del durar quant y pens dol maferra </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

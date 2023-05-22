@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 54</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+       to this document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result
+       work from a previous LaTEX format file out of the variorum diplomatic edition
+       of the complete poemes of Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>   
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/">
+     <msIdentifier xml:id="e_Ed_1560_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>31r, header</locus>DE AMOR CANT. XXIX.</rubric>
+       <rubric>
+        <locus>31v, header</locus>DE AMOR CANT. XXIX.</rubric>
+       <rubric>
+        <locus>31v, centre, between lines 40 and 41</locus>TORNADA.</rubric>
+       <rubric>
+        <locus>31v, centre, end of poem</locus>Fi del Cant.xxix.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_80.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_81.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C054-e029">
+
+    <pb n="31r" facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_80.html"/>
+
+    <lg type="cobla" n="1" xml:id="C054-lg1">
+
+     <l n="1" xml:id="C054-l1">
+      <c rend="large">Q</c>Vi si no es foll / demana si m'enyor </l>
+
+     <l n="2" xml:id="C054-l2"> essent absent / d'aquella quem fa viure? </l>
+
+     <l n="3" xml:id="C054-l3"> e si no plor / qui es lo quim fa riure? </l>
+
+     <l n="4" xml:id="C054-l4"> si be no pas / continua dolor. </l>
+
+     <l n="5" xml:id="C054-l5"> Tots mos delits / en vn he transportat </l>
+
+     <l n="6" xml:id="C054-l6"> Amor li plau / en mi fer aquest cámbi </l>
+
+     <l n="7" xml:id="C054-l7"> lo mon note / res valent lo recambi </l>
+
+     <l n="8" xml:id="C054-l8"> dell efperant / lo be tant desijat. </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C054-lg2">
+
+     <l n="9" xml:id="C054-l9"> Tant es lo be / qui me's dauant posat </l>
+
+     <l n="10" xml:id="C054-l10"> que sens dolor / visch aquell esperant </l>
+
+     <l n="11" xml:id="C054-l11"> si nol atench / sere tant mal anant </l>
+
+     <l n="12" xml:id="C054-l12"> qu'en aquest mon / infern haure trobat. </l>
+
+     <l n="13" xml:id="C054-l13"> Contentament / la vna part me dona </l>
+
+     <l n="14" xml:id="C054-l14"> per l'altra es / ma vida tribulada </l>
+
+     <l n="15" xml:id="C054-l15"> ab mort esta / en balança posada </l>
+
+     <l n="16" xml:id="C054-l16"> tement que por / ma'sperança confona. </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C054-lg3">
+
+     <l n="17" xml:id="C054-l17"> Depunt en punt / ma'sperança m'bandona </l>
+
+     <l n="18" xml:id="C054-l18"> e venç me por / d'aquell mal que yo tem </l>
+
+     <l n="19" xml:id="C054-l19"> qui es aquell / en poch amar estrem </l>
+
+     <l n="20" xml:id="C054-l20"> que segurtat / prenga per companyona? </l>
+
+     <l n="21" xml:id="C054-l21"> Per molt amar / en altre mi trasport </l>
+
+     <l n="22" xml:id="C054-l22"> si que fer pens / tot la person'aquella </l>
+
+     <l n="23" xml:id="C054-l23"> seri'al mon / vna gran marauella </l>
+
+     <l n="24" xml:id="C054-l24"> que no agues / por de la mala sort. </l>
+
+    </lg>
+
+    <pb n="31v" facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_81.html"/>
+
+    <lg type="cobla" n="4" xml:id="C054-lg4">
+
+     <l n="25" xml:id="C054-l25"> Viur'en delit / port'absi por de mort </l>
+
+     <l n="26" xml:id="C054-l26"> car de aquell / es'nemich sobirá </l>
+
+     <l n="27" xml:id="C054-l27"> e si james / Amor delit portá </l>
+
+     <l n="28" xml:id="C054-l28"> yo so aquell / quin puch fer lo report. </l>
+
+     <l n="29" xml:id="C054-l29"> mort qui est / de tots bens enuejosa </l>
+
+     <l n="30" xml:id="C054-l30"> y en tal voler / te segueix la fortuna </l>
+
+     <l n="31" xml:id="C054-l31"> cascuna prech / que mude'n ley alguna </l>
+
+     <l n="32" xml:id="C054-l32"> no res semblant / a la qui m'es danyosa. </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C054-lg5">
+
+     <l n="33" xml:id="C054-l33"> Saber se pot / ma vida perillosa </l>
+
+     <l n="34" xml:id="C054-l34"> cahent en mans / d'enemichs tan mortals </l>
+
+     <l n="35" xml:id="C054-l35"> pobres e richs / senten sos aspres mals </l>
+
+     <l n="36" xml:id="C054-l36"> e cascu dells / ab maner'argullosa. </l>
+
+     <l n="37" xml:id="C054-l37"> Seguisquen me / tots los qui amaran </l>
+
+     <l n="38" xml:id="C054-l38"> mon ris o plor / qualque dells me seguesca </l>
+
+     <l n="39" xml:id="C054-l39"> car yo son prest / de tastar fel o bresca </l>
+
+     <l n="40" xml:id="C054-l40"> per los qui mal / o be d'Amor pendran. </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C054-lg6">
+
+     <l n="41" xml:id="C054-l41"> Lir entre carts / passions d'Amor fan </l>
+
+     <l n="42" xml:id="C054-l42"> tembre y fiar / estar dins vn hostal </l>
+
+     <l n="43" xml:id="C054-l43"> de gran Amor / dubtar vn punt no cal </l>
+
+     <l n="44" xml:id="C054-l44"> e guay d'aquells / qu'ntre llurs mans estan. </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

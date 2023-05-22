@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 55</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/poesies-3/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>50v, centre, before first line</locus>C</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C055-D055">
+
+    <pb n="50v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="1" xml:id="C055-lg1">
+
+     <l n="1" xml:id="C055-l1"> Per molt amar mavida es endubte </l>
+
+     <l n="2" xml:id="C055-l2"> mas no cregau que delamort metema </l>
+
+     <l n="3" xml:id="C055-l3"> apoch apoch masperanças fa sema </l>
+
+     <l n="4" xml:id="C055-l4"> emvol fugir mas noufa enorrubte </l>
+
+     <l n="5" xml:id="C055-l5"> haja malgrat de sacompassio </l>
+
+     <l n="6" xml:id="C055-l6"> puix nom serueix amon affany guarir </l>
+
+     <l n="7" xml:id="C055-l7"> lo detardar no vedalo venir </l>
+
+     <l n="8" xml:id="C055-l8"> ecreix desig edoblam passio </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C055-lg2">
+
+     <l n="9" xml:id="C055-l9"> Deumadonat tal disposicio </l>
+
+     <l n="10" xml:id="C055-l10"> quemonvoler seguarda sol amar </l>
+
+     <l n="11" xml:id="C055-l11"> e fahent als serueix acompanyar </l>
+
+     <l n="12" xml:id="C055-l12"> lestat damor entot lals abando </l>
+
+     <l n="13" xml:id="C055-l13"> Yo am amor yell ami punt no ama </l>
+
+     <l n="14" xml:id="C055-l14"> eper ell am<del rend="overstrike">e</del> linatge femini </l>
+
+     <l n="15" xml:id="C055-l15"> generalment sia entes axi </l>
+
+     <l n="16" xml:id="C055-l16"> aquellavull quen sa culpamdesama </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C055-lg3">
+
+     <l n="17" xml:id="C055-l17"> Abtort edret moncor damor seclama </l>
+
+     <l n="18" xml:id="C055-l18"> tot enpassat y ab dret gran depresent </l>
+
+     <l n="19" xml:id="C055-l19"> no perque fos enalgun temps content </l>
+
+     <l n="20" xml:id="C055-l20"> per null temps hac tempre lamia flama </l>
+
+     <l n="21" xml:id="C055-l21"> Del temps passat yo nom clame damor </l>
+
+     <l n="22" xml:id="C055-l22"> ell mevalgue mas noguem latemen ça </l>
+
+     <pb n="51r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="23" xml:id="C055-l23"> enuergonyit no mostri ben uolença </l>
+
+     <l n="24" xml:id="C055-l24"> ne fiu saber mon valer edolor </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C055-lg4">
+
+     <l n="25" xml:id="C055-l25"> E per finir mos jorns ab gran tristor </l>
+
+     <l n="26" xml:id="C055-l26"> eper hauer damor algun just clam </l>
+
+     <l n="27" xml:id="C055-l27"> yodesamat vol questretament am </l>
+
+     <l n="28" xml:id="C055-l28"> sique amant del mon perda sabor </l>
+
+     <l n="29" xml:id="C055-l29"> Miauorrint ab <add place="interlinear">no</add> bastant conort </l>
+
+     <l n="30" xml:id="C055-l30"> eforavos tot quant deu haja fet </l>
+
+     <l n="31" xml:id="C055-l31"> mon auorrir encompte vos no met </l>
+
+     <l n="32" xml:id="C055-l32"> mes que mius am si nou creheu feu tort </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C055-lg5">
+
+     <l n="33" xml:id="C055-l33"> O amadors nous cayga del recort </l>
+
+     <l n="34" xml:id="C055-l34"> vn fet tancar per sola estranyedat </l>
+
+     <l n="35" xml:id="C055-l35"> yo gran parler dos <choice>
+       <abbr>añs</abbr>
+       <expan>anys</expan>
+      </choice> so mut estat </l>
+
+     <l n="36" xml:id="C055-l36"> no cregau donchs que dolor done mort </l>
+
+     <l n="37" xml:id="C055-l37"> Yo son aquell quim fora desexit </l>
+
+     <l n="38" xml:id="C055-l38"> del esperit alcos carrega fexuga </l>
+
+     <l n="39" xml:id="C055-l39"> mas nomes luny vn ora de sastruga </l>
+
+     <l n="40" xml:id="C055-l40"> que perdrel mon sera millorpartit </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C055-lg6">
+
+     <l n="41" xml:id="C055-l41"> Lir entre carts molts trobadorshandit </l>
+
+     <l n="42" xml:id="C055-l42"> quelbe damor es alcomençament </l>
+
+     <l n="43" xml:id="C055-l43"> yo dich questaprop del contentament </l>
+
+     <l n="44" xml:id="C055-l44"> eque morra sildesig es cumplit. </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

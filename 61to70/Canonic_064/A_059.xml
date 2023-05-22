@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 64</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="VGR">
+               <name>Victoria García Ripoll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2023.</p>
+               </licence>
+            </availability>
+            <date>2023-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra/canconer-dobres-enamorades-manuscrito--0/">
+               <msIdentifier xml:id="A_Ms_ESP_225_BnP">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>202v, centre, before first line</locus>Mossen auzias march}</rubric>
+                     <rubric><locus>203r, centre, between lines 24 and 25</locus>Tornada</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_457.html"/>
+      <graphic url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_458.html"></graphic>
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C064-A059">
+
+            <pb n="202v" facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_457.html"/>
+
+            <lg type="cobla" n="1" xml:id="C064-lg1">
+
+               <l n="1" xml:id="C064-l1"> O temps es tal / que tot animal brut </l>
+
+               <l n="2" xml:id="C064-l2"> Requer amor / cascu trobant son par </l>
+
+               <l n="3" xml:id="C064-l3"> Lo ceruo brau / sent en lo bosch bramar </l>
+
+               <l n="4" xml:id="C064-l4"> E son fer bram / per dolç cant es tengut </l>
+
+               <l n="5" xml:id="C064-l5"> Agrons ecorps / han melodia tanta </l>
+
+               <l n="6" xml:id="C064-l6"> Quellur semblant / delitant enamora </l>
+
+               <l n="7" xml:id="C064-l7"> Lo rossinyol / de tal cas sentrenyora </l>
+
+               <l n="8" xml:id="C064-l8"> Si lo seu cant / senamoradaspanta </l>
+
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C064-lg2">
+
+               <l n="9" xml:id="C064-l9"> E donchs sim dolch / lo dolre mes degut </l>
+
+               <l n="10" xml:id="C064-l10"> Com veig amats / mensys de poder amar </l>
+
+               <l n="11" xml:id="C064-l11"> E lo grosser / per abte veig passar </l>
+
+               <l n="12" xml:id="C064-l12"> Amor lo fa / esser no conegut </l>
+
+               <l n="13" xml:id="C064-l13"> Edaçom ve / piedosa complanta </l>
+
+               <l n="14" xml:id="C064-l14"> Com desamor / exorba ma senyora </l>
+
+               <l n="15" xml:id="C064-l15"> No conexent / lo seruent qui ladora </l>
+
+               <l n="16" xml:id="C064-l16"> No vol pensar / qual es samor ne quanta </l>
+
+            </lg>
+
+            <pb n="203r" facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrito--0/html/01f788e0-82b2-11df-acc7-002185ce6064_458.html"/>
+
+            <lg type="cobla" n="3" xml:id="C064-lg3">
+
+               <l n="17" xml:id="C064-l17"> No com aquell / qui son be ha perdut </l>
+
+               <l n="18" xml:id="C064-l18"> Matent arrisch / si poria guanyar </l>
+
+               <l n="19" xml:id="C064-l19"> E vos amat / quem volguesseu amar </l>
+
+               <l n="20" xml:id="C064-l20"> Delliberat / no son amor vengut </l>
+
+               <l n="21" xml:id="C064-l21"> Tot nuu me trob / vestit de grossa manta </l>
+
+               <l n="22" xml:id="C064-l22"> Ma voluntat / amor la ten penyora </l>
+
+               <l n="23" xml:id="C064-l23"> Eço degue / mon cor se adolora </l>
+
+               <l n="24" xml:id="C064-l24"> Es com no veu / ma fretura ques tanta </l>
+
+            </lg>
+
+            <lg type="tornada" n="4" xml:id="C064-lg4">
+
+               <l n="25" xml:id="C064-l25"> Lir entre carts / ab milans caç la guanta </l>
+
+               <l n="26" xml:id="C064-l26"> Heb lo branxet / la lebra corredora </l>
+
+               <l n="27" xml:id="C064-l27"> Assats al mon / cascunes viuidora </l>
+
+               <l n="28" xml:id="C064-l28"> E mon pits flach / lo passi de rams canta </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

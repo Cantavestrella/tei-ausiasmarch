@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 51</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/">
+     <msIdentifier xml:id="d_Ed_1555_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>29r, header</locus>DE AMOR CANTO.XXII.</rubric>
+       <rubric>
+        <locus>29v, header</locus>DE AMOR CANTO.XXII.</rubric>
+       <rubric>
+        <locus>29v, centre between lines 40 and 41</locus>TORNADA</rubric>
+       <rubric>
+        <locus>29v, end of poem</locus>FIN DEL CANTO. XXII.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_62.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_63.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C051-d022">
+    <pb n="29r" facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_62.html"/>
+    <lg type="cobla" n="1" xml:id="C051-lg1">
+
+     <l n="1" xml:id="C051-l1">
+      <c rend="large">T</c>Al so com çell / qui pensa que morra </l>
+
+     <l n="2" xml:id="C051-l2"> e ja l'an lest / moltes veus la sentença </l>
+
+     <l n="3" xml:id="C051-l3"> mas per merçe / l'es donada audiença </l>
+
+     <l n="4" xml:id="C051-l4"> creu e no creu / que merçe li valrra. </l>
+
+     <l n="5" xml:id="C051-l5"> Lo mal y el be / van al mesqui dauant </l>
+
+     <l n="6" xml:id="C051-l6"> que fermament / nols gosa esperar </l>
+
+     <l n="7" xml:id="C051-l7"> aixi no puch / a vos ferm desijar </l>
+
+     <l n="8" xml:id="C051-l8"> ne fer non puch / del tot desesperant. </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C051-lg2">
+
+     <l n="9" xml:id="C051-l9">¶ Ay tant compuch / yre vida'llargant </l>
+
+     <l n="10" xml:id="C051-l10"> per quel estrem / de tots mals es la mort </l>
+
+     <l n="11" xml:id="C051-l11"> nom trob esforç / per hauer ne conort </l>
+
+     <l n="12" xml:id="C051-l12"> mes am dolor / mort e vida dubtant. </l>
+
+     <l n="13" xml:id="C051-l13"> E tant com pus / de ma dolor creheu </l>
+
+     <l n="14" xml:id="C051-l14"> e lo remey / en vos lo deteniu </l>
+
+     <l n="15" xml:id="C051-l15"> lo meu spirit / jau mort molt mes que viu </l>
+
+     <l n="16" xml:id="C051-l16"> ans de sa mort / pregaus li perdoneu. </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C051-lg3">
+
+     <l n="17" xml:id="C051-l17"> Lladonchs morre / com parlar nom volrreu </l>
+
+     <l n="18" xml:id="C051-l18"> e tinch per foll / qui de mort nos'deffen </l>
+
+     <l n="19" xml:id="C051-l19"> aquella es / darrer dan e turmen </l>
+
+     <l n="20" xml:id="C051-l20"> no mereisch yo / que los meus jorns fineu. </l>
+
+     <l n="21" xml:id="C051-l21"> No guardeu mi / sino ma ben volença. </l>
+
+     <l n="22" xml:id="C051-l22"> mi offenent / offendreu lo voler </l>
+
+     <l n="23" xml:id="C051-l23"> que vos amant / de mi es homeyer </l>
+
+     <l n="24" xml:id="C051-l24"> e fallint ell / Amor es en fallença. </l>
+
+    </lg>
+
+    <pb n="29v" facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-poeta-mosen-ausias-march-corregidas-de-los-errores-que-tenian-sale-con-ellas-el-vocabulario-de-los-vocablos-en-ellas-contenidos--2/html/01f98578-82b2-11df-acc7-002185ce6064_63.html"/>
+
+    <lg type="cobla" n="4" xml:id="C051-lg4">
+
+     <l n="25" xml:id="C051-l25">¶ Hon es Iason / e sa desconeixença, </l>
+
+     <l n="26" xml:id="C051-l26"> hon es Theseu / qui detrahi'Ariana </l>
+
+     <l n="27" xml:id="C051-l27"> e Dido fonch / d'esperança tan vana </l>
+
+     <l n="28" xml:id="C051-l28"> que la trahi / Eneas en crehença. </l>
+
+     <l n="29" xml:id="C051-l29"> Los fets passats / del present me consolen </l>
+
+     <l n="30" xml:id="C051-l30"> irat me trob / vers feminil linatje </l>
+
+     <l n="31" xml:id="C051-l31"> los fins amants / no han enell estatje </l>
+
+     <l n="32" xml:id="C051-l32"> sembren los bons / cullen los mals e molen. </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C051-lg5">
+
+     <l n="33" xml:id="C051-l33">¶ Sauis son çells / qui les festes no colen </l>
+
+     <l n="34" xml:id="C051-l34"> d'aquell Amor / qui en les dones cau </l>
+
+     <l n="35" xml:id="C051-l35"> ab desleals / souint elles han pau </l>
+
+     <l n="36" xml:id="C051-l36"> leixant aquells / qui per ben amar moren. </l>
+
+     <l n="37" xml:id="C051-l37"> En recort es / aquell Pau de ben viure </l>
+
+     <l n="38" xml:id="C051-l38"> qui per amar / sa dona:torná foll </l>
+
+     <l n="39" xml:id="C051-l39"> tal cami tinch / soptat rompent lo coll </l>
+
+     <l n="40" xml:id="C051-l40"> de tot mon dan / dubtem nous veja riure. </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C051-lg6">
+
+     <l n="41" xml:id="C051-l41">¶ Plena de seny / nom abreujeu lo viure </l>
+
+     <l n="42" xml:id="C051-l42"> car mentre visch / vostra llahor se allarga </l>
+
+     <l n="43" xml:id="C051-l43"> e vos lloant / nom trob la boca'marga </l>
+
+     <l n="44" xml:id="C051-l44"> ne tart la ma / com de vos vull escriure. </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

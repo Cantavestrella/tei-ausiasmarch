@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 27</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez </name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo HIlario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2020-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/">
+               <msIdentifier xml:id="C_Ms_L.iij.26_EE">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+
+                     <rubric><locus>118r between lines 16 and 17</locus>~:Tornada:~</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_237.html"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C027-C085m">
+            <pb n="118r" facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_237.html"/>
+            <lg type="cobla" n="1" xml:id="C027-lg4">
+               <l n="1" xml:id="C027-l25"> Yo contra fac / nau en golf perillan </l>
+               <l n="2" xml:id="C027-l26"> l'arbre perdent / e son gouernador </l>
+               <l n="3" xml:id="C027-l27"> e per contrast / de dos uents no discor </l>
+               <l n="4" xml:id="C027-l28"> los mariners / embadalits estan </l>
+               <l n="5" xml:id="C027-l29"> e cascu dells / la sua carta tenta </l>
+               <l n="6" xml:id="C027-l30"> e son discorts / en lur acordament </l>
+               <l n="7" xml:id="C027-l31"> l'hu uolgra ser / prop terra passos <choice>
+                  <abbr>cȇt</abbr>
+                     <expan>cent</expan>
+                  </choice>
+               </l>
+               <l n="8" xml:id="C027-l32"> l'altre tan luny / com uent pot <choice>
+                  <abbr>darȇpenta</abbr>
+                     <expan>darempenta</expan>
+                  </choice>
+               </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C027-lg5">
+               <l n="9" xml:id="C027-l33"> Ma uoluntat / ab quen la mar fui mes </l>
+               <l n="10" xml:id="C027-l34"> fallida es / e pogram ser ajuda </l>
+               <l n="11" xml:id="C027-l35"> ja ma raho / de son lloch es cayguda </l>
+               <l n="12" xml:id="C027-l36"> mos pensaments contraris m'han ates </l>
+               <l n="13" xml:id="C027-l37"> ja mos desigs / no saben elegir </l>
+               <l n="14" xml:id="C027-l38"> uida ne mort / qual es la millor tria </l>
+               <l n="15" xml:id="C027-l39"> natur'enmi / usa de maestria </l>
+               <l n="16" xml:id="C027-l40"> e pren la mort / per major dan fugir </l>
+            </lg>
+            <lg type="tornada" n="3" xml:id="C027-lg6">
+               <l n="17" xml:id="C027-l41"> Plena de seny / nos pot be sofferir </l>
+               <l n="18" xml:id="C027-l42"> uida y dolor / sens pendre algun'spay </l>
+               <l n="19" xml:id="C027-l43"> lomeu desig / se conuerteix en glay </l>
+               <l n="20" xml:id="C027-l44"> quant me recort / que res uos haja dir. </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

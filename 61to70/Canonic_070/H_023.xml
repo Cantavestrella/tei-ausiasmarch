@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 70</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="VGR">
+     <name>Victoria García Ripoll</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+     <msIdentifier xml:id="H_Ms_110_BUZ">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>28v, centre, between lines 56 and 57</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_37.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_38.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_39.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C070-H023">
+
+    <pb n="27v" facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_37.html"/>
+
+    <lg type="cobla" n="1" xml:id="C070-lg1">
+
+     <l n="1" xml:id="C070-l1"> <c rend="large">P</c>er quens es tolt poder desliberar </l>
+
+     <l n="2" xml:id="C070-l2"> La mort nons fa tamal amon parer </l>
+
+     <l n="3" xml:id="C070-l3"> Com gran contrast ab si mateix auer </l>
+
+     <l n="4" xml:id="C070-l4"> Don lo voler vsa de redolar </l>
+
+     <l n="5" xml:id="C070-l5"> Qual tan cruel amj no playerja </l>
+
+     <l n="6" xml:id="C070-l6"> Hauent passat tal cas propiament </l>
+
+     <l n="7" xml:id="C070-l7"> Tot lo saber del mon <add place="interlinear">nom</add> conuencria </l>
+
+     <l n="8" xml:id="C070-l8"> Quen altre loch dolor fos mes potent </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C070-lg2">
+
+     <l n="9" xml:id="C070-l9"> Del tot no puch maymja encolpar </l>
+
+     <l n="10" xml:id="C070-l10"> Ne de merçe no puch auer poder </l>
+
+     <l n="11" xml:id="C070-l11"> Lo seu mal fet ab gran enginy lo quer </l>
+
+     <l n="12" xml:id="C070-l12"> E quant lo trop nom lou nem vull raptar </l>
+
+     <l n="13" xml:id="C070-l13"> Dos enemjchs <choice>
+      <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> dins çells portaria </l>
+
+     <l n="14" xml:id="C070-l14"> Hirayamor dins mj van debatent </l>
+
+     <l n="15" xml:id="C070-l15"> Hira damor li ve le senyoria </l>
+
+     <l n="16" xml:id="C070-l16"> Com sera donchs que pusca ser vençent </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C070-lg3">
+
+     <l n="17" xml:id="C070-l17"> Yo desig molt ma gran dolor çelar </l>
+
+     <l n="18" xml:id="C070-l18"> E cuyt morir fins ella la saber </l>
+
+     <l n="19" xml:id="C070-l19"> Quant no la veig muyr <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> ella veer </l>
+
+     <l n="20" xml:id="C070-l20"> E sil macost forçat mes despentar </l>
+
+     <l n="21" xml:id="C070-l21"> Yo li vull be lo seu mall me plaurja </l>
+
+     <l n="22" xml:id="C070-l22"> No se quem plau determenadament </l>
+
+     <l n="23" xml:id="C070-l23"> Volent morir / hun gran recos seria </l>
+
+     <l n="24" xml:id="C070-l24"> Matem dolor ho lex me tal turment </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C070-lg4">
+
+     <l n="25" xml:id="C070-l25"> Quant amor plau que dell me recordar </l>
+
+     <l n="26" xml:id="C070-l26"> Hiras ab ell en orda pus derrer </l>
+
+     <pb n="28r" facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_38.html"/>
+
+     <l n="27" xml:id="C070-l27"> A mon sentir no se qual es <choice>
+      <abbr>ṗmer</abbr>
+       <expan>primer</expan>
+      </choice>
+     </l>
+
+     <l n="28" xml:id="C070-l28"> Tan prestament lurs actes he passar </l>
+
+     <l n="29" xml:id="C070-l29"> Campar no puch sil pensar no perdia </l>
+
+     <l n="30" xml:id="C070-l30"> Axi damor no aure sentiment </l>
+
+     <l n="31" xml:id="C070-l31"> Car nom pot dar amor punt dalegria </l>
+
+     <l n="32" xml:id="C070-l32"> Qujra nom do tant de mal sobtament </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C070-lg5">
+
+     <l n="33" xml:id="C070-l33"> Aquels remeys que solan ajudar </l>
+
+     <l n="34" xml:id="C070-l34"> Al amador del mal quamor sab fer </l>
+
+     <l n="35" xml:id="C070-l35"> Son conuertits en mortall desplaer </l>
+
+     <l n="36" xml:id="C070-l36"> E dos volers en mj sent trabalar </l>
+
+     <l n="37" xml:id="C070-l37"> Hignor si am sens amor nom dolria </l>
+
+     <l n="38" xml:id="C070-l38"> Hayr e am molt e mescladament </l>
+
+     <l n="39" xml:id="C070-l39"> Puys jom ignor <choice>
+      <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> sab <choice>
+       <abbr>mō</abbr>
+       <expan>mon</expan>
+      </choice> cas media </l>
+
+     <l n="40" xml:id="C070-l40"> E siam dit si son lo mon pressent </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C070-lg6">
+
+     <l n="41" xml:id="C070-l41"> Bon passatemps ha quis pot delitar </l>
+
+     <l n="42" xml:id="C070-l42"> Vaent lamat yen son propi voler </l>
+
+     <l n="43" xml:id="C070-l43"> Tot amador / nol fall hun poch esper </l>
+
+     <l n="44" xml:id="C070-l44"> E pren delit en saymja mjrar </l>
+
+     <l n="45" xml:id="C070-l45"> De tals delits no lou lur <choice>
+      <abbr>conpāyia</abbr>
+       <expan>conpanyia</expan>
+      </choice>
+     </l>
+
+     <l n="46" xml:id="C070-l46"> Muyr per dolor quant bon voler me sent </l>
+
+     <l n="47" xml:id="C070-l47"> Hem esbaesch Com en veure maymja </l>
+
+     <l n="48" xml:id="C070-l48"> E son voler ma porta marrjment </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C070-lg7">
+
+     <l n="49" xml:id="C070-l49"> Si mon dictat veu algu variar </l>
+
+     <l n="50" xml:id="C070-l50"> En hirastich rebolt en bon voler </l>
+
+     <l n="51" xml:id="C070-l51"> E dos moments / cascum ten son poder </l>
+
+     <l n="52" xml:id="C070-l52"> Del tot açi / nom pot algu portar </l>
+
+     <l n="53" xml:id="C070-l53"> Lexen me tots ho vençem qualque sia </l>
+
+     <pb n="28v" facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_39.html"/>
+
+     <l n="54" xml:id="C070-l54"> O pas lo temps / molt pus cuytadament </l>
+
+     <l n="55" xml:id="C070-l55"> Hoit he dir que tot mal <add place="interlinear">fa</add> sa via </l>
+
+     <l n="56" xml:id="C070-l56"> Si lonch espay / de temps es ateyent </l>
+
+    </lg>
+
+    <lg type="tornada" n="8" xml:id="C070-lg8">
+
+     <l n="57" xml:id="C070-l57"> Vaent amor ab dret io li diria </l>
+
+     <l n="58" xml:id="C070-l58"> Que nom ha dat mon ver mereximent </l>
+
+     <l n="59" xml:id="C070-l59"> E de tot sert ell amj respondria </l>
+
+     <l n="60" xml:id="C070-l60"> No puch entrar qui no ha entenjment </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

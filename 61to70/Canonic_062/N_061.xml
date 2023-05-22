@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 62</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="VGR">
+     <name>Victoria García Ripoll</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>126, centre, before first line</locus>{Mossen Ausias march}</rubric>
+       <rubric>
+        <locus>128, centre, between lines 56 and 57</locus>{Tornada}</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_128.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_129.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_130.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C062-N061">
+
+    <pb n="126" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_128.html"/>
+
+    <lg type="cobla" n="1" xml:id="C062-lg1">
+
+     <l n="1" xml:id="C062-l1"> ¶ Quim mostrara la fortuna loar </l>
+
+     <l n="2" xml:id="C062-l2"> Dell sobiran do per ella rebut </l>
+
+     <l n="3" xml:id="C062-l3"> E tench per foll tot hom edecebut </l>
+
+     <l n="4" xml:id="C062-l4"> Que poch ne molt contengabmj depar </l>
+
+     <l n="5" xml:id="C062-l5"> Yo so molt prop de viure molt content </l>
+
+     <l n="6" xml:id="C062-l6"> Enbarch nom fa mes duna passio </l>
+
+     <l n="7" xml:id="C062-l7"> Que semblamj que ve <choice>
+      <abbr>meȳs</abbr>
+       <expan>menys</expan>
+      </choice> deraho </l>
+
+     <l n="8" xml:id="C062-l8"> Puys ha raell enuostre falliment </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C062-lg2">
+
+     <l n="9" xml:id="C062-l9"> Enmj nos pot comparar hom viuent </l>
+
+     <l n="10" xml:id="C062-l10"> Pus laque am crehem ser lamillor </l>
+
+     <l n="11" xml:id="C062-l11"> Abmolt gran seny e honostat de cor </l>
+
+     <l n="12" xml:id="C062-l12"> E yo lam tant quellam es ben volent </l>
+
+     <l n="13" xml:id="C062-l13"> Enlo comench fon bona ma ventura </l>
+
+     <l n="14" xml:id="C062-l14"> Seguir lo deu lafi amon comench </l>
+
+     <l n="15" xml:id="C062-l15"> E sinou fa mort que totares venc </l>
+
+     <l n="16" xml:id="C062-l16"> Donaramj laterran vestidura </l>
+
+    </lg>
+
+    <pb n="127" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_129.html"/>
+
+    <lg type="cobla" n="3" xml:id="C062-lg3">
+
+     <l n="17" xml:id="C062-l17"> Mas deu no sab enlomon creatura </l>
+
+     <l n="18" xml:id="C062-l18"> Sens defallir alguna part de be </l>
+
+     <l n="19" xml:id="C062-l19"> Don lom es foll quj alaugera fe </l>
+
+     <l n="20" xml:id="C062-l20"> Abandonant aquell vltra mesura </l>
+
+     <l n="21" xml:id="C062-l21"> Perque yom trob no fart de son voler </l>
+
+     <l n="22" xml:id="C062-l22"> E no crech be loquem es dit per ella </l>
+
+     <l n="23" xml:id="C062-l23"> E cuyt auer daco iusta querela </l>
+
+     <l n="24" xml:id="C062-l24"> Mas creure ferm no tinch enmonpoder </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C062-lg4">
+
+     <l n="25" xml:id="C062-l25"> Termenamor algu no pot saber </l>
+
+     <l n="26" xml:id="C062-l26"> E lo quil creu en amor no sab res </l>
+
+     <l n="27" xml:id="C062-l27"> Qujn tal camj apasejar es mes </l>
+
+     <l n="28" xml:id="C062-l28"> No<del rend="overstrike">l</del> troba fi epensa quel auer </l>
+
+     <l n="29" xml:id="C062-l29"> De cors vnits envna voluntat </l>
+
+     <l n="30" xml:id="C062-l30"> Deu fer amor elo quj senpartex </l>
+
+     <l n="31" xml:id="C062-l31"> En ell amor de continent perex </l>
+
+     <l n="32" xml:id="C062-l32"> Per amador no deu esser comtat </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C062-lg5">
+
+     <l n="33" xml:id="C062-l33"> Amor sete per <choice>
+      <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> jnjuriat </l>
+
+     <l n="34" xml:id="C062-l34"> Per hom enquj trobe lo seu cor fret </l>
+
+     <l n="35" xml:id="C062-l35"> Que per traydor hon fos tot malifet </l>
+
+     <l n="36" xml:id="C062-l36"> Puys lo forcas desser enamorat </l>
+
+     <l n="37" xml:id="C062-l37"> Quj tebeu es damor es enemich </l>
+
+     <l n="38" xml:id="C062-l38"> E portabsi contramor lo fallir </l>
+
+     <l n="39" xml:id="C062-l39"> Sinos cregut tolgues denfellonir </l>
+
+     <l n="40" xml:id="C062-l40"> Car de cor franch hom no creu lomenich </l>
+
+    </lg>
+
+    <pb n="128" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_130.html"/>
+
+    <lg type="cobla" n="6" xml:id="C062-lg6">
+
+     <l n="41" xml:id="C062-l41"> Si lomeu hull no tinch per ver amich </l>
+
+     <l n="42" xml:id="C062-l42"> E del que se no vull esser menbrant </l>
+
+     <l n="43" xml:id="C062-l43"> No creure vos esser ves mj errant </l>
+
+     <l n="44" xml:id="C062-l44"> Etrobarme de peguessa molt rich </l>
+
+     <l n="45" xml:id="C062-l45"> Lamia mor amj crex la sospita </l>
+
+     <l n="46" xml:id="C062-l46"> E lo quj se que demj nos pot tolre </l>
+
+     <l n="47" xml:id="C062-l47"> E de mon cas <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> uoleu asats dolre </l>
+
+     <l n="48" xml:id="C062-l48"> Per pocamor que dintra vos abita </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C062-lg7">
+
+     <l n="49" xml:id="C062-l49"> Mopinio es enmon cor scrita </l>
+
+     <l n="50" xml:id="C062-l50"> Que sino vos als no lamen pot raure </l>
+
+     <l n="51" xml:id="C062-l51"> Vos me podeu en tota ror fer caure </l>
+
+     <l n="52" xml:id="C062-l52"> Pusque amor forcarmj se delita </l>
+
+     <l n="53" xml:id="C062-l53"> E tant desig que siamat per vos </l>
+
+     <l n="54" xml:id="C062-l54"> Quem es forcat dubtar que axi sia </l>
+
+     <l n="55" xml:id="C062-l55"> Amor me fa de veritat falsia </l>
+
+     <l n="56" xml:id="C062-l56"> No bast <choice>
+      <abbr>enpꝯ</abbr>
+       <expan>enpus</expan>
+      </choice> quen esser sospitos </l>
+
+    </lg>
+
+    <lg type="tornada" n="8" xml:id="C062-lg8">
+
+     <l n="57" xml:id="C062-l57"> <c rend="large">H</c>o folla mor en lom molt desijos </l>
+
+     <l n="58" xml:id="C062-l58"> Cabre no pot en ell sats conexenca </l>
+
+     <l n="59" xml:id="C062-l59"> Sa passio li torbe la scienca </l>
+
+     <l n="60" xml:id="C062-l60"> E amajorment <del rend="overstrike">q</del> lo quj es amoros </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 57</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/">
+     <msIdentifier xml:id="H_Ms_110_BUZ">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>26v, centre, before first line</locus><choice>
+        <abbr>Mossʒ</abbr>
+        <expan>mossen</expan>
+       </choice>auzias march</rubric>
+       <rubric>
+        <locus>27r, centre, between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_35.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_36.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C057-H022">
+
+    <pb n="26v"
+     facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_35.html"/>
+
+    <lg type="cobla" n="1" xml:id="C057-lg1">
+
+     <l n="1" xml:id="C057-l1"> Por de pijor a molts fa pendra mort </l>
+
+     <l n="2" xml:id="C057-l2"> Per esqujuar mal esdeuenjdor </l>
+
+     <l n="3" xml:id="C057-l3"> Si be la mort resemb<add place="interlinear">l</add>a cas pijor </l>
+
+     <l n="4" xml:id="C057-l4"> Cell <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> la pren la te <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> bona sort </l>
+
+     <l n="5" xml:id="C057-l5"> E de aço cato mostra camj </l>
+
+     <l n="6" xml:id="C057-l6"> E li mes nom vs dela ljbertat </l>
+
+     <l n="7" xml:id="C057-l7"> Car de tot als pot hom eser forçat </l>
+
+     <l n="8" xml:id="C057-l8"> Si non morjr ques en nostre juhi </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C057-lg2">
+
+     <l n="9" xml:id="C057-l9"> Algu la <choice>
+      <abbr>prē</abbr>
+       <expan>pren</expan>
+      </choice> e rep nom de mesquj </l>
+
+     <l n="10" xml:id="C057-l10"> Ffugint perjll <choice>
+       <abbr>ꝙll</abbr>
+       <expan>quill</expan>
+      </choice> es denant possat </l>
+
+     <l n="11" xml:id="C057-l11"> Altre sera de cor noblanjmat </l>
+
+     <l n="12" xml:id="C057-l12"> Que vol morjr per la valor de si </l>
+
+     <l n="13" xml:id="C057-l13"> Venjnt en mans denemjch seu potent </l>
+
+     <l n="14" xml:id="C057-l14"> Sobrat lo cors / guereiab lo uoler </l>
+
+     <l n="15" xml:id="C057-l15"> De vençedor encaras veu poder </l>
+
+     <l n="16" xml:id="C057-l16"> Vol perdrell cors per lesperit vençent </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C057-lg3">
+
+     <l n="17" xml:id="C057-l17"> Jesus en creu fon pus fort e potent </l>
+
+     <l n="18" xml:id="C057-l18"> Que no aquels qujl feren mort passar </l>
+
+     <l n="19" xml:id="C057-l19">
+      <del rend="overstrike">En</del>
+      <add place="interlinear">car</add> son voler nol feren cambiar </l>
+
+     <l n="20" xml:id="C057-l20"> No fon conplit lur dapnat pensament </l>
+
+     <pb n="27r"
+      facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_36.html"/>
+
+     <l n="21" xml:id="C057-l21"> No roman fart lo forçador del cors </l>
+
+     <l n="22" xml:id="C057-l22"> Si volentat per cars semblant no força </l>
+
+     <l n="23" xml:id="C057-l23"> Ans es vençut aquell <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> tant esforça </l>
+
+     <l n="24" xml:id="C057-l24"> Quj dela mort no vol pendra son mos </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C057-lg4">
+
+     <l n="25" xml:id="C057-l25"> Del vjure lonch ja sent lo gran repos </l>
+
+     <l n="26" xml:id="C057-l26"> Quj dasquest curt lo viure auoreix </l>
+
+     <l n="27" xml:id="C057-l27"> E la dolor dela mort se parteix </l>
+
+     <l n="28" xml:id="C057-l28"> Com lo <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> mor comte de mort ha clos </l>
+
+     <l n="29" xml:id="C057-l29"> La donchs virtut la força multiplica </l>
+
+     <l n="30" xml:id="C057-l30"> Del virtuos <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> sopinjo ferma </l>
+
+     <l n="31" xml:id="C057-l31"> En qualque part / hon virtut <add place="interlinear">lo</add>
+      conferme </l>
+
+     <l n="32" xml:id="C057-l32"> Que sol adeu dell esperit supplica<note type="editorial">La
+       primera p és de lectura dubtosa.</note>
+     </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C057-lg5">
+
+     <l n="33" xml:id="C057-l33"> Alguns passats que volentat hinjca </l>
+
+     <l n="34" xml:id="C057-l34"> Los feu morir olopinjo vana </l>
+
+     <l n="35" xml:id="C057-l35"> Aquests no lou mas los de pença sana </l>
+
+     <l n="36" xml:id="C057-l36"> Volent morir <choice>
+       <abbr>p</abbr>
+       <expan>per</expan>
+      </choice> fer lur arma rica </l>
+
+     <l n="37" xml:id="C057-l37"> Perdent hun poch <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> linfinjt atendre </l>
+
+     <l n="38" xml:id="C057-l38">
+      <choice>
+       <abbr>Guoȳat</abbr>
+       <expan>Guonyant</expan>
+      </choice> lo goig / que al fill de deu costa </l>
+
+     <l n="39" xml:id="C057-l39"> Gran es lo be segons aquesta costa </l>
+
+     <l n="40" xml:id="C057-l40"> Que per la mort de tal hom sagues rende </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C057-lg6">
+
+     <l n="41" xml:id="C057-l41"> Dolor e por son bastans <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> ofendre </l>
+
+     <l n="42" xml:id="C057-l42"> Totas virtuts que lanjman balexan </l>
+
+     <l n="43" xml:id="C057-l43"> Los <choice>
+      <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> son nets en gloria tant crexen </l>
+
+     <l n="44" xml:id="C057-l44"> Que aquest mon no poden mal atendre </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 24 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-O2.18</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064.html">
+     <msIdentifier xml:id="F_Ms_2244_BGHUS">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>24r after end of previous poem, before this one:</locus>Altra </rubric>
+       <rubric>
+        <locus>25r between lines 40 and 41 tornada </locus>
+       </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_51.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_52.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_53.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C024-F024">
+    <pb n="24r"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_51.html"/>
+    <lg type="cobla" n="1" xml:id="C024-lg1">
+     <l n="1" xml:id="C024-l1"> No sech lo temps mon pensament jnmoble </l>
+     <l n="2" xml:id="C024-l2"> Car nos respost de vn esser en altre </l>
+     <l n="3" xml:id="C024-l3"> Ffortuna uol son torn uariat perdre </l>
+     <l n="4" xml:id="C024-l4"> Si quamistat ab fermetat acapta </l>
+     <l n="5" xml:id="C024-l5"> Quant ma sentit al <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> jus de son centre </l>
+     <l n="6" xml:id="C024-l6"> Aspres ha fets los corons de sa roda </l>
+     <l n="7" xml:id="C024-l7"> Per callissant en altre torn no munte </l>
+     <l n="8" xml:id="C024-l8"> Asseure lla on es lo gran desorde </l>
+    </lg>
+    <pb n="24v"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_52.html"/>
+    <lg type="cobla" n="2" xml:id="C024-lg2">
+     <l n="9" xml:id="C024-l9"> Com lenueios quj soberc dan uol rebre </l>
+     <l n="10" xml:id="C024-l10"> Per que maior dan son desamich senta </l>
+     <l n="11" xml:id="C024-l11"> E pren delit del mal que ueu soferre </l>
+     <l n="12" xml:id="C024-l12"> Tant que nosent lo mal quil es <choice>
+       <abbr>ṗisme</abbr>
+       <expan>proisme</expan>
+      </choice>
+     </l>
+     <l n="13" xml:id="C024-l13"> Tal semblant cas fortunab mj pratica </l>
+     <l n="14" xml:id="C024-l14"> Ffahent proces asson delit de nulle </l>
+     <l n="15" xml:id="C024-l15"> Muda lo nom<note type="editorial">nom corregit sobre mom</note>
+      que pren desser no ferma </l>
+     <l n="16" xml:id="C024-l16"> Per<note type="editorial">Per corregit sobre Pert</note> son plaer
+      ques no dar temps al vogi</l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C024-lg3">
+     <l n="17" xml:id="C024-l17"> Si com aquell cadorm ab artifici </l>
+     <l n="18" xml:id="C024-l18"> Son cors per que la dolor so sufferte </l>
+     <l n="19" xml:id="C024-l19"> Volgra dormjr los penssaments qujm porten </l>
+     <l n="20" xml:id="C024-l20"> Coses aque ma uoluntat senclina </l>
+     <l n="21" xml:id="C024-l21"> Causant en mj cobeianca terrible </l>
+     <l n="22" xml:id="C024-l22"> Passionat larma quj es ajunta </l>
+     <l n="23" xml:id="C024-l23"> En soffertar aquest turment tan aspre </l>
+     <l n="24" xml:id="C024-l24"> Ab lo meu cors quintal cas lacompanya </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C024-lg4">
+     <l n="25" xml:id="C024-l25"> Si col castor cacat per mort estorcre </l>
+     <l n="26" xml:id="C024-l26"> Tirant ab dents part de son cors aranqua </l>
+     <l n="27" xml:id="C024-l27"> Per gran jnstint que natura li dona </l>
+     <l n="28" xml:id="C024-l28"> Sent que la mort li porten aquells membres </l>
+     <l n="29" xml:id="C024-l29"> Per ma raho volgrauer conexenca </l>
+     <l n="30" xml:id="C024-l30"> Posant menyspreu als desigs qujm turmenten </l>
+     <l n="31" xml:id="C024-l31">M<del rend="overstrike">u</del><add place="interlinear">a</add>tant
+      lo cors enpeccadant me larma </l>
+     <l n="32" xml:id="C024-l32"> Si que jaquir los me coue per ujure </l>
+    </lg>
+    <pb n="25r"
+     facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_53.html"/>
+    <lg type="cobla" n="5" xml:id="C024-lg5">
+     <l n="33" xml:id="C024-l33"> En aquell punt quel cobeiar me sopta </l>
+     <l n="34" xml:id="C024-l34"> Volgrasser foll ab la pensa tan vana </l>
+     <l n="35" xml:id="C024-l35"> Que no pensas <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> auenturat home </l>
+     <l n="36" xml:id="C024-l36"> Fortunagues prosperat de bens mobles </l>
+     <l n="37" xml:id="C024-l37"> En gran calor lo fret tot hom desija </l>
+     <l n="38" xml:id="C024-l38"> Ne creure pot que james liuern torne </l>
+     <l n="39" xml:id="C024-l39"> Axi men pren com dolors me congoxen </l>
+     <l n="40" xml:id="C024-l40"> Creure no pusch quen part de content baste </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C023-lg6">
+     <l n="41" xml:id="C024-l41"> Lir entre carts si lo comun enginy </l>
+     <l n="42" xml:id="C024-l42"> Es tan grosser que nous bastacompendre </l>
+     <l n="43" xml:id="C024-l43"> Vullau ab deu que si fe los basta </l>
+     <l n="44" xml:id="C024-l44"> Sia remes lo peccat damor folla </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>
