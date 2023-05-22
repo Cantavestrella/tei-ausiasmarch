@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 27</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://bdh.bne.es/bnesearch/detalle/bdh0000117162">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Nacional de España </repository>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+
+  <graphic url="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/> <!-- The URL provider gives one URL for the whole witness. Expect no page specification. --> 
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C027-D027">
+    <pb n="25v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="1" xml:id="C027-lg1">
+     <l n="1" xml:id="C027-l1"> <c rend="large">S</c>obres dolor matolt / limaginar </l>
+     <l n="2" xml:id="C027-l2"> lenteniment nos dol / nes pot esbatre </l>
+     <l n="3" xml:id="C027-l3"> aytant es dolt / quelacalgut abatre, </l>
+     <l n="4" xml:id="C027-l4"> emon affany plorant nos pot mostrar </l>
+     <l n="5" xml:id="C027-l5"> Notrop remey / car madolor es tanta </l>
+     <l n="6" xml:id="C027-l6"> que monvoler / enparts no tinch partit </l>
+     <l n="7" xml:id="C027-l7"> nen sol vn loch / lom trobe avnit </l>
+     <l n="8" xml:id="C027-l8"> sinon morir / e viure ques decanta<note type="gloss" place="margin right">Fi</note>
+     </l>
+    </lg>
+    <pb n="26r" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+    <lg type="cobla" n="2" xml:id="C027-lg2">
+     <l n="9" xml:id="C027-l9"> <c rend="large">S</c>icom lom flach qui lesforçat triar </l>
+     <l n="10" xml:id="C027-l10"> ab qual dedos / homens forts sacombatre </l>
+     <l n="11" xml:id="C027-l11"> no sab pensar / ab qual degadebatre </l>
+     <l n="12" xml:id="C027-l12"> espaordit / sos comptes no sab far </l>
+     <l n="13" xml:id="C027-l13"> Nepren ami quilo viure mespanta </l>
+     <l n="14" xml:id="C027-l14"> elo morir me seragran despit </l>
+     <l n="15" xml:id="C027-l15"> comviurevull / lamort prench endelit </l>
+     <l n="16" xml:id="C027-l16"> com vull morir la vida tinch per sancta </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C027-lg3">
+     <l n="17" xml:id="C027-l17"> <c rend="large">S</c>icom aquell / qui es veridonant </l>
+     <l n="18" xml:id="C027-l18"> almestre seu / equant veusadolor </l>
+     <l n="19" xml:id="C027-l19"> ha pietat del mal de <choice>
+       <abbr>sonseñor</abbr>
+       <expan>sonsenyor</expan>
+      </choice>
+     </l>
+     <l n="20" xml:id="C027-l20"> esobraquell / vol esser ajudant </l>
+     <l n="21" xml:id="C027-l21"> Vos pensament perqui mon seny sabsenta </l>
+     <l n="22" xml:id="C027-l22"> perlos treballs dantli alterament </l>
+     <l n="23" xml:id="C027-l23"> ason affany / donau acorriment, </l>
+     <l n="24" xml:id="C027-l24"> puis que sos mals / per mija vostrels senta </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C027-lg4">
+     <l n="25" xml:id="C027-l25"> <c rend="large">Y</c>o contrafaç nau en golf perillant </l>
+     <l n="26" xml:id="C027-l26"> larbre perdent / esongouernador </l>
+     <l n="27" xml:id="C027-l27"> epercontrast dedos vents no discor </l>
+     <l n="28" xml:id="C027-l28"> los mariners enbadalits estan </l>
+     <l n="29" xml:id="C027-l29"> E cascu dells la sua carta tenta </l>
+     <l n="30" xml:id="C027-l30"> esondiscors en lur acordament </l>
+     <l n="31" xml:id="C027-l31"> Lu volgra serprop terra passos Cent </l>
+     <l n="32" xml:id="C027-l32"> laltre tan luny comvent pot dar enpenta </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C027-lg5">
+     <l n="33" xml:id="C027-l33"> <c rend="large">M</c>avoluntat / ab quen la mar fuy mes </l>
+     <pb n="26v" facs="http://bdh.bne.es/bnesearch/detalle/bdh0000117162"/>
+     <l n="34" xml:id="C027-l34"> fallida es / epogram fer ajuda </l>
+     <l n="35" xml:id="C027-l35"> ja ma raho / de son loch es cayguda </l>
+     <l n="36" xml:id="C027-l36"> mos pensaments contraris man<add place="interlinear">a</add>ttes
+     </l>
+     <l n="37" xml:id="C027-l37"> Ja mos desigs no saben elegir </l>
+     <l n="38" xml:id="C027-l38"> vida ne mort qual es la millor tria </l>
+     <l n="39" xml:id="C027-l39"> naturan mi vsade maestria </l>
+     <l n="40" xml:id="C027-l40"> e pren la mort per maior dan fugir </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C027-lg6">
+     <l n="41" xml:id="C027-l41"> <c rend="large">p</c>lena deseny / nos pot ben sofferir </l>
+     <l n="42" xml:id="C027-l42"> vidaydolor / sens pendre algun espay </l>
+     <l n="43" xml:id="C027-l43"> lo meu desig / seconuerteix englay </l>
+     <l n="44" xml:id="C027-l44"> quant me recort / que res vos hajedit<note type="gloss" place="margin right"> Fi</note></l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

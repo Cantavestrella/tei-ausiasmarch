@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 25</title>
+    <author>Ausiàs March </author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name>Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2019.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064.html">
+     <msIdentifier xml:id="c_Ed_11V57_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+
+       <rubric><locus>70v between lines 40 and 41</locus> Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_147.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_148.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_149.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C025-c073">
+    <pb n="69v"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_147.html"/>
+    <lg type="cobla" n="1" xml:id="C025-lg1">
+     <l n="1" xml:id="C025-l1">
+      <c rend="large">Y</c>o recort be / del temps tan delitos </l>
+     <l n="2" xml:id="C025-l2"> ques ja passat / ignor si tal venra </l>
+     <l n="3" xml:id="C025-l3"> sil conseguesch / merce nom fallira </l>
+     <l n="4" xml:id="C025-l4"> car pietat / fet haura pau ab vos. </l>
+     <pb n="70r"
+      facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_148.html"/>
+     <l n="5" xml:id="C025-l5"> preareu mi / qu'n temps antich preaueu </l>
+     <l n="6" xml:id="C025-l6"> e confessant / queus dolieu de mi </l>
+     <l n="7" xml:id="C025-l7"> ara queus am / pus que james ami </l>
+     <l n="8" xml:id="C025-l8"> tornauvos lla / hon de primer estaueu </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C025-lg2">
+     <l n="9" xml:id="C025-l9"> Pus que d'abans / me trobe desijos </l>
+     <l n="10" xml:id="C025-l10"> e lo desig / james en mi morra </l>
+     <l n="11" xml:id="C025-l11"> car per la part / mon cos lo sostendra </l>
+     <l n="12" xml:id="C025-l12"> lenteniment / no sera despitos. </l>
+     <l n="13" xml:id="C025-l13"> vos desijau / ami que desijaueu </l>
+     <l n="14" xml:id="C025-l14"> per tal voler / de que yom contenti </l>
+     <l n="15" xml:id="C025-l15"> ara queus am / pus que james ami </l>
+     <l n="16" xml:id="C025-l16"> tornau vos lla / hon de primer estaueu. </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C025-lg3">
+     <l n="17" xml:id="C025-l17"> E si raho / fou que ben volgut fos </l>
+     <l n="18" xml:id="C025-l18"> mills ho meresch / mon vull nom dasmentra<note type="editorial"> Per desmentrà</note></l>
+     <l n="19" xml:id="C025-l19"> car per gran dol / moltas veus ne plora </l>
+     <l n="20" xml:id="C025-l20"> e no plorant / mostrauam doloros. </l>
+     <l n="21" xml:id="C025-l21"> vos de gran goig / lo Te Deum cantaueu </l>
+     <l n="22" xml:id="C025-l22"> lagrimejant / malediccions canti </l>
+     <l n="23" xml:id="C025-l23"> araqueus am / pus que james ami </l>
+     <l n="24" xml:id="C025-l24"> torneu vos lla / hon de primer estaueu. </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C025-lg4">
+     <l n="25" xml:id="C025-l25"> Comtar no dech / les passades dolors </l>
+     <l n="26" xml:id="C025-l26"> car poca fe / per vos tost hi sera </l>
+     <l n="27" xml:id="C025-l27"> qu'es menys d'amor / altr'amor no sentra </l>
+     <l n="28" xml:id="C025-l28"> car no hasguart / l'hom rient, al ploros. </l>
+     <l n="29" xml:id="C025-l29"> si ben amant / lo terç de un jorn passaueu </l>
+     <l n="30" xml:id="C025-l30"> haurieu grat / del que per vos passi </l>
+     <l n="31" xml:id="C025-l31"> ara queus am / pus que james ami </l>
+    </lg>
+    <pb n="70v"
+     facs="http://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_149.html"/>
+    <lg type="cobla" n="5" xml:id="C025-lg5">
+     <l n="32" xml:id="C025-l32"> tornau vos lla / hon de primer estaueu </l>
+     <l n="33" xml:id="C025-l33"> Reclam a tots / los meus predecessors </l>
+     <l n="34" xml:id="C025-l34"> cells qui amor / lur cor enamora </l>
+     <l n="35" xml:id="C025-l35"> e los presents / e qui d'apres vendra </l>
+     <l n="36" xml:id="C025-l36"> que per mos dits / entenguen mes clamors. </l>
+     <l n="37" xml:id="C025-l37"> e si en vos / coneixença'justauen </l>
+     <l n="38" xml:id="C025-l38"> mal grat haureu / del que fes vn mati </l>
+     <l n="39" xml:id="C025-l39"> ara queus am / pus que james ami </l>
+     <l n="40" xml:id="C025-l40"> torneu vos lla / hon de primer estaueu. </l>
+    </lg>
+    <lg type="tornada" n="6" xml:id="C025-lg6">
+     <l n="41" xml:id="C025-l41"> Plena de seny / sil cor me cartejaueu </l>
+     <l n="42" xml:id="C025-l42"> trobareu clar / queus amare sens fi </l>
+     <l n="43" xml:id="C025-l43"> ara queus am / pus que james ami </l>
+     <l n="44" xml:id="C025-l44"> tornau vos lla / hon de primer estaueu. </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

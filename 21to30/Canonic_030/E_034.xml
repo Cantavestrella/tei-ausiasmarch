@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 30 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://bdh-rd.bne.es/viewer.vm?id=0000149777">
+     <msIdentifier xml:id="E_Ms_3695_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+
+       <rubric><locus>49v after end of previous poem, before this one: </locus>
+        <choice>
+         <abbr>Moß</abbr>
+         <expan>Mossen</expan>
+        </choice> ausias march</rubric>
+       <rubric><locus>50v start to page</locus>Tornada </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C030-E034">
+    <pb n="49v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="1" xml:id="C030-lg1">
+     <l n="1" xml:id="C030-l1"> Er som<note type="editorial">Correspon a la poesia Vengut es temps
+       que sera conegut</note>en temps / que seran coneguts </l>
+     <l n="2" xml:id="C030-l2"> çells qui son cor / <choice>
+       <abbr>haurȃ</abbr>
+       <expan>hauran</expan>
+      </choice> fort o coart </l>
+     <l n="3" xml:id="C030-l3"> e ja degu / no cuyt saber tal art </l>
+     <l n="4" xml:id="C030-l4"> que si es flach / <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> tal no sia haguts </l>
+     <l n="5" xml:id="C030-l5"> Car desastruch / al perill dela mort </l>
+     <l n="6" xml:id="C030-l6"> lladonchs nol val / enginy ne maestria </l>
+     <l n="7" xml:id="C030-l7"> per encobrir / sa grande <note type="editorial">Mot
+      manipulat</note>coardia </l>
+     <l n="8" xml:id="C030-l8"> ans ellegeix / fugir perser estort </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C030-lg2">
+     <l n="9" xml:id="C030-l9"> Ans del perill / se deu metrel conort </l>
+     <l n="10" xml:id="C030-l10"> emprenent risch / hom ha dels bons paria </l>
+     <l n="11" xml:id="C030-l11"> aconseguint / honor e senyoria </l>
+     <l n="12" xml:id="C030-l12"> fahent venir / los cesars en recort </l>
+     <l n="13" xml:id="C030-l13"> Les armes fan / los prohomens valer </l>
+     <l n="14" xml:id="C030-l14"> els puja tost / en semblant de momen </l>
+     <l n="15" xml:id="C030-l15"> aquest es lloch / don lo coart desçen </l>
+     <l n="16" xml:id="C030-l16"> pus prop desi / es les dones veher </l>
+    </lg>
+    <pb n="50r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="3" xml:id="C030-lg3">
+     <l n="17" xml:id="C030-l17"> Renom dardit / volra lo parençer </l>
+     <l n="18" xml:id="C030-l18"> mas no sera / comportat son engan </l>
+     <l n="19" xml:id="C030-l19"> car los qui mes / de tals afers sabran </l>
+     <l n="20" xml:id="C030-l20"> arbitraran / qual <choice>
+       <abbr>ƌls</abbr>
+       <expan>dels</expan>
+      </choice> noms deu haver <note type="editorial">Vers reescrit</note>
+     </l>
+     <l n="21" xml:id="C030-l21"> E baxament / entre si volran dir </l>
+     <l n="22" xml:id="C030-l22"> hom virtuos / no deu ser nomenat </l>
+     <l n="23" xml:id="C030-l23"> mas prenedor / del que no ha guanyat </l>
+     <l n="24" xml:id="C030-l24"> entre aquells / qui nol vehen fallir </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C030-lg4">
+     <l n="25" xml:id="C030-l25"> Lome tastart / qui no tembra morir </l>
+     <l n="26" xml:id="C030-l26"> no fahent fruyt / son perill assajat </l>
+     <l n="27" xml:id="C030-l27"> grau de virtut / volra ensi posat </l>
+     <l n="28" xml:id="C030-l28"> mas en aquest / se deu mils sofferir </l>
+     <l n="29" xml:id="C030-l29"> Puis ab perill / molt gran de sa persona </l>
+     <l n="30" xml:id="C030-l30"> cuyda guanyar / ço que nol da son dret </l>
+     <l n="31" xml:id="C030-l31"> car la virtut / en lo mig lloch se met </l>
+     <l n="32" xml:id="C030-l32"> e los strems / per viçis abandona </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C030-lg5">
+     <l n="33" xml:id="C030-l33"> Guanya virtut / qui son cos a mort dona </l>
+     <l n="34" xml:id="C030-l34"> per vn gran be / o de molts benifet </l>
+     <l n="35" xml:id="C030-l35"> o per son Rey / sicompte lin es fet </l>
+     <l n="36" xml:id="C030-l36"> E si nou fa / lo<add place="interlinear">restant
+       loy</add>guardona <add place="margin right">/ E si nou fa / lo restant loy
+       guardona</add></l>
+     <l n="37" xml:id="C030-l37"> Lom de cor flach / metal perill apart </l>
+     <l n="38" xml:id="C030-l38"> car son honor / lluny de perill esta </l>
+     <l n="39" xml:id="C030-l39"> e lo tastart / per temps venir pora </l>
+     <l n="40" xml:id="C030-l40"> en ser temprat / e vsar de renart </l>
+    </lg>
+    <pb n="50v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="6" xml:id="C030-lg6">
+     <l n="41" xml:id="C030-l41"> Quant dels passats / llig alguns fets e guart </l>
+     <l n="42" xml:id="C030-l42"> los per venir / gratia Deu nos fa </l>
+     <l n="43" xml:id="C030-l43"> com son en temps / quel mon dispost esta </l>
+     <l n="44" xml:id="C030-l44"> per grans afers / e de cascuna part </l>
+     <l n="45" xml:id="C030-l45"> Special / per nostre Bon senyor </l>
+     <l n="46" xml:id="C030-l46"> qui festejant / la gent ab por lo mira </l>
+     <l n="47" xml:id="C030-l47"> tot gran Senyor / dintre son cor sospira </l>
+     <l n="48" xml:id="C030-l48"> crehent quell vol / ser dels senyors maior </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C030-lg7">
+     <l n="49" xml:id="C030-l49"> Fortuna es / sobtos cambiador </l>
+     <l n="50" xml:id="C030-l50"> degu no sab / hon son voler lo tira </l>
+     <l n="51" xml:id="C030-l51"> e lo semblant / de son amor es yra </l>
+     <l n="52" xml:id="C030-l52"> sa yra es / moltes veus gran amor </l>
+     <l n="53" xml:id="C030-l53"> Degu no pot / mirar della penell </l>
+     <l n="54" xml:id="C030-l54"> sino quel flach / de sa cort foragita </l>
+     <l n="55" xml:id="C030-l55"> yal coratjos / desos bens lo delita </l>
+     <l n="56" xml:id="C030-l56"> hauent esforç / si la sent contra dell </l>
+    </lg>
+    <lg type="tornada" n="8" xml:id="C030-lg8">
+     <l n="57" xml:id="C030-l57"> Contra la mort / es aquest aparell </l>
+     <l n="58" xml:id="C030-l58"> menys preu del cos / e no tembre fortuna </l>
+     <l n="59" xml:id="C030-l59"> tenir sa lley / e si es moro çuna </l>
+     <l n="60" xml:id="C030-l60"> e deu lladonchs <add place="interlinear">lo</add> / fara segur
+      dell </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

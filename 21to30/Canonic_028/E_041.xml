@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 28 </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo HIlario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc corresp="http://bdh-rd.bne.es/viewer.vm?id=0000149777">
+               <msIdentifier xml:id="E_Ms_3695_BnM">
+                  <repository>Biblioteca Nacional de España</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>66v previous poem, this one: </locus>
+                        <choice>
+                           <abbr>Moß</abbr>
+                           <expan>Mossen</expan>
+                        </choice> ausias march</rubric>
+                     <rubric><locus>66v between lines 16 and 17 </locus>Tornada </rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+      <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C028-E041">
+            <pb n="66v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+            <lg type="cobla" n="1" xml:id="C028-lg1">
+               <l n="1" xml:id="C028-l1"> Lo Jorn ha por / de perdre sa claror </l>
+               <l n="2" xml:id="C028-l2"> com ve la nit / quespandeix les tenebres </l>
+               <l n="3" xml:id="C028-l3"> dormin<add place="end">t</add> los senys / e del cos les
+                  palpebres </l>
+               <l n="4" xml:id="C028-l4"> e los malalts / creixen<add place="end">t</add> de llur
+                  dolor </l>
+               <l n="5" xml:id="C028-l5"> Los mals faytors / volgren tot lany duras </l>
+               <l n="6" xml:id="C028-l6"> per que llur mals / haguessen cobriment </l>
+               <l n="7" xml:id="C028-l7"> mas yo qui visch / menys de par en turment </l>
+               <l n="8" xml:id="C028-l8"> sens mal afer / volgra que tost passas </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C028-lg2">
+               <l n="9" xml:id="C028-l9"> E daltra part / fas pus que si matas </l>
+               <l n="10" xml:id="C028-l10"> mil homens justs / menys dalguna merçe </l>
+               <l n="11" xml:id="C028-l11"> car tots mos ginys / he trets per trahirme </l>
+               <l n="12" xml:id="C028-l12"> e no cuydets / quel jorn men scusas </l>
+               <l n="13" xml:id="C028-l13"> Ans en la nit / treball rompent ma pensa </l>
+               <l n="14" xml:id="C028-l14"> per quen lo jorn / lo trahiment cometa </l>
+               <l n="15" xml:id="C028-l15"> por de morir / ne de fer vidastreta </l>
+               <l n="16" xml:id="C028-l16"> nom tol sforç / del quel voler<note
+                  type="editorial">molts manipulats</note> dispensa.
+               </l>
+            </lg>
+            <lg type="tornada" n="3" xml:id="C028-lg3">
+               <l n="17" xml:id="C028-l17"> Plena de seny / mon enteniment pensa </l>
+               <l n="18" xml:id="C028-l18"> com abtament / lo llaç damor semeta </l>
+               <l n="19" xml:id="C028-l19"> sens aturar / pas tenint via dreta </l>
+               <l n="20" xml:id="C028-l20"> vaig ala fi / si merçe nom deffensa </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

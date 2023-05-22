@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 67</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="VGR">
+     <name>Victoria García Ripoll</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/">
+     <msIdentifier xml:id="C_Ms_L.iij.26_EE">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>17r, centre, between lines 48 and 49</locus>-:Tornada:-</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_33.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_34.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_35.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C067-C008m">
+
+    <pb n="16r"
+     facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_33.html"/>
+
+    <lg type="cobla" n="1" xml:id="C067-lg1">
+
+     <l n="1" xml:id="C067-l1">
+      <hi rend="underline">Ia de amor / tebeu iames yo sia</hi><note type="gloss"
+       place="margin right">jamas de amor tibio yo sea</note>
+     </l>
+
+     <l n="2" xml:id="C067-l2"> fret, ho tan calt / cremat tot <hi rend="underline">fins
+       encendra</hi><note type="gloss" place="margin right">asta en ceniça</note>
+     </l>
+
+     <l n="3" xml:id="C067-l3"> alqui amor / los seus extrems engendra, </l>
+
+     <l n="4" xml:id="C067-l4"> no sent dolor / ne uiu en malaltia </l>
+
+     <l n="5" xml:id="C067-l5"> qui ama poch / amor poch'l contenta: </l>
+
+     <l n="6" xml:id="C067-l6"> no es çelos / compleix lo que desija </l>
+
+     <l n="7" xml:id="C067-l7"> ha bastament / fins entant ques fastija; </l>
+
+     <l n="8" xml:id="C067-l8">
+      <hi rend="underline">tocar se pot</hi><note type="gloss" place="margin left">quasidicat que no
+       anda en cosas altas ni cosa que no se pueda tocar</note> / <hi rend="underline">ço d'hon
+       ell</hi><note type="gloss" place="margin right">esto con</note> se contenta. </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C067-lg2">
+
+     <l n="9" xml:id="C067-l9"> Fin amador / dolor punt nol tormenta; </l>
+
+     <l n="10" xml:id="C067-l10"> car la maior / de mort no l'es <hi rend="underline"
+       >extrema</hi>;<note type="gloss" place="margin right">no lo es muy grande</note>
+     </l>
+
+     <l n="11" xml:id="C067-l11"> tant ardentment lo foch d'amor lo crema, </l>
+
+     <l n="12" xml:id="C067-l12"> que tot l'es fret / quant pot tocar, nesenta. </l>
+
+     <l n="13" xml:id="C067-l13">
+      <hi rend="underline">ix</hi><note type="gloss" place="margin left">sale</note> fora si / res
+      de si nol delita, </l>
+
+     <l n="14" xml:id="C067-l14"> si doncs delit / en altri noli porta. </l>
+
+     <l n="15" xml:id="C067-l15"> sa uoluntat / enuers si esta morta, </l>
+
+     <l n="16" xml:id="C067-l16"> en la gran cort / fa la uida hermita. </l>
+
+    </lg>
+
+    <pb n="16v"
+     facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_34.html"/>
+
+    <lg type="cobla" n="3" xml:id="C067-lg3">
+
+     <l n="17" xml:id="C067-l17"> Lo pensament / dels amadors <hi rend="underline">cogita,</hi><note
+       type="gloss" place="margin right">imagina</note>
+     </l>
+
+     <l n="18" xml:id="C067-l18"> sique un cos / fa dels dos qui molt s'amen: </l>
+
+     <l n="19" xml:id="C067-l19"> los esperits / dins en aquells se clamen, </l>
+
+     <l n="20" xml:id="C067-l20"> com hu'n lo cos / del altre no habita. </l>
+
+     <l n="21" xml:id="C067-l21"> tota res ua / en lo loch, <hi rend="underline">hon
+       cobeja</hi>;<note type="gloss" place="margin right">donde cobdicia que es al cuerpo de su
+       amante</note>
+     </l>
+
+     <l n="22" xml:id="C067-l22"> fugint mals trists / uolent be hon repósa </l>
+
+     <l n="23" xml:id="C067-l23"> m'arma, qui es enmi pus noble cosa, </l>
+
+     <l n="24" xml:id="C067-l24"> lo uostre cos, <hi rend="underline">qui es son
+       centr'enueja</hi>.<note type="gloss" place="margin right">que es su centro desea y dicelo
+       porque segun los philosophos cada cosa descansa cumplidamente en su centro</note>
+     </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C067-lg4">
+
+     <l n="25" xml:id="C067-l25">
+      <hi rend="underline">Tal grau d'amor / qui nol sent nol cobeja;</hi><note type="gloss"
+       place="margin left">este grado de amor quien no le <del rend="overstrike">de</del>siente no
+       le ven si a algunos le saben mejor que sienten por que por lo poco an gustado facer lo mucho
+       esta especie no es diferente todo es amor</note>
+     </l>
+
+     <l n="26" xml:id="C067-l26">
+      <hi rend="underline">e per alguns se sab / mils, que no senten<del rend="overstrike"
+       >s</del></hi>. </l>
+
+     <l n="27" xml:id="C067-l27">
+      <hi rend="underline">car per lo menys / saben lo molt, e tenten</hi>; </l>
+
+     <l n="28" xml:id="C067-l28">
+      <hi rend="underline">puix different / laspecia nos ueja</hi>. </l>
+
+     <l n="29" xml:id="C067-l29"> nos pot saber / ab tantes circunstancies, </l>
+
+     <l n="30" xml:id="C067-l30"> com lo sabent / per dues coneixençes; </l>
+
+     <l n="31" xml:id="C067-l31"> per passions / e per ueres sentençes. </l>
+
+     <l n="32" xml:id="C067-l32">
+      <hi rend="underline">lo no expert / iuti'es ple d'ignorançies.</hi><note type="gloss"
+       place="margin left">el juez no experto es lleno de ignorancias</note>
+     </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C067-lg5">
+
+     <l n="33" xml:id="C067-l33"> Pedra de toch / <hi rend="underline">tinch</hi><note type="gloss"
+       place="margin left">tengo</note> e d'amor balançes, </l>
+
+     <l n="34" xml:id="C067-l34"> per saber ell / quant'es , e sa natura; </l>
+
+     <l n="35" xml:id="C067-l35"> mas uostr'amor / he per cosa scura, </l>
+
+     <l n="36" xml:id="C067-l36"> mon cor <hi rend="underline">ubert</hi><note type="gloss"
+       place="margin left">abierto</note> / uos sta per ses <hi rend="underline">lançes</hi>.<note
+       type="gloss" place="margin right">lanças y dice que su coraçon esta sin defensa abierto a sus
+       lançadas </note>
+     </l>
+
+     <pb n="17r"
+      facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenu-caualler-uigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades-ab-gran-cura-y-diligentia-posades-totes-les-declarasions-dels-uocables-scurs-molt-largament-en-la-taula-manuscrito--0/html/02113650-82b2-11df-acc7-002185ce6064_35.html"/>
+
+     <l n="37" xml:id="C067-l37"> quim uol fer dir / lo uostre cos turmente, </l>
+
+     <l n="38" xml:id="C067-l38"> lexe lo meu / car l'esperit nol ama: </l>
+
+     <l n="39" xml:id="C067-l39"> la mia carn / cremantse per gran flama, </l>
+
+     <l n="40" xml:id="C067-l40"> yo sent' el / <hi rend="underline">de uostr'ull qu'es <choice>
+        <abbr>lamēte.</abbr>
+        <expan>lamente.</expan>
+       </choice></hi><note type="gloss" place="margin right">de vuestro ojo que se lamente o
+       llore</note>
+     </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C067-lg6">
+
+     <l n="41" xml:id="C067-l41"> No rept'algu / sil tebeu <hi rend="underline">no'smente,</hi><note
+       type="gloss" place="margin right">no ago caso</note>
+     </l>
+
+     <l n="42" xml:id="C067-l42"> sa uoluntat / <hi rend="underline">nospot</hi><note type="gloss"
+       place="margin right">no se puede</note> dir que be ame, </l>
+
+     <l n="43" xml:id="C067-l43"> n'es ueritat / que del tot ell desame; </l>
+
+     <l n="44" xml:id="C067-l44">
+      <hi rend="underline">no li escau</hi><note type="gloss" place="margin left">no le
+       quadra</note> / que riga, ne guaymente. </l>
+
+     <l n="45" xml:id="C067-l45">
+      <hi rend="underline">de filats</hi><note type="gloss" place="margin left">de redes</note> uist
+      / no cregau que <hi rend="underline">nu</hi><note type="gloss" place="margin right"
+       >desnudo</note>'uaja; </l>
+
+     <l n="46" xml:id="C067-l46"> creu ser uestit, / no cerca pus que uista: </l>
+
+     <l n="47" xml:id="C067-l47"> e lo tot nu / uol drap de bona lista, </l>
+
+     <l n="48" xml:id="C067-l48"> e son poder / tot quant pot fer <hi rend="underline"
+       >assaja</hi>.<note type="gloss" place="margin right">se ingenia</note>
+     </l>
+
+    </lg>
+
+    <lg type="tornada" n="7" xml:id="C067-lg7">
+
+     <l n="49" xml:id="C067-l49"> Amor amor / uos pensau que yo uaja, </l>
+
+     <l n="50" xml:id="C067-l50">
+      <hi rend="underline">buides</hi><note type="gloss" place="margin left">vacias</note> le mans /
+      permeçe de uos pendre; </l>
+
+     <l n="51" xml:id="C067-l51"> tot quant puch dar / amplament uos uull <choice>
+       <abbr>vēdre:</abbr>
+       <expan>vendre:</expan>
+      </choice>
+     </l>
+
+     <l n="52" xml:id="C067-l52">
+      <hi rend="underline">
+       <choice>
+        <abbr>semblā</abbr>
+        <expan>semblam</expan>
+       </choice><del rend="overstrike">nt</del> gran dret / que laque yo am haja</hi>.<note
+       type="gloss" place="margin left">pareceme gran derecho que yo aya la que amo</note>
+     </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

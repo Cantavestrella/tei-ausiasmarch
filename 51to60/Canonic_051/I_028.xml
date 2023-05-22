@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 51</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+       to this document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result
+       work from a previous LaTEX format file out of the variorum diplomatic edition
+       of the complete poemes of Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+     <msIdentifier xml:id="I_Ms_10_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>55v, centre, before first line</locus>·29· Mossen Auzias march</rubric>
+       <rubric>
+        <locus>56r, centre, between lines 40 and 41</locus>Tornade<note type="editorial">Per Tornada.</note></rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_111.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_112.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C051-I028">
+
+    <pb n="55v" facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_111.html"/>
+
+    <lg type="cobla" n="1" xml:id="C051-lg1">
+
+     <l n="1" xml:id="C051-l1"> Al so com çell / qui pense que morra </l>
+
+     <l n="2" xml:id="C051-l2"> E jal han lest / moltes <choice>
+       <abbr>veꝯ</abbr>
+       <expan>veus</expan>
+      </choice> la sentença </l>
+
+     <l n="3" xml:id="C051-l3"> Mas per merce / les donadaudiença </l>
+
+     <l n="4" xml:id="C051-l4"> Creu e no creu / que merça li valra </l>
+
+     <l n="5" xml:id="C051-l5"> Lo mal el be / van al mesqui deuant </l>
+
+     <l n="6" xml:id="C051-l6"> E no tem preu / ne ferm pot esperar </l>
+
+     <l n="7" xml:id="C051-l7"> Axi no pusch / sens por vos desigar </l>
+
+     <l n="8" xml:id="C051-l8"> Nesser non puch / del tot desesperant </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C051-lg2">
+
+     <l n="9" xml:id="C051-l9"> Aytant com pusch / jre vidallergant </l>
+
+     <l n="10" xml:id="C051-l10"> Per que lestrem / detots los mals es mort </l>
+
+     <l n="11" xml:id="C051-l11"> Nom trob esforç / per hauer ne conort </l>
+
+     <l n="12" xml:id="C051-l12"> Mes am dolor / mort e vida dubtant </l>
+
+     <l n="13" xml:id="C051-l13"> Etant com pus / de ma dolor creheu </l>
+
+     <l n="14" xml:id="C051-l14"> E lo remey / en vos lo deteniu </l>
+
+     <l n="15" xml:id="C051-l15"> Lo meu esforç / jau mort molt mes que viu </l>
+
+     <l n="16" xml:id="C051-l16"> Ans de sa mort / <choice>
+       <abbr>pregueꝯ</abbr>
+       <expan>pregueus</expan>
+      </choice> li perdoneu </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C051-lg3">
+
+     <l n="17" xml:id="C051-l17"> Ladonchs morre / quant parlar nom volreu </l>
+
+     <l n="18" xml:id="C051-l18"> Etinch per foll / qui de mort nos deffen </l>
+
+     <l n="19" xml:id="C051-l19"> Aquella es / derrer dan e turmen </l>
+
+     <l n="20" xml:id="C051-l20"> No meresch jo / que los <choice>
+       <abbr>meꝯ</abbr>
+       <expan>meus</expan>
+      </choice> jorns finen </l>
+
+     <l n="21" xml:id="C051-l21"> No guardeu mj / sino ma ben uolença </l>
+
+     <l n="22" xml:id="C051-l22"> Mi offenent / offendreu lo voler </l>
+
+     <l n="23" xml:id="C051-l23"> Qui vos amant / de mj es homeyer </l>
+
+     <l n="24" xml:id="C051-l24"> E conexent / vos fall regonexenca </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C051-lg4">
+
+     <pb n="56r" facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_112.html"/>
+
+     <l n="25" xml:id="C051-l25"> O es Jason / e sa desconexença </l>
+
+     <l n="26" xml:id="C051-l26"> Hon es theseu / qui trahi adriana </l>
+
+     <l n="27" xml:id="C051-l27"> E dido fon / desparança tant vana </l>
+
+     <l n="28" xml:id="C051-l28"> Que la trahi / Eneas en crehença </l>
+
+     <l n="29" xml:id="C051-l29"> Los fets passats / de present me consolen </l>
+
+     <l n="30" xml:id="C051-l30"> Irat me trob / vers femeni linatge </l>
+
+     <l n="31" xml:id="C051-l31"> Los fins amans / no han en ell statge </l>
+
+     <l n="32" xml:id="C051-l32"> Sembren los bons / cullen los mals e molen </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C051-lg5">
+
+     <l n="33" xml:id="C051-l33"> Sauis son cells / qui les festes no colen </l>
+
+     <l n="34" xml:id="C051-l34"> Daquellamor / qui en les dones cau </l>
+
+     <l n="35" xml:id="C051-l35"> Ab desleyals / souint ellas han pau </l>
+
+     <l n="36" xml:id="C051-l36"> Lexant aquells / qui per ben amar moren </l>
+
+     <l n="37" xml:id="C051-l37"> En recort es / aquell pau de bellujure </l>
+
+     <l n="38" xml:id="C051-l38"> Quj per amar / sa dona torna foll </l>
+
+     <l n="39" xml:id="C051-l39"> Tal camj tench / soptat rompent lo coll </l>
+
+     <l n="40" xml:id="C051-l40"> De tot mon dan / dubtem <choice>
+       <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> vege riure </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C051-lg6">
+
+     <l n="41" xml:id="C051-l41"> Plena de seny / nom abreujeu lo viure </l>
+
+     <l n="42" xml:id="C051-l42"> Car mentre visch / vostra lahor sallargua </l>
+
+     <l n="43" xml:id="C051-l43"> E vos lohant / nom trob la bocamargua </l>
+
+     <l n="44" xml:id="C051-l44"> Ne tard la ma / com de vos vull escriure </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

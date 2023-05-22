@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 23 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://bdh-rd.bne.es/viewer.vm?id=0000149777">
+     <msIdentifier xml:id="E_Ms_3695_BnM">
+      <repository>Biblioteca Nacional de España</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+  
+      <rubric><locus>71r after end of previous poem, before this one: </locus> <choice><abbr>Moß</abbr><expan>Mossen</expan></choice> ausias march</rubric>
+      <rubric><locus>72r start to page</locus>Tornada </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/><!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="div_C023-E045">
+    <pb n="71r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="1" xml:id="C023-lg1">
+     <l n="1" xml:id="C023-l1"> Leixant apart / lestil dels trobados </l>
+     <l n="2" xml:id="C023-l2"> qui per escalf / trespassen veritat </l>
+     <l n="3" xml:id="C023-l3"> e sostraent mon voler affectat </l>
+     <l n="4" xml:id="C023-l4"> per que nom torb / direl que trob en vos </l>
+     <l n="5" xml:id="C023-l5"> Tot mon parlar / als qui nous hauran vista </l>
+     <l n="6" xml:id="C023-l6"> res no valrra / car fe noy donaran </l>
+     <l n="7" xml:id="C023-l7"> e los vehents / qui dins vos no veuran </l>
+     <l n="8" xml:id="C023-l8"> en creure mi / llur arma sera trista </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C023-lg2">
+     <l n="9" xml:id="C023-l9"> Lull de lom pech / no ha tan fosca vista </l>
+     <l n="10" xml:id="C023-l10"> que vostre cos / no jutge per genril </l>
+     <l n="11" xml:id="C023-l11"> nol coneix tal / col pratich e subtil </l>
+     <l n="12" xml:id="C023-l12"> hoc la color / mas no sab de la llista </l>
+     <l n="13" xml:id="C023-l13"> ço ques del cos / menys de partiçipar </l>
+     <l n="14" xml:id="C023-l14"> ab lesperit / coneix be lo grosser </l>
+     <l n="15" xml:id="C023-l15"> vostra color / yel tall pot be saber </l>
+     <l n="16" xml:id="C023-l16"> mas ja del gest / no pora be parlar </l>
+    </lg>
+    <pb n="71v" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="cobla" n="3" xml:id="C023-lg3">
+     <l n="17" xml:id="C023-l17"> Tots som grosser / en poder explicar </l>
+     <l n="18" xml:id="C023-l18"> ço que mereix / vn cos bell e honest </l>
+     <l n="19" xml:id="C023-l19"> jouens gentils / bons sabents lan request </l>
+     <l n="20" xml:id="C023-l20"> e famejants / los couench endurar </l>
+     <l n="21" xml:id="C023-l21"> Lo vostre seny / fa ço qualtre no basta </l>
+     <l n="22" xml:id="C023-l22"> que sab regir / la molta sobtilesa </l>
+     <l n="23" xml:id="C023-l23"> en fer tot be / no dorm en vos peresa </l>
+     <l n="24" xml:id="C023-l24"> verge no sots / per que Deus ne volch casta </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C023-lg4">
+     <l n="25" xml:id="C023-l25"> Sol pera vos / basta la bona pasta </l>
+     <l n="26" xml:id="C023-l26"> que Deu retench / per fer singulars dones </l>
+     <l n="27" xml:id="C023-l27"> fetes na sats / molt sauies e bones </l>
+     <l n="28" xml:id="C023-l28"> mas compliment / dona Teresal tasta </l>
+     <l n="29" xml:id="C023-l29"> Hauent ensi / tan gran coneximent </l>
+     <l n="30" xml:id="C023-l30"> que res nol fall / que tota nos conega </l>
+     <l n="31" xml:id="C023-l31"> alom deuot / sa bellesa ençega </l>
+     <l n="32" xml:id="C023-l32"> past dentenents / es son enteniment </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C023-lg5">
+     <l n="33" xml:id="C023-l33"> Veneçians / no han lo regiment </l>
+     <l n="34" xml:id="C023-l34"> tan paçifich / com vostre seny regeix </l>
+     <l n="35" xml:id="C023-l35"> subtilitats / que lentendreus nodeix </l>
+     <l n="36" xml:id="C023-l36"> e del cos bell / sens colpal'mouiment </l>
+     <l n="37" xml:id="C023-l37"> Tant gran delit / tot hom entenent ha </l>
+     <l n="38" xml:id="C023-l38"> e ocupat / se troban vos entendre </l>
+     <l n="39" xml:id="C023-l39"> que lo desig / del cos nos pot estendre </l>
+     <l n="40" xml:id="C023-l40"> a lleig voler / ans com a mort esta </l>
+    </lg>
+    <pb n="72r" facs="http://bdh-rd.bne.es/viewer.vm?id=0000149777"/>
+    <lg type="tornada" n="6" xml:id="C023-lg6">
+     <l n="41" xml:id="C023-l41"> Lir entre carts / lo meu poder nofa </l>
+     <l n="42" xml:id="C023-l42"> tant que posques / fer coronan visible </l>
+     <l n="43" xml:id="C023-l43"> merits la vos / car la que es visible </l>
+     <l n="44" xml:id="C023-l44"> nos deu posar / llayhon miraclesta </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

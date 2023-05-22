@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 68</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="VGR">
+               <name>Victoria García Ripoll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2023.</p>
+               </licence>
+            </availability>
+            <date>2023-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/">
+               <msIdentifier xml:id="K_Ms_2025_BC">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>66r, centre, between lines 16 and 17</locus>Tornada.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_138.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C068-K068">
+
+            <pb n="66r"
+               facs="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_138.html"/>
+
+            <lg type="cobla" n="1" xml:id="C068-lg1">
+
+               <l n="1" xml:id="C068-l1"> n Om pren axi com al petit vaylant </l>
+
+               <l n="2" xml:id="C068-l2"> Qui va sercant senyor que festal faça </l>
+
+               <l n="3" xml:id="C068-l3"> Tenint lo calt en lo temps dela glaça </l>
+
+               <l n="4" xml:id="C068-l4"> E fresch destiu com la calor se met </l>
+
+               <l n="5" xml:id="C068-l5"> Preant molt poc la valor del <choice>
+                     <abbr>señor</abbr>
+                     <expan>senyor</expan>
+                  </choice>
+               </l>
+
+               <l n="6" xml:id="C068-l6"> E conçebent desalt de sa <del rend="overstrike"
+                     >natura</del> manera </l>
+
+               <l n="7" xml:id="C068-l7"> Vehent molt clar <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> te mala carrera </l>
+
+               <l n="8" xml:id="C068-l8"> De cambiar son stat en maior </l>
+
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C068-lg3">
+
+               <l n="9" xml:id="C068-l17"> Yo son <choice>
+                     <abbr>aꝗll</abbr>
+                     <expan>aquell</expan>
+                  </choice> quin lo temps de tempesta </l>
+
+               <l n="10" xml:id="C068-l18"> Quant les mes gents festeien <choice>
+                     <abbr>ṗp</abbr>
+                     <expan>prop</expan>
+                  </choice>los fochs </l>
+
+               <l n="11" xml:id="C068-l19"> E puch hauer ab ells los propis jochs </l>
+
+               <l n="12" xml:id="C068-l20"> Vatx sobre neu descalç ab nua testa </l>
+
+               <l n="13" xml:id="C068-l21"> Seruint <choice>
+                     <abbr>señor</abbr>
+                     <expan>senyor</expan>
+                  </choice> qui james fon vassall </l>
+
+               <l n="14" xml:id="C068-l22"> Nel vench sment de prestar homenatie </l>
+
+               <l n="15" xml:id="C068-l23"> Entot fet letx ague cor saluatie </l>
+
+               <l n="16" xml:id="C068-l24"> Solament diu <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> bon guardo nom fall </l>
+
+            </lg>
+
+            <lg type="tornada" n="3" xml:id="C068-lg4">
+
+               <l n="17" xml:id="C068-l25"> Plena de seny letxs desitxs <choice>
+                     <abbr>đ</abbr>
+                     <expan>de</expan>
+                  </choice> mj tall </l>
+
+               <l n="18" xml:id="C068-l26"> Erbes nos fan males en <choice>
+                     <abbr>mō</abbr>
+                     <expan>mon</expan>
+                  </choice> ribatie </l>
+
+               <l n="19" xml:id="C068-l27"> Sia antes com dins en mon coratje </l>
+
+               <l n="20" xml:id="C068-l28"> Los pensaments nom <choice>
+                     <abbr>dauallā</abbr>
+                     <expan>dauallan</expan>
+                  </choice> auall </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

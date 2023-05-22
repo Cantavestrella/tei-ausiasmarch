@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 67</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="VGR">
+     <name>Victoria García Ripoll</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+     <msIdentifier xml:id="H_Ms_110_BUZ">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>50r, centre, before first line</locus><choice>
+         <abbr>Mossʒ</abbr>
+         <expan>Mossen</expan>
+        </choice> auzias march</rubric>
+       <rubric><locus>51r, centre, between lines 48 and 49</locus>//Tornada//</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_82.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_83.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_84.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C067-H046">
+
+    <pb n="50r" facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_82.html"/>
+
+    <lg type="cobla" n="1" xml:id="C067-lg1">
+
+     <l n="1" xml:id="C067-l1"> <c rend="large">I</c>a deamor tabeu james no sia </l>
+
+     <l n="2" xml:id="C067-l2"> Ffret ho tan calt cremat tot fins en sendra </l>
+
+     <l n="3" xml:id="C067-l3"> Al quj amor los seus estrems engendra </l>
+
+     <l n="4" xml:id="C067-l4"> No sent dolor ne viu en malaltia </l>
+
+     <l n="5" xml:id="C067-l5"> Quj ama poch amor pocal contenta </l>
+
+     <l n="6" xml:id="C067-l6"> No es çelos compleix lo <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> desitge </l>
+
+     <l n="7" xml:id="C067-l7"> Abastament fins en tant ques fastiga </l>
+
+     <l n="8" xml:id="C067-l8"> Tocar se pot ço don ell sa contenta </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C067-lg2">
+
+     <l n="9" xml:id="C067-l9"> Ffin amador dolor punt nol turmenta </l>
+
+     <l n="10" xml:id="C067-l10"> Car la maior de mort no les estrema </l>
+
+     <l n="11" xml:id="C067-l11"> Tant ardiment lo foch damor lo crema </l>
+
+     <l n="12" xml:id="C067-l12"> Que tot les fret quant pot tocar ne senta </l>
+
+     <pb n="50v" facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_83.html"/>
+
+     <l n="13" xml:id="C067-l13"> Hix fora si res de si nol deljta </l>
+
+     <l n="14" xml:id="C067-l14"> Si donchs delit en laltre noli porta </l>
+
+     <l n="15" xml:id="C067-l15"> Sa volentat en vers si esta morta </l>
+
+     <l n="16" xml:id="C067-l16"> En la gran cort fa la vida ermjta </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C067-lg3">
+
+     <l n="17" xml:id="C067-l17"> Lo pensament dels amadors cogita </l>
+
+     <l n="18" xml:id="C067-l18"> Si que vn cors fa dels dos <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> molt samen </l>
+
+     <l n="19" xml:id="C067-l19"> Los espirjts dins en aquels se clamen </l>
+
+     <l n="20" xml:id="C067-l20"> Comun lo cors del altre no abita </l>
+
+     <l n="21" xml:id="C067-l21"> Tota res va en lo loch hon cobeia </l>
+
+     <l n="22" xml:id="C067-l22"> Ffugint mals tats volents bens hon reposa </l>
+
+     <l n="23" xml:id="C067-l23"> Marma <choice>
+      <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> es en mj pus noble cosa </l>
+
+     <l n="24" xml:id="C067-l24"> Lo vostre cors <choice>
+      <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> es en son çentrenueja </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C067-lg4">
+
+     <l n="25" xml:id="C067-l25"> Tal grau damor <choice>
+      <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> nol sent nol cobeia </l>
+
+     <l n="26" xml:id="C067-l26"> E per alguns se sab mjls <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> no senten </l>
+
+     <l n="27" xml:id="C067-l27"> Car <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> lo menys saben lo molt e tenen </l>
+
+     <l n="28" xml:id="C067-l28"> Puys different lespesia nos veia </l>
+
+     <l n="29" xml:id="C067-l29"> Nos pot saber ab tantes circustanças </l>
+
+     <l n="30" xml:id="C067-l30"> Com lo sabent per duas coneixenças </l>
+
+     <l n="31" xml:id="C067-l31"> Per pasions e <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> veras sentenças </l>
+
+     <l n="32" xml:id="C067-l32"> Lo no espert jutie ple dignoranças </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C067-lg5">
+
+     <l n="33" xml:id="C067-l33"> Pedre de toch tinch damor e balanças </l>
+
+     <l n="34" xml:id="C067-l34"> Per saber ell quant es esa natura </l>
+
+     <l n="35" xml:id="C067-l35"> Mas vostramor he <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> cosa escura </l>
+
+     <l n="36" xml:id="C067-l36"> Mon cor vbert vos esta <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> çes lanças </l>
+
+     <l n="37" xml:id="C067-l37"> Qujm vol fer dir lo vostre cor turmenta </l>
+
+     <l n="38" xml:id="C067-l38"> Leixe lo meu car lesperit nol ama </l>
+
+     <l n="39" xml:id="C067-l39"> La mja carn cremant se <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> gran flama </l>
+
+     <l n="40" xml:id="C067-l40"> Yo sentrell mal de vostrull <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> laumenta </l>
+
+    </lg>
+
+    <pb n="51r" facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_84.html"/>
+
+    <lg type="cobla" n="6" xml:id="C067-lg6">
+
+     <l n="41" xml:id="C067-l41"> Nom reptalgu sil tebeu no esmente </l>
+
+     <l n="42" xml:id="C067-l42"> Sa volentat nos pot dir <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> be ame </l>
+
+     <l n="43" xml:id="C067-l43"> Nes veritat que del tot el desama </l>
+
+     <l n="44" xml:id="C067-l44"> No li escau que rigua ne guaymenta </l>
+
+     <l n="45" xml:id="C067-l45"> De filats vist no cregau <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> nuu vaia </l>
+
+     <l n="46" xml:id="C067-l46"> Creu ser vestit no crega pus <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> vista </l>
+
+     <l n="47" xml:id="C067-l47"> E tot lo nuu vol drap <choice>
+      <abbr>đ</abbr>
+       <expan>de</expan>
+      </choice> bona lista </l>
+
+     <l n="48" xml:id="C067-l48"> E son poder tot quant pot fer assaya </l>
+
+    </lg>
+
+    <lg type="tornada" n="7" xml:id="C067-lg7">
+
+     <l n="49" xml:id="C067-l49"> Amor amor no penseu <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> io vaia </l>
+
+     <l n="50" xml:id="C067-l50"> Buydes les mans per merçe <choice>
+      <abbr>đ</abbr>
+       <expan>de</expan>
+      </choice> vos pendre </l>
+
+     <l n="51" xml:id="C067-l51"> Tot <choice>
+      <abbr>quāt</abbr>
+       <expan>quant</expan>
+      </choice> puch dar <choice>
+       <abbr>amplamēt</abbr>
+       <expan>amplament</expan>
+      </choice> vos vull rendre </l>
+
+     <l n="52" xml:id="C067-l52"> Semblem gran dret <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> la <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> am io aia </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

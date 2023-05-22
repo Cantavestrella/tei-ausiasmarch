@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 26</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2021-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064.html">
+     <msIdentifier xml:id="G2_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>135v  centre, before first line</locus><choice>
+         <abbr>Moß</abbr>
+         <expan>Mossen</expan>
+        </choice> auzias march 
+       </rubric>
+       <rubric><locus>137r between lines 56 and 57</locus>Tornada </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_281.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_282.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_283.html"/>
+  <graphic url="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_284.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C026-G2096">
+    <pb n="135v" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_281.html"/>
+    <lg type="cobla" n="1" xml:id="C026-lg1">
+     <l n="1" xml:id="C026-l1"> Yo crit lobe sin algun lloch lo se </l>
+     <l n="2" xml:id="C026-l2"> callant lo mal / sens passarne despit </l>
+     <l n="3" xml:id="C026-l3"> car en mal dir / moncor nopren delit </l>
+     <l n="4" xml:id="C026-l4"> nem cal cridar / puis no veig lo <choice>
+      <abbr>ꝑque</abbr>
+       <expan>perque</expan>
+      </choice>
+     </l>
+     <l n="5" xml:id="C026-l5"> No per aytant / quemoltsbens yonosenta </l>
+     <l n="6" xml:id="C026-l6"> maspoch val crit / entrelo sort yl mut </l>
+     <l n="7" xml:id="C026-l7"> per quel bonhom / per tal no es sabut </l>
+     <l n="8" xml:id="C026-l8"> esavalor / enlomon no laumenta </l>
+    </lg>
+    <pb n="136r" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_282.html"/>
+    <lg type="cobla" n="2" xml:id="C026-lg2">
+     <l n="9" xml:id="C026-l9"> Menys quela lley / crestianas presenta </l>
+     <l n="10" xml:id="C026-l10"> als affricans / nelavolen ohir </l>
+     <l n="11" xml:id="C026-l11"> vey lavirtut / en null esment venir </l>
+     <l n="12" xml:id="C026-l12"> lom vicios yl pech landat empenta </l>
+     <l n="13" xml:id="C026-l13"> Salamo diu / quenpochs es sauiesa </l>
+     <l n="14" xml:id="C026-l14"> los enemichs son molts dela <choice>
+      <abbr>ʋtut</abbr>
+       <expan>virtut</expan>
+      </choice>
+     </l>
+     <l n="15" xml:id="C026-l15"> dients que sou home foll conegut </l>
+     <l n="16" xml:id="C026-l16"> Sidel costum sellunya<note type="editorial">Amb un signe d’abreviatura, per error</note> <choice>
+      <abbr>vosŧabtesa</abbr>
+      <expan>vostrabtesa</expan>
+     </choice></l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C026-lg3">
+     <l n="17" xml:id="C026-l17"> Lo vicis tant <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> virtut aempesa </l>
+     <l n="18" xml:id="C026-l18"> elo profit honor atret del mon </l>
+     <l n="19" xml:id="C026-l19"> entant pochs es / epoch apoch sefon </l>
+     <l n="20" xml:id="C026-l20"> noya calor contralfret deperesa </l>
+     <l n="21" xml:id="C026-l21"> Lo nonbres tant / daquells qui <choice>
+      <abbr>ladeshonrrȇ</abbr>
+       <expan>ladeshonrren</expan>
+      </choice>
+     </l>
+     <l n="22" xml:id="C026-l22">
+      <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> ja noyval / emparadealgu </l>
+     <l n="23" xml:id="C026-l23"> esi voleu / <choice>
+      <abbr>quę</abbr>
+       <expan>queus</expan>
+      </choice> digal crit comu </l>
+     <l n="24" xml:id="C026-l24"> peresquençells / qui donor nossaonbren </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C026-lg4">
+     <l n="25" xml:id="C026-l25"> Als homens morts / dactes bons nodesonbren </l>
+     <l n="26" xml:id="C026-l26"> car dels abssents nols cal auer enueja </l>
+     <l n="27" xml:id="C026-l27"> pahir nospot aquestacosa leija </l>
+     <l n="28" xml:id="C026-l28"> dinslos ventrells / qui dennejar ses <choice>
+      <abbr>cȏbren</abbr>
+       <expan>combren</expan>
+      </choice>
+     </l>
+     <l n="29" xml:id="C026-l29"> No dant llaor / alviu qui laspercasça </l>
+     <l n="30" xml:id="C026-l30"> ans fan rahons / com lay poran sostraure </l>
+     <l n="31" xml:id="C026-l31"> esil ben fet delmon / nopoden raure </l>
+     <l n="32" xml:id="C026-l32"> dien ne mal / tant <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> lobe desfaça </l>
+    </lg>
+    <pb n="136v" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_283.html"/>
+    <lg type="cobla" n="5" xml:id="C026-lg5">
+     <l n="33" xml:id="C026-l33"> Bondat virtut / an <choice>
+      <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> duda sarra ça </l>
+     <l n="34" xml:id="C026-l34"> cossos humans / han molt diminuit </l>
+     <l n="35" xml:id="C026-l35"> deu esper nos mal honrrat <choice>
+      <abbr>eßuit</abbr>
+       <expan>eseruit</expan>
+      </choice>
+     </l>
+     <l n="36" xml:id="C026-l36"> eja la mort / pus estret nos abraça </l>
+     <l n="37" xml:id="C026-l37"> Tot quant per deu / esjus lo celcreat </l>
+     <l n="38" xml:id="C026-l38"> amolt <choice>
+      <abbr>ꝑdut</abbr>
+       <expan>perdut</expan>
+      </choice> / de son propi cabal </l>
+     <l n="39" xml:id="C026-l39"> saber se pert / speriment no val </l>
+     <l n="40" xml:id="C026-l40"> lo viure curt / quel mig tost es passat </l>
+    </lg>
+    <lg type="cobla" n="6" xml:id="C026-lg6">
+     <l n="41" xml:id="C026-l41"> Hon eslinginy daristotil trobat </l>
+     <l n="42" xml:id="C026-l42"> dermogenes Seneca / eplato </l>
+     <l n="43" xml:id="C026-l43"> qui mostrarem / semblant al fort sanso </l>
+     <l n="44" xml:id="C026-l44"> on es tanbell / com abssolon trobat </l>
+     <l n="45" xml:id="C026-l45"> Linteus fon / qui res nol esclapaua </l>
+     <l n="46" xml:id="C026-l46"> que no fos uist <choice>
+      <abbr>ꝑ</abbr>
+      <expan>per</expan>
+     </choice>savista soptil </l>
+     <l n="47" xml:id="C026-l47"> Dins enlamar / veya de millers mil </l>
+     <l n="48" xml:id="C026-l48"> Lo viure llur / mes quel present duraua </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C026-lg7">
+     <l n="49" xml:id="C026-l49"> Foll es aquell / qui no imaginaua </l>
+     <l n="50" xml:id="C026-l50"> quefallirem / puis fall ço <choice>
+      <abbr>ꝑꝗ</abbr>
+       <expan>perque</expan>
+      </choice> som </l>
+     <l n="51" xml:id="C026-l51"> si com decau / larama elo <del rend="barred">p</del> pom </l>
+     <l n="52" xml:id="C026-l52"> si larael del arbre hom tallaua </l>
+     <l n="53" xml:id="C026-l53"> ffallirem nos / puis lo quenssostefall </l>
+     <l n="54" xml:id="C026-l54"> bens mostradeu / que vol lo monfinir </l>
+     <l n="55" xml:id="C026-l55"> puis lo quins te / volque vingaperir </l>
+     <l n="56" xml:id="C026-l56"> son poch a poch natura nos defall </l>
+    </lg>
+    <pb n="137r" facs="http://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_284.html"/>
+    <lg type="tornada" n="8" xml:id="C026-lg8">
+     <l n="57" xml:id="C026-l57"> Lir entre carts / nombasta lescandall </l>
+     <l n="58" xml:id="C026-l58"> per trobar fons / <choice>
+      <abbr>enlavŧra</abbr>
+       <expan>enlavostra</expan>
+      </choice> estima </l>
+     <l n="59" xml:id="C026-l59"> equal vosllou / no trob raho nerima </l>
+     <l n="60" xml:id="C026-l60"> dequem content / eperço yo mencall </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

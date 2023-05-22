@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 57</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/">
+     <msIdentifier xml:id="E_Ms_3695_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>118v, header</locus>OBRES</rubric>
+       <rubric><locus>118v, centre, before first line</locus><choice>
+         <abbr>Mossʒ</abbr>
+         <expan>mossen</expan>
+        </choice>ausias march</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C057-E082">
+
+    <pb n="118v"
+     facs="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+
+    <lg type="cobla" n="1" xml:id="C057-lg1">
+
+     <l n="1" xml:id="C057-l1"> Por de pijor / amolts fa pendre mort </l>
+
+     <l n="2" xml:id="C057-l2"> per squiuar / mal esdeuenidor </l>
+
+     <l n="3" xml:id="C057-l3"> si be la mort / resembla cas peior </l>
+
+     <l n="4" xml:id="C057-l4"> çell qui la pren / la te per bona sort </l>
+
+     <l n="5" xml:id="C057-l5"> E de ayço / cato mostra cami </l>
+
+     <l n="6" xml:id="C057-l6"> e li mes nom / hus dela llibertat </l>
+
+     <l n="7" xml:id="C057-l7"> car de tot als / pot esser hom forçat </l>
+
+     <l n="8" xml:id="C057-l8"> si non morir / ques en lo franch juhi </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C057-lg2">
+
+     <l n="9" xml:id="C057-l9"> Algu la pren / e reb nom de mesqui </l>
+
+     <l n="10" xml:id="C057-l10"> fugint perill / qui les dauant posat </l>
+
+     <l n="11" xml:id="C057-l11"> altre sera / de cor noblanimat </l>
+
+     <l n="12" xml:id="C057-l12"> que vol morir / per la valor de si </l>
+
+     <l n="13" xml:id="C057-l13"> venint en mans / denemich seu potent </l>
+
+     <l n="14" xml:id="C057-l14"> sobrat lo cos / guerrejablo voler </l>
+
+     <l n="15" xml:id="C057-l15"> de vençedor / encaras veu poder </l>
+
+     <l n="16" xml:id="C057-l16"> qui pert lo cos / per lesperit vençent </l>
+
+    </lg>
+
+    <pb n="119r"
+     facs="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+
+    <lg type="cobla" n="3" xml:id="C057-lg3">
+
+     <l n="17" xml:id="C057-l17"> Jesus en creu / fon pus fort e potent </l>
+
+     <l n="18" xml:id="C057-l18"> que no aquells / quil feren mort passar </l>
+
+     <l n="19" xml:id="C057-l19"> car son voler / nol feren cambiar </l>
+
+     <l n="20" xml:id="C057-l20"> ne fon complit / llur dampnat pensament </l>
+
+     <l n="21" xml:id="C057-l21"> No roman fart / lo forçador del cos </l>
+
+     <l n="22" xml:id="C057-l22"> si voluntat / per cas semblant no força </l>
+
+     <l n="23" xml:id="C057-l23"> ans es vençent / aquell qui tant sesforça </l>
+
+     <l n="24" xml:id="C057-l24"> qui dela mort / no vol tembre son mos </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C057-lg4">
+
+     <l n="25" xml:id="C057-l25"> Del viure llonch / ja sent lo gran repos </l>
+
+     <l n="26" xml:id="C057-l26"> qui daquest curt / lo viure auorreix </l>
+
+     <l n="27" xml:id="C057-l27"> e la dolor / dela mort se parteix </l>
+
+     <l n="28" xml:id="C057-l28"> com lo qui mor / compte de mort ha clos </l>
+
+     <l n="29" xml:id="C057-l29"> Ladonchs virtut / la força multiplica </l>
+
+     <l n="30" xml:id="C057-l30"> del virtuos / qui soppinio ferma </l>
+
+     <l n="31" xml:id="C057-l31"> en qualque part / hon virtut lo conferma </l>
+
+     <l n="32" xml:id="C057-l32"> que sol a Deu / del sperit sopplica </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C057-lg5">
+
+     <l n="33" xml:id="C057-l33"> Alguns passats / qui voluntat Jnica </l>
+
+     <l n="34" xml:id="C057-l34"> los feu morir / o lopinio vana </l>
+
+     <l n="35" xml:id="C057-l35"> aquests no llou / mas los de pensa sana </l>
+
+     <l n="36" xml:id="C057-l36"> volents morit / per fer llur arma rica </l>
+
+     <l n="37" xml:id="C057-l37"> Perdent vn poch / per linfinit attendre </l>
+
+     <l n="38" xml:id="C057-l38"> guanyant lo goig / quel fill de Deu costa </l>
+
+     <l n="39" xml:id="C057-l39"> gran es lo be / que preu tan rich causa </l>
+
+     <l n="40" xml:id="C057-l40"> que per la mort / de tal hom sagues vendre </l>
+
+    </lg>
+    <pb n="119v"
+     facs="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+    
+    <lg type="tornada" n="6" xml:id="C057-lg6">
+
+     <l n="41" xml:id="C057-l41"> Dolor e por / son bastants peroffendre </l>
+
+     <l n="42" xml:id="C057-l42"> totes virtuts / que la arman belleixen </l>
+
+     <l n="43" xml:id="C057-l43"> los quin son nets / engloria tant creixen </l>
+
+     <l n="44" xml:id="C057-l44"> quen aquest mon / no poden mal dependre </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

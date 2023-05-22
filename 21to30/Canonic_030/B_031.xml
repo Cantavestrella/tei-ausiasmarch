@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Poema 30 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="JCG">
+     <name> Jordi Caparrós Gutiérrez</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name> Adolfo HIlario, Universitat Politècnica de València</name>
+     <resp> laTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LMP">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2020.</p>
+     </licence>
+    </availability>
+    <date>2020-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="http://www.cervantesvirtual.com/obra/obres-dausias-march-manuscrito--0/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+
+       <rubric><locus>27v between lines 56 and 57 </locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_56.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_57.html"/>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_58.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C030-B031">
+    <pb n="26v"
+     facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_56.html"/>
+    <note type="editorial">No hi ha marques per diferenciar les dues poesies</note>
+    <lg type="cobla" n="1" xml:id="C030-lg1">
+     <l n="1" xml:id="C030-l1">
+      <c rend="large">V</c>engut es temps que sera conegut </l>
+     <l n="2" xml:id="C030-l2"> Lo qui son cor haura fort o couart </l>
+     <l n="3" xml:id="C030-l3"> Qui es aquell hauent tan sobtil art </l>
+     <l n="4" xml:id="C030-l4"> Que si es flach tal no sia sabut </l>
+     <l n="5" xml:id="C030-l5"> Car desastruch al perill <choice>
+       <abbr>ƌla</abbr>
+       <expan>dela</expan>
+      </choice> mort </l>
+     <l n="6" xml:id="C030-l6"> No li valrra engeny nj maestria </l>
+     <l n="7" xml:id="C030-l7"> Per ben cobrir sastrema couardia </l>
+     <l n="8" xml:id="C030-l8"> Ans elegex fogir per ser stort </l>
+    </lg>
+    <lg type="cobla" n="2" xml:id="C030-lg2">
+     <l n="9" xml:id="C030-l9">
+      <c rend="large">H</c>om se pot fer no perfetament fort </l>
+     <l n="10" xml:id="C030-l10"> Volent la fi aque la virtut va </l>
+     <l n="11" xml:id="C030-l11"> Sil cor es flach legea no fara </l>
+     <l n="12" xml:id="C030-l12"> Mas flacament pendra patient mort </l>
+     <l n="13" xml:id="C030-l13"> Dos actes son <choice>
+       <abbr>ƌls</abbr>
+       <expan>dels</expan>
+      </choice> quals lo ques primer </l>
+     <l n="14" xml:id="C030-l14"> Haura cascu si vol complidament </l>
+     <l n="15" xml:id="C030-l15"> Ço es voler vsar ardidament </l>
+     <l n="16" xml:id="C030-l16"> Mas en lo cas vol e no ha poder </l>
+    </lg>
+    <lg type="cobla" n="3" xml:id="C030-lg3">
+     <l n="17" xml:id="C030-l17">
+      <c rend="large">N</c>e mon dardit volrra lo parençer </l>
+     <l n="18" xml:id="C030-l18"> Mas no pora cloure lull del sabent </l>
+     <l n="19" xml:id="C030-l19"> Vera lahor algu ja no consent </l>
+     <l n="20" xml:id="C030-l20"> E donchs quant mes la presab mal saber </l>
+     <l n="21" xml:id="C030-l21"> E baxament entre si volrra dir </l>
+     <pb n="27r"
+      facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_57.html"/>
+     <l n="22" xml:id="C030-l22"> Hom virtuos no deu ser nomenat </l>
+     <l n="23" xml:id="C030-l23"> Mas prenedor <choice>
+       <abbr>ƌl</abbr>
+       <expan>del</expan>
+      </choice> que no ha gonyat </l>
+     <l n="24" xml:id="C030-l24"> Entre aquells qui nol vehen fogir </l>
+    </lg>
+    <lg type="cobla" n="4" xml:id="C030-lg4">
+     <l n="25" xml:id="C030-l25">
+      <c rend="large">L</c>ome tastart qui no tembra morir </l>
+     <l n="26" xml:id="C030-l26"> No fahent fruyt son perill asaiat </l>
+     <l n="27" xml:id="C030-l27"> Grau de virtut volra en si posat </l>
+     <l n="28" xml:id="C030-l28"> Mas en <choice>
+       <abbr>aꝗst</abbr>
+       <expan>aquest</expan>
+      </choice> se deu mjls soferir </l>
+     <l n="29" xml:id="C030-l29"> Puys ab perill molt gran de sa persona </l>
+     <l n="30" xml:id="C030-l30"> Cuyda gonyar lo que vol de son dret </l>
+     <l n="31" xml:id="C030-l31"> Car la virtut en lo mjtx loch se met </l>
+     <l n="32" xml:id="C030-l32"> E los strems per vicis abandona </l>
+    </lg>
+    <lg type="cobla" n="5" xml:id="C030-lg5">
+     <l n="33" xml:id="C030-l33">
+      <c rend="large">G</c>uanya virtut qui son cos amort dona </l>
+     <l n="34" xml:id="C030-l34"> Per vn gran be o demolts benjfet </l>
+     <l n="35" xml:id="C030-l35"> Penssar no deu compte lin sia fet </l>
+     <l n="36" xml:id="C030-l36"> Virtut desi lo virtuos guardona </l>
+     <l n="37" xml:id="C030-l37"> Lom de cor fort metal perill apart </l>
+     <l n="38" xml:id="C030-l38"> Car son honor luny del perill sta </l>
+     <l n="39" xml:id="C030-l39"> E lo testart per temps venjr pora </l>
+     <l n="40" xml:id="C030-l40"> En ser temprat e vsar de renart </l>
+    </lg>
+    <lg type="cobla" n="6" xml:id="C030-lg6">
+     <l n="41" xml:id="C030-l41">
+      <c rend="large">Q</c>uant dels passats litx alguns fets e guart </l>
+     <l n="42" xml:id="C030-l42"> Los peruenir gratia deus nos fa </l>
+     <l n="43" xml:id="C030-l43"> Com som entemps <choice>
+       <abbr>ꝗl</abbr>
+       <expan>quel</expan>
+      </choice> mon dispost sta </l>
+     <l n="44" xml:id="C030-l44"> Per grans affes ede quascuna part </l>
+     <l n="45" xml:id="C030-l45"> Speçial per nostre gran <choice>
+       <abbr>señor</abbr>
+       <expan>senyor</expan>
+      </choice>
+     </l>
+     <l n="46" xml:id="C030-l46"> Qui festeijat la gent ab por lo mira </l>
+     <l n="47" xml:id="C030-l47"> Tot gran senyor dintre son cor sospira </l>
+     <l n="48" xml:id="C030-l48"> Crehent <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> vol ser <choice>
+       <abbr>ƌls</abbr>
+       <expan>dels</expan>
+      </choice> senyos major </l>
+    </lg>
+    <lg type="cobla" n="7" xml:id="C030-lg7">
+     <l n="49" xml:id="C030-l49">
+      <c rend="large">F</c>ortuna es soptos cambiador </l>
+     <l n="50" xml:id="C030-l50"> Algu no sap hon son voler la tira </l>
+     <pb n="27v"
+      facs="http://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_58.html"/>
+     <l n="51" xml:id="C030-l51"> E lo semblant de son amor es jra </l>
+     <l n="52" xml:id="C030-l52"> Sa ira es moltas veus gran amor </l>
+     <l n="53" xml:id="C030-l53"> Algu nos pot regir per son panell </l>
+     <l n="54" xml:id="C030-l54"> Sino quels fl<add place="interlinear">a</add>chs de sa cort
+      foragita </l>
+     <l n="55" xml:id="C030-l55"> El coratios de sos bens lo delita </l>
+     <l n="56" xml:id="C030-l56"> Hauent sforç vahent la contra dell </l>
+    </lg>
+    <lg type="tornada" n="8" xml:id="C030-lg8">
+     <l n="57" xml:id="C030-l57">
+      <c rend="large">C</c>ontra la mort es aquest aparell </l>
+     <l n="58" xml:id="C030-l58"> Menys preu de si e no tembre fortuna </l>
+     <l n="59" xml:id="C030-l59"> Tenjr sa ley e si es moro cuna </l>
+     <l n="60" xml:id="C030-l60"> E deu ladonchs lo fara segur dell </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -19,7 +19,7 @@ Licence CC-BY <licence target="https://creativecommons.org/licenses/by/4.0/" not
                   <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
                      to this document.</p>
                   <p>This licence applies to all TEI-XML documents in this repository, which are the transformed result
-                     work from a previous LaTEX format version out of the synoptic diplomatic edition
+                     work from a previous LaTEX format version out of the variorum diplomatic edition
                      of the complete poemes of Ausiàs March in all its witnesses.</p>
                   <p>The licence was added on May 1, 2019.</p>
                </licence>

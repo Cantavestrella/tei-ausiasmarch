@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 68</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="VGR">
+               <name>Victoria García Ripoll</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+                     document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result work from a
+                     previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+                     Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2023.</p>
+               </licence>
+            </availability>
+            <date>2023-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/">
+               <msIdentifier xml:id="E_Ms_3695_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>95r, header</locus><choice>
+                        <abbr>Mossʒ</abbr>
+                        <expan>Mossen</expan>
+                     </choice> ausias march</rubric>
+                     <rubric><locus>95r, centre, between lines 16 and 17</locus>tornada</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+      <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C068-E065">
+
+            <pb n="95r" facs="https://www.cervantesvirtual.com/obra/obras-poeticas-de-mosen-ausias-march-1138975/"/>
+
+            <lg type="cobla" n="1" xml:id="C068-lg1">
+
+               <l n="1" xml:id="C068-l1"> <c rend="large">N</c>om pren axi / com al petit vaylet </l>
+
+               <l n="2" xml:id="C068-l2"> qui va çercant / <choice>
+                  <abbr>señor</abbr>
+                     <expan>senyor</expan>
+                  </choice> qui destal faça </l>
+
+               <l n="3" xml:id="C068-l3"> tenint lo calt / en lo temps de la glaça </l>
+
+               <l n="4" xml:id="C068-l4"> e fresch destiu / com la calor semet </l>
+
+               <l n="5" xml:id="C068-l5"> Preant molt poch / la valor del senyor </l>
+
+               <l n="6" xml:id="C068-l6"> e conçebent / desalt de sa manera </l>
+
+               <l n="7" xml:id="C068-l7"> vehent molt clar / que tem ala carrera </l>
+
+               <l n="8" xml:id="C068-l8"> de cambiar / son estat en major </l>
+
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C068-lg3">
+
+               <l n="9" xml:id="C068-l17"> <c rend="large">Y</c>o son aquell / quin lo temps de tempesta </l>
+
+               <l n="10" xml:id="C068-l18"> quant les mes gents / festegen prop los fochs </l>
+
+               <l n="11" xml:id="C068-l19"> e pusch hauer / ab ells los propis jochs </l>
+
+               <l n="12" xml:id="C068-l20"> vaig sobre neu / descalç ab nua testa </l>
+
+               <l n="13" xml:id="C068-l21"> seruint senyor / qui james fonch vassall </l>
+
+               <l n="14" xml:id="C068-l22"> nel vench esment / de fer may homenatge </l>
+
+               <l n="15" xml:id="C068-l23"> en tot leig fet / ague lo cor saluatge </l>
+
+               <l n="16" xml:id="C068-l24"> solament diu / que bon guardo nom fall </l>
+
+            </lg>
+
+            <lg type="tornada" n="3" xml:id="C068-lg4">
+
+               <l n="17" xml:id="C068-l25"> <c rend="large">P</c>lena de seny / lleigs desigs de mi tall </l>
+
+               <l n="18" xml:id="C068-l26"> erbes nos fan / males en mon ribatge </l>
+
+               <l n="19" xml:id="C068-l27"> sia entes / com dins en mon coratge </l>
+
+               <l n="20" xml:id="C068-l28"> los pensaments / nom deuallen avall </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Poema 28</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="JCG">
+               <name> Jordi Caparrós Gutiérrez</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name> Adolfo HIlario, Universitat Politècnica de València</name>
+               <resp> laTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LMP">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2021-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2020.</p>
+               </licence>
+            </availability>
+            <date>2021-O2.18</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064.html">
+               <msIdentifier xml:id="F_Ms_2244_BGHUS">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>28v after end of previous poem, before this one:</locus>Altra </rubric>
+
+
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March’s poems’ variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_61.html"
+      />
+   </facsimile>
+
+
+   <text>
+      <body>
+         <div type="poem" xml:id="C028-F028">
+            <lg type="cobla" n="1" xml:id="C028-lg1">
+
+               <pb n="28v"
+                  facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_60.html"/>
+               <l n="1" xml:id="C028-l1"> Lo jorn ha por de perdre sa claror </l>
+               <l n="2" xml:id="C028-l2"> Quant ue la nit quespandeix ses tenebres </l>
+               <l n="3" xml:id="C028-l3"> Pochs anjmals no cloen les palpebres </l>
+               <l n="4" xml:id="C028-l4"> E los malalts crexen de llur dolor </l>
+               <l n="5" xml:id="C028-l5"> Los malfactors uolgren tot lany duras </l>
+               <l n="6" xml:id="C028-l6"> Per que llurs mal haguessen cobriment </l>
+               <l n="7" xml:id="C028-l7"> Mas yo quj visch menys de par enturment </l>
+               <l n="8" xml:id="C028-l8"> E sens mal fer uolgra que tost passas </l>
+            </lg>
+            <lg type="cobla" n="2" xml:id="C028-lg2">
+               <l n="9" xml:id="C028-l9"> E daltra part fac pus que si matas </l>
+               <l n="10" xml:id="C028-l10"> Mil homens justs menys dalguna merce </l>
+               <l n="11" xml:id="C028-l11"> Car tots mos ginys yo solt per trahir me </l>
+               <l n="12" xml:id="C028-l12"> E no cuydeu quel jorn men escusas </l>
+               <l n="13" xml:id="C028-l13"> Ans en la njt treball rompent ma penssa </l>
+               <l n="14" xml:id="C028-l14"> Per quen lo jorn lo trahiment cometa </l>
+               <l n="15" xml:id="C028-l15"> Por de morir no defer ujastreta </l>
+               <l n="16" xml:id="C028-l16"> Nom toll esforc per donar me offensa </l>
+            </lg>
+            <lg type="tornada" n="3" xml:id="C028-lg3">
+               <pb n="29r"
+                  facs="http://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_61.html"/>
+
+               <l n="17" xml:id="C028-l17"> Plena de seny mon enteniment pensa </l>
+               <l n="18" xml:id="C028-l18"> Com abtament lo lac damor se meta </l>
+               <l n="19" xml:id="C028-l19"> Sens aturar pas tenint via dreta </l>
+               <l n="20" xml:id="C028-l20"> Vaig ala fi si merce nom deffensa </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

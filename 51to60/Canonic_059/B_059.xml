@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 59</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+       to this document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result
+       work from a previous LaTEX format file out of the variorum diplomatic edition
+       of the complete poemes of Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt> 
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>49v, centre, between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_101.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_102.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C059-B059">
+
+    <pb n="49r" facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_101.html"/>
+
+    <lg type="cobla" n="1" xml:id="C059-lg1">
+
+     <l n="1" xml:id="C059-l1"> Si com aquell malalt quil metie lo fa cert </l>
+
+     <l n="2" xml:id="C059-l2"> Que nos pot fer que <choice>
+      <abbr>đla</abbr>
+       <expan>dela</expan>
+      </choice> mort scap </l>
+
+     <l n="3" xml:id="C059-l3"> Si donchs no beu de veri vn anap </l>
+
+     <l n="4" xml:id="C059-l4"> E lo perill no li sta cubert </l>
+
+     <l n="5" xml:id="C059-l5"> Ne pren ami qui vull speriment </l>
+
+     <l n="6" xml:id="C059-l6"> Molt perillos esens ell no puch viure </l>
+
+     <l n="7" xml:id="C059-l7"> Lo dilatar per mort se pot scriure </l>
+
+     <l n="8" xml:id="C059-l8"> E tem lo saig ab lamort egualment </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C059-lg2">
+
+     <l n="9" xml:id="C059-l9"> Qui es <choice>
+      <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice> stimant lo turment </l>
+
+     <l n="10" xml:id="C059-l10"> E lo perill en que marma sta </l>
+
+     <l n="11" xml:id="C059-l11"> Vehent se prop don creu <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> tost perdra </l>
+
+     <l n="12" xml:id="C059-l12"> Ço perque fon vengut al mon present </l>
+
+     <l n="13" xml:id="C059-l13"> Endubtestich la mia ma tremola </l>
+
+     <l n="14" xml:id="C059-l14"> Que no concent que mate amj matex </l>
+
+     <l n="15" xml:id="C059-l15"> E daltra part mort certa nom jaquex </l>
+
+     <l n="16" xml:id="C059-l16"> Yom desesper de masperança sola </l>
+
+    </lg>
+
+    <pb n="49v" facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_102.html"/>
+
+    <lg type="cobla" n="3" xml:id="C059-lg3">
+
+     <l n="17" xml:id="C059-l17"> En lo meu coll ya vetx penjar la mola </l>
+
+     <l n="18" xml:id="C059-l18"> Elo gran fons hon sere trabucat </l>
+
+     <l n="19" xml:id="C059-l19"> Si donchs merçe no vol hauer tallat </l>
+
+     <l n="20" xml:id="C059-l20"> La corda fort mas coltell no smola </l>
+
+     <l n="21" xml:id="C059-l21"> Merçe deman ab veu spahordida </l>
+
+     <l n="22" xml:id="C059-l22"> Mostrant negar al qui per mjs <choice>
+      <abbr>reꝗst</abbr>
+       <expan>request</expan>
+      </choice>
+     </l>
+
+     <l n="23" xml:id="C059-l23"> Vos no gordeu que mostra pauruch gest </l>
+
+     <l n="24" xml:id="C059-l24"> Mas piatat sianuos complida </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C059-lg4">
+
+     <l n="25" xml:id="C059-l25"> Puys <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> per vos pot esser be sentida </l>
+
+     <l n="26" xml:id="C059-l26"> La part damor que yo no puch mostrar </l>
+
+     <l n="27" xml:id="C059-l27"> Vullau vn poch la penssa enpachar </l>
+
+     <l n="28" xml:id="C059-l28"> En quin fil prim penia la mia vida </l>
+
+     <l n="29" xml:id="C059-l29"> Yo so aquell qui del carcre man tret </l>
+
+     <l n="30" xml:id="C059-l30"> Y ab cuytat pas va pendre cruel mort </l>
+
+     <l n="31" xml:id="C059-l31"> No hauent pus remey naltre conort </l>
+
+     <l n="32" xml:id="C059-l32"> Sino merçe <choice>
+      <abbr>đl</abbr>
+       <expan>del</expan>
+      </choice> qui juy la fet </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C059-lg5">
+
+     <l n="33" xml:id="C059-l33"> Yames damor fon vn cas tan stret </l>
+
+     <l n="34" xml:id="C059-l34"> Com es <choice>
+      <abbr>aꝗst</abbr>
+       <expan>aquest</expan>
+      </choice> al qual no puch fugir </l>
+
+     <l n="35" xml:id="C059-l35"> Per hun so cert dela vida finjr </l>
+
+     <l n="36" xml:id="C059-l36"> Laltres veri per apaguar ma set </l>
+
+     <l n="37" xml:id="C059-l37"> O vos qui sou causa de mon perill </l>
+
+     <l n="38" xml:id="C059-l38"> E fins assi no merexeu gran colpa </l>
+
+     <l n="39" xml:id="C059-l39"> Poca merce per auant vos encolpa </l>
+
+     <l n="40" xml:id="C059-l40"> Si per defalt <choice>
+      <abbr>daꝗlla</abbr>
+       <expan>daquella</expan>
+      </choice> prench exil </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C059-lg6">
+
+     <l n="41" xml:id="C059-l41"> Lir entre carts no veu algun perill </l>
+
+     <l n="42" xml:id="C059-l42"> Fin amador esil veu punt nol tem </l>
+
+     <l n="43" xml:id="C059-l43"> Tot cas es poch essent lo pus strem </l>
+
+     <l n="44" xml:id="C059-l44"> La torre gran li sembla gra de mill </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

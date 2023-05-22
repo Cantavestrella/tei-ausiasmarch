@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 54</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+       to this document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result
+       work from a previous LaTEX format file out of the variorum diplomatic edition
+       of the complete poemes of Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/poesies-3/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>49v, centre, before first line</locus>C</rubric><rubric>
+         <locus>49v, margin left, next to first line</locus>dd</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page 
+specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C054-D054">
+
+    <pb n="49v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="1" xml:id="C054-lg1">
+
+     <l n="1" xml:id="C054-l1"><c rend="large">Q</c>ui sino foll demana sim enyor </l>
+
+     <l n="2" xml:id="C054-l2"> essent absent daquella quem fa viure </l>
+
+     <l n="3" xml:id="C054-l3"> esino plor qui es laquim fariure </l>
+
+     <l n="4" xml:id="C054-l4"> si be no pas continua dolor </l>
+
+     <l n="5" xml:id="C054-l5"> Tots mos delits envn hetransportat </l>
+
+     <l n="6" xml:id="C054-l6"> amor li plau en mi fer aquest cambi </l>
+
+     <l n="7" xml:id="C054-l7"> lomon no te / res valent lo recambi </l>
+
+     <l n="8" xml:id="C054-l8"> del sperant lo be tan desijat </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C054-lg2">
+
+     <l n="9" xml:id="C054-l9"> Tant es lo be quim es dauant posat </l>
+
+     <l n="10" xml:id="C054-l10"> que sens dolorvisch aquell sperant </l>
+
+     <l n="11" xml:id="C054-l11"> sinolatench sere tan mal anant </l>
+
+     <l n="12" xml:id="C054-l12"> quen aquest mon jnfern haure trobat </l>
+
+     <l n="13" xml:id="C054-l13"> Contentament lavnapart medona </l>
+
+     <l n="14" xml:id="C054-l14"> perlaltra es ma vidatribulada </l>
+
+     <l n="15" xml:id="C054-l15"> abmort esta enbalança posada </l>
+
+     <l n="16" xml:id="C054-l16"> tement que por ma sperança confona </l>
+
+    </lg>
+
+    <pb n="50r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="3" xml:id="C054-lg3">
+
+     <l n="17" xml:id="C054-l17"> Depunt enpunt masperançam bandona </l>
+
+     <l n="18" xml:id="C054-l18"> evenç mepor daquell mal que yom tem </l>
+
+     <l n="19" xml:id="C054-l19"> qui es aquell enpoch amar strem </l>
+
+     <l n="20" xml:id="C054-l20"> que seguretat prenga percompanyona </l>
+
+     <l n="21" xml:id="C054-l21"> Per molt amar enaltre mi transport </l>
+
+     <l n="22" xml:id="C054-l22"> sique ser pens tot lapersonaquella </l>
+
+     <l n="23" xml:id="C054-l23"> serial mon vnagran marauella </l>
+
+     <l n="24" xml:id="C054-l24"> que no hagues pordelamala sort </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C054-lg4">
+
+     <l n="25" xml:id="C054-l25"> Viuren delit portabsipordemort </l>
+
+     <l n="26" xml:id="C054-l26"> cardaquelles enemich sobira </l>
+
+     <l n="27" xml:id="C054-l27"> e si james amor delit porta </l>
+
+     <l n="28" xml:id="C054-l28"> yo so aquell quin puch fer lo report </l>
+
+     <l n="29" xml:id="C054-l29"> O mort qui est detotsbens enuejosa </l>
+
+     <l n="30" xml:id="C054-l30"> yentalvoler te segueix la fortuna </l>
+
+     <l n="31" xml:id="C054-l31"> cascuna prech que muden ley alguna </l>
+
+     <l n="32" xml:id="C054-l32"> no res semblant alaqui mesdanyosa </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C054-lg5">
+
+     <l n="33" xml:id="C054-l33"> Saberse pot mavida perillosa </l>
+
+     <l n="34" xml:id="C054-l34"> cahent en mans denemichs tan mortals </l>
+
+     <l n="35" xml:id="C054-l35"> pobres erichs senten sos aspres mals </l>
+
+     <l n="36" xml:id="C054-l36"> ecascudells ab manerargullosa </l>
+
+     <l n="37" xml:id="C054-l37"> Seguesquen me tots los qui amaran </l>
+
+     <l n="38" xml:id="C054-l38"> monris o plor qualque dells me seguesca </l>
+
+     <l n="39" xml:id="C054-l39"> car yo somprest detastar / fel / obresca </l>
+
+     <l n="40" xml:id="C054-l40"> por los qui mal o be damor pendran </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C054-lg6">
+
+     <l n="41" xml:id="C054-l41"> Lir entrecarts passions damor fan </l>
+
+     <pb n="50v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="42" xml:id="C054-l42"> tembre y fiar estar dins vn hostal </l>
+
+     <l n="43" xml:id="C054-l43"> degran amor dubtar vnpunt no cal </l>
+
+     <l n="44" xml:id="C054-l44"> eguay daquells quentre lurs mans estan </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

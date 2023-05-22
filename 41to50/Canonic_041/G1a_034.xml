@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 61</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="VGR">
+     <name>Victoria García Ripoll</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/mossen-ausias-march-poeta-manuscrito--0/">
+     <msIdentifier xml:id="G1a_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric>
+        <locus>44r, centre, before first line</locus>Mossen ausias march<note type="editorial">Al marge dret: c 5 M</note></rubric>
+       <rubric>
+        <locus>45r, centre, between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_98.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_99.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_100.html"></graphic>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C041-G1a034">
+
+    <pb n="44r" facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_98.html"/>
+
+    <lg type="cobla" n="1" xml:id="C041-lg1">
+
+     <l n="1" xml:id="C041-l1"> <c rend="large">V</c>olgra ser nat cent anys o pus atras </l>
+
+     <l n="2" xml:id="C041-l2"> per que so cert ques pigorat lo mon </l>
+
+     <l n="3" xml:id="C041-l3"> aytan poch val quel matex no sap hon </l>
+
+     <l n="4" xml:id="C041-l4"> saulesa gran es pus bax loch baxas </l>
+
+     <l n="5" xml:id="C041-l5"> e veg vn cas de raho apartat </l>
+
+     <l n="6" xml:id="C041-l6"> que lo mal hom fa casa prop la forqua </l>
+
+     <l n="7" xml:id="C041-l7"> e lome just fuig es met en cauorqua </l>
+
+     <l n="8" xml:id="C041-l8"> per aquell mal que james ha pensat </l>
+
+    </lg>
+
+    <pb n="44v" facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_99.html"/>
+
+    <lg type="cobla" n="2" xml:id="C041-lg2">
+
+     <l n="9" xml:id="C041-l9"> <c rend="large">F</c>oll es aquell qui vol hauer vsat </l>
+
+     <l n="10" xml:id="C041-l10"> de mal saber hon sera ben entes </l>
+
+     <l n="11" xml:id="C041-l11"> ymaginar deu que sera repres </l>
+
+     <l n="12" xml:id="C041-l12"> e sens murmur no deu ser comportat </l>
+
+     <l n="13" xml:id="C041-l13"> lo mal hom deu ser cridat ab trompa </l>
+
+     <l n="14" xml:id="C041-l14"> per ço que vn elalatre no engan </l>
+
+     <l n="15" xml:id="C041-l15"> tants sonaquells quj per bons homens van </l>
+
+     <l n="16" xml:id="C041-l16"> que difamats cessaria lur pompa </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C041-lg3">
+
+     <l n="17" xml:id="C041-l17"> <c rend="large">L</c>o just voler pensa com enterrompa </l>
+
+     <l n="18" xml:id="C041-l18"> ficte voler acolorat de be </l>
+
+     <l n="19" xml:id="C041-l19"> e ladonchs es guardada bona fe </l>
+
+     <l n="20" xml:id="C041-l20"> com lo leig fet accusador lo trompa </l>
+
+     <l n="21" xml:id="C041-l21"> aquell es dit misericordios </l>
+
+     <l n="22" xml:id="C041-l22"> quj guardals bons que nols sia tort fet </l>
+
+     <l n="23" xml:id="C041-l23"> perdonador al quj leig fet comet </l>
+
+     <l n="24" xml:id="C041-l24"> dinfinjts mals dona occasios </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C041-lg4">
+
+     <l n="25" xml:id="C041-l25"> <c rend="large">F</c>ama tement lom es dit virtuos </l>
+
+     <l n="26" xml:id="C041-l26"> e ço no cau en hom<del rend="overstrike">e</del> desuergonyit </l>
+
+     <l n="27" xml:id="C041-l27"> donchs lo mal dir no deu <del rend="overstrike">e</del>sser en oblit </l>
+
+     <l n="28" xml:id="C041-l28"> puix que virtut mostra lom vicios </l>
+
+     <l n="29" xml:id="C041-l29"> a vici som moguts naturalment </l>
+
+     <l n="30" xml:id="C041-l30"> e costreny nos por dela mala fama </l>
+
+     <l n="31" xml:id="C041-l31"> beneyt aquell quil be sa boqua brama </l>
+
+     <l n="32" xml:id="C041-l32"> e diu lo mal com be nes conexent </l>
+
+    </lg>
+
+    <pb n="45r" facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_100.html"/>
+
+    <lg type="cobla" n="5" xml:id="C041-lg5">
+
+     <l n="33" xml:id="C041-l33"> <c rend="large">E</c>s mal senyal del qui es desplasent </l>
+
+     <l n="34" xml:id="C041-l34"> e mor denug com mal dir sacostuma </l>
+
+     <l n="35" xml:id="C041-l35"> eli desplau sius hou dir la suma </l>
+
+     <l n="36" xml:id="C041-l36"> dalgun leig fet vehent si malmjrent </l>
+
+     <l n="37" xml:id="C041-l37"> si com aquell quj en forqua veu morjr </l>
+
+     <l n="38" xml:id="C041-l38"> son companyo quj nol passa de mal </l>
+
+     <l n="39" xml:id="C041-l39"> e diu ques molt cosa descomjnal </l>
+
+     <l n="40" xml:id="C041-l40"> que per tal fet deia mort sostenjr </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C041-lg6">
+
+     <l n="41" xml:id="C041-l41"> <c rend="large">J</c>a de present delit no puch sentir </l>
+
+     <l n="42" xml:id="C041-l42"> sino semblant aquell del temps passat </l>
+
+     <l n="43" xml:id="C041-l43"> e com lo cerch etal no le trobat </l>
+
+     <l n="44" xml:id="C041-l44"> ami matex etot lo mon ahir </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 51 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CG">
+     <name>Cèlia Garrido </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/obres-dausias-march-manuscrito--0/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus/></rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic 
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_92.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_93.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_94.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C051-B053">
+
+    <pb n="44v" facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_92.html"/>
+
+    <lg type="cobla" n="1" xml:id="C051-lg1">
+
+     <l n="1" xml:id="C051-l1"> Tal so com lom qui pensa <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> morra </l>
+
+     <l n="2" xml:id="C051-l2"> E ia lan lest moltes <choice>
+      <abbr>veꝯ</abbr>
+       <expan>veus</expan>
+      </choice> la sentença </l>
+
+     <l n="3" xml:id="C051-l3"> Mas per merce les dona daudiença </l>
+
+     <l n="4" xml:id="C051-l4"> Creu eno creu que merçe li valrra </l>
+
+     <l n="5" xml:id="C051-l5"> Lomal el be van al mesqui dauant </l>
+
+     <l n="6" xml:id="C051-l6"> E no tem prou ne ferm pot sperar </l>
+
+     <l n="7" xml:id="C051-l7"> Axi no puch sens por vos desijar </l>
+
+     <l n="8" xml:id="C051-l8"> Nen puch restar del tot <choice>
+      <abbr>desesꝑat</abbr>
+       <expan>desesperat</expan>
+      </choice>
+     </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C051-lg2">
+
+     <l n="9" xml:id="C051-l9"> E tant com puch jre vidalargant </l>
+
+     <l n="10" xml:id="C051-l10"> Perque lestrem de tots los mals es mort </l>
+
+     <l n="11" xml:id="C051-l11"> Nom trop sforç per hauer ne conort </l>
+
+     <l n="12" xml:id="C051-l12"> Mes am dolor mort e vida <choice>
+      <abbr>dubitāt</abbr>
+       <expan>dubitant</expan>
+      </choice>
+     </l>
+
+     <l n="13" xml:id="C051-l13"> E tant com pus de ma dolor creheu </l>
+
+     <pb n="45r" facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_93.html"/>
+
+     <l n="14" xml:id="C051-l14"> E lo remey en vos lo deteniu </l>
+
+     <l n="15" xml:id="C051-l15"> Lo meu sfors jau mort molt mes <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> viu </l>
+
+     <l n="16" xml:id="C051-l16"> Ans de sa mort pregaus li perdoneu </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C051-lg3">
+
+     <l n="17" xml:id="C051-l17"> Ladonchs morre com parlar nom volrreu </l>
+
+     <l n="18" xml:id="C051-l18"> E tinch per foll qui de mort nos defen </l>
+
+     <l n="19" xml:id="C051-l19"> A quella es darrer dan e turmen </l>
+
+     <l n="20" xml:id="C051-l20"> No meresch yo <choice>
+      <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> los meus jorns fineu </l>
+
+     <l n="21" xml:id="C051-l21"> No gordeu mj si no ma bon volença </l>
+
+     <l n="22" xml:id="C051-l22"> Mi offerint offendre lo voler </l>
+
+     <l n="23" xml:id="C051-l23"> Qui vos amant de mj es homeyer </l>
+
+     <l n="24" xml:id="C051-l24"> E conexent vos fall regonexença </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C051-lg4">
+
+     <l n="25" xml:id="C051-l25"> On es Jason esa desconexença </l>
+
+     <l n="26" xml:id="C051-l26"> On es Teseu qui trahi adriana </l>
+
+     <l n="27" xml:id="C051-l27"> E dido fon desperança tan vana </l>
+
+     <l n="28" xml:id="C051-l28"> Que la trahi eneas en crehença </l>
+
+     <l n="29" xml:id="C051-l29"> Los fets passats de present ma <choice>
+      <abbr>consolā</abbr>
+       <expan>consolan</expan>
+      </choice>
+     </l>
+
+     <l n="30" xml:id="C051-l30"> Jrat me trop ves femenj linatje </l>
+
+     <l n="31" xml:id="C051-l31"> Los fins amants no han en ell statje </l>
+
+     <l n="32" xml:id="C051-l32"> Sembren los bons cullen los mals e molen </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C051-lg5">
+
+     <l n="33" xml:id="C051-l33"> Sauis son tots qui les festes no colen </l>
+     
+     <l n="34" xml:id="C051-l34">
+      D<choice>
+       <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice>amor qui en les dones cau </l>
+
+     <l n="35" xml:id="C051-l35"> Ab desleals souent ellas han pau </l>
+
+     <l n="36" xml:id="C051-l36"> Lexant <choice>
+      <abbr>aꝗlls</abbr>
+       <expan>aquells</expan>
+      </choice> quin ben amar <choice>
+       <abbr>more</abbr>
+       <expan>moren</expan>
+      </choice>
+     </l>
+
+     <l n="37" xml:id="C051-l37"> En recort es <choice>
+      <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice> pau de ben viure </l>
+
+     <l n="38" xml:id="C051-l38"> Qui per amar sa dona torna foll </l>
+
+     <l n="39" xml:id="C051-l39"> Tal cami tinch sobtant rompent lo coll </l>
+
+     <l n="40" xml:id="C051-l40"> De tot mon dan dubtem nous veia riure </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C051-lg6">
+
+     <l n="41" xml:id="C051-l41"> Plena de seny nom abreuieu lo viure </l>
+
+     <pb n="45v" facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_94.html"/>
+
+     <l n="43" xml:id="C051-l43"> E vos loant nom trop la boca margua </l>
+
+     <l n="44" xml:id="C051-l44"> Ne tart lama com de vos vull scriure </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

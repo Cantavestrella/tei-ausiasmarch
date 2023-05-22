@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 70</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="VGR">
+     <name>Victoria García Ripoll</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/poesies-3/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>97r, centre, before first line</locus>C</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C070-D092">
+
+    <pb n="97r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="1" xml:id="C070-lg1">
+
+     <l n="1" xml:id="C070-l1">
+      <c rend="large">P</c>er que mes tolt / poder delliberar </l>
+
+     <l n="2" xml:id="C070-l2"> la mort nons fa / tant mal amonparer </l>
+
+     <l n="3" xml:id="C070-l3"> comgran contrast / ab si mateix hauer </l>
+
+     <l n="4" xml:id="C070-l4"> d'<add place="interlinear">h</add>on lo voler / vsade redolar </l>
+
+     <l n="5" xml:id="C070-l5"> Qual tan cruel / ami no <choice>
+       <abbr>planēria</abbr>
+       <expan>planyeria</expan>
+      </choice>
+     </l>
+
+     <l n="6" xml:id="C070-l6"> hauent passat / tal cas propiament </l>
+
+     <l n="7" xml:id="C070-l7"> tot lo saber / del mon nom conuencria </l>
+
+     <l n="8" xml:id="C070-l8"> quen altre loch / dolor fos mes potent </l>
+
+    </lg>
+
+    <pb n="97v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="2" xml:id="C070-lg2">
+
+     <l n="9" xml:id="C070-l9">
+      <c rend="large">D</c>el tot no pusch / maymia enculpar </l>
+
+     <l n="10" xml:id="C070-l10"> ne de merce / no puch hauer poder </l>
+
+     <l n="11" xml:id="C070-l11"> lo seu mal fet / ab gran enginy lo quer </l>
+
+     <l n="12" xml:id="C070-l12"> equant lo trob nom llou nemvull reptar </l>
+
+     <l n="13" xml:id="C070-l13"> Dos enemichs / qui dins <del rend="overtrike">sills</del><add
+       place="interlinear">si quils</add> portaria </l>
+
+     <l n="14" xml:id="C070-l14"> ira yamor / dins mi van debatent </l>
+
+     <l n="15" xml:id="C070-l15"> ira d'amor / li ve la <choice>
+       <abbr>senōria</abbr>
+       <expan>senyoria</expan>
+      </choice>
+     </l>
+
+     <l n="16" xml:id="C070-l16"> com seradonchs / que pusca ser vencent </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C070-lg3">
+
+     <l n="17" xml:id="C070-l17">
+      <c rend="large">Y</c>odesig molt / magrandolor celar </l>
+
+     <l n="18" xml:id="C070-l18"> ycuyt morir / fins ferlay ha saber </l>
+
+     <l n="19" xml:id="C070-l19"> quant no laveig / muyr per ellaveher </l>
+
+     <l n="20" xml:id="C070-l20"> e sil m'acost / forçat mes despantar </l>
+
+     <l n="21" xml:id="C070-l21"> Yoli vull be / lo seu mal meplauria </l>
+
+     <l n="22" xml:id="C070-l22"> no se quem plau / <choice>
+       <abbr>determenadamēt</abbr>
+       <expan>determenadament</expan>
+      </choice>
+     </l>
+
+     <l n="23" xml:id="C070-l23"> voler morir / vngran recos seria </l>
+
+     <l n="24" xml:id="C070-l24"> matem dolor / oleix metal turment </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C070-lg4">
+
+     <l n="25" xml:id="C070-l25">
+      <c rend="large">Q</c>uant amor plau / que dell medacordar </l>
+
+     <l n="26" xml:id="C070-l26"> jras ab ell / en orde pus darrer </l>
+
+     <l n="27" xml:id="C070-l27"> a mon sentir / no se qual es primer </l>
+
+     <l n="28" xml:id="C070-l28"> tant prestament / lurs actes sent passar </l>
+
+     <l n="29" xml:id="C070-l29"> Campar no pusch / sil pensar no perdia </l>
+
+     <l n="30" xml:id="C070-l30"> Axid'amor / no haure sentiment </l>
+
+     <l n="31" xml:id="C070-l31"> car nom pot dar / amor punt dalegria </l>
+
+     <l n="32" xml:id="C070-l32"> qu'ira nom do / tant de mal soptament </l>
+
+    </lg>
+
+    <pb n="98r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="5" xml:id="C070-lg5">
+
+     <l n="33" xml:id="C070-l33">
+      <c rend="large">A</c>quells remeys / que solen ajudar </l>
+
+     <l n="34" xml:id="C070-l34"> alamador / del mal <del rend="overstrike">ea</del>qu<add
+       place="interlinear">a</add>mor sab fer </l>
+
+     <l n="35" xml:id="C070-l35"> son conuertits / en mortal desplaher </l>
+
+     <l n="36" xml:id="C070-l36"> edos volers / en mi sent treballar </l>
+
+     <l n="37" xml:id="C070-l37"> Ignor si am / sens amor nom dolria </l>
+
+     <l n="38" xml:id="C070-l38">
+      <add place="interlinear">h</add>air eam / molt emescladament </l>
+
+     <l n="39" xml:id="C070-l39"> puys yo<del rend="overstrike">m</del><add place="interlinear"
+       >u</add> ignor / quiu sab moncas me dia </l>
+
+     <l n="40" xml:id="C070-l40"> esiamdit / siso'n lo monpresent </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C070-lg6">
+
+     <l n="41" xml:id="C070-l41">
+      <c rend="large">B</c>on passament / haquis pot delitar </l>
+
+     <l n="42" xml:id="C070-l42"> vehent l'amat / y en son propri voler </l>
+
+     <l n="43" xml:id="C070-l43"> tot amador / nol fall vnpoch esper </l>
+
+     <l n="44" xml:id="C070-l44"> eprendelit / en sa'ymia mirar </l>
+
+     <l n="45" xml:id="C070-l45"> Detals delits nom plau lur <choice>
+       <abbr>companīa</abbr>
+       <expan>companyia</expan>
+      </choice>
+     </l>
+
+     <l n="46" xml:id="C070-l46"> muyr perdolor quant bonvoler me sent </l>
+
+     <l n="47" xml:id="C070-l47"> em he sbahesch com e veure maymia </l>
+
+     <l n="48" xml:id="C070-l48"> esonvoler me porta marriment </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C070-lg7">
+
+     <l n="49" xml:id="C070-l49">
+      <c rend="large">S</c>i mondictat veu algu variar </l>
+
+     <l n="50" xml:id="C070-l50"> en ira stich rebolt en bonvoler </l>
+
+     <l n="51" xml:id="C070-l51"> endos moments cascun ten sonpoder </l>
+
+     <l n="52" xml:id="C070-l52"> deltot asi nom pot algu portar </l>
+
+     <l n="53" xml:id="C070-l53"> Leixen me tots o vença qualque sia </l>
+
+     <l n="54" xml:id="C070-l54"> opas lo temps molt pus <choice>
+       <abbr>cuytadamēt</abbr>
+       <expan>cuytadament</expan>
+      </choice>
+     </l>
+
+     <l n="55" xml:id="C070-l55"> hoyt hedir quetot mal fa savia </l>
+
+     <l n="56" xml:id="C070-l56"> si lonch espay de temps es atenyent </l>
+
+    </lg>
+
+    <pb n="98v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="tornada" n="8" xml:id="C070-lg8">
+
+     <l n="57" xml:id="C070-l57">
+      <c rend="large">V</c>ehent amor ab dret yo lidiria </l>
+
+     <l n="58" xml:id="C070-l58"> que no madat monver mereximent </l>
+
+     <l n="59" xml:id="C070-l59"> e de tot cert ell ami respondria </l>
+
+     <l n="60" xml:id="C070-l60"> no <add place="interlinear">i</add> puch entrar que no han
+      teniment </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

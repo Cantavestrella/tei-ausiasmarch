@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 63</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="VGR">
+     <name>Victoria García Ripoll</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/obres-dausias-march-manuscrito--0/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>54r, centre, between lines 64 and 65</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_109.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_110.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_111.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C063-B064">
+
+    <pb n="53r"
+     facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_109.html"/>
+
+    <lg type="cobla" n="1" xml:id="C063-lg1">
+
+     <l n="1" xml:id="C063-l1"> <c rend="large">Q</c>uim tornara lo temps de ma dolor </l>
+
+     <l n="2" xml:id="C063-l2"> Em furtara la mia libertat </l>
+
+     <l n="3" xml:id="C063-l3"> Catiu me trop licençiat damor </l>
+
+     <l n="4" xml:id="C063-l4"> E del partit tot delit mes <choice>
+      <abbr>lūyat</abbr>
+       <expan>lunyat</expan>
+      </choice>
+     </l>
+
+     <l n="5" xml:id="C063-l5"> Si com senyor auorrex lo seruent </l>
+
+     <l n="6" xml:id="C063-l6"> Que null castich o carrech li vol dar </l>
+
+     <l n="7" xml:id="C063-l7"> Axi amor me da bandonament </l>
+
+     <l n="8" xml:id="C063-l8"> Que son poder en mj nol plau mostrar </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C063-lg2">
+
+     <l n="9" xml:id="C063-l9"> <c rend="large">E</c>n <del rend="overstrike">e</del> jrasta de deu lo pecador </l>
+
+     <l n="10" xml:id="C063-l10"> Com en lo mon treball no li es dat </l>
+
+     <l n="11" xml:id="C063-l11"> Dels bens de deu no siasperador </l>
+
+     <l n="12" xml:id="C063-l12"> No ha loguer qui no ha treballat </l>
+
+     <l n="13" xml:id="C063-l13"> Axi damor qui no sent lo turment </l>
+
+     <l n="14" xml:id="C063-l14"> En sos delits no cure delitar </l>
+
+     <l n="15" xml:id="C063-l15"> Tot amador prengan aço sment </l>
+
+     <l n="16" xml:id="C063-l16"> Que sens tristor nos pot molt alegrar </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C063-lg3">
+
+     <l n="17" xml:id="C063-l17"> <c rend="large">D</c>olor es gran de tot fin amador </l>
+
+     <l n="18" xml:id="C063-l18"> Com desesper li es dauant posat </l>
+
+     <l n="19" xml:id="C063-l19"> Mas per merce amor les donador </l>
+
+     <l n="20" xml:id="C063-l20"> Que <choice>
+      <abbr>desesꝑar</abbr>
+       <expan>desesperar</expan>
+      </choice> no delit no es lançat </l>
+
+     <l n="21" xml:id="C063-l21"> Gotx etristor li stan de present </l>
+
+     <l n="22" xml:id="C063-l22"> Sper epor luny li volen mostrar </l>
+
+     <l n="23" xml:id="C063-l23"> Son mal o be del quals vn tostemps sent </l>
+
+     <l n="24" xml:id="C063-l24"> E lo que pert apres torna cobrar </l>
+
+    </lg>
+
+    <pb n="53v" facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_110.html"/>
+
+    <lg type="cobla" n="4" xml:id="C063-lg4">
+
+     <l n="25" xml:id="C063-l25"> <c rend="large">A</c>pres lo mal qui sent de be sabor </l>
+
+     <l n="26" xml:id="C063-l26"> No pot ser dit del tot malahuyrat </l>
+
+     <l n="27" xml:id="C063-l27"> Lo past damor no ha tantamargor </l>
+
+     <l n="28" xml:id="C063-l28"> Que sus tot dolç no siastimat </l>
+
+     <l n="29" xml:id="C063-l29"> De tal sabor nom conech sentiment </l>
+
+     <l n="30" xml:id="C063-l30"> E pus amarch que fel he gustar </l>
+
+     <l n="31" xml:id="C063-l31"> Car yo sofir dolor danyorament </l>
+
+     <l n="32" xml:id="C063-l32"> Ne vetx camj per algu be sperar </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C063-lg5">
+
+     <l n="33" xml:id="C063-l33"> <c rend="large">Q</c>ui damor futx dell es encontrador </l>
+
+     <l n="34" xml:id="C063-l34"> E yo quil crech dins mi nol he trobat </l>
+
+     <l n="35" xml:id="C063-l35"> En lochs lo vetx difamat per traydor </l>
+
+     <l n="36" xml:id="C063-l36"> E futx de mj quile mils qualtronrrat </l>
+
+     <l n="37" xml:id="C063-l37"> Jo nol deman donant lo mon viuent </l>
+
+     <l n="38" xml:id="C063-l38"> Mas que dins mi ell vulla reposar </l>
+
+     <l n="39" xml:id="C063-l39"> Tal es la mort quencalça lo fugent </l>
+
+     <l n="40" xml:id="C063-l40"> E futx aquell qui la vol encontrar </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C063-lg6">
+
+     <l n="41" xml:id="C063-l41"> <c rend="large">C</c>remat vull ser damor per sa calor </l>
+
+     <l n="42" xml:id="C063-l42"> Car dins son foch yom trobe refrescat </l>
+
+     <l n="43" xml:id="C063-l43"> Si com lo sant hauent en deu ardor </l>
+
+     <l n="44" xml:id="C063-l44"> En son turment se troba consolat </l>
+
+     <l n="45" xml:id="C063-l45"> Tant quant amor es fort y enmj <choice>
+      <abbr>potēt</abbr>
+       <expan>potent</expan>
+      </choice>
+     </l>
+
+     <l n="46" xml:id="C063-l46"> Lo seu delit prop mj sent acostar </l>
+
+     <l n="47" xml:id="C063-l47"> Sil trop scas altre ma fer content </l>
+
+     <l n="48" xml:id="C063-l48"> Fora de mi mon delit he trobat </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C063-lg7">
+
+     <l n="49" xml:id="C063-l49"> <c rend="large">T</c>ant pora fer damor sa gran furor </l>
+
+     <l n="50" xml:id="C063-l50"> Que bastara fer quelanemorat </l>
+
+     <l n="51" xml:id="C063-l51"> Nol tocara sperança ne por </l>
+
+     <pb n="54r" facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_111.html"/>
+
+     <l n="52" xml:id="C063-l52"> Tant stara en gotx present torbat </l>
+
+     <l n="53" xml:id="C063-l53"> Yom soblidat hauent tal sentiment </l>
+
+     <l n="54" xml:id="C063-l54"> Propis ami tal stat desijar </l>
+
+     <l n="55" xml:id="C063-l55"> Al jgnorant desitx nol ve nesment </l>
+
+     <l n="56" xml:id="C063-l56"> Enemich es de amor jgnorar </l>
+
+    </lg>
+
+    <lg type="cobla" n="8" xml:id="C063-lg8">
+
+     <l n="57" xml:id="C063-l57"> <c rend="large">L</c>ome no pot ser almon viuidor </l>
+
+     <l n="58" xml:id="C063-l58"> Si de humor mal sera neteiat </l>
+
+     <l n="59" xml:id="C063-l59"> Lo be y lo mal conseruan la calor </l>
+
+     <l n="60" xml:id="C063-l60"> Dom radical que sens ells es gastat </l>
+
+     <l n="61" xml:id="C063-l61"> Axi damor qui lo seu mal no sent </l>
+
+     <l n="62" xml:id="C063-l62"> No pot en ell sa paçio durar </l>
+
+     <l n="63" xml:id="C063-l63"> Desitx lo te qui mostra falliment </l>
+
+     <l n="64" xml:id="C063-l64"> Emor de set que basta sadollar </l>
+
+    </lg>
+
+    <lg type="tornada" n="9" xml:id="C063-lg9">
+
+     <l n="65" xml:id="C063-l65"> <c rend="large">A</c>mor amor yo so ver penident </l>
+
+     <l n="66" xml:id="C063-l66"> Com de jngrat vos he volgut reptar </l>
+
+     <l n="67" xml:id="C063-l67"> No trobant loch per amj couinent </l>
+
+     <l n="68" xml:id="C063-l68"> Es lo defalt com yo no puch amar </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

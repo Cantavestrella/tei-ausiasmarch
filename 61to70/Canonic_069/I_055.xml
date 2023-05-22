@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 69</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="VGR">
+     <name>Victoria García Ripoll</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2023.</p>
+     </licence>
+    </availability>
+    <date>2023-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/canconer-dobres-enamorades-manuscrit--0/">
+     <msIdentifier xml:id="I_Ms_10_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>71r, header</locus>Mossen Auzias march</rubric>
+       <rubric><locus>71v, centre, between lines 64 and 65</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_142.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_143.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C069-I055">
+
+    <pb n="71r"
+     facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_142.html"/>
+
+    <lg type="cobla" n="1" xml:id="C069-lg1">
+
+     <l n="1" xml:id="C069-l1">
+      <c rend="large">C</c>Lar <del rend="overstrike">e</del> es <add place="interlinear">e</add>
+      molt / atots los amadors </l>
+
+     <l n="2" xml:id="C069-l2"> Y atots <choice>
+       <abbr>aꝗlls</abbr>
+       <expan>aquells</expan>
+      </choice> / qui de mj han sabut </l>
+
+     <l n="3" xml:id="C069-l3"> Que mon semblant / no es huy conegut </l>
+
+     <l n="4" xml:id="C069-l4"> Dauer sentit / amor e ses dolors </l>
+
+     <l n="5" xml:id="C069-l5"> Nom fa mester / testimonjs hauer </l>
+
+     <l n="6" xml:id="C069-l6"> Ne blan parlar / ab persuasions </l>
+
+     <l n="7" xml:id="C069-l7"> Daffalagar / orellas ab rahons </l>
+
+     <l n="8" xml:id="C069-l8"> Ffauor ha gran / paraula dient ver </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C069-lg2">
+
+     <l n="9" xml:id="C069-l9"> Per quels estrem<del rend="overstrike">p</del>s / ha cerquats mon
+      voler </l>
+
+     <l n="10" xml:id="C069-l10"> En aquest mon / no ha trobat semblant </l>
+
+     <l n="11" xml:id="C069-l11"> Los quels migs lochs / en amor van sercant </l>
+
+     <l n="12" xml:id="C069-l12"> Nols deffalli / trobar tot lur mester </l>
+
+     <l n="13" xml:id="C069-l13"> Amor en mj / tant ha loch coujnent </l>
+
+     <l n="14" xml:id="C069-l14"> Quen altra part / se veu esser estrany </l>
+
+     <l n="15" xml:id="C069-l15"> Son leuger pes / ia donal mon affany </l>
+
+     <l n="16" xml:id="C069-l16"> Als muscles <choice>
+       <abbr>meꝯ</abbr>
+       <expan>meus</expan>
+      </choice> / es carrech molt plahent </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C069-lg3">
+
+     <l n="17" xml:id="C069-l17"> No fara molt / lo qui sera crehent </l>
+
+     <l n="18" xml:id="C069-l18"> Vahent damor / en mj lo seu proces </l>
+
+     <l n="19" xml:id="C069-l19"> La grossa part / damor en mj gran es </l>
+
+     <l n="20" xml:id="C069-l20"> Delaltram call / ques fort dar entenent </l>
+
+     <l n="21" xml:id="C069-l21"> Los actes grans / daquestamor mostrats </l>
+
+     <l n="22" xml:id="C069-l22"> Jutgan los tots / vos qui mes mantenen </l>
+
+     <l n="23" xml:id="C069-l23"> Los no tocats / perdon sim reprenen </l>
+
+     <l n="24" xml:id="C069-l24"> Car segur so / dels ben enamorats </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C069-lg4">
+
+     <l n="25" xml:id="C069-l25"> Mos sentiments / son axi alterats </l>
+
+     <l n="26" xml:id="C069-l26"> Quant la que am / mon vll por diujsar </l>
+
+     <l n="27" xml:id="C069-l27"> Que nom acort / si son terra uen mar </l>
+
+     <l n="28" xml:id="C069-l28"> Yls membres luny / del cors tinch reffredats </l>
+
+     <l n="29" xml:id="C069-l29"> Sil trob en part / hon li pusque res dir </l>
+
+     <l n="30" xml:id="C069-l30"> Jo crit algu / per que ab ell escus </l>
+
+     <l n="31" xml:id="C069-l31"> Aquesta por / per quella nom reffus </l>
+
+     <l n="32" xml:id="C069-l32"> Crehent mon mal / de mala part venir </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C069-lg5">
+
+     <l n="33" xml:id="C069-l33"> Tal pena donchs / qui la pot sostenjr </l>
+
+     <l n="34" xml:id="C069-l34"> Com jo vehent / quem degresser grahit </l>
+
+     <l n="35" xml:id="C069-l35"> Per molt amar / dardiment ser fallit </l>
+
+     <l n="36" xml:id="C069-l36"> Emon voler / estrem veig desgrahir </l>
+
+     <l n="37" xml:id="C069-l37"> Ans so jutiat / hom pech e sens amor </l>
+
+     <l n="38" xml:id="C069-l38"> O sens calor / alguna natural </l>
+
+     <l n="39" xml:id="C069-l39"> E si nom fos / la fama comjnal </l>
+
+     <l n="40" xml:id="C069-l40"> Ja fora mort / per sobres gran dolor </l>
+
+    </lg>
+
+    <pb n="71v"
+     facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_143.html"/>
+
+    <lg type="cobla" n="6" xml:id="C069-lg6">
+
+     <l n="41" xml:id="C069-l41"> No trob en mj / poder dir ma tristor </l>
+
+     <l n="42" xml:id="C069-l42"> Ede aço / men surt / vn gran debat </l>
+
+     <l n="43" xml:id="C069-l43"> Lo meu cor diu / que no es enculpat </l>
+
+     <l n="44" xml:id="C069-l44"> Car del parlar / la lengua nes senyor </l>
+
+     <l n="45" xml:id="C069-l45"> La lengua diu / quella be ho dira </l>
+
+     <l n="46" xml:id="C069-l46"> Mas que la por / del cor força li tol </l>
+
+     <l n="47" xml:id="C069-l47"> Que sens proffit / esta com parlar vol </l>
+
+     <l n="48" xml:id="C069-l48"> E si ho fa / que balbucitara </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C069-lg7">
+
+     <l n="49" xml:id="C069-l49"> Per esta por / van la pençasta </l>
+
+     <l n="50" xml:id="C069-l50"> Sens dar concell / per execucio </l>
+
+     <l n="51" xml:id="C069-l51"> No es senyor / en tal cas la raho </l>
+
+     <l n="52" xml:id="C069-l52"> Lorgue del cors / desbaratat esta </l>
+
+     <l n="53" xml:id="C069-l53"> La ma no pot / suplir en lo seu cas </l>
+
+     <l n="54" xml:id="C069-l54"> Mou se lo peu / no sabent lo per que </l>
+
+     <l n="55" xml:id="C069-l55"> Tremolament / per tots los membres ve </l>
+
+     <l n="56" xml:id="C069-l56"> Perque la sanch / acorre al pus las </l>
+
+    </lg>
+
+    <lg type="cobla" n="8" xml:id="C069-lg8">
+
+     <l n="57" xml:id="C069-l57"> O tu amor / qui ab vlls cluchs estas </l>
+
+     <l n="58" xml:id="C069-l58"> Quant vols partir / tos amargosos dons </l>
+
+     <l n="59" xml:id="C069-l59"> No compensant / los merits e rahons </l>
+
+     <l n="60" xml:id="C069-l60"> Ta voluntat / regeix fortunat cas </l>
+
+     <l n="61" xml:id="C069-l61"> Vulles pensar / lincomportable dan </l>
+
+     <l n="62" xml:id="C069-l62"> Que lo mon reb / de tots fets desaguals </l>
+
+     <l n="63" xml:id="C069-l63"> Qui pren de tu / delits degrauer mals </l>
+
+     <l n="64" xml:id="C069-l64"> E plor aquell / qui degranar truffan </l>
+
+    </lg>
+
+    <lg type="tornada" n="9" xml:id="C069-lg9">
+
+     <l n="65" xml:id="C069-l65"> Lir entre carts / les coses periran </l>
+
+     <l n="66" xml:id="C069-l66"> Que dintre si / estan en desacord </l>
+
+     <l n="67" xml:id="C069-l67"> Amor assi / no guarda de fer tort </l>
+
+     <l n="68" xml:id="C069-l68"> Com guardara / lo quil serueix dangan </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>
