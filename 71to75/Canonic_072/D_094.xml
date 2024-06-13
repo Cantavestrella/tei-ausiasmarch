@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema72</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/poesies-3/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>100v, centre, before first line</locus>Estrams</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C072-D094">
+
+    <pb n="100v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="1" xml:id="C072-lg1">
+
+     <l n="1" xml:id="C072-l1"> Pahor no sent / que sobres llaus me vença </l>
+
+     <l n="2" xml:id="C072-l2"> loant aquell / quitotes lengues loen </l>
+
+     <l n="3" xml:id="C072-l3"> guardant honor / aquell eternal esser </l>
+
+     <l n="4" xml:id="C072-l4"> hontota res / enell es pus perfeta </l>
+
+     <l n="5" xml:id="C072-l5"> que sino es / obrant quant pot natura </l>
+
+     <l n="6" xml:id="C072-l6"> ans he pahor / que monparlar no cumpla </l>
+
+     <l n="7" xml:id="C072-l7"> enpublicar / part de sajusta fama </l>
+
+     <l n="8" xml:id="C072-l8"> tal com requer / yls merits seu latracen </l>
+
+    </lg>
+
+    <pb n="101r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="2" xml:id="C072-lg2">
+
+     <l n="9" xml:id="C072-l9"> Lom enuejos / son offici reposa </l>
+
+     <l n="10" xml:id="C072-l10"> car de'gualtat / ab ell negu pareja </l>
+
+     <l n="11" xml:id="C072-l11"> en ell pensant / cascu si justifica </l>
+
+     <l n="12" xml:id="C072-l12"> tallant de si/ l'amor asapersona </l>
+
+     <l n="13" xml:id="C072-l13"> Tant son ell / les virtuts manifestes </l>
+
+     <l n="14" xml:id="C072-l14"> ques dira cech / l'<add>h</add>om qui be no les veja </l>
+
+     <l n="15" xml:id="C072-l15"> per los migs va / que'nlos extrems no toca </l>
+
+     <l n="16" xml:id="C072-l16"> entemps dels deus / envida ladoraren </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C072-lg3">
+
+     <l n="17" xml:id="C072-l17"> E deus vehent / la perlongada honta </l>
+
+     <l n="18" xml:id="C072-l18"> quels grans <choice>
+       <abbr>señors</abbr>
+       <expan>senyors</expan>
+      </choice> / encontradell cometen </l>
+
+     <l n="19" xml:id="C072-l19"> tenints ab frau / etirannes maneres </l>
+
+     <l n="20" xml:id="C072-l20"> les parts del mon / los pochs egrans realmes </l>
+
+     <l n="21" xml:id="C072-l21"> hadat voler / al justificat home </l>
+
+     <l n="22" xml:id="C072-l22"> quen breu espay / haja la monarchia </l>
+
+     <l n="23" xml:id="C072-l23"> clar lo nomen / ab aquestaltan senya </l>
+
+     <l n="24" xml:id="C072-l24"> comdetot cert / es dels homens pus saui </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C072-lg4">
+
+     <l n="25" xml:id="C072-l25"> Perço que mils / atotes gents se mostra </l>
+
+     <l n="26" xml:id="C072-l26"> mostrant l'aqu(*)ells / que Vaques e <choice>
+       <abbr>Boꝯ</abbr>
+       <expan>Bous</expan>
+      </choice> guarden </l>
+
+     <l n="27" xml:id="C072-l27"> ell es aquell / que'n sa jouentut tendra </l>
+
+     <l n="28" xml:id="C072-l28"> sobra'n a quells / qui sauiesa colen </l>
+
+     <l n="29" xml:id="C072-l29"> Edespocar de nombre de gent darmes </l>
+
+     <l n="30" xml:id="C072-l30"> les multituts / d'aquells ha fet retre </l>
+
+     <l n="31" xml:id="C072-l31"> tot quant pot fer / virtut de fortale<del rend="overwritten"
+       >z</del><add place="superimposed">s</add>a </l>
+
+     <l n="32" xml:id="C072-l32"> dins huncor d'<add place="interlinear">h</add>om / en lo seu ho
+      demostra </l>
+
+    </lg>
+
+    <pb n="101v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="5" xml:id="C072-lg5">
+
+     <l n="33" xml:id="C072-l33"> Engran defalt / es lo mon de poetes </l>
+
+     <l n="34" xml:id="C072-l34"> per embellir / los fets dels qui be hobren </l>
+
+     <l n="35" xml:id="C072-l35"> los freturants / de bella eloquença </l>
+
+     <l n="36" xml:id="C072-l36"> lorella d'<add place="interlinear">h</add>om / afalach no pot
+      rebre </l>
+
+     <l n="37" xml:id="C072-l37"> D'aquest valent / vna gran trompa sona </l>
+
+     <l n="38" xml:id="C072-l38"> quels jndians / ab vnpoch no exorda </l>
+
+     <l n="39" xml:id="C072-l39">
+      <del rend="overwritten">o </del><add place="superimposed">ho</add>en la'quells / qui son a
+      tremuntana </l>
+
+     <l n="40" xml:id="C072-l40"> y els de ponent / edeleuant los tartres </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C072-lg6">
+
+     <l n="41" xml:id="C072-l41"> Foll es aquell / que fa juhi'n los homens </l>
+
+     <l n="42" xml:id="C072-l42"> segons que dells / la fortuna ordena </l>
+
+     <l n="43" xml:id="C072-l43"> aquells afers / que no son en larbitre </l>
+
+     <l n="44" xml:id="C072-l44"> culpa noy cau / si venen percontrarj </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

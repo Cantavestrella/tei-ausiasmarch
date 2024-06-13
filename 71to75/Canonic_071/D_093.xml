@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 71</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>98v, centre, before first line</locus>C</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C071-D093">
+
+    <pb n="98v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="1" xml:id="C071-lg1">
+
+     <l n="1" xml:id="C071-l1"> Quem hacalgut / contemplar en amor </l>
+
+     <l n="2" xml:id="C071-l2"> ebe sentir / sos amagats secrets </l>
+
+     <l n="3" xml:id="C071-l3"> demos treballs / quins comptes me son fets </l>
+
+     <l n="4" xml:id="C071-l4"> vanament he / despesa madolor </l>
+
+     <l n="5" xml:id="C071-l5"> Tot lo meu seny / franch arbitre l'edat </l>
+
+     <l n="6" xml:id="C071-l6"> lo meu jouent / seruint ell he despes </l>
+
+     <l n="7" xml:id="C071-l7"> fins a present / no men so may repres </l>
+
+     <l n="8" xml:id="C071-l8"> preant vn mal / per begran stimat </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C071-lg2">
+
+     <l n="9" xml:id="C071-l9"> Vngran voler / hatengut mi cegat </l>
+
+     <l n="10" xml:id="C071-l10"> e fins hauer / envos esperiment </l>
+
+     <l n="11" xml:id="C071-l11"> molt hetardat / en sentir lo que sent </l>
+
+     <l n="12" xml:id="C071-l12"> enyor lo temps / que no pot sercobrat </l>
+
+     <l n="13" xml:id="C071-l13"> Enaquest temps / nom puch d'amor clamar </l>
+
+     <l n="14" xml:id="C071-l14"> sino de vos / aqui he bevolgut </l>
+
+     <l n="15" xml:id="C071-l15"> haueu me'ntes / emal guardo retut </l>
+
+     <l n="16" xml:id="C071-l16"> qui es lo dolç <note type="gloss" place="margin left">foll</note>
+      / que dona vol amar</l>
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C071-lg3">
+
+     <l n="17" xml:id="C071-l17"> Sienteniment / havolgut deu mostrar </l>
+
+     <l n="18" xml:id="C071-l18"> en dona'l mon / d'aquell no freturau </l>
+
+     <pb n="99r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="19" xml:id="C071-l19"> sideu es ver / del meu nous desaltau </l>
+
+     <l n="20" xml:id="C071-l20"> enqualitat / abmius veig acordar </l>
+
+     <l n="21" xml:id="C071-l21"> Pensar no pusch / quelo vostrevoler </l>
+
+     <l n="22" xml:id="C071-l22"> volgues may respermi no fos complit </l>
+
+     <l n="23" xml:id="C071-l23"> esiantes aci aquell delit </l>
+
+     <l n="24" xml:id="C071-l24"> quels amadors han continu esper </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C071-lg4">
+
+     <l n="25" xml:id="C071-l25"> Aquell delit que larma pot hauer </l>
+
+     <l n="26" xml:id="C071-l26"> encontentar enamor sagran part </l>
+
+     <l n="27" xml:id="C071-l27"> per mon sentir regles nedat eart </l>
+
+     <l n="28" xml:id="C071-l28"> als amadors freturans de saber </l>
+
+     <l n="29" xml:id="C071-l29"> Evos he vist exirdel <choice>
+       <abbr>ʋre</abbr>
+       <expan>vostre</expan>
+      </choice> seny </l>
+
+     <l n="30" xml:id="C071-l30"> en mi prenint delit yentot mondir </l>
+
+     <l n="31" xml:id="C071-l31"> e veyeu clar aquell james fallir </l>
+
+     <l n="32" xml:id="C071-l32"> ans monvoler en mes quels dits ateny </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C071-lg5">
+
+     <l n="33" xml:id="C071-l33"> Sil fort castell gent darmes lo costreny </l>
+
+     <l n="34" xml:id="C071-l34"> com es segur lo burch sens mur ne vall </l>
+
+     <l n="35" xml:id="C071-l35"> esienvos lafermetat defall </l>
+
+     <l n="36" xml:id="C071-l36"> no es al mon algu daço no reny </l>
+
+     <l n="37" xml:id="C071-l37"> Comporamar qui no es entenent </l>
+
+     <l n="38" xml:id="C071-l38"> com sera ferm lo qui es tremolant </l>
+
+     <l n="39" xml:id="C071-l39"> vos entenent ferma fos variant </l>
+
+     <l n="40" xml:id="C071-l40"> detot dich ver mas de ferma yo ment </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C071-lg6">
+
+     <l n="41" xml:id="C071-l41"> Daltres amors yo so molt penident </l>
+
+     <l n="42" xml:id="C071-l42"> lo remembrar tinch en abusio </l>
+
+     <pb n="99v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="43" xml:id="C071-l43"> en cap orat hecercadaraho </l>
+
+     <l n="44" xml:id="C071-l44"> yenteniment hondeu may nouconsent </l>
+
+     <l n="45" xml:id="C071-l45"> lo bon voler / cerqui<add>j</add>no sabent hon </l>
+
+     <l n="46" xml:id="C071-l46"> los apetits / hetrobats en molt loch </l>
+
+     <l n="47" xml:id="C071-l47"> durant aytant / com lo veure lo toch </l>
+
+     <l n="48" xml:id="C071-l48"> mas yo absent / no si deus me perdon </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C071-lg7">
+
+     <l n="49" xml:id="C071-l49"> Oamadors / recordeus lo que fon </l>
+
+     <l n="50" xml:id="C071-l50"> detots aquells / qui primer sonpassats </l>
+
+     <l n="51" xml:id="C071-l51"> los desgradats / casos d'amor estats </l>
+
+     <l n="52" xml:id="C071-l52"> yels mals tangrans / quengestes scritsson </l>
+
+     <l n="53" xml:id="C071-l53"> Resemblant es afort pluja destiu </l>
+
+     <l n="54" xml:id="C071-l54"> portant remor de trons m<del rend="overwritten">e</del><add
+       place="superimposed">o</add>strant relamps </l>
+
+     <l n="55" xml:id="C071-l55"> yenpoch espay los grans barranchs ecamps </l>
+
+     <l n="56" xml:id="C071-l56"> aygua no han quetrameten al riu </l>
+
+    </lg>
+
+    <lg type="cobla" n="8" xml:id="C071-lg8">
+
+     <l n="57" xml:id="C071-l57"> Quals son aquells amadors que yo viu </l>
+
+     <l n="58" xml:id="C071-l58"> que de amor durable porten jou </l>
+
+     <l n="59" xml:id="C071-l59"> fort voler crech molt poch durant los mou </l>
+
+     <l n="60" xml:id="C071-l60"> ço que volran lur apetit desdiu </l>
+
+     <l n="61" xml:id="C071-l61"> Puys res epart no toquen devirtut </l>
+
+     <l n="62" xml:id="C071-l62"> el esperit part no han sos delits </l>
+
+     <l n="63" xml:id="C071-l63"> vehent / tocant / lurs desigs soncomplits </l>
+
+     <l n="64" xml:id="C071-l64"> etal voler es tost fart e vençut </l>
+
+    </lg>
+
+    <lg type="cobla" n="9" xml:id="C071-lg9">
+
+     <l n="65" xml:id="C071-l65"> Qui en amor es ben apercebut </l>
+
+     <l n="66" xml:id="C071-l66"> sab quejames donatench voler ferm </l>
+
+     <l n="67" xml:id="C071-l67"> cordesonest y enteniment enferm </l>
+
+     <l n="68" xml:id="C071-l68"> los tal amor y nol han percebut </l>
+
+     <pb n="100r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="69" xml:id="C071-l69"> Com res del mon sens honestat no dur </l>
+
+     <l n="70" xml:id="C071-l70"> edelitar sens entendrem no pot </l>
+
+     <l n="71" xml:id="C071-l71"> edones han pocapart detal dot </l>
+
+     <l n="72" xml:id="C071-l72"> amor nopot enelles fer atur </l>
+
+    </lg>
+
+    <lg type="cobla" n="10" xml:id="C071-lg10">
+
+     <l n="73" xml:id="C071-l73"> Lanimal brut sera molt pus segur </l>
+
+     <l n="74" xml:id="C071-l74"> dest apetit quedona no sera </l>
+
+     <l n="75" xml:id="C071-l75"> car solament enlacte se moura </l>
+
+     <l n="76" xml:id="C071-l76"> sentint aquell quin lo plaher adur </l>
+
+     <l n="77" xml:id="C071-l77"> Ellapensant enalgun passat cas </l>
+
+     <l n="78" xml:id="C071-l78"> mourapetit enfet luxurios </l>
+
+     <l n="79" xml:id="C071-l79"> e sonvoler es aytant desijos </l>
+
+     <l n="80" xml:id="C071-l80"> tant quant enell mes se adelitas </l>
+
+    </lg>
+
+    <lg type="cobla" n="11" xml:id="C071-lg11">
+
+     <l n="81" xml:id="C071-l81"> Puis ental fet dona detant sobras </l>
+
+     <l n="82" xml:id="C071-l82"> lanimal brut ab lapensa sens pus </l>
+
+     <l n="83" xml:id="C071-l83"> lenteniment pot muntar lom tant sus </l>
+
+     <l n="84" xml:id="C071-l84"> que sonvoler damar no freturas </l>
+
+     <l n="85" xml:id="C071-l85"> foratjant tals dits continen<del rend="overwritten">çe</del><add
+       place="superimposed">ts</add><del rend="overstrike">s</del> e fets.</l>
+
+     <l n="86" xml:id="C071-l86"> quelesperit perfet amor concep </l>
+
+     <l n="87" xml:id="C071-l87"> entals quel cos jau encadena y çep </l>
+
+     <l n="88" xml:id="C071-l88"> siques bendit ells enamar perfets </l>
+
+    </lg>
+
+    <lg type="cobla" n="12" xml:id="C071-lg12">
+
+     <l n="89" xml:id="C071-l89"> Per honestat dona no tench estrets </l>
+
+     <l n="90" xml:id="C071-l90"> los seus volers que aquells no complis </l>
+
+     <l n="91" xml:id="C071-l91"> mas per hauer por que sin ells fallis </l>
+
+     <l n="92" xml:id="C071-l92"> no rebes dan o menyspreu serli fets </l>
+
+     <pb n="100v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="93" xml:id="C071-l93"> Gloriejar enlurben fet en se </l>
+
+     <l n="94" xml:id="C071-l94"> los es defes tals les ha fetes deu </l>
+
+     <l n="95" xml:id="C071-l95"> lo prim motiu es lo maestre seu </l>
+
+     <l n="96" xml:id="C071-l96"> ecorpahoruch don be sinan los ve </l>
+
+    </lg>
+
+    <lg type="cobla" n="13" xml:id="C071-lg13">
+
+     <l n="97" xml:id="C071-l97"> Graesch adeu fahent metant de be </l>
+
+     <l n="98" xml:id="C071-l98"> que monvoler nos delitan lur cor </l>
+
+     <l n="99" xml:id="C071-l99"> hoc enlo cos e nou dubte queu plor </l>
+
+     <l n="100" xml:id="C071-l100"> car per sonpreu yo son cert quen haure </l>
+
+     <l n="101" xml:id="C071-l101"> lur cap no val perque noy ha ceruell </l>
+
+     <l n="102" xml:id="C071-l102"> tot lals es bo segons aque serueix </l>
+
+     <l n="103" xml:id="C071-l103"> linatje dom migançant elles creix </l>
+
+     <l n="104" xml:id="C071-l104"> lur esser fon per augmentar aquell </l>
+
+    </lg>
+
+    <lg type="tornada" n="14" xml:id="C071-lg14">
+
+     <l n="105" xml:id="C071-l105"> Maldich lo temps quefuy menys deconsell </l>
+
+     <l n="106" xml:id="C071-l106"> dones amant mes que ami mateix </l>
+
+     <l n="107" xml:id="C071-l107"> amales tal qui be noles coneix </l>
+
+     <l n="108" xml:id="C071-l108"> eyom confes que fuy lo foll aquell. <note type="editorial">Al marge, + Fi, afegit
+      per una altra mà.</note> </l>
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

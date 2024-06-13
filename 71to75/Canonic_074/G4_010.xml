@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 74</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="IF">
+               <name>Isabel Fort</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2024.</p>
+               </licence>
+            </availability>
+            <date>2024-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra/mossen-ausias-march-poeta-manuscrito--0/">
+               <msIdentifier xml:id="G4_Ms_210_BHUV">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>10r after end of previous poem, before this one: </locus><choice>
+                           <abbr>Moß</abbr>
+                           <expan>Mossen</expan>
+                        </choice> auzias march</rubric>
+                     <rubric><locus>10r margin left, before first line:</locus>Esta obra es errada
+                        per<choice>
+                           <abbr>ꝗ</abbr>
+                           <expan>que</expan>
+                        </choice> comença la <choice>
+                           <abbr>ṗmera</abbr>
+                           <expan>primera</expan>
+                        </choice> cobla // als fats coma y es en est llibret D.Lxxviiij
+                        carts.</rubric>
+                     <rubric><locus>before every stanza except first and tornada</locus>·C·</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_30.html"/>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_31.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C074-G4010">
+
+            <pb n="10r"
+               facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_30.html"/>
+
+            <lg type="cobla" n="1" xml:id="C074-lg3">
+
+               <l n="1" xml:id="C074-l17"> Sicomals vents / es donada lanau </l>
+
+               <l n="2" xml:id="C074-l18"> mentres debat / als mariners vengut </l>
+
+               <l n="3" xml:id="C074-l19"> lladochs la nau / son cami atengut </l>
+
+               <l n="4" xml:id="C074-l20"> per senyal tal / <note type="editorial">De vegades trobem
+                     / . Considerem el punt irrellevant.</note> qual ans del contrast <del
+                     rend="illegible" extent="several characters"/>
+                  <add place="interlinear">jau</add>
+               </l>
+
+               <l n="5" xml:id="C074-l21"> Ne pren ami / car mon <choice>
+                     <abbr>entenimēt</abbr>
+                     <expan>enteniment</expan>
+                  </choice>
+               </l>
+
+               <l n="6" xml:id="C074-l22"> agran debat /ablo voler del cos </l>
+
+               <l n="7" xml:id="C074-l23"> determenat / car lur debat no gos </l>
+
+               <l n="8" xml:id="C074-l24"> proejant / temps / lapetit vaig siguent </l>
+
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C074-lg4">
+
+               <l n="9" xml:id="C074-l25"> Pasa lo temps / que fui damor<choice>
+                  <abbr>contēt</abbr>
+                     <expan>content</expan>
+                  </choice>
+               </l>
+
+               <l n="10" xml:id="C074-l26"> si be to<del rend="overstrike">s</del>
+                  <add place="interlinear">ts</add>temps / sentises grans dolors </l>
+
+               <l n="10" xml:id="C074-l27"> mescladament / dolors ab amargors </l>
+
+               <l n="11" xml:id="C074-l28"> creya Rey <choice>
+                  <abbr>ß</abbr>
+                  <expan>sser</expan>
+               </choice>/ ven<del rend="overstrike">t</del><add place="interlinear">hent</add> me dell <choice>
+                  <abbr>ß</abbr>
+                  <expan>ser</expan>
+               </choice>uent
+               </l>
+
+               <l n="12" xml:id="C074-l29"> Yo fui content / de<del rend="overstrike">s</del> tots
+                  sos mals ebens </l>
+
+               <l n="12" xml:id="C074-l30"> per bequel mal / sens be no pot venir </l>
+
+               <l n="13" xml:id="C074-l31"> mas yo amprench / <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice>ell mes <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> morir </l>
+
+               <l n="14" xml:id="C074-l32"> malament viu / quin mal fer notefrens </l>
+
+            </lg>
+
+            <pb n="10v"
+               facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_31.html"/>
+
+            <lg type="cobla" n="3" xml:id="C074-lg5">
+
+               <l n="15" xml:id="C074-l33"> Atu amor / qui ton poder mestens </l>
+
+               <l n="16" xml:id="C074-l34"> axi <choice>
+                     <abbr>fortmēt</abbr>
+                     <expan>fortment</expan>
+                  </choice> / que not puch resistir </l>
+
+               <l n="17" xml:id="C074-l35"> ix forami / puix en plaher no gir </l>
+
+               <l n="18" xml:id="C074-l36"> ma voluntat / afer tos manaments </l>
+
+               <l n="19" xml:id="C074-l37"> vulles auer / encontrami ergull </l>
+
+               <l n="20" xml:id="C074-l38"> lexa <choice>
+                  <abbr>vaßall</abbr>
+                  <expan>vassall</expan>
+               </choice> / qui not vol per <choice>
+                     <abbr>señor</abbr>
+                     <expan>senyor</expan>
+                  </choice>
+               </l>
+
+               <l n="21" xml:id="C074-l39"> quin mouiment / venç aquestadolor </l>
+
+               <l n="22" xml:id="C074-l40"> fent me jaquir / ben fer de<choice>
+                  <abbr>ꝗ</abbr>
+                     <expan>quem</expan>
+                  </choice> despull </l>
+
+            </lg>
+
+            <lg type="cobla" n="4" xml:id="C074-lg6">
+
+               <l n="23" xml:id="C074-l41"> Aquest meu fet / bona fi nol acull </l>
+
+               <l n="24" xml:id="C074-l42"> elo <choice>
+                     <abbr>pñt</abbr>
+                     <expan>present</expan>
+                  </choice> / es ple de gran tristor </l>
+
+               <l n="25" xml:id="C074-l43"> aquesta<add place="interlinear">m</add> ve / del dan
+                  avenidor </l>
+
+               <l n="26" xml:id="C074-l44"> que de present / lotinch <choice>
+                     <abbr>dauāt</abbr>
+                     <expan>dauant</expan>
+                  </choice> mon vll </l>
+
+               <l n="27" xml:id="C074-l45"> yol soferre / si ab cor molt ardit </l>
+
+               <l n="28" xml:id="C074-l46"> laque yo am / <choice>
+                     <abbr>ꝑ</abbr>
+                     <expan>per</expan>
+                  </choice> mi passa lo mal </l>
+
+               <l n="29" xml:id="C074-l47"> sens penedir / quis penit grat no val </l>
+
+               <l n="30" xml:id="C074-l448"> lladonchs la / mort <add place="interlinear"><choice>
+                  <abbr>nō</abbr>
+                  <expan>nom</expan>
+               </choice></add><choice>
+                  <abbr>ßa</abbr>
+                     <expan>sera</expan>
+                  </choice> sens delit </l>
+
+            </lg>
+
+            <lg type="tornada" n="5" xml:id="C074-lg7">
+
+               <l n="31" xml:id="C074-l49"> Lir entrecarts /gran eslo meu delit </l>
+
+               <l n="32" xml:id="C074-l50"> mentre no pens / lo que porien fer </l>
+
+               <l n="33" xml:id="C074-l51"> tot actes prop /della <choice>
+                     <abbr>hō</abbr>
+                     <expan>hon</expan>
+                  </choice> es poder </l>
+
+               <l n="34" xml:id="C074-l52"> si alvoler /gouerna lapetit </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

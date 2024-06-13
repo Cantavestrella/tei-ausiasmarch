@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 73</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+       to this document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result
+       work from a previous LaTEX format file out of the synoptic diplomatic edition
+       of the complete poemes of Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/">
+     <msIdentifier xml:id="e_Ed_1560_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>18v, centre, before first line</locus>DE AMOR CANT. XVIII.</rubric>
+       <rubric><locus>20r, header</locus>TORNADA.</rubric>
+       <rubric><locus>20r, centre, end of poem</locus>Fi del Cant. xviij.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_55.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_56.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_57.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_58.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C073-e018">
+
+    <pb n="18v" facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_55.html"/>
+
+    <lg type="cobla" n="1" xml:id="C073-lg1">
+
+     <l n="1" xml:id="C073-l1">
+      <c rend="large">N</c>O pens algu / quem allarch en paraules </l>
+
+     <l n="2" xml:id="C073-l2"> e que mos fets / ab los dits enferesca </l>
+
+     <l n="3" xml:id="C073-l3"> ans prech a Deu / que de present peresca </l>
+
+     <l n="4" xml:id="C073-l4"> si mon parlar / atany en res a faules. </l>
+
+     <l n="5" xml:id="C073-l5"> Mos fets d'Amor / ab los Romans acorden </l>
+
+     <l n="6" xml:id="C073-l6"> que foren mes / que los escrits no posen </l>
+
+     <l n="7" xml:id="C073-l7"> cells qui d'Amor / en lo mal se reposen </l>
+
+     <l n="8" xml:id="C073-l8"> en creure mi / consciença nols remorden. </l>
+
+    </lg>
+
+    <pb n="19r" facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_56.html"/>
+
+    <lg type="cobla" n="2" xml:id="C073-lg2">
+
+     <l n="9" xml:id="C073-l9"> Sens Amor son / aquells que'ab mi discorden </l>
+
+     <l n="10" xml:id="C073-l10"> e la dolor / de Amor temorejen </l>
+
+     <l n="11" xml:id="C073-l11"> e quant y son / exir d'ella cobejen </l>
+
+     <l n="12" xml:id="C073-l12"> y per tos temps / de si mateix recorden. </l>
+
+     <l n="13" xml:id="C073-l13"> Poch es amant / qui dolor lo turmenta </l>
+
+     <l n="14" xml:id="C073-l14"> si que que'volgues / menyscabar de aquella </l>
+
+     <l n="15" xml:id="C073-l15"> dins la color / es vna marauella </l>
+
+     <l n="16" xml:id="C073-l16"> que no se com / lo delit se presenta. </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C073-lg3">
+
+     <l n="17" xml:id="C073-l17"> Dolor d'Amor / a mi tant no turmenta </l>
+
+     <l n="18" xml:id="C073-l18"> qu'exir volgues / de son amargos terme </l>
+
+     <l n="19" xml:id="C073-l19"> e si dauant / me veig d'absenç'adverme </l>
+
+     <l n="20" xml:id="C073-l20"> e lo conort / contr'Amor dant enpenta. </l>
+
+     <l n="21" xml:id="C073-l21"> Yom dolch en tant / de guarir de la plaga </l>
+
+     <l n="22" xml:id="C073-l22"> que serch verins / que per lo conort muyra </l>
+
+     <l n="23" xml:id="C073-l23"> y en gran delit / james mon cor habuira </l>
+
+     <l n="24" xml:id="C073-l24"> fins qu'en Amor / ma pensa reste vaga. </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C073-lg4">
+
+     <l n="25" xml:id="C073-l25"> Vn gran delit / als amadors s'amaga </l>
+
+     <l n="26" xml:id="C073-l26"> a tots aquells / qu'en pur Amor no venen </l>
+
+     <l n="27" xml:id="C073-l27"> en lur voler / delit d'Amor no prenen </l>
+
+     <l n="28" xml:id="C073-l28"> ne senten be / sis pert nels afalaga. </l>
+
+     <l n="29" xml:id="C073-l29"> No es almon / tan gran delit de pensa </l>
+
+     <l n="30" xml:id="C073-l30"> com lo pensat / en la person'amada </l>
+
+     <l n="31" xml:id="C073-l31"> e quil ateny / tota caus'oblidada </l>
+
+     <l n="32" xml:id="C073-l32"> si que a si / no troba mentrey pensa. </l>
+
+    </lg>
+
+    <pb n="19v" facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_57.html"/>
+
+    <lg type="cobla" n="5" xml:id="C073-lg5">
+
+     <l n="33" xml:id="C073-l33"> Tebeu voler / delit d'Amor defensa </l>
+
+     <l n="34" xml:id="C073-l34"> los estrems han / de be complit semblança </l>
+
+     <l n="35" xml:id="C073-l35"> lo poch voler / no ha por n'esperança </l>
+
+     <l n="36" xml:id="C073-l36"> rebre no pot / gran be, ne molt'offensa. </l>
+
+     <l n="37" xml:id="C073-l37"> El altr'estrem / ell si mateix delita </l>
+
+     <l n="38" xml:id="C073-l38"> no recordant / del be venint espera </l>
+
+     <l n="39" xml:id="C073-l39"> cascu d'aquests / ha la sua carrera </l>
+
+     <l n="40" xml:id="C073-l40"> e lo del mig / no sab hon se habita. </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C073-lg6">
+
+     <l n="41" xml:id="C073-l41"> Yo so aquell / seruent qui no despita </l>
+
+     <l n="42" xml:id="C073-l42"> sino ateny / del seruey coneixença </l>
+
+     <l n="43" xml:id="C073-l43"> tot es aquell / hon sa ben volença </l>
+
+     <l n="44" xml:id="C073-l44"> y en son voler / tot lo seu s'abilita. </l>
+
+     <l n="45" xml:id="C073-l45"> Tant en Amor / ma pens'en alt grau munta </l>
+
+     <l n="46" xml:id="C073-l46"> que m'arma es / dins en los cos que ama </l>
+
+     <l n="47" xml:id="C073-l47"> e mi mateix / auorresch sim desama </l>
+
+     <l n="48" xml:id="C073-l48"> y en res de mi / voluntat he defunta. </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C073-lg7">
+
+     <l n="49" xml:id="C073-l49"> Dins si mateix / veu gran gloria junta </l>
+
+     <l n="50" xml:id="C073-l50"> qui de Amor / be ne mal no spera </l>
+
+     <l n="51" xml:id="C073-l51"> altre amant / ab voluntat sancéra </l>
+
+     <l n="52" xml:id="C073-l52"> per ses virtuts / ses passions conjunta. </l>
+
+     <l n="53" xml:id="C073-l53"> Nostre sperit / sols bens e vírtuts guarda </l>
+
+     <l n="54" xml:id="C073-l54"> quant solament / vsa de sa natura </l>
+
+     <l n="55" xml:id="C073-l55"> amant per si / aquella creatura </l>
+
+     <l n="56" xml:id="C073-l56"> que les virtuts / als vicis li son guarda. </l>
+
+    </lg>
+
+    <pb n="20r" facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_58.html"/>
+
+    <lg type="tornada" n="8" xml:id="C073-lg8">
+
+     <l n="57" xml:id="C073-l57"> Lir entre carts / qui d'Amor se pren guarda </l>
+
+     <l n="58" xml:id="C073-l58"> tres parts sen fa / dues seguint natura </l>
+
+     <l n="59" xml:id="C073-l59"> la vna mor / elaltra tostemps dura </l>
+
+     <l n="60" xml:id="C073-l60"> la terça es / que fals apetit guarda. </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

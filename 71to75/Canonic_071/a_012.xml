@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 71</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="IF">
+               <name>Isabel Fort</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer </resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2024.</p>
+               </licence>
+            </availability>
+            <date>2024-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+               <msIdentifier xml:id="a_Ed_1539_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric>
+                        <locus>22v header</locus>¶ Capitulo.XII Marco.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="//www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_45.html"/>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_46.html"/>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_47.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C071-a012">
+
+            <pb n="22v"
+               facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_45.html"/>
+            <lg type="cobla" n="1" xml:id="C071-lg1">
+
+               <l n="1" xml:id="C071-l1">¶ Que ma calgut / contemplar en amor </l>
+
+               <l n="2" xml:id="C071-l2"> E be sentir / sos amagats secrets </l>
+
+               <l n="3" xml:id="C071-l3"> De mos treballs / quins contes men son fets </l>
+
+               <l n="4" xml:id="C071-l4"> Vanament he / despesa ma dolor </l>
+
+               <l n="5" xml:id="C071-l5"> Tot lo meu seny / y arbitre franch le dat </l>
+
+               <l n="6" xml:id="C071-l6"> Y lo jouent / seruint ell he despes </l>
+
+               <l n="7" xml:id="C071-l7"> Fins al present / no men so may repres </l>
+
+               <l n="8" xml:id="C071-l8"> Preant vn mal / per be tan estimat </l>
+
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C071-lg2">
+
+               <l n="9" xml:id="C071-l9">¶ Mon gran voler / a tengut mi segat </l>
+
+               <l n="10" xml:id="C071-l10">Sens hauer vist / en vos speriment </l>
+
+               <l n="11" xml:id="C071-l11">Molt he tardat / en sentir loque sent </l>
+
+               <l n="12" xml:id="C071-l12">Enyor lo temps / que no pot ser cobrat </l>
+
+               <l n="13" xml:id="C071-l13">En tot aquest / nom puch damor clamar </l>
+
+               <l n="14" xml:id="C071-l14">Sino de vos / a qui he be volgut </l>
+
+               <l n="15" xml:id="C071-l15">Hauent me entes / e mal guardo retut </l>
+
+               <l n="16" xml:id="C071-l16">Qui es lo dolç / qui dona vol amar: </l>
+
+            </lg>
+
+            <pb n="23r"
+               facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_46.html"/>
+            <note type="editorial">L'edició repeteix erròniament el mateix número 22 del foli
+               anterior, en comptes del 23, que és el que realment correspon.</note>
+            <lg type="cobla" n="3" xml:id="C071-lg7">
+
+               <l n="17" xml:id="C071-l49"> ¶ O amadors / recortuos loque fon </l>
+
+               <l n="18" xml:id="C071-l50">De tots aquells / qui primer son stats </l>
+
+               <l n="19" xml:id="C071-l51">Los degradats / casos damor passats </l>
+
+               <l n="20" xml:id="C071-l52">Yls mals tan grans / quen gestes scrits son. </l>
+
+               <l n="21" xml:id="C071-l53">Ressemblant es / a fort pluja destiu </l>
+
+               <l n="22" xml:id="C071-l54">Portant remor / de trons mostrant rellamps </l>
+
+               <l n="23" xml:id="C071-l55">Y en poch spay / los grans barranchs e camps </l>
+
+               <l n="24" xml:id="C071-l56">Aygua no han / que trametan al riu. </l>
+
+            </lg>
+
+            <pb n="23v"
+               facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_47.html"/>
+
+            <lg type="cobla" n="4" xml:id="C071-lg8">
+
+               <l n="25" xml:id="C071-l57">¶ Quals son aquells / amadors que yo viu </l>
+
+               <l n="26" xml:id="C071-l58">Que de amor / durable porten jou </l>
+
+               <l n="27" xml:id="C071-l59">Fort voler hoch / molt poch durant los mou </l>
+
+               <l n="28" xml:id="C071-l60">Lo que volran / son apetit desdiu: </l>
+
+               <l n="29" xml:id="C071-l61">Puix res en part / no toquen de virtut </l>
+
+               <l n="30" xml:id="C071-l62">Elesperit / part no tensos delits </l>
+
+               <l n="31" xml:id="C071-l63">Vehent: tocant / son sos desigs cumplits </l>
+
+               <l n="32" xml:id="C071-l64">E tal voler / es tost fart e vensut. </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

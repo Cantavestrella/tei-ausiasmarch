@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 74</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"
+      notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+       to this document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result
+       work from a previous LaTEX format file out of the synoptic diplomatic edition
+       of the complete poemes of Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>155, centre, before first line</locus>{Mossen Ausias march}</rubric>
+       <rubric><locus>157, centre, beetwen lines 48 and 49</locus>{Tornada}</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_157.html"/>
+  <graphic url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_158.html"/>
+  <graphic url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_159.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C074-N073">
+
+    <pb n="155" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_157.html"/>
+
+    <lg type="cobla" n="1" xml:id="C074-lg1">
+
+     <l n="1" xml:id="C074-l1"> ¶ Als fats coman tot quant sera demj </l>
+
+     <l n="2" xml:id="C074-l2"> Puys so estolt dema electio </l>
+
+     <l n="3" xml:id="C074-l3"> Mon seny es mort aquj deu no perdo </l>
+
+     <l n="4" xml:id="C074-l4"> Pus alcomenc deltot me derenclj </l>
+
+     <l n="5" xml:id="C074-l5"> Ya no es temps tenir frens al voler </l>
+
+     <l n="6" xml:id="C074-l6"> Malalta es ma bona voluntat </l>
+
+     <l n="7" xml:id="C074-l7"> E vaig enloch on no vull ser portat </l>
+
+     <l n="8" xml:id="C074-l8"> So descontent de tot quant pusqua fer </l>
+
+    </lg>
+
+    <pb n="156" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_158.html"/>
+
+    <lg type="cobla" n="2" xml:id="C074-lg2">
+
+     <l n="9" xml:id="C074-l9"> Si com alhom nolj basta poder </l>
+
+     <l n="10" xml:id="C074-l10"> Paralitich quant es enpeu leuat </l>
+
+     <l n="11" xml:id="C074-l11"> Anar al loch on uol esser anat </l>
+
+     <l n="12" xml:id="C074-l12"> Ans cau atort va contra son mester </l>
+
+     <l n="13" xml:id="C074-l13"> Ne pren amj que fac lo que nom plau </l>
+
+     <l n="14" xml:id="C074-l14"> Aquell uoler dela rahos vencut </l>
+
+     <l n="15" xml:id="C074-l15"> Laltre voler detot nos complangut </l>
+
+     <l n="16" xml:id="C074-l16"> Don sens cor fac tot queals demjuejau </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C074-lg3">
+
+     <l n="17" xml:id="C074-l17"> Si com als vents es donada lanau </l>
+
+     <l n="18" xml:id="C074-l18"> Mentres debat als marjnes vengut </l>
+
+     <l n="19" xml:id="C074-l19"> La donchs lanau son camj hatengut </l>
+
+     <l n="20" xml:id="C074-l20"> Per senya tal qual ans del contrast jau </l>
+
+     <l n="21" xml:id="C074-l21"> Ne pren amj car mon entenjment </l>
+
+     <l n="22" xml:id="C074-l22"> Ha gran debat ablo uoler del cors </l>
+
+     <l n="23" xml:id="C074-l23"> Determenar lur debat clar no gos </l>
+
+     <l n="24" xml:id="C074-l24"> Penjant lotemps lapetit vag siguent </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C074-lg4">
+
+     <l n="25" xml:id="C074-l25"> Passa lo temps que fuy damor content </l>
+
+     <l n="26" xml:id="C074-l26"> Si be tostemps senti ses grans dolors </l>
+
+     <l n="27" xml:id="C074-l27"> Mescladament del cors ab sos dolors </l>
+
+     <l n="28" xml:id="C074-l28"> Creya rey ser vehent me dell seruent </l>
+
+     <l n="29" xml:id="C074-l29"> Yo fuy content de sos mals sens los bens </l>
+
+     <l n="30" xml:id="C074-l30"> Perbe quel mal sens be no pot venir </l>
+
+     <l n="31" xml:id="C074-l31"> Mas yo emprench per ell mes que morir </l>
+
+     <l n="32" xml:id="C074-l32"> Malament viu quin mal fer no te frens </l>
+
+    </lg>
+
+    <pb n="157" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_159.html"/>
+
+    <lg type="cobla" n="5" xml:id="C074-lg5">
+
+     <l n="33" xml:id="C074-l33"> Ho tu amor quj ton poder mes tens </l>
+
+     <l n="34" xml:id="C074-l34"> Axi fortment que no puch rehestir </l>
+
+     <l n="35" xml:id="C074-l35"> Hix foramj puyr<note type="editorial"> Per puys.</note> enplaer no gir </l>
+
+     <l n="36" xml:id="C074-l36"> Ma uoluntat afer tos manaments </l>
+
+     <l n="37" xml:id="C074-l37"> Vulles hauer encontre mj ergull </l>
+
+     <l n="38" xml:id="C074-l38"> Lexa vexall quj not vol per senyor </l>
+
+     <l n="39" xml:id="C074-l39"> Quin mouiment venc aquesta dolor </l>
+
+     <l n="40" xml:id="C074-l40"> Ffent me jaquir ben fer dequem despull </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C074-lg6">
+
+     <l n="41" xml:id="C074-l41"> Aquest meu fet bona fi nol acull </l>
+
+     <l n="42" xml:id="C074-l42"> E lopresent es ple <add place="interlinear">de</add> gran tristor </l>
+
+     <l n="43" xml:id="C074-l43"> Aquesta ve del dan auenjdor </l>
+
+     <l n="44" xml:id="C074-l44"> Que de present lo tinch dauant mon hull </l>
+
+     <l n="45" xml:id="C074-l45"> Yoll sofare si ab cor molt ardit </l>
+
+     <l n="46" xml:id="C074-l46"> La que yo am permj passa lomal </l>
+
+     <l n="47" xml:id="C074-l47"> Sens penedir quis penit grat nol val </l>
+
+     <l n="48" xml:id="C074-l48"> La donchs lamort nom sera sens delit </l>
+
+    </lg>
+
+    <lg type="tornada" n="7" xml:id="C074-lg7">
+
+     <l n="49" xml:id="C074-l49"> Lir entre carts gran es lo meu delit </l>
+
+     <l n="50" xml:id="C074-l50"> Mentre no pens lo que porieu fer </l>
+
+     <l n="51" xml:id="C074-l51"> Tot actes prop dela hon es poder </l>
+
+     <l n="52" xml:id="C074-l52"> Si al voler gouerna lapetit </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

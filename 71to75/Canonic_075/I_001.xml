@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 75</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/canconer-dobres-enamorades-manuscrit--0/">
+     <msIdentifier xml:id="I_Ms_10_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>23v, header, before first line</locus>Mossen Auzias march</rubric>
+       <rubric><locus>24v, centre, between lines 88 and 89</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_47.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_48.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_49.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C075-I001">
+
+    <pb n="23v"
+     facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_47.html"/>
+
+    <lg type="cobla" n="1" xml:id="C075-lg1">
+
+     <l n="1" xml:id="C075-l1"> Qual sera quell / qui en amor contemple </l>
+
+     <l n="2" xml:id="C075-l2"> Com jo quj cent / sos delits hon abasten </l>
+
+     <l n="3" xml:id="C075-l3"> Quj son aquells / qui dolçamargor tasten </l>
+
+     <l n="4" xml:id="C075-l4"> E juntes mans / ladoren fora temple </l>
+
+     <l n="5" xml:id="C075-l5"> Jo so tot sol / aqui natura streny </l>
+
+     <l n="6" xml:id="C075-l6"> A no poder / als fer ne pus entendre </l>
+
+     <l n="7" xml:id="C075-l7"> Sino amar / e volent men deffendre </l>
+
+     <l n="8" xml:id="C075-l8"> Nom vol seguir / ares als fer null seny </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C075-lg2">
+
+     <l n="9" xml:id="C075-l9"> Sim don solaç / crehen cert que jol feny </l>
+
+     <l n="10" xml:id="C075-l10"> Sinoy acull / amor al delit pendre </l>
+
+     <l n="11" xml:id="C075-l11"> Les potestats / del cel han volgut vendre </l>
+
+     <l n="12" xml:id="C075-l12"> E fer catiu / de mon voler lo seny </l>
+
+     <l n="13" xml:id="C075-l13"> Nom reptalgu / car tots veig solaçar </l>
+
+     <l n="14" xml:id="C075-l14"> Segons cascu / sa calitat raquer </l>
+
+     <l n="15" xml:id="C075-l15"> Quin aquest mon / honor vol o diner </l>
+
+     <l n="16" xml:id="C075-l16"> Tingues esment / ja te causa darrar </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C075-lg3">
+
+     <l n="17" xml:id="C075-l17"> Lo temps dels deus / se vol ara mostrar </l>
+
+     <l n="18" xml:id="C075-l18"> Car dintre si / vn deu cascu vol fer </l>
+
+     <l n="19" xml:id="C075-l19"> E dels desigs / hon corre lo voler </l>
+
+     <l n="20" xml:id="C075-l20"> Sollempnes deus / atots veiy adorar </l>
+
+     <l n="21" xml:id="C075-l21"> E sobre tots / <hi rend="underline">venus</hi> es mjls seruida </l>
+
+     <l n="22" xml:id="C075-l22"> Car nostra carn / no coneix altre deu </l>
+
+     <l n="23" xml:id="C075-l23">
+      <hi rend="underline"><choice>
+        <abbr>Baccꝯ</abbr>
+        <expan>Baccus</expan>
+       </choice></hi> enpart / sa fauor nol es greu </l>
+
+     <l n="24" xml:id="C075-l24">
+      <hi rend="underline">Ceres</hi> muller / non es enfellonjda </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C075-lg4">
+
+     <l n="25" xml:id="C075-l25">
+      <hi rend="underline">Juno</hi> del mon / te vna gran partida </l>
+
+     <l n="26" xml:id="C075-l26"> Diu que deu ser / <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> costal juhi seu </l>
+
+     <l n="27" xml:id="C075-l27">
+      <hi rend="underline">Saturn</hi> e <hi rend="underline">Marc</hi> / no torben sa gran veu </l>
+
+     <l n="28" xml:id="C075-l28"> Allur poder / <hi rend="underline">Junoy</hi>
+      <hi rend="underline"><choice>
+        <abbr>venꝯ</abbr>
+        <expan>venus</expan>
+       </choice></hi> dan vida </l>
+
+     <l n="29" xml:id="C075-l29"> Mas <hi rend="underline"><choice>
+        <abbr>venꝯ</abbr>
+        <expan>venus</expan>
+       </choice></hi> diu / Jo so rey natural </l>
+
+     <l n="30" xml:id="C075-l30"> Ab alguns deus / senyors <choice>
+       <abbr>iꝯ</abbr>
+       <expan>ius</expan>
+      </choice> mj scients </l>
+
+     <l n="31" xml:id="C075-l31"> Per mj son bons / e per si no valents </l>
+
+     <l n="32" xml:id="C075-l32"> Los altres han / poder accidental </l>
+
+    </lg>
+
+    <pb n="24r"
+     facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_48.html"/>
+
+    <lg type="cobla" n="5" xml:id="C075-lg5">
+
+     <l n="33" xml:id="C075-l33">
+      <hi rend="underline"><choice>
+        <abbr>Mercuriꝯ</abbr>
+        <expan>Mercurius</expan>
+       </choice></hi> e <hi rend="underline">pallas</hi> / <choice>
+       <abbr>veꝯ</abbr>
+       <expan>veus</expan>
+      </choice> nols val </l>
+
+     <l n="34" xml:id="C075-l34"> Desfalagant / lorella del hoent </l>
+
+     <l n="35" xml:id="C075-l35">
+      <hi rend="underline">Diana</hi> es / de fauor menys potent </l>
+
+     <l n="36" xml:id="C075-l36"> Mas en lo mon / <hi rend="underline">deu<del rend="overstrike"
+        >s</del></hi> los ha dat cabal </l>
+
+     <l n="37" xml:id="C075-l37"> Que lur gran nom / es pel mon preycat </l>
+
+     <l n="38" xml:id="C075-l38"> E totes gents / daquesta manen festa </l>
+
+     <l n="39" xml:id="C075-l39"> Colta no es / car de cascu nol resta </l>
+
+     <l n="40" xml:id="C075-l40"> Sino un troç / decarn dins dents trencat </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C075-lg6">
+
+     <l n="41" xml:id="C075-l41"> En gran discort / esta lo mon posat </l>
+
+     <l n="42" xml:id="C075-l42">
+      <hi rend="underline">Venus</hi> del mon / se trau la fina lesta </l>
+
+     <l n="43" xml:id="C075-l43"> Tot home bo / en son hostal se resta </l>
+
+     <l n="44" xml:id="C075-l44"> Eual se poch / quj noy es albergat </l>
+
+     <l n="45" xml:id="C075-l45">
+      <hi rend="underline">Juno</hi> te gent / en dues parts gitada </l>
+
+     <l n="46" xml:id="C075-l46"> Prop dela mort / cobeiosa de viura </l>
+
+     <l n="47" xml:id="C075-l47"> Altre que veig / debaix estat delliure </l>
+
+     <l n="48" xml:id="C075-l48"> Ffamatenyents / ab leig vici guanyada </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C075-lg7">
+
+     <l n="49" xml:id="C075-l49">
+      <hi rend="underline">Ceres</hi> quant es / a <hi rend="underline"><choice>
+        <abbr>Venꝯ</abbr>
+        <expan>Venus</expan>
+       </choice></hi> ordenada </l>
+
+     <l n="50" xml:id="C075-l50"> Ydeu aquell / qui <hi rend="underline"><choice>
+        <abbr>Baccꝯ</abbr>
+        <expan>Baccus</expan>
+       </choice></hi> se fascriure </l>
+
+     <l n="51" xml:id="C075-l51"> Als peus del deu / <hi rend="underline"><choice>
+        <abbr>venꝯ</abbr>
+        <expan>venus</expan>
+       </choice></hi> se deuen siure </l>
+
+     <l n="52" xml:id="C075-l52"> Estants per si / lur sectes diffamada </l>
+
+     <l n="53" xml:id="C075-l53"> Car no guardant / a <hi rend="underline"><choice>
+        <abbr>venꝯ</abbr>
+        <expan>venus</expan>
+       </choice></hi> reuerença </l>
+
+     <l n="54" xml:id="C075-l54"> Son menys presats / en lo mon e maldits </l>
+
+     <l n="55" xml:id="C075-l55"> Lanimal brut / non uol estrems delits </l>
+
+     <l n="56" xml:id="C075-l56"> Elo cors dom / ne passa penitença </l>
+
+    </lg>
+
+    <lg type="cobla" n="8" xml:id="C075-lg8">
+
+     <l n="57" xml:id="C075-l57">
+      <hi rend="underline">Saturn</hi> e <hi rend="underline">març</hi> / per si no han potença </l>
+
+     <l n="58" xml:id="C075-l58"> Mas <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> dos <choice>
+       <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> / son estrem fauorits </l>
+
+     <l n="59" xml:id="C075-l59"> Guardant honor / a <hi rend="underline"><choice>
+        <abbr>Venꝯ</abbr>
+        <expan>Venus</expan>
+       </choice></hi> son seruits </l>
+
+     <l n="60" xml:id="C075-l60"> E per haver / a <hi rend="underline">Junon</hi> reuerença </l>
+
+     <l n="61" xml:id="C075-l61">
+      <hi rend="underline">Març</hi> e <hi rend="underline">Saturn</hi> / humjlment obeeix </l>
+
+     <l n="62" xml:id="C075-l62"> E lobeir / entrells molt se cambia </l>
+
+     <l n="63" xml:id="C075-l63">
+      <hi rend="underline"><choice>
+        <abbr>Mercuriꝯ</abbr>
+        <expan>Mercurius</expan>
+       </choice></hi> / e <hi rend="underline">Pallas</hi> no volria </l>
+
+     <l n="64" xml:id="C075-l64"> Parlar daquests / car pietat men creix </l>
+
+    </lg>
+
+    <pb n="24v"
+     facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_49.html"/>
+
+    <lg type="cobla" n="9" xml:id="C075-lg9">
+
+     <l n="65" xml:id="C075-l65"> Linperfet hom / a <hi rend="underline">diana</hi> serueix </l>
+
+     <l n="66" xml:id="C075-l66"> E tots aquells / hon la vides deuia </l>
+
+     <l n="67" xml:id="C075-l67"> Car <hi rend="underline"><choice>
+        <abbr>Venꝯ</abbr>
+        <expan>Venus</expan>
+       </choice></hi> ha / tan dolça parlaria </l>
+
+     <l n="68" xml:id="C075-l68"> Que tot voler / asi lo redueix </l>
+
+     <l n="69" xml:id="C075-l69"> Los publichs prechs / sendrecen a<hi rend="underline">diana</hi>
+     </l>
+
+     <l n="70" xml:id="C075-l70"> La voluntat / es de <hi rend="underline"><choice>
+        <abbr>Venꝯ</abbr>
+        <expan>Venus</expan>
+       </choice></hi> entegra </l>
+
+     <l n="71" xml:id="C075-l71"> Al temple seu / sil jorn clar fos nit cega </l>
+
+     <l n="72" xml:id="C075-l72"> Los grans barranchs / foren carrera plana </l>
+
+    </lg>
+
+    <lg type="cobla" n="10" xml:id="C075-lg10">
+
+     <l n="73" xml:id="C075-l73"> Aquellas gents / ab la pensa molt vana </l>
+
+     <l n="74" xml:id="C075-l74"> Que ab raho / james han pau ne bregua </l>
+
+     <l n="75" xml:id="C075-l75"> Per lur cor flach / de vergonya fan plegua </l>
+
+     <l n="76" xml:id="C075-l76"> Quils met vn fre / donant los vida sana </l>
+
+     <l n="77" xml:id="C075-l77"> E si lo giny / de <hi rend="underline">venus</hi> romp tal fre </l>
+
+     <l n="78" xml:id="C075-l78"> Saben li grat / com axis vehen soltes </l>
+
+     <l n="79" xml:id="C075-l79"> Quen son servir / nos mostren ser en boltes </l>
+
+     <l n="80" xml:id="C075-l80"> Ffent li present / del millor dellur be </l>
+
+    </lg>
+
+    <lg type="cobla" n="11" xml:id="C075-lg11">
+
+     <l n="81" xml:id="C075-l81"> En lo començ / por edianals te </l>
+
+     <l n="82" xml:id="C075-l82"> Mas si lo cel / dignorants les ha toltes </l>
+
+     <l n="83" xml:id="C075-l83">
+      <hi rend="underline"><choice>
+        <abbr>Venꝯ</abbr>
+        <expan>Venus</expan>
+       </choice></hi> colents / <hi rend="underline">Març</hi> e <hi rend="underline">Saturn</hi>
+      avoltes </l>
+
+     <l n="84" xml:id="C075-l84"> Entre lurs <choice>
+       <abbr>peꝯ</abbr>
+       <expan>peus</expan>
+      </choice> / <hi rend="underline">diana</hi> va eve </l>
+
+     <l n="85" xml:id="C075-l85"> Ladonchs en fet / colen <hi rend="underline"><choice>
+        <abbr>Venꝯ</abbr>
+        <expan>Venus</expan>
+       </choice></hi> deessa </l>
+
+     <l n="86" xml:id="C075-l86"> Cuydant haver / la batalla molt justa </l>
+
+     <l n="87" xml:id="C075-l87"> Contra tothom / qui del cas les affusta </l>
+
+     <l n="88" xml:id="C075-l88"> E per tostemps / por e vergonya cessa </l>
+
+    </lg>
+
+    <lg type="tornada" n="12" xml:id="C075-lg12">
+
+     <l n="89" xml:id="C075-l89"> Senyal de be / en tota dona cessa </l>
+
+     <l n="90" xml:id="C075-l90"> Com dins son cor / vergonya nos ajusta </l>
+
+     <l n="91" xml:id="C075-l91"> Yal sauj hom / es vici quil afusta </l>
+
+     <l n="92" xml:id="C075-l92"> La raho pert / qui es en ell <choice>
+       <abbr>ṗncessa</abbr>
+       <expan>princessa</expan>
+      </choice>
+     </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

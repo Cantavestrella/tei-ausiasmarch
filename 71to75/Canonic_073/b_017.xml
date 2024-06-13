@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 73</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/">
+     <msIdentifier xml:id="b_Ed_1543_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>14r, header</locus>DE AMORS: Fo. Lxiiii:</rubric>
+       <rubric><locus>15r, header</locus>DE AMORS: Fo. XV.</rubric>
+       <rubric><locus>15r, centre, between lines 56 and 57</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_36.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_37.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_38.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C073-b017">
+
+    <pb n="14r"
+     facs="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_36.html"/>
+
+    <lg type="cobla" n="1" xml:id="C073-lg1">
+
+     <l n="1" xml:id="C073-l1">
+      <c rend="large">N</c>O pens algu / <choice>
+       <abbr>quē</abbr>
+       <expan>quem</expan>
+      </choice> allarch en paraules </l>
+
+     <l n="2" xml:id="C073-l2"> he que mos fets / ab los dits en feresca </l>
+
+     <l n="3" xml:id="C073-l3"> ans prech a deu / que de present peresca </l>
+
+     <l n="4" xml:id="C073-l4"> si mon parlar / a tany'en res ha faules </l>
+
+     <l n="5" xml:id="C073-l5"> mos fets d'amor / ab los romans, acorden </l>
+
+     <l n="6" xml:id="C073-l6"> que foren mes / que los scrits, no posen </l>
+
+     <l n="7" xml:id="C073-l7"> cells qui d'amor / en lo mal se, reposen </l>
+
+     <l n="8" xml:id="C073-l8"> en creure mi / conciences nols remorden </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C073-lg2">
+
+     <l n="9" xml:id="C073-l9"> Sens amor son / <choice>
+       <abbr>aꝗlls</abbr>
+       <expan>aquells</expan>
+      </choice> qu'ab mi discorden </l>
+
+     <l n="10" xml:id="C073-l10"> he lo dolor / de, amor temorejen </l>
+
+     <l n="11" xml:id="C073-l11"> he quant hi son / exir, della cobejen </l>
+
+     <l n="12" xml:id="C073-l12"> he per tots temps / desimateixs, recorden </l>
+
+     <l n="13" xml:id="C073-l13"> poch es, amant / qui dolor, lo turmenta </l>
+
+     <l n="14" xml:id="C073-l14"> si que volgues / menys cabar, de aquella </l>
+
+     <l n="15" xml:id="C073-l15"> dins la calor / es vna marauella </l>
+
+     <l n="16" xml:id="C073-l16"> que no se com / lo delit, si presenta </l>
+
+    </lg>
+
+    <pb n="14v"
+     facs="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_37.html"/>
+
+    <lg type="cobla" n="3" xml:id="C073-lg3">
+
+     <l n="17" xml:id="C073-l17"> Dolor d'amor / ami tant no turmenta </l>
+
+     <l n="18" xml:id="C073-l18"> que'xir volgues / de son, amargos terme </l>
+
+     <l n="19" xml:id="C073-l19"> he si dauant / me veig, d'absença'duerme <note type="editorial"
+       >Per d'absença verme.</note>
+     </l>
+
+     <l n="20" xml:id="C073-l20"> he lo conort / contr'amor dant empenta </l>
+
+     <l n="21" xml:id="C073-l21"> yom dolch en tant / de guarir dela plaga </l>
+
+     <l n="22" xml:id="C073-l22"> que cerch verins / per que lo conort muyra </l>
+
+     <l n="23" xml:id="C073-l23"> y en gran delit / james mon cor, habuyra <note type="gloss"
+       place="margin left"> Iames habuyra per james reposa </note></l>
+
+     <l n="24" xml:id="C073-l24"> fins qu'en amor / ma pensa, resta, vaga </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C073-lg4">
+
+     <l n="25" xml:id="C073-l25"> Vn gran delit / als amadors s'amaga </l>
+
+     <l n="26" xml:id="C073-l26"> a tots aquells / que molt amor no tenen </l>
+
+     <l n="27" xml:id="C073-l27"> en lur voler / delit d'amor no prenen </l>
+
+     <l n="28" xml:id="C073-l28"> ne senten be / sis pert, nols afalaga </l>
+
+     <l n="29" xml:id="C073-l29"> no es al mon / tan gran delit depensa </l>
+
+     <l n="30" xml:id="C073-l30"> com lo pensar / en la persona'mada </l>
+
+     <l n="31" xml:id="C073-l31"> he quil ateny / tota causa'blidada </l>
+
+     <l n="32" xml:id="C073-l32"> si que a si / no troba mentrey, pensa </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C073-lg5">
+
+     <l n="33" xml:id="C073-l33"> Tebeu voler / delit d'amor defensa </l>
+
+     <l n="34" xml:id="C073-l34"> los extrems han / debe <choice>
+      <abbr>cōplit</abbr>
+       <expan>complit</expan>
+      </choice>
+      <choice>
+       <abbr>semblāça</abbr>
+       <expan>semblança</expan>
+      </choice>
+     </l>
+
+     <l n="35" xml:id="C073-l35"> lo poch voler / no ha por, ne sperança </l>
+
+     <l n="36" xml:id="C073-l36"> rebre no pot gran be ne molt'offença </l>
+
+     <l n="37" xml:id="C073-l37"> he lalt extrem / ell, simateix delita </l>
+
+     <l n="38" xml:id="C073-l38"> no recordant / del be venint, spera </l>
+
+     <l n="39" xml:id="C073-l39"> cascu daquest / hala sua carrera </l>
+
+     <l n="40" xml:id="C073-l40"> he lo del mig / no sab hon se, habita </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C073-lg6">
+
+     <l n="41" xml:id="C073-l41"> Yo so aquell / seruent, qui no despita </l>
+
+     <l n="42" xml:id="C073-l42"> sino ateny / del seruey coneixença </l>
+
+     <l n="43" xml:id="C073-l43"> tot, es, aquell / hon ha sa ben valença </l>
+
+     <l n="44" xml:id="C073-l44"> y en son voler / tot lo seu s'abilita </l>
+
+     <pb n="15r"
+      facs="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/ffb010ca-82b1-11df-acc7-002185ce6064_38.html"/>
+
+     <l n="45" xml:id="C073-l45"> que ma'rma es / dins enlo cos que, ama </l>
+
+     <l n="46" xml:id="C073-l46"> he, mi mateix / hauorresch sim desama </l>
+
+     <l n="47" xml:id="C073-l47"> y en res de mi / voluntat he defunta </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C073-lg7">
+
+     <l n="48" xml:id="C073-l48"> Dins si, mateix / veu gran gloria junta </l>
+
+     <l n="49" xml:id="C073-l49"> qui de, amor / be, ne mal no, spera </l>
+
+     <l n="50" xml:id="C073-l50"> altre amant / ab voluntat sancera </l>
+
+     <l n="51" xml:id="C073-l51"> per ses virtuts, ses passions conjunta </l>
+
+     <l n="52" xml:id="C073-l52"> nostre sperit / sols bens he virtuts guarda </l>
+
+     <l n="53" xml:id="C073-l53"> quant solament / vsa de sa, natura </l>
+
+     <l n="54" xml:id="C073-l54"> amant per si / aquella crehatura </l>
+
+     <l n="55" xml:id="C073-l55"> que les virtuts / als vicis li, son guarda. </l>
+
+    </lg>
+
+    <lg type="tornada" n="8" xml:id="C073-lg8">
+
+     <l n="56" xml:id="C073-l56"> Lir entre carts, qui d'amor se pren guarda </l>
+
+     <l n="57" xml:id="C073-l57"> tres parts sen fan / dues seguint natura </l>
+
+     <l n="58" xml:id="C073-l58"> la vna mor / he laltra tostemps dura </l>
+
+     <l n="59" xml:id="C073-l59"> la terça es / quel fals, apetit guarda </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

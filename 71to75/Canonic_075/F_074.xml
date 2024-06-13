@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 75</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/poesias-de-ausias-y-mena-manuscrito--0/">
+     <msIdentifier xml:id="F_Ms_2244_BGHUS">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>76v, centre, before first line</locus>Altra</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_156.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_157.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_158.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_159.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_160.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C075-F074">
+
+    <pb n="76v"
+     facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_156.html"/>
+
+    <lg type="cobla" n="1" xml:id="C075-lg1">
+
+     <l n="1" xml:id="C075-l1">
+      <c rend="large">Q</c>ui es aquell quj enamor contemple </l>
+
+     <l n="2" xml:id="C075-l2"> Com yo quj sent sos delits onabasten </l>
+
+     <l n="3" xml:id="C075-l3"> Quj son aquells quj dolca<del rend="overstrike">er</del> margor
+      tasten </l>
+
+     <l n="4" xml:id="C075-l4"> E juntes mans ladoren fora temple </l>
+
+     <l n="5" xml:id="C075-l5"> yo so tot sol aquj naturastreny </l>
+
+     <l n="6" xml:id="C075-l6"> A no poder als fer ne pus entendre </l>
+
+     <l n="7" xml:id="C075-l7"> Sino amar e volentmen defendre </l>
+
+     <l n="8" xml:id="C075-l8"> Nom vol segujr ares als fer null seny </l>
+
+    </lg>
+
+    <pb n="77r"
+     facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_157.html"/>
+
+    <lg type="cobla" n="2" xml:id="C075-lg2">
+
+     <l n="9" xml:id="C075-l9">
+      <c rend="large">S</c>jm don solac creeu ferm queyol feny </l>
+
+     <l n="10" xml:id="C075-l10"> Sinoy acull amor al delit pendre </l>
+
+     <l n="11" xml:id="C075-l11"> Les potestats del cel han uolgut uendre </l>
+
+     <l n="12" xml:id="C075-l12"> E fer catiu de mon uoler lo seny </l>
+
+     <l n="13" xml:id="C075-l13"> Nom reptalgu car tots ueig solacar </l>
+
+     <l n="14" xml:id="C075-l14"> Segons cascu sa qualitat requer </l>
+
+     <l n="15" xml:id="C075-l15"> Qujnaquest mon honor uol he diner </l>
+
+     <l n="16" xml:id="C075-l16"> Tingas esment ja te causa derrar </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C075-lg3">
+
+     <l n="17" xml:id="C075-l17">
+      <c rend="large">L</c>o temps dels <choice>
+       <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> se uol ara mostrar </l>
+
+     <l n="18" xml:id="C075-l18"> Car dintresi vn deu cascu uol fer </l>
+
+     <l n="19" xml:id="C075-l19"> E dels desigs on corre lo uoler </l>
+
+     <l n="20" xml:id="C075-l20"> Solempnes deus atots ueig adorar </l>
+
+     <l n="21" xml:id="C075-l21"> E sobre tots venus es mjls serujda </l>
+
+     <l n="22" xml:id="C075-l22"> Car nostra carn no coneix altre deu </l>
+
+     <l n="23" xml:id="C075-l23"> Bacus enpart sa fauor noles greu </l>
+
+     <l n="24" xml:id="C075-l24"> Ce<del rend="scraped">r</del>res muller no nes enfellonida</l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C075-lg4">
+
+     <l n="25" xml:id="C075-l25">
+      <c rend="large">J</c>uno del mon te vna gran partida </l>
+
+     <l n="26" xml:id="C075-l26"> Diu que deu ser <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> coltal juhi seu </l>
+
+     <l n="27" xml:id="C075-l27"> Saturn e mars no torben sa gran ueu </l>
+
+     <l n="28" xml:id="C075-l28"> Allur poder junoy venus dan mjda </l>
+
+     <l n="29" xml:id="C075-l29"> Mas venus diu yo son rey natural </l>
+
+     <l n="30" xml:id="C075-l30"> Ab alguns deus senyors jns mj sients </l>
+
+     <l n="31" xml:id="C075-l31"> Per mj son bons e per si no ualents </l>
+
+     <l n="32" xml:id="C075-l32"> Los altres han poder accidental </l>
+
+    </lg>
+
+    <pb n="77v"
+     facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_158.html"/>
+
+    <lg type="cobla" n="5" xml:id="C075-lg5">
+
+     <l n="33" xml:id="C075-l33">
+      <c rend="large">M</c>ercurius e pallas ueu nols cal </l>
+
+     <l n="34" xml:id="C075-l34"> Desfalagant lorella del hoent </l>
+
+     <l n="35" xml:id="C075-l35"> Diana es de fauor menys potent </l>
+
+     <l n="36" xml:id="C075-l36"> Mas en lo mon deu los ha dat cabal </l>
+
+     <l n="37" xml:id="C075-l37"> Ver llur gran nom pel mon es preycat </l>
+
+     <l n="38" xml:id="C075-l38"> E totes gens daquestes manen festa </l>
+
+     <l n="39" xml:id="C075-l39"> Colta no es car de cascu nols resta </l>
+
+     <l n="40" xml:id="C075-l40"> Sino hun troc de carn djns dens tancat </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C075-lg6">
+
+     <l n="41" xml:id="C075-l41">
+      <c rend="large">E</c>n gran discort esta lo mon possat </l>
+
+     <l n="42" xml:id="C075-l42"> Venus del mon setrau la fjna lesta </l>
+
+     <l n="43" xml:id="C075-l43"> Tot home bo en son ostal se resta </l>
+
+     <l n="44" xml:id="C075-l44"> E val se poch quj noy es albergat </l>
+
+     <l n="45" xml:id="C075-l45"> Juno te gent en dues parts gitada </l>
+
+     <l n="46" xml:id="C075-l46"> Prop de la mort cobeiosa de ujure </l>
+
+     <l n="47" xml:id="C075-l47"> Altra que ueig de baix estat delliure </l>
+
+     <l n="48" xml:id="C075-l48"> Ffama tenyents ab leig vici guanyada </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C075-lg7">
+
+     <l n="49" xml:id="C075-l49">
+      <c rend="large">C</c>erres quant es auenus ordenada </l>
+
+     <l n="50" xml:id="C075-l50"> E son marit quj bacus se fascriure </l>
+
+     <l n="51" xml:id="C075-l51"> Als peus del <choice>
+       <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> venus se deuen siure </l>
+
+     <l n="52" xml:id="C075-l52"> E tants per ssi llur sectas difamada </l>
+
+     <l n="53" xml:id="C075-l53"> Car no guardant avenus reuerenca </l>
+
+     <l n="54" xml:id="C075-l54"> Son menyspreats en lo mon e mal dits </l>
+
+     <l n="55" xml:id="C075-l55"> Lanjmal brut no uol estrems delits </l>
+
+     <l n="56" xml:id="C075-l56"> E lo cors dom ne passa penjtenca </l>
+
+    </lg>
+
+    <pb n="78r"
+     facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_159.html"/>
+
+    <lg type="cobla" n="8" xml:id="C075-lg8">
+
+     <l n="57" xml:id="C075-l57">
+      <c rend="large">S</c>aturn e mars per si no han potenca </l>
+
+     <l n="58" xml:id="C075-l58"> Mas per dos deus son estrem fauorits </l>
+
+     <l n="59" xml:id="C075-l59"> Guardant honor auenus son serujts </l>
+
+     <l n="60" xml:id="C075-l60"> E per hauer ajunon reuerenca </l>
+
+     <l n="61" xml:id="C075-l61"> Mars asaturn humjlment hobeeix </l>
+
+     <l n="62" xml:id="C075-l62"> E lobehir entrells molt se cambia </l>
+
+     <l n="63" xml:id="C075-l63"> De pallas yo parlar ges no volrria </l>
+
+     <l n="64" xml:id="C075-l64"> De son estat car pietat mencreix </l>
+
+    </lg>
+
+    <lg type="cobla" n="9" xml:id="C075-lg9">
+
+     <l n="65" xml:id="C075-l65">
+      <c rend="large">L</c>jnperfet hom adiana serueix </l>
+
+     <l n="66" xml:id="C075-l66"> E tots aquells on lauidas deuja </l>
+
+     <l n="67" xml:id="C075-l67"> Car venus ha tan dolca parleria </l>
+
+     <l n="68" xml:id="C075-l68"> Que tot valer assi lo reduheix </l>
+
+     <l n="69" xml:id="C075-l69"> Los publichs prechs sen drecen adiana </l>
+
+     <l n="70" xml:id="C075-l70"> La voluntat es de venus entrega </l>
+
+     <l n="71" xml:id="C075-l71"> Al temple seu sil jorn clar fos nit cega </l>
+
+     <l n="72" xml:id="C075-l72"> Los grans barranchs foren carrera plana </l>
+
+    </lg>
+
+    <lg type="cobla" n="10" xml:id="C075-lg10">
+
+     <l n="73" xml:id="C075-l73">
+      <c rend="large">A</c>quelles gents ab la pensa molt vana </l>
+
+     <l n="74" xml:id="C075-l74"> Que ab raho james en pau ne brega </l>
+
+     <l n="75" xml:id="C075-l75"> Per llur cor flach de uergonya fan plega </l>
+
+     <l n="76" xml:id="C075-l76"> Quills met vn fre donant los vida sana </l>
+
+     <l n="77" xml:id="C075-l77"> E si lo giny de venus romp tal fre </l>
+
+     <l n="78" xml:id="C075-l78"> Saben li grat com axis uehen soltes </l>
+
+     <l n="79" xml:id="C075-l79"> Quen son serujr nos mostren ser enboltes </l>
+
+     <l n="80" xml:id="C075-l80"> Ffent li present del mjllor de llur be </l>
+
+    </lg>
+
+    <pb n="78v"
+     facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_160.html"/>
+
+    <lg type="cobla" n="11" xml:id="C075-lg11">
+
+     <l n="81" xml:id="C075-l81">
+      <c rend="large">E</c>n lo comenc por e di<add place="interlinear">a</add>nals te </l>
+
+     <l n="82" xml:id="C075-l82"> Mas si lo uel dignorants les ha toltes </l>
+
+     <l n="83" xml:id="C075-l83"> Venus colents mart e saturn auoltes </l>
+
+     <l n="84" xml:id="C075-l84"> Entre llurs peus diana ua e ve </l>
+
+     <l n="85" xml:id="C075-l85"> La donchs en fet colen venus deessa </l>
+
+     <l n="86" xml:id="C075-l86"> Cuydant hauer la batalla molt justa </l>
+
+     <l n="87" xml:id="C075-l87"> Contra tot hom quj del cas les afusta </l>
+
+     <l n="88" xml:id="C075-l88"> E per tots tempts por e vergonya cessa </l>
+
+    </lg>
+
+    <lg type="tornada" n="12" xml:id="C075-lg12">
+
+     <l n="89" xml:id="C075-l89">
+      <c rend="large">S</c>enyal de be en tota dona cessa </l>
+
+     <l n="90" xml:id="C075-l90"> Com dins son cor vergonya nosa justa </l>
+
+     <l n="91" xml:id="C075-l91"> Y al sauj hom es uici quil afusta </l>
+
+     <l n="92" xml:id="C075-l92"> La raho pert quj es en ell princessa </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

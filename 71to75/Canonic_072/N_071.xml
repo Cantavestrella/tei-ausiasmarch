@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 72</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>151, header</locus>{Mossen Ausias march}</rubric>
+       <rubric><locus>152, centre, beetwen lines 40 and 41</locus>{Tornada}</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_153.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_154.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C072-N071">
+
+    <pb n="151"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_153.html"/>
+
+    <lg type="cobla" n="1" xml:id="C072-lg1">
+
+     <l n="1" xml:id="C072-l1"> ¶ Pahor nom sent que sobres <choice>
+      <abbr>laꝯ</abbr>
+       <expan>laus</expan>
+      </choice> me venca </l>
+
+     <l n="2" xml:id="C072-l2"> Lohant aquell quj totes lengues loen </l>
+
+     <l n="3" xml:id="C072-l3"> Guardant honor aquell eternal esser </l>
+
+     <l n="4" xml:id="C072-l4"> Hon totares en ell es <choice>
+      <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> perfeta </l>
+
+     <l n="5" xml:id="C072-l5"> Quen si no es hobrant quant pot natura </l>
+
+     <l n="6" xml:id="C072-l6"> Ans he paor que mon parlar no cumpla </l>
+
+     <l n="7" xml:id="C072-l7"> En publicar part de sa justa fama </l>
+
+     <l n="8" xml:id="C072-l8"> Tal com requer hi els merits <choice>
+      <abbr>seꝯ</abbr>
+       <expan>seus</expan>
+      </choice> latracen </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C072-lg2">
+
+     <l n="9" xml:id="C072-l9"> Lom enuejos son offici repossa </l>
+
+     <l n="10" xml:id="C072-l10"> Car degualtat abell negu pereia </l>
+
+     <l n="11" xml:id="C072-l11"> En ell pensant quiscu si iustifiqua </l>
+
+     <l n="12" xml:id="C072-l12"> Tallant de si lamor ab sa persona </l>
+
+     <l n="13" xml:id="C072-l13"> Tant son enell les virtuts manjfestes </l>
+
+     <l n="14" xml:id="C072-l14"> Ques dira cech lom quj be noles veia </l>
+
+     <l n="15" xml:id="C072-l15"> Per los migs va quen los estrems no toca </l>
+
+     <l n="16" xml:id="C072-l16"> En temps dels <choice>
+      <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> envida ladoraren </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C072-lg3">
+
+     <l n="17" xml:id="C072-l17"> E <choice>
+      <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> vehent laperlongada onta </l>
+
+     <l n="18" xml:id="C072-l18"> Quels gran senyors encontra dell cometen </l>
+
+     <l n="19" xml:id="C072-l19"> Tenjnts ab <choice>
+      <abbr>fraꝯ</abbr>
+       <expan>fraus</expan>
+      </choice> etirannes maneres </l>
+
+     <l n="20" xml:id="C072-l20"> Les parts del mon los pochs egrans realmes </l>
+
+     <l n="21" xml:id="C072-l21"> Ha dat voler aljustificat home </l>
+
+     <l n="22" xml:id="C072-l22"> <add place="interlinear">Quen breu espay aya la monarchia</add> </l>
+
+     <l n="23" xml:id="C072-l23"> Clar lo nomen ab aquestraltra ensenya </l>
+
+     <l n="24" xml:id="C072-l24"> Com detot cert es dels homens <choice>
+      <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> sauj </l>
+
+    </lg>
+
+    <pb n="152" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_154.html"/>
+
+    <lg type="cobla" n="4" xml:id="C072-lg4">
+
+     <l n="25" xml:id="C072-l25"> Perco que mils atotas gents semostre </l>
+
+     <l n="26" xml:id="C072-l26"> Mostrant laquells quj vaques ebochs guarden </l>
+
+     <l n="27" xml:id="C072-l27"> Ell es aquell quj ensa jouentut tendra </l>
+
+     <l n="28" xml:id="C072-l28"> Sobran aquells quj saujessa colen </l>
+
+     <l n="29" xml:id="C072-l29"> E despocat de nombre de gents darmes </l>
+
+     <l n="30" xml:id="C072-l30"> Les multituts sens colps ha fetes retre </l>
+
+     <l n="31" xml:id="C072-l31"> Tot quant pot por fer virtut defortalessa </l>
+
+     <l n="32" xml:id="C072-l32"> En vn sols hom en aquest ho demostra </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C072-lg5">
+
+     <l n="33" xml:id="C072-l33"> En gran defalt es lomon de poetes </l>
+
+     <l n="34" xml:id="C072-l34"> Per enbellir los fets dels quj be obren </l>
+
+     <l n="35" xml:id="C072-l35"> Nos freturants de bella eloquenca </l>
+
+     <l n="36" xml:id="C072-l36"> Lorella dom afalach no pot rebre </l>
+
+     <l n="37" xml:id="C072-l37"> Daquest valent vna gran trompa sona </l>
+
+     <l n="38" xml:id="C072-l38"> Quels indians ab vn poch no exorda </l>
+
+     <l n="39" xml:id="C072-l39"> Hoenlaquels quj son atremuntana </l>
+
+     <l n="40" xml:id="C072-l40"> Yels deponent edeleuant los pobles </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C072-lg6">
+
+     <l n="41" xml:id="C072-l41"> Foll es aquell quj fa juhin los homens </l>
+
+     <l n="42" xml:id="C072-l42"> Segons que dells la fortuna ordena </l>
+
+     <l n="43" xml:id="C072-l43"> Aquells affers quj no son enlarbitre </l>
+
+     <l n="44" xml:id="C072-l44"> Colpa noy cap si venen per contrarj </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

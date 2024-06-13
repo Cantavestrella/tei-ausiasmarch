@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 71</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name> Isabel Fort </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"
+      notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+       to this document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result
+       work from a previous LaTEX format file out of the synoptic diplomatic edition
+       of the complete poemes of Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>146, centre, before first line</locus>{Mossen Ausias march}</rubric>
+       <rubric><locus>150, centre, beetwen lines 104 and 105</locus>{Tornada}</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_148.html"/>
+  <graphic url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_149.html"/>
+  <graphic url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_150.html"/>
+  <graphic url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_151.html"/>
+  <graphic url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_152.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C071-N070">
+
+    <pb n="146" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_148.html"/>
+
+    <lg type="cobla" n="1" xml:id="C071-lg1">
+
+     <l n="1" xml:id="C071-l1"> ¶ Quem ha calgut contemplar en amor </l>
+
+     <l n="2" xml:id="C071-l2"> E be sentir sos amagats secrets </l>
+
+     <l n="3" xml:id="C071-l3"> De mos treballs qujns comptes me son fets </l>
+
+     <l n="4" xml:id="C071-l4"> Vanament he despessa ma dolor </l>
+
+     <l n="5" xml:id="C071-l5"> Tot lomeu seny franch arbitre le dat </l>
+
+     <l n="6" xml:id="C071-l6"> Lo meu jouent seruint ell he despes </l>
+
+     <l n="7" xml:id="C071-l7"> Ffins apresent nomen so may repres </l>
+
+     <l n="8" xml:id="C071-l8"> Prehant vn mal perbe gran estimant </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C071-lg2">
+
+     <l n="9" xml:id="C071-l9"> Un gran uoler ha tengut mj cegat </l>
+
+     <l n="10" xml:id="C071-l10"> E fins hauer enuos esperiment </l>
+
+     <l n="11" xml:id="C071-l11"> Molt he tardat en sentit lo que sent </l>
+
+     <l n="12" xml:id="C071-l12"> Enyor lo temps que no pot ser cobrat </l>
+
+     <l n="13" xml:id="C071-l13"> En tot aquest nom puch damor clamar </l>
+
+     <l n="14" xml:id="C071-l14"> Sino deuos aquj he be uolgut </l>
+
+     <l n="15" xml:id="C071-l15"> Aueumentes emal guardo retut </l>
+
+     <l n="16" xml:id="C071-l16"> Quj es lo dolc quj dona vol amar </l>
+
+    </lg>
+
+    <pb n="147" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_149.html"/>
+
+    <lg type="cobla" n="3" xml:id="C071-lg3">
+
+     <l n="17" xml:id="C071-l17"> Sinteniment ha uolgut deu mostrar </l>
+
+     <l n="18" xml:id="C071-l18"> En donalmon daquell no freturau </l>
+
+     <l n="19" xml:id="C071-l19"> Si deu es ver del meu <choice>
+      <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> desaltau </l>
+
+     <l n="20" xml:id="C071-l20"> En calitat <choice>
+      <abbr>enmiꝯ</abbr>
+       <expan>enmius</expan>
+      </choice> veg acordar </l>
+
+     <l n="21" xml:id="C071-l21"> Pensar no puch que lo vostre voler </l>
+
+     <l n="22" xml:id="C071-l22"> Volgues may res per mj no fos complit </l>
+
+     <l n="23" xml:id="C071-l23"> E siantes an aquell delit </l>
+
+     <l n="24" xml:id="C071-l24"> Quels amados de carn an lur esper </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C071-lg4">
+
+     <l n="25" xml:id="C071-l25"> Aquell delit que larma pot hauer </l>
+
+     <l n="26" xml:id="C071-l26"> En contentar en amor sa gran part </l>
+
+     <l n="27" xml:id="C071-l27"> Per mon sentir regles ne dat eart </l>
+
+     <l n="28" xml:id="C071-l28"> Als amados freturans de saber </l>
+
+     <l n="29" xml:id="C071-l29"> E vos he vist ixir deuostre seny </l>
+
+     <l n="30" xml:id="C071-l30"> Enmj prenjnt delit yen tot mon dir </l>
+
+     <l n="31" xml:id="C071-l31"> E veheu clar aquell games fallir </l>
+
+     <l n="32" xml:id="C071-l32"> Ans mon uoler enmes quels dits ateny </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C071-lg5">
+
+     <l n="33" xml:id="C071-l33"> Sil fort castell gent darmes lo costreny </l>
+
+     <l n="34" xml:id="C071-l34"> Com es segur lo burch sens mur nj vall </l>
+
+     <l n="35" xml:id="C071-l35"> E si enuos la fermetat deffall </l>
+
+     <l n="36" xml:id="C071-l36"> No es almon algu daco no reny </l>
+
+     <l n="37" xml:id="C071-l37"> Com poramar quj no es entenent </l>
+
+     <l n="38" xml:id="C071-l38"> Com sera ferm lo quj es tremolant </l>
+
+     <l n="39" xml:id="C071-l39"> Vos entenent ferma fos varjant </l>
+
+     <l n="40" xml:id="C071-l40"> De tot dich ver mas de ferma yoment </l>
+
+    </lg>
+
+    <pb n="148" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_150.html"/>
+
+    <lg type="cobla" n="6" xml:id="C071-lg6">
+
+     <l n="41" xml:id="C071-l41"> Daltres amos somes que penjdent </l>
+
+     <l n="42" xml:id="C071-l42"> Lo remembrar tinch en abusio </l>
+
+     <l n="43" xml:id="C071-l43"> En cap horat he cerquada raho </l>
+
+     <l n="44" xml:id="C071-l44"> Hi entenjment on deu nomj consent </l>
+
+     <l n="45" xml:id="C071-l45"> Lo bon voler cerquj no sabent on </l>
+
+     <l n="46" xml:id="C071-l46"> Los apetits he trobat enmolt loch </l>
+
+     <l n="47" xml:id="C071-l47"> Durant aytant com lo veure lo toch </l>
+
+     <l n="48" xml:id="C071-l48"> Mas yo absent nosi deu me perdon </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C071-lg7">
+
+     <l n="49" xml:id="C071-l49"> Ho amados recort uos lo que fon </l>
+
+     <l n="50" xml:id="C071-l50"> De tots aquells quj primes son passats </l>
+
+     <l n="51" xml:id="C071-l51"> Los desgradats cassos damor estats </l>
+
+     <l n="52" xml:id="C071-l52"> Yels mals tan grans quen gestes escrits son </l>
+
+     <l n="53" xml:id="C071-l53"> Resemblant es afort pluga destiu </l>
+
+     <l n="54" xml:id="C071-l54"> Portant ramor detrons mostrant relamps </l>
+
+     <l n="55" xml:id="C071-l55"> Yen poch espay los grans baranchs ecamps </l>
+
+     <l n="56" xml:id="C071-l56"> Aygua no an que trametan alriu </l>
+
+    </lg>
+
+    <lg type="cobla" n="8" xml:id="C071-lg8">
+
+     <l n="57" xml:id="C071-l57"> Quals son aquels amados que yo viu </l>
+
+     <l n="58" xml:id="C071-l58"> Que de amor durable porten jou </l>
+
+     <l n="59" xml:id="C071-l59"> Ffort voler cech <del rend="overstrike">p</del><add
+      place="interlinear">m</add>olt poch durant lo<add place="interlinear">s</add> mou
+     </l>
+
+     <l n="60" xml:id="C071-l60"> Co que volran lur apetit desdiu </l>
+
+     <l n="61" xml:id="C071-l61"> Puys res enpart no toquen devirtut </l>
+
+     <l n="62" xml:id="C071-l62"> Elespirit part no ten sos delits </l>
+
+     <l n="63" xml:id="C071-l63"> Vehent tocant lurs desigs son complits </l>
+
+     <l n="64" xml:id="C071-l64"> E tal voler es tost fart e vencut </l>
+
+    </lg>
+
+    <pb n="149" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_151.html"/>
+
+    <lg type="cobla" n="9" xml:id="C071-lg9">
+
+     <l n="65" xml:id="C071-l65"> Quj en amor es be apercebut </l>
+
+     <l n="66" xml:id="C071-l66"> Sab que james dona tench voler ferm </l>
+
+     <l n="67" xml:id="C071-l67"> Cor desonest e entenjment enferm </l>
+
+     <l n="68" xml:id="C071-l68"> Los tol amor eno lan percebut </l>
+
+     <l n="69" xml:id="C071-l69"> Com res del mon sens honestat no dur </l>
+
+     <l n="70" xml:id="C071-l70"> E delitar sens entendrom no pot </l>
+
+     <l n="71" xml:id="C071-l71"> E dones an poca part de tal dot </l>
+
+     <l n="72" xml:id="C071-l72"> Amor no pot en elles fer atur </l>
+
+    </lg>
+
+    <lg type="cobla" n="10" xml:id="C071-lg10">
+
+     <l n="73" xml:id="C071-l73"> Lanjmal brut sera molt <choice>
+      <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> segur </l>
+
+     <l n="74" xml:id="C071-l74"> Dest apetit que dona no sera </l>
+
+     <l n="75" xml:id="C071-l75"> Car solament en lacte se moura </l>
+
+     <l n="76" xml:id="C071-l76"> Sentint aquell quin lo plaer la dur </l>
+
+     <l n="77" xml:id="C071-l77"> Ella pensant en algun passat cas </l>
+
+     <l n="78" xml:id="C071-l78"> Mou lapetit enfet luxurios </l>
+
+     <l n="79" xml:id="C071-l79"> E son uoler es aytant desijos </l>
+
+     <l n="80" xml:id="C071-l80"> Tant quant en ell mes se adelitas </l>
+
+    </lg>
+
+    <lg type="cobla" n="11" xml:id="C071-lg11">
+
+     <l n="81" xml:id="C071-l81"> Puys ental fet dona detant sobras </l>
+
+     <l n="82" xml:id="C071-l82"> Lanjmal brut menbrant aquell abus </l>
+
+     <l n="83" xml:id="C071-l83"> Raho damor pot muntar lom tant sus </l>
+
+     <l n="84" xml:id="C071-l84"> Que son voler damor no freturas </l>
+
+     <l n="85" xml:id="C071-l85"> Fforgant tal dits continences e fets </l>
+
+     <l n="86" xml:id="C071-l86"> Que lespirit perfet amor concep </l>
+
+     <l n="87" xml:id="C071-l87"> E tals quel cors jau en cadenay cep </l>
+
+     <l n="88" xml:id="C071-l88"> Si ques ben dit ells en amar perfets </l>
+
+    </lg>
+
+    <pb n="150" facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_152.html"/>
+
+    <lg type="cobla" n="12" xml:id="C071-lg12">
+
+     <l n="89" xml:id="C071-l89"> Per honestat dona no tench astrets </l>
+
+     <l n="90" xml:id="C071-l90"> Los <choice>
+      <abbr>seꝯ</abbr>
+       <expan>seus</expan>
+      </choice> volers que aquells no complis </l>
+
+     <l n="91" xml:id="C071-l91"> Mas per auer por quesinels fallis </l>
+
+     <l n="92" xml:id="C071-l92"> No rebes dan omenys preu ser lj fets </l>
+
+     <l n="93" xml:id="C071-l93"> Gloriejar enlur ben fet ense </l>
+
+     <l n="94" xml:id="C071-l94"> Los es defes tals les afetes deu </l>
+
+     <l n="95" xml:id="C071-l95"> Lo prim motiu es lo maestre seu </l>
+
+     <l n="96" xml:id="C071-l96"> E cor pauruch don be sinan los ve </l>
+
+    </lg>
+
+    <lg type="cobla" n="13" xml:id="C071-lg13">
+
+     <l n="97" xml:id="C071-l97"> Graesch adeu faent me tant debe </l>
+
+     <l n="98" xml:id="C071-l98"> Que mon voler nos delitan lur cor </l>
+
+     <l n="99" xml:id="C071-l99"> Hoc enlo cors enom dubte quen plor </l>
+
+     <l n="100" xml:id="C071-l100"> Car per son preu yo son cert queu aure </l>
+
+     <l n="101" xml:id="C071-l101"> Lur cap no ual perque noya ceruell </l>
+
+     <l n="102" xml:id="C071-l102"> Tot lals es bo segons aque seruex </l>
+
+     <l n="103" xml:id="C071-l103"> Linatge dom mitgencant elles crex </l>
+
+     <l n="104" xml:id="C071-l104"> Lur esser fon per auchmentar aquell </l>
+
+    </lg>
+
+    <lg type="tornada" n="14" xml:id="C071-lg14">
+
+     <l n="105" xml:id="C071-l105"> Maldich lo temps que fuy meyns deconsell </l>
+
+     <l n="106" xml:id="C071-l106"> Dones amant mes que amj matex </l>
+
+     <l n="107" xml:id="C071-l107"> Ameles tal que be ne les conex </l>
+
+     <l n="108" xml:id="C071-l108"> E yom confes que fuy lo foll aquell </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

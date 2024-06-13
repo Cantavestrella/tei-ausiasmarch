@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 75</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>213, centre, before first line</locus>{Mossen Ausias march}</rubric>
+       <rubric><locus>214, centre, between lines 24 and 25</locus>{Dehessa de Riquessa}</rubric>
+       <rubric><locus>215, header </locus>{Dehessa de Fortalessa}</rubric>
+       <rubric><locus>215, centre, between lines 40 and 41 </locus>{Dehessa de amor}</rubric>
+       <rubric><locus>215, centre, between lines 48 and 49</locus>{Dehessa de viandes}</rubric>
+       <rubric><locus>216, centre, between lines 64 and 65 </locus>{Deu de Batalla}</rubric>
+       <rubric><locus>216, between lines 72 and 73 </locus>{Dehessa de Castedat}</rubric>
+       <rubric><locus>217, centre, beetwen lines 96 and 97</locus>{Tornada}</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_215.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_216.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_217.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_218.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_219.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C075-N082">
+
+    <pb n="213"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_215.html"/>
+
+    <lg type="cobla" n="1" xml:id="C075-lg1">
+
+     <l n="1" xml:id="C075-l1"> ¶ Qual seraquell quj en amor contemple </l>
+
+     <l n="2" xml:id="C075-l2"> Com yo quj sent sos delits hon abasten </l>
+
+     <l n="3" xml:id="C075-l3"> Quj son aquells quj dolcamargor tasten </l>
+
+     <l n="4" xml:id="C075-l4"> E juntes mans ladoren fora temple </l>
+
+     <l n="5" xml:id="C075-l5"> Yo so tot sol aquj naturastreny </l>
+
+     <l n="6" xml:id="C075-l6"> Hono poder als fer ne <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> entendre </l>
+
+     <l n="7" xml:id="C075-l7"> Sino amar e volent meu defendre </l>
+
+     <l n="8" xml:id="C075-l8"> Nom vol segujr ares als fer null seny </l>
+
+    </lg>
+
+    <pb n="214"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_216.html"/>
+
+    <lg type="cobla" n="2" xml:id="C075-lg2">
+
+     <l n="9" xml:id="C075-l9"> Sim don solac creheu cert que yol feny </l>
+
+     <l n="10" xml:id="C075-l10"> Sinoy acull amor aldelit pendre </l>
+
+     <l n="11" xml:id="C075-l11"> Les potestats del cel an volgut vendre </l>
+
+     <l n="12" xml:id="C075-l12"> E fer catiu demon voler lo seny </l>
+
+     <l n="13" xml:id="C075-l13"> Nom reptalgu car tots veg solacar </l>
+
+     <l n="14" xml:id="C075-l14"> Segons cascu sa calitat requer </l>
+
+     <l n="15" xml:id="C075-l15"> Qujn aquest mon honor vol ho diner </l>
+
+     <l n="16" xml:id="C075-l16"> Tinguas esment ja te causa derrar </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C075-lg3">
+
+     <l n="17" xml:id="C075-l17"> Lo temps dels <choice>
+       <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> se uol ara mostrar </l>
+
+     <l n="18" xml:id="C075-l18"> Car dintrasi vn deu cascu vol fer </l>
+
+     <l n="19" xml:id="C075-l19"> E dels desigs hon core lo voler </l>
+
+     <l n="20" xml:id="C075-l20"> Solempnes <choice>
+       <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> atots veg adorar </l>
+
+     <l n="21" xml:id="C075-l21"> Esobre tots <choice>
+       <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> es mils seruida </l>
+
+     <l n="22" xml:id="C075-l22"> Car nostra carn no conex altre deu </l>
+
+     <l n="23" xml:id="C075-l23"> Bacus enpart fa fauor noles greu </l>
+
+     <l n="24" xml:id="C075-l24"> Ceres muller non es enfellonida </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C075-lg4">
+
+     <l n="25" xml:id="C075-l25"> Juno delmon te vna gran partida </l>
+
+     <l n="26" xml:id="C075-l26"> Diu que deu fer <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> coltal guhi seu </l>
+
+     <l n="27" xml:id="C075-l27"> Saturn ho mars no torben sa gran veu </l>
+
+     <l n="28" xml:id="C075-l28"> Alur poder junoy<choice>
+       <abbr>venꝯs</abbr>
+       <expan>venus</expan>
+      </choice> dan vida </l>
+
+     <l n="29" xml:id="C075-l29"> Mas <choice>
+       <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> diu yo son rey natural </l>
+
+     <l n="30" xml:id="C075-l30"> Ab alsguns <choice>
+       <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> senyors jus mj sients </l>
+
+     <l n="31" xml:id="C075-l31"> Per mj son bons e persi no valents </l>
+
+     <l n="32" xml:id="C075-l32"> Los altres han poder accidental </l>
+
+    </lg>
+
+    <pb n="215"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_217.html"/>
+
+    <lg type="cobla" n="5" xml:id="C075-lg5">
+
+     <l n="33" xml:id="C075-l33">
+      <choice>
+       <abbr>Mercuriꝯ</abbr>
+       <expan>Mercurius</expan>
+      </choice> e pallas veu nols val </l>
+
+     <l n="34" xml:id="C075-l34"> Defallagant lorela del hoent </l>
+
+     <l n="35" xml:id="C075-l35"> Diana es de fauor meyns potent </l>
+
+     <l n="36" xml:id="C075-l36"> Mas enlomon <choice>
+       <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> los ha dat cabal </l>
+
+     <l n="37" xml:id="C075-l37"> Que lur gran nom perlomon es preycat </l>
+
+     <l n="38" xml:id="C075-l38"> E totes gents daquestes manen festa </l>
+
+     <l n="39" xml:id="C075-l39"> Colta no es car de cascu nol resta </l>
+
+     <l n="40" xml:id="C075-l40"> Sino vn troc de carn dins dents tancat </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C075-lg6">
+
+     <l n="41" xml:id="C075-l41"> En gran discort esta lomon possat </l>
+
+     <l n="42" xml:id="C075-l42">
+      <choice>
+       <abbr>Venꝯ</abbr>
+       <expan>Venus</expan>
+      </choice> del mon satrau la fina lesta </l>
+
+     <l n="43" xml:id="C075-l43"> Tot home bo en son ostal se resta </l>
+
+     <l n="44" xml:id="C075-l44"> E val sepoch quj noy es albergat </l>
+
+     <l n="45" xml:id="C075-l45"> Guno te gont endues parts gitada </l>
+
+     <l n="46" xml:id="C075-l46"> Prop dela mort cobejosa de viure </l>
+
+     <l n="47" xml:id="C075-l47"> Altra que veg de bax estat deliure </l>
+
+     <l n="48" xml:id="C075-l48"> Ffamatenyents ab leig vici guanyada </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C075-lg7">
+
+     <l n="49" xml:id="C075-l49"> Ceres quant es ha <choice>
+       <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> ordenada </l>
+
+     <l n="50" xml:id="C075-l50"> Eaquell deu que <choice>
+       <abbr>bacꝯ</abbr>
+       <expan>bacus</expan>
+      </choice> se fascriure </l>
+
+     <l n="51" xml:id="C075-l51"> Als <choice>
+       <abbr>peꝯ</abbr>
+       <expan>peus</expan>
+      </choice> dels <choice>
+       <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice>
+      <choice>
+       <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> se deuen siure </l>
+
+     <l n="52" xml:id="C075-l52"> Estants persi lur sectas diffamada </l>
+
+     <l n="53" xml:id="C075-l53"> Car no guardant a<choice>
+       <abbr>uenꝯ</abbr>
+       <expan>uenus</expan>
+      </choice> reuerenca </l>
+
+     <l n="54" xml:id="C075-l54"> Son menys preats enlomon emal dits </l>
+
+     <l n="55" xml:id="C075-l55"> Lanjmal brut no vol estrems delits </l>
+
+     <l n="56" xml:id="C075-l56"> E lo cors dom ne passa penitenca </l>
+
+    </lg>
+    <lg n="8" xml:id="C075-lg05">
+    <pb n="216"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_218.html"/>
+    
+    <l n="57" xml:id="C075-l033">
+     <choice>
+      <abbr>Mercuriꝯ</abbr>
+      <expan>Mercurius</expan>
+     </choice> epallas nols vol </l>
+
+    <l n="58" xml:id="C075-l034"> Defabagant lorella del hoent </l>
+
+    <l n="59" xml:id="C075-l035"> Diana es de fauor meyns potent </l>
+
+    <l n="60" xml:id="C075-l036"> Mas enlomon deus los ha dat cabal </l>
+
+    <l n="61" xml:id="C075-l037"> Que lur gran nom perlomon es prehicat </l>
+
+    <l n="62" xml:id="C075-l038"> E totes gents daquestas manen festa </l>
+
+    <l n="63" xml:id="C075-l039"> Colta noes car de cascu nol resta </l>
+
+    <l n="64" xml:id="C075-l040"> Sino un troc de carn dins dens tancat <note type="editorial">El
+      copista ha repetit una estrofa.</note></l>
+</lg>
+    <lg type="cobla" n="9" xml:id="C075-lg8">
+
+     <l n="65" xml:id="C075-l57"> Saturn emars persi no han potenca </l>
+
+     <l n="66" xml:id="C075-l58"> Mas per dos <choice>
+       <abbr>deꝯ</abbr>
+       <expan>deus</expan>
+      </choice> son estrem fauorits </l>
+
+     <l n="67" xml:id="C075-l59"> Guardant honor ha <choice>
+       <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> son feruits <note type="editorial">Per seruits.</note></l>
+     <l n="68" xml:id="C075-l60"> E per hauer ha junon reuerenca </l>
+
+     <l n="69" xml:id="C075-l61"> Mars ha saturn humilment hobehex </l>
+
+     <l n="70" xml:id="C075-l62"> E lobehir entrells molt se cambia </l>
+
+     <l n="71" xml:id="C075-l63"> De pallas yo parlar gens no volria </l>
+
+     <l n="72" xml:id="C075-l64"> De son estat car pietat men crex </l>
+
+    </lg>
+
+    <lg type="cobla" n="10" xml:id="C075-lg9">
+
+     <l n="73" xml:id="C075-l65"> Limperfet hom adiana seruex </l>
+
+     <l n="74" xml:id="C075-l66"> E tots aquells hon lauidas deuia </l>
+
+     <l n="75" xml:id="C075-l67"> Car <choice>
+       <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> ha tan dolca parlaria </l>
+
+     <l n="76" xml:id="C075-l68"> Que tot valer asi loreduex </l>
+
+     <l n="77" xml:id="C075-l69"> Los publichs prechs sendrecen adiana </l>
+
+     <l n="78" xml:id="C075-l70"> La voluntat es de <choice>
+       <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> entegra </l>
+
+     <l n="79" xml:id="C075-l71"> Al temple seu sil jorn clar fos nit cega </l>
+
+     <l n="80" xml:id="C075-l72"> Los grans baranchs foren carera plana </l>
+
+    </lg>
+
+    <pb n="217"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_219.html"/>
+
+    <lg type="cobla" n="11" xml:id="C075-lg10">
+
+     <l n="81" xml:id="C075-l73"> Aquellas gents abla pensa molt vana </l>
+
+     <l n="82" xml:id="C075-l74"> Que abraho james han pau ne brega </l>
+
+     <l n="83" xml:id="C075-l75"> Per lur cor flach de vergonya fan plega </l>
+
+     <l n="84" xml:id="C075-l76"> Quils met vn fre donant los vida sana </l>
+
+     <l n="85" xml:id="C075-l77"> E si lo giny de <choice>
+       <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> romp tal fre </l>
+
+     <l n="86" xml:id="C075-l78"> Saben lj grat com axis vehen soltes </l>
+
+     <l n="87" xml:id="C075-l79"> Quen son seruir nos mostren ser enboltes </l>
+
+     <l n="88" xml:id="C075-l80"> Ffent lj present de millor de lur be </l>
+
+    </lg>
+
+    <lg type="cobla" n="12" xml:id="C075-lg11">
+
+     <l n="89" xml:id="C075-l81"> Enlo comenc por e dianals te </l>
+
+     <l n="90" xml:id="C075-l82"> Mas si lo cel dignorants les ha coltes </l>
+
+     <l n="91" xml:id="C075-l83">
+      <choice>
+       <abbr>Venꝯ</abbr>
+       <expan>Venus</expan>
+      </choice> colents mart e saturn auoltes </l>
+
+     <l n="92" xml:id="C075-l84"> Entre lurs <choice>
+       <abbr>peꝯ</abbr>
+       <expan>peus</expan>
+      </choice> diana va e ve </l>
+
+     <l n="93" xml:id="C075-l85"> La donchs enfet coleu <choice>
+       <abbr>venꝯ</abbr>
+       <expan>venus</expan>
+      </choice> dehessa </l>
+
+     <l n="94" xml:id="C075-l86"> Cuydant hauer la batalla molt justa </l>
+
+     <l n="95" xml:id="C075-l87"> Contra tot hom quj del cas les afusta </l>
+
+     <l n="96" xml:id="C075-l88"> E per tostemps por e vergonya cessa </l>
+
+    </lg>
+
+    <lg type="tornada" n="13" xml:id="C075-lg12">
+
+     <l n="97" xml:id="C075-l89"> Senyal debe entota dona cessa </l>
+
+     <l n="98" xml:id="C075-l90"> Com dins son cor vergonya nosajusta </l>
+
+     <l n="99" xml:id="C075-l91"> Yal sauj hom es vici quil afusta </l>
+
+     <l n="100" xml:id="C075-l92"> La raho pert quj es en ell princessa </l>
+
+    </lg>
+   </div>
+  </body>
+ </text>
+</TEI>

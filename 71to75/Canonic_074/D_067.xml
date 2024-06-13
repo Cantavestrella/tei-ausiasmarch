@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 74</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>70v, centre, between lines 48 and 49</locus>to<note type="editorial">D’una
+         altra mà.</note></rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C074-D067">
+
+    <pb n="69v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="1" xml:id="C074-lg1">
+
+     <l n="1" xml:id="C074-l1"> Als fats coman / tot quant serademi </l>
+
+     <l n="2" xml:id="C074-l2"> puis so estolt / de ma eleccio </l>
+
+     <l n="3" xml:id="C074-l3"> mon seny es mort / a qui deu no perdo </l>
+
+     <l n="4" xml:id="C074-l4"> puix alcomenç / deltot me derrencli </l>
+
+     <l n="5" xml:id="C074-l5"> Ja no es temps / tenir frens alvoler </l>
+
+     <l n="6" xml:id="C074-l6"> malalta es / ma bonavoluntat </l>
+
+     <l n="7" xml:id="C074-l7"> evaig en loch / hon no vull ser portat </l>
+
+     <l n="8" xml:id="C074-l8"> so descontent / detotquant pusca fer </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C074-lg2">
+
+     <l n="9" xml:id="C074-l9"> Sicom al hom / no libastapoder </l>
+
+     <l n="10" xml:id="C074-l10"> paralitich / quant es enpeu lleuat </l>
+
+     <l n="11" xml:id="C074-l11"> anar al loch / honvol esser anat </l>
+
+     <l n="12" xml:id="C074-l12"> ans cau <add place="interlinear">h</add>o tort / va contra son
+      mester </l>
+
+     <l n="13" xml:id="C074-l13"> Ne pren ami / que no fas lo quem plau </l>
+
+     <l n="14" xml:id="C074-l14"> yaquellvoler / delarahos vençut </l>
+
+     <l n="15" xml:id="C074-l15"> esilcomplach / mondelit es perdut </l>
+
+     <l n="16" xml:id="C074-l16"> e sens cor faç / tot quant de mi vejau </l>
+
+    </lg>
+
+    <pb n="70r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="3" xml:id="C074-lg3">
+
+     <l n="17" xml:id="C074-l17"> Si com als vents / es donada la nau </l>
+
+     <l n="18" xml:id="C074-l18"> Mentre's debat / als mariners vengut </l>
+
+     <l n="19" xml:id="C074-l19"> ladonchs la <del rend="overwritten">n</del><add
+       place="superimposed">N</add>au / soncami hatengut </l>
+
+     <l n="20" xml:id="C074-l20"> per <choice>
+       <abbr>señal</abbr>
+       <expan>senyal</expan>
+      </choice> tal / qual ans de contrast jau </l>
+
+     <l n="21" xml:id="C074-l21"> Ne pren a mi / car mon enteniment </l>
+
+     <l n="22" xml:id="C074-l22"> ha gran debat / ablo voler del cos </l>
+
+     <l n="23" xml:id="C074-l23"> determinar / lur debat clar no gos </l>
+
+     <l n="24" xml:id="C074-l24"> proejant lo temps / l'apetit vaig siguent </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C074-lg4">
+
+     <l n="25" xml:id="C074-l25"> Passa lo temps / que fuy d'amor content </l>
+
+     <l n="26" xml:id="C074-l26"> si be tots temps / senti ses grans dolors </l>
+
+     <l n="27" xml:id="C074-l27"> mescladament / delcos ab amargos </l>
+
+     <l n="28" xml:id="C074-l28"> creya <del rend="overwritten">r</del><add place="superimposed"
+       >R</add>ey ser / ve'nt me de'<del rend="overstrike">e</del>ll seruent.</l>
+
+    </lg>
+
+    <l n="29" xml:id="C074-l29"> yo fuy content / de sos mals, sens los bens </l>
+
+    <l n="30" xml:id="C074-l30"> per be quel mal / sens be no pot venir </l>
+
+    <l n="31" xml:id="C074-l31"> mas yo <choice>
+      <abbr>emprēch</abbr>
+      <expan>emprench</expan>
+     </choice> / per ells mes que morir </l>
+
+    <l n="32" xml:id="C074-l32"> malament viu / qui'n mal fer no te frens </l>
+
+    <lg type="cobla" n="5" xml:id="C074-lg5">
+
+     <l n="33" xml:id="C074-l33"> O tu amor / quitonpoder mestens </l>
+
+     <l n="34" xml:id="C074-l34"> axi fortment / que not puch resistir </l>
+
+     <l n="35" xml:id="C074-l35"> hix forami / puix en plaher no gir </l>
+
+     <l n="36" xml:id="C074-l36"> ma voluntat / a fer tos manaments </l>
+
+     <l n="37" xml:id="C074-l37"> Vulles hauer / encontrami ergull </l>
+
+     <l n="38" xml:id="C074-l38"> leixa<add place="interlinear">l</add> vassall / qui not vol per <choice>
+       <abbr>Señor</abbr>
+       <expan>Senyor</expan>
+      </choice>
+     </l>
+
+     <l n="39" xml:id="C074-l39"> quin mouiment / venç aquestadolor </l>
+
+     <l n="40" xml:id="C074-l40"> fent me jaquir / ben fer dequem despull </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C074-lg6">
+
+     <l n="41" xml:id="C074-l41"> Aquest meu fet / bona fi nol acull </l>
+
+     <l n="42" xml:id="C074-l42"> e lo <choice>
+       <abbr>ṕñt</abbr>
+       <expan>present</expan>
+      </choice> / es ple degran tristor </l>
+
+     <l n="43" xml:id="C074-l43"> aquestave /deldan auenidor </l>
+
+     <l n="44" xml:id="C074-l44"> que de present / lo tinch dauant mon vll </l>
+
+     <l n="45" xml:id="C074-l45"> Yol soferre / siab cor molt ardit </l>
+
+     <l n="46" xml:id="C074-l46"> laque yo am / per mi passa lo mal </l>
+
+     <pb n="70v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="47" xml:id="C074-l47"> sens penedir / quis penit grat no val </l>
+
+     <l n="48" xml:id="C074-l48"> ladonchs la mort / nom sera sens delit </l>
+
+    </lg>
+
+    <lg type="tornada" n="7" xml:id="C074-lg7">
+
+     <l n="49" xml:id="C074-l49"> Lir entre carts / gran es lo meu delit </l>
+
+     <l n="50" xml:id="C074-l50"> mentre no pens / lo que porieu fer </l>
+
+     <l n="51" xml:id="C074-l51"> tot actes prop della hon es poder </l>
+
+     <l n="52" xml:id="C074-l52"> sialvoler / governa l'apetit </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

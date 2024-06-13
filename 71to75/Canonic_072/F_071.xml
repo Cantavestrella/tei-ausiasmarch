@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 72</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="IF">
+     <name>Isabel Fort</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"
+      notBefore="2024-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+       to this document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result
+       work from a previous LaTEX format file out of the synoptic diplomatic edition
+       of the complete poemes of Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2024.</p>
+     </licence>
+    </availability>
+    <date>2024-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/poesias-de-ausias-y-mena-manuscrito--0/">
+     <msIdentifier xml:id="F_Ms_2244_BGHUS">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>73r, centre, after end of previus poem</locus>Altra</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_149.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_150.html"/>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_151.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C072-F071">
+
+    <pb n="73r" facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_149.html"/>
+
+    <lg type="cobla" n="1" xml:id="C072-lg1">
+
+     <l n="1" xml:id="C072-l1"> Paor nom sent que sobres laus me venca </l>
+
+     <l n="2" xml:id="C072-l2"> Loant aquell quj totes lengues loen </l>
+
+     <l n="3" xml:id="C072-l3"> Guardant honor aquell eternal esser </l>
+
+     <l n="4" xml:id="C072-l4"> On tota res en ell es pus perfeta </l>
+
+     <l n="5" xml:id="C072-l5"> Quen si no es obrant quant pot natura </l>
+
+     <l n="6" xml:id="C072-l6"> Ans he paor que mon parlar no cumpla </l>
+
+     <l n="7" xml:id="C072-l7"> En publicar part de sa justa fama </l>
+
+     <l n="8" xml:id="C072-l8"> Tal com requer y els merjts <choice>
+      <abbr>seꝯ</abbr>
+       <expan>seus</expan>
+      </choice> latracen </l>
+
+    </lg>
+
+    <pb n="73v" facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_150.html"/>
+
+    <lg type="cobla" n="2" xml:id="C072-lg2">
+
+     <l n="9" xml:id="C072-l9"> Lom enueios son offici reposa </l>
+
+     <l n="10" xml:id="C072-l10"> Car degualtat ab ell negu pareia </l>
+
+     <l n="11" xml:id="C072-l11"> En ell penssant cascu si justifiqua </l>
+
+     <l n="12" xml:id="C072-l12"> Tallant dessi lamor assa persona </l>
+
+     <l n="13" xml:id="C072-l13"> Tant son en ell les uirtuts manifestes </l>
+
+     <l n="14" xml:id="C072-l14"> Ques dira cech lom quj be no les veia </l>
+
+     <l n="15" xml:id="C072-l15"> Per los mjgs va quen los estrems no toqua </l>
+
+     <l n="16" xml:id="C072-l16"> En temps dels deus en vida ladoraren </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C072-lg3">
+
+     <l n="17" xml:id="C072-l17"> E deus vehent la perllongada onta </l>
+
+     <l n="18" xml:id="C072-l18"> Quels grans senyors encontra dell cometen </l>
+
+     <l n="19" xml:id="C072-l19"> Tenjnts ab fraus e tirannes maneres </l>
+
+     <l n="20" xml:id="C072-l20"> Les parts del mon los pochs e grans realmes </l>
+
+     <l n="21" xml:id="C072-l21"> Ha dat uoler al justificat home </l>
+
+     <l n="22" xml:id="C072-l22"> Quen breu espay haia la monarchia </l>
+
+     <l n="23" xml:id="C072-l23"> Clar lo nomen ab aquestraltan senya </l>
+
+     <l n="24" xml:id="C072-l24"> Com de tot cert es dels homens pus sauj </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C072-lg4">
+
+     <l n="25" xml:id="C072-l25"> Per co que mjls atotes gents semostre </l>
+
+     <l n="26" xml:id="C072-l26"> Mostrant laquells quj uaques e bochs guarden </l>
+
+     <l n="27" xml:id="C072-l27"> Ell es aquell qujn sa jouentut tendra </l>
+
+     <l n="28" xml:id="C072-l28"> Sobran aquells quj saujesa colen </l>
+
+     <l n="29" xml:id="C072-l29"> E despoquant de nombre de gent darmes </l>
+
+     <l n="30" xml:id="C072-l30"> Les multituts daquelles ha fet retre </l>
+
+     <l n="31" xml:id="C072-l31"> Tot quant pot pot <note type="editorial">Per pot.</note> fer uirtut de fortalesa </l>
+
+     <l n="32" xml:id="C072-l32"> Dins hun cos dom en lo seu ho demostra </l>
+
+    </lg>
+
+    <pb n="74r" facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_151.html"/>
+
+    <lg type="cobla" n="5" xml:id="C072-lg5">
+
+     <l n="33" xml:id="C072-l33"> En gran defalt es lo mon de poetes </l>
+
+     <l n="34" xml:id="C072-l34"> Per enbellir los fets dels quj be obren </l>
+
+     <l n="35" xml:id="C072-l35"> Nos freturants de bella eloquenca </l>
+
+     <l n="36" xml:id="C072-l36"> Lorella dom afalach no pot rebre </l>
+
+     <l n="37" xml:id="C072-l37"> Daquest ualent una gran trompa sona </l>
+
+     <l n="38" xml:id="C072-l38"> Quels jndians ab vn poch no exorda </l>
+
+     <l n="39" xml:id="C072-l39"> Hoen laquells quj son atremuntana </l>
+
+     <l n="40" xml:id="C072-l40"> Yells de ponent e de lleuant los pobles </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C072-lg6">
+
+     <l n="41" xml:id="C072-l41"> Foll es aquell quj fa juhin los homens </l>
+
+     <l n="42" xml:id="C072-l42"> Seguons que dells la fortuna ordena </l>
+
+     <l n="43" xml:id="C072-l43"> Aquells affers que no son en larbitre </l>
+
+     <l n="44" xml:id="C072-l44"> Colpa noy cau si uenen per contrarj </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>
