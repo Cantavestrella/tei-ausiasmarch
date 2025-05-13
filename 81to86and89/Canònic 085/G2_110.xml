@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 85 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="NCP">
+     <name>Noa Climent Pastor </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2025-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/mossen-ausias-march-poeta-manuscrito--0/">
+     <msIdentifier xml:id="G2_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f. 150v centre, before first line</locus><choice>
+         <abbr>Mosß</abbr>
+         <expan>Mossen</expan>
+        </choice> auzias march</rubric>
+       <rubric><locus>f. 150v margin right, before first line</locus>C. 45.</rubric>
+       <rubric><locus>f. 151v centre, between lines 64 and 65</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_311.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_312.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_313.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C085-G2110">
+
+    <pb n="150v"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_311.html"/>
+
+    <lg type="cobla" n="1" xml:id="C085-lg1">
+
+     <l n="1" xml:id="C085-l1"> Lexe la sort / lo seu variat torn / </l>
+
+     <l n="2" xml:id="C085-l2"> cese amor / sondoloros costum / </l>
+
+     <l n="3" xml:id="C085-l3"> dell so content / si be nou acostum </l>
+
+     <l n="4" xml:id="C085-l4"> nom pot donar / mes enlo <choice>
+       <abbr>ṕnt</abbr>
+       <expan>present</expan>
+      </choice> jorn </l>
+
+     <l n="5" xml:id="C085-l5"> Mas yo vull <del rend="overwritten">s</del><add place="superimposed"
+       >ç</add>o / quenatura note </l>
+
+     <l n="6" xml:id="C085-l6"> edesig mes / que yo no puch trobar </l>
+
+     <l n="7" xml:id="C085-l7"> volent querres / no pogues empachar </l>
+
+     <l n="8" xml:id="C085-l8"> lo meu delit / que per amor meve </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C085-lg2">
+
+     <l n="9" xml:id="C085-l9"> Ara conech / que preu mes aquest be </l>
+
+     <l n="10" xml:id="C085-l10"> que tots aquells / queyo poriauer </l>
+
+     <l n="11" xml:id="C085-l11"> edelspassats / conte no men cal fer </l>
+
+     <l n="12" xml:id="C085-l12"> foren nores / segons seveura be </l>
+
+     <l n="13" xml:id="C085-l13"> Delit damor / no prehi james tant </l>
+
+     <l n="14" xml:id="C085-l14"> que fos çelos / de tot lavenidor </l>
+
+     <l n="15" xml:id="C085-l15"> ara tem mi / que nom fallegamor </l>
+
+     <l n="16" xml:id="C085-l16"> equant me pot / noure yoso duptant </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C085-lg3">
+
+     <l n="17" xml:id="C085-l17"> Esi demi / yom trob segur penssant </l>
+
+     <l n="18" xml:id="C085-l18"> avos yo tem / aytant com enemich </l>
+
+     <l n="19" xml:id="C085-l19"> mas sobretot / amor tem quedesllich </l>
+
+     <l n="20" xml:id="C085-l20"> lo lligament / quenvos esciny aytant </l>
+
+     <l n="21" xml:id="C085-l21"> Aquell voler / que yo puch be regir </l>
+
+     <l n="22" xml:id="C085-l22"> nom fa pahor / nerres quem <choice>
+       <abbr>ßa</abbr>
+       <expan>ssera</expan>
+      </choice>
+     </l>
+
+     <l n="23" xml:id="C085-l23"> aquell voler / quenpassiostara </l>
+
+     <l n="24" xml:id="C085-l24"> donem la mort / quant me volrra jaquir </l>
+
+    </lg>
+
+    <pb n="151r"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_312.html"/>
+
+    <lg type="cobla" n="4" xml:id="C085-lg4">
+
+     <l n="25" xml:id="C085-l25"> Per ques pot fer / que pot diminuhir </l>
+
+     <l n="26" xml:id="C085-l26"> en mi amor / sens mon conssentiment </l>
+
+     <l n="27" xml:id="C085-l27"> Ja edolor / ecom mon sentiment </l>
+
+     <l n="28" xml:id="C085-l28"> no es forçat / demon voler seguir </l>
+
+     <l n="29" xml:id="C085-l29"> Eyo segur damor / emi / evos <del rend="illegible"
+       extent="three characters"/>
+     </l>
+
+     <l n="30" xml:id="C085-l30"> tendrem percert / deser benahuyrat </l>
+
+     <l n="31" xml:id="C085-l31"> als nomifall / sino seguretat </l>
+
+     <l n="32" xml:id="C085-l32"> car en present / basten ser glorios </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C085-lg5">
+
+     <l n="33" xml:id="C085-l33"> James ami / quenofos desijos </l>
+
+     <l n="34" xml:id="C085-l34"> daquell desig / que per freturavem </l>
+
+     <l n="35" xml:id="C085-l35"> dalguna part / lomeu voler fon çem </l>
+
+     <l n="36" xml:id="C085-l36"> per quem falli enpart ser delitos </l>
+
+     <l n="37" xml:id="C085-l37"> Amor en mi / denou terme ha mes </l>
+
+     <l n="38" xml:id="C085-l38"> mondesig es per vos complit detot </l>
+
+     <l n="39" xml:id="C085-l39"> afermetat vull / solauer vn mot </l>
+
+     <l n="40" xml:id="C085-l40"> que de nemichs / damor sia defes </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C085-lg6">
+
+     <l n="41" xml:id="C085-l41"> Vostravalor / ma en amor empes </l>
+
+     <l n="42" xml:id="C085-l42"> e lo voler / quemsenbla ques tot meu </l>
+
+     <l n="43" xml:id="C085-l43"> e lalt segret / que fer conte nos deu </l>
+
+     <l n="44" xml:id="C085-l44"> car forçat fui / daquest foch <choice>
+      <abbr>ß</abbr>
+       <expan>sser</expan>
+      </choice> ences </l>
+
+     <l n="45" xml:id="C085-l45"> Si lavalor <choice>
+       <abbr>ʋra</abbr>
+       <expan>vostra</expan>
+      </choice> / yl voler fall </l>
+
+     <l n="46" xml:id="C085-l46"> ab ells mesclat / lomeu alt finara </l>
+
+     <l n="47" xml:id="C085-l47"> mentres vullau / evalgau no morra </l>
+
+     <l n="48" xml:id="C085-l48"> daquestes / trespedres faç mon fermall </l>
+
+    </lg>
+
+    <pb n="151v"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_313.html"/>
+
+    <lg type="cobla" n="7" xml:id="C085-lg7">
+
+     <l n="49" xml:id="C085-l49"> Lo scrivent / jutja lo seu treball </l>
+
+     <l n="50" xml:id="C085-l50"> pus affanyos / quenol del cauador </l>
+
+     <l n="51" xml:id="C085-l51"> tot axin pren / acascun amador </l>
+
+     <l n="52" xml:id="C085-l52"> baxant tot cas / yl seu <choice>
+       <abbr>mūta</abbr>
+       <expan>munta</expan>
+      </choice> cauall </l>
+
+     <l n="53" xml:id="C085-l53"> hil pobre hom / fa juhi del tirant </l>
+
+     <l n="54" xml:id="C085-l54"> que son penssar / totstemps corradelit </l>
+
+     <l n="55" xml:id="C085-l55"> ja es dedeu / qui viu sense despit </l>
+
+     <l n="56" xml:id="C085-l56"> car lo pus rrich / eslomes pobrejant </l>
+
+    </lg>
+
+    <lg type="cobla" n="8" xml:id="C085-lg8">
+
+     <l n="57" xml:id="C085-l57"> No so amat / evisch dolorejant </l>
+
+     <l n="58" xml:id="C085-l58"> daltres dolors / quel no amat nosab </l>
+
+     <l n="59" xml:id="C085-l59"> yo tem demort / lo cos e mes lo cab </l>
+
+     <l n="60" xml:id="C085-l60"> daquella que / de <choice>
+       <abbr>ṕnt</abbr>
+       <expan>present</expan>
+      </choice> es amant </l>
+
+     <l n="61" xml:id="C085-l61"> Yo am molt mes / per ser ne ben volgut </l>
+
+     <l n="62" xml:id="C085-l62"> tot mondelit / desamor se nodrex </l>
+
+     <l n="63" xml:id="C085-l63"> si contramor / lo seu amor fa llex </l>
+
+     <l n="64" xml:id="C085-l64"> qui pensara / lo dan / ami vengut </l>
+
+    </lg>
+
+    <lg type="tornada" n="9" xml:id="C085-lg9">
+
+     <l n="65" xml:id="C085-l65"> O foll amor / en dolor so caygut </l>
+
+     <l n="66" xml:id="C085-l66"> com no veig hom / quiparle be de vos </l>
+
+     <l n="67" xml:id="C085-l67"> eveig ne <choice>
+       <abbr>tāts</abbr>
+       <expan>tants</expan>
+      </choice> / que nanjustes clamors </l>
+
+     <l n="68" xml:id="C085-l68"> deu guart ami / de<choice>
+      <abbr>ß</abbr>
+       <expan>sser</expan>
+      </choice> ental vengut </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

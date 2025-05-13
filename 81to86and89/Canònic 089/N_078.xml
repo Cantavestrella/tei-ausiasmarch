@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 89 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="NCP">
+     <name>Noa Climent Pastor </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2025-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/portales/ausias_march/obra/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/">
+     <msIdentifier xml:id="N_Ms_2281_HSM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f. 203 centre, before first line</locus>§ Mossen Ausias march §</rubric>
+       <rubric><locus>f. 205 centre, between lines 56 and 57</locus>§Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_205.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_206.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_207.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C089-N078">
+
+    <pb n="203"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_205.html"/>
+
+    <lg type="cobla" n="1" xml:id="C089-lg1">
+
+     <l n="1" xml:id="C089-l1"> ¶ Ceruo ferit no desige la font </l>
+
+     <l n="2" xml:id="C089-l2"> Aytant com yo esser enuos present </l>
+
+     <l n="3" xml:id="C089-l3"> Abgran repos demon contentament </l>
+
+     <l n="4" xml:id="C089-l4"> Passar no puch sino per aquest pont </l>
+
+     <l n="5" xml:id="C089-l5"> Molt me ve tart lo <del rend="overstrike">be lo</del> jorn tant
+      desijat </l>
+
+     <l n="6" xml:id="C089-l6"> Comprat molt car per doloros suspir </l>
+
+     <l n="7" xml:id="C089-l7"> E tart obreu so cert que deu venir </l>
+
+     <l n="8" xml:id="C089-l8"> Si per lamort camj nom es tancat </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C089-lg2">
+
+     <l n="9" xml:id="C089-l9"> Esser no puch desperanca lancat </l>
+
+     <l n="10" xml:id="C089-l10"> Car <choice>
+       <abbr>yoꝯ</abbr>
+       <expan>yous</expan>
+      </choice> desig segons mon major be </l>
+
+     <l n="11" xml:id="C089-l11"> Auos deman contra mj res <choice>
+       <abbr>noꝯ</abbr>
+       <expan>nous</expan>
+      </choice> te </l>
+
+     <l n="12" xml:id="C089-l12"> Mentrel uoler uostrem sia donat </l>
+
+     <l n="13" xml:id="C089-l13"> Sil pensament lunyaua vn sol punt </l>
+
+     <l n="14" xml:id="C089-l14"> Dimagjnar auer uostre voler </l>
+
+     <l n="15" xml:id="C089-l15"> Sens aquell tot no puch delit hauer </l>
+
+     <l n="16" xml:id="C089-l16"> Sinos tot sa tost posa ser defunt </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C089-lg3">
+
+     <l n="17" xml:id="C089-l17"> Dauant me veig degrans dolos vn munt </l>
+
+     <l n="18" xml:id="C089-l18"> Puys obs he tant per almeu contentar </l>
+
+     <l n="19" xml:id="C089-l19"> E mon voler pora molt meyns cabar </l>
+
+     <l n="20" xml:id="C089-l20"> Sil uostres mou enomostra que munt </l>
+
+     <l n="21" xml:id="C089-l21"> E dauallant deuallara lomeu </l>
+
+     <l n="22" xml:id="C089-l22"> Edalt caent no dara poch crebant </l>
+
+     <l n="23" xml:id="C089-l23"> Car tot estrem altrestrem es donant </l>
+
+     <l n="24" xml:id="C089-l24"> Alpoch estat no par lofensa greu </l>
+
+    </lg>
+
+    <pb n="204"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_206.html"/>
+
+    <lg type="cobla" n="4" xml:id="C089-lg4">
+
+     <l n="25" xml:id="C089-l25"> Mil <choice>
+       <abbr>veꝯ</abbr>
+       <expan>veus</expan>
+      </choice> lo jorn es permj pregat deu </l>
+
+     <l n="26" xml:id="C089-l26"> Daco quen pos esta la major part </l>
+
+     <l n="27" xml:id="C089-l27"> Quen mon voler ajau lo vostresguart </l>
+
+     <l n="28" xml:id="C089-l28"> E prech amor vos lanc tot poder seu </l>
+
+     <l n="29" xml:id="C089-l29"> Si tal cas ve la donchs pendreu estrem </l>
+
+     <l n="30" xml:id="C089-l30"> Si troba loch on se prenga enuos </l>
+
+     <l n="31" xml:id="C089-l31"> Ab loch dispost sa passios ennos </l>
+
+     <l n="32" xml:id="C089-l32"> E lo contrast tenim eno volem </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C089-lg5">
+
+     <l n="33" xml:id="C089-l33"> Noues deuos saber mortalment tem </l>
+
+     <l n="34" xml:id="C089-l34"> Dubtant me fort que noy mostreu amor </l>
+
+     <l n="35" xml:id="C089-l35"> Perno saber visch en altra dolor </l>
+
+     <l n="36" xml:id="C089-l36"> Nose dequal costat guart que nom crem </l>
+
+     <l n="37" xml:id="C089-l37"> No es enuos complir lomeu delit </l>
+
+     <l n="38" xml:id="C089-l38"> Perbe que vos vullau complir aquell </l>
+
+     <l n="39" xml:id="C089-l39"> Damor aueu auer forcat consell </l>
+
+     <l n="40" xml:id="C089-l40"> En vos hi en ell recau monbe complit </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C089-lg6">
+
+     <l n="41" xml:id="C089-l41"> Res no temau ne prengau endespit </l>
+
+     <l n="42" xml:id="C089-l42"> Dels pensaments <choice>
+       <abbr>meꝯ</abbr>
+       <expan>meus</expan>
+      </choice> ab verihetat </l>
+
+     <l n="43" xml:id="C089-l43"> Car enseruey seran defermetat </l>
+
+     <l n="44" xml:id="C089-l44"> De tals seruents vol ser amor seruit </l>
+
+     <l n="45" xml:id="C089-l45"> Si punt denug dest praticar sentiu </l>
+
+     <l n="46" xml:id="C089-l46"> Sens amor sou o no sabeu que vol </l>
+
+     <l n="47" xml:id="C089-l47"> Fferm loch nol te quj daquest mal se dol </l>
+
+     <l n="48" xml:id="C089-l48"> Lomouiment per segurtat tenju </l>
+
+    </lg>
+
+    <pb n="205"
+     facs="https://www.cervantesvirtual.com/portales/ausias_march/obra-visor/canconer-de-obres-de-mossen-ausias-march-manuscrito--0/html/017bdf6a-82b2-11df-acc7-002185ce6064_207.html"/>
+
+    <lg type="cobla" n="7" xml:id="C089-lg7">
+
+     <l n="49" xml:id="C089-l49"> Si tant de vos com voleu no confiu </l>
+
+     <l n="50" xml:id="C089-l50"> Mon gran uoler me portan aquest zel </l>
+
+     <l n="51" xml:id="C089-l51"> De uostre cors no tem lo <choice>
+       <abbr>pꝯ</abbr>
+       <expan>pus</expan>
+      </choice> prim pel </l>
+
+     <l n="52" xml:id="C089-l52"> Quen contramj res fes nem fos altiu </l>
+
+     <l n="53" xml:id="C089-l53"> La voluntat vull que pas totanmj </l>
+
+     <l n="54" xml:id="C089-l54"> Yo so celos simolt amau adeu </l>
+
+     <l n="55" xml:id="C089-l55"> Tant vos delit sens mj lomal crex meu </l>
+
+     <l n="56" xml:id="C089-l56"> Quant vos dolgues delmal uostrem dolguj </l>
+
+    </lg>
+
+    <lg type="tornada" n="8" xml:id="C089-lg8">
+
+     <l n="57" xml:id="C089-l57"> Mon darer be de vos yo guart la fi </l>
+
+     <l n="58" xml:id="C089-l58"> Quant del present me trob esser content </l>
+
+     <l n="59" xml:id="C089-l59"> Esim veig trist per algun cas present </l>
+
+     <l n="60" xml:id="C089-l60"> Res venidor trobar nos pot enmj </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

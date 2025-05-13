@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 84 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="NCP">
+     <name> </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2025-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/poesies-3/">
+     <msIdentifier xml:id="D_Ms_2985_BnM">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+  <!-- The URL provider gives one URL for the whole witness. Expect no page specification. -->
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C084-D077">
+
+    <pb n="76v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+    <lg type="cobla" n="1" xml:id="C084-lg1">
+
+     <l n="1" xml:id="C084-l1"> Tant he amat que vinch endesamar </l>
+
+     <l n="2" xml:id="C084-l2"> sicom aquell qui amichs hatengut </l>
+
+     <l n="3" xml:id="C084-l3"> per lur defalt hauentlo decebut </l>
+
+     <l n="4" xml:id="C084-l4"> atot lo mon segira'n airar </l>
+
+     <l n="5" xml:id="C084-l5"> Car gran amor portab sicarrech gran </l>
+
+     <l n="6" xml:id="C084-l6"> viure no pot sens gran sosteniment </l>
+
+     <l n="7" xml:id="C084-l7"> lo seu semblant voler les sostenent </l>
+
+     <l n="8" xml:id="C084-l8"> y aquell no ferm / amorvatremollan </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C084-lg2">
+
+     <l n="9" xml:id="C084-l9"> Qui ama poch no deu ser desijant </l>
+
+     <l n="10" xml:id="C084-l10"> que son amat li sia estrem volent </l>
+
+     <pb n="77r" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="11" xml:id="C084-l11"> car poch voler no es voler sintent </l>
+
+     <l n="12" xml:id="C084-l12"> delgranvoler queliporta lamant </l>
+
+     <l n="13" xml:id="C084-l13"> Solper amor se desijaltramor </l>
+
+     <l n="14" xml:id="C084-l14"> per si mateix no porta'ltre delit </l>
+
+     <l n="15" xml:id="C084-l15"> edona cels dant congoxos despit </l>
+
+     <l n="16" xml:id="C084-l16"> silo delit de ser amat no cor </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C084-lg3">
+
+     <l n="17" xml:id="C084-l17"> Ja en amor no sere durador </l>
+
+     <l n="18" xml:id="C084-l18"> car son afany sobrepujal delit </l>
+
+     <l n="19" xml:id="C084-l19"> altemps antich yo degra ser exit </l>
+
+     <l n="20" xml:id="C084-l20"> que ignocent eratot amador </l>
+
+     <l n="21" xml:id="C084-l21"> Elome vell solia ser fradrj </l>
+
+     <l n="22" xml:id="C084-l22"> yentemps present es vell qui barba met </l>
+
+     <l n="23" xml:id="C084-l23"> cascun amor voltemps sens calt ne fret </l>
+
+     <l n="24" xml:id="C084-l24"> yo crem diuern y destiu tremoli </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C084-lg4">
+
+     <l n="25" xml:id="C084-l25"> Lomeu voler en amor no falti </l>
+
+     <l n="26" xml:id="C084-l26"> deser entes e molt menys satisfet </l>
+
+     <l n="27" xml:id="C084-l27"> deu ni elmon atot oblit tramet </l>
+
+     <l n="28" xml:id="C084-l28"> es molt escas lo grat queyom senti </l>
+
+     <l n="29" xml:id="C084-l29"> Peraquell preu que amordeu servenut </l>
+
+     <l n="30" xml:id="C084-l30"> yo dant aquell no viu que latengues </l>
+
+     <l n="31" xml:id="C084-l31"> aquell voler que sens dir es entes </l>
+
+     <l n="32" xml:id="C084-l32"> per mal sentir no fon ben conegut </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C084-lg5">
+
+     <l n="33" xml:id="C084-l33"> Ab gran voler deparlar yo fuy mut </l>
+
+     <l n="34" xml:id="C084-l34"> per no trobar raho quem satisfes </l>
+
+     <pb n="77v" facs="https://www.cervantesvirtual.com/obra/poesies-3/"/>
+
+     <l n="35" xml:id="C084-l35"> ama dolor quebastament digues </l>
+
+     <l n="36" xml:id="C084-l36"> eperço fuy hom sens amor tengut </l>
+
+     <l n="37" xml:id="C084-l37"> Mon cor sostrach laparaula de se </l>
+
+     <l n="38" xml:id="C084-l38"> ma boca tench aquella no pasas </l>
+
+     <l n="39" xml:id="C084-l39"> vergonya y por guardaren aquest pas </l>
+
+     <l n="40" xml:id="C084-l40"> eno fonvist com damortal cas ve </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C084-lg6">
+
+     <l n="41" xml:id="C084-l41"> Menys mal daquest qual fort cor lo soste </l>
+
+     <l n="42" xml:id="C084-l42"> qui es aquell que sobtos no esclatas </l>
+
+     <l n="43" xml:id="C084-l43"> que sadolor a mostrar no bastas </l>
+
+     <l n="44" xml:id="C084-l44"> e fos cregut hom sens amor e fe </l>
+
+     <l n="45" xml:id="C084-l45"> Esonvoler vengues esser jutjat </l>
+
+     <l n="46" xml:id="C084-l46"> per saber gros evoler deslleal </l>
+
+     <l n="47" xml:id="C084-l47"> lentendre seu vehent lo cominal </l>
+
+     <l n="48" xml:id="C084-l48"> que fos entes denteniment tapat </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C084-lg7">
+
+     <l n="49" xml:id="C084-l49"> Sians de temps so vist blanch e ruat </l>
+
+     <l n="50" xml:id="C084-l50"> elo meu cos mostrauer passat mal </l>
+
+     <l n="51" xml:id="C084-l51"> seraperço com amorja no val </l>
+
+     <l n="52" xml:id="C084-l52"> aquell aqui natura namorat </l>
+
+     <l n="53" xml:id="C084-l53"> Perdent ami yo solament no planch </l>
+
+     <l n="54" xml:id="C084-l54"> mas acascu quintal cas seveura </l>
+
+     <l n="55" xml:id="C084-l55"> be so yo cert quen tot nom semblara </l>
+
+     <l n="56" xml:id="C084-l56"> car per honor yom cech en pus alt banch </l>
+
+    </lg>
+
+    <lg type="tornada" n="8" xml:id="C084-lg8">
+
+     <l n="57" xml:id="C084-l57"> Amor amor vostre poder esmanch </l>
+
+     <l n="58" xml:id="C084-l58"> o de sens grat esser podeu reptat </l>
+
+     <l n="59" xml:id="C084-l59"> qual daquests noms voleu en vos posat </l>
+
+     <l n="60" xml:id="C084-l60"> dequal seuol costat jaheu enfanch<note type="editorial">A
+       continuació, d'altra mà: fi.</note>
+     </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 89 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="NCP">
+     <name>Noa Climent Pastor </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2025-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc corresp="https://www.cervantesvirtual.com/obra/obres-dausias-march-manuscrito--0/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f. 78v centre</locus>Tornada.\ </rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_158.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_159.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_160.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C089-B088">
+
+    <pb n="77v"
+     facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_158.html"/>
+
+    <lg type="cobla" n="1" xml:id="C089-lg1">
+
+     <l n="1" xml:id="C089-l1">
+      <c rend="large">C</c>eruo ferit no desija la font </l>
+
+     <l n="2" xml:id="C089-l2"> Aytant com jo esser a vos present </l>
+
+     <l n="3" xml:id="C089-l3"> Al gran repos de mon contentament </l>
+
+     <l n="4" xml:id="C089-l4"> Passar no puch sino per aquest pont </l>
+
+     <l n="5" xml:id="C089-l5"> Molt me ve tart lo jorn tan desijat </l>
+
+     <l n="6" xml:id="C089-l6"> Comprat molt car per dolor e sospir </l>
+
+     <l n="7" xml:id="C089-l7"> Mas tart o breu so cert <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> deu venjr </l>
+
+     <l n="8" xml:id="C089-l8"> Si per la mort camj nom es tancat </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C089-lg2">
+
+     <l n="9" xml:id="C089-l9">
+      <c rend="large">E</c>sser no puch desperança lançat </l>
+
+     <l n="10" xml:id="C089-l10"> Car jous desitx segons mon major be </l>
+
+     <l n="11" xml:id="C089-l11"> A vos deman contra mi res nous te </l>
+
+     <l n="12" xml:id="C089-l12"> Mentrel voler vostrem sia donat </l>
+
+     <l n="13" xml:id="C089-l13"> Sil pensament lunyaua vn sol punt </l>
+
+     <l n="14" xml:id="C089-l14"> Dimaginar hauer vostre voler </l>
+
+     <pb n="78r"
+      facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_159.html"/>
+
+     <l n="15" xml:id="C089-l15"> Sens <choice>
+       <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice> tot no puch delit hauer </l>
+
+     <l n="16" xml:id="C089-l16"> Si nos tot sa tost pora ser defunct </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C089-lg3">
+
+     <l n="17" xml:id="C089-l17">
+      <c rend="large">D</c>auant me vetx de grans dolos vn munt </l>
+
+     <l n="18" xml:id="C089-l18"> Puys obs he tant per al meu contentar </l>
+
+     <l n="19" xml:id="C089-l19"> E mon voler pora molt menyscabar </l>
+
+     <l n="20" xml:id="C089-l20"> Sil vostres mou eno mostra que <choice>
+       <abbr>mūt</abbr>
+       <expan>munt</expan>
+      </choice>
+     </l>
+
+     <l n="21" xml:id="C089-l21"> E deuallant deuallara lo meu </l>
+
+     <l n="22" xml:id="C089-l22"> Prenent gran colp no caura lanegant </l>
+
+     <l n="23" xml:id="C089-l23"> Car tot strem vn altre nes donat </l>
+
+     <l n="24" xml:id="C089-l24"> Al poch stat no par lofenssa greu </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C089-lg4">
+
+     <l n="25" xml:id="C089-l25">
+      <c rend="large">M</c>ils veus lo jorn es per mj pregat deu </l>
+
+     <l n="26" xml:id="C089-l26"> Daço quen vos sta la major part </l>
+
+     <l n="27" xml:id="C089-l27"> Quen mon voler haiau lo vostresguart </l>
+
+     <l n="28" xml:id="C089-l28"> E prech amor vos lanç tot poder seu </l>
+
+     <l n="29" xml:id="C089-l29"> Si tal cas ve ladonchs pendreu strem </l>
+
+     <l n="30" xml:id="C089-l30"> Si troba loch hon se prenga en vos </l>
+
+     <l n="31" xml:id="C089-l31"> Ab loch dispost sa passios en <del rend="overstrike"
+       >vos</del><add>nos</add>
+     </l>
+
+     <l n="32" xml:id="C089-l32"> E lo contrast tenjm eno volem </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C089-lg5">
+
+     <l n="33" xml:id="C089-l33">
+      <c rend="large">N</c>oues dauos saber mortalment tem </l>
+
+     <l n="34" xml:id="C089-l34"> Dubtant me fort <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> noy mostreu amor </l>
+
+     <l n="35" xml:id="C089-l35"> Per no saber visch en altra dolor </l>
+
+     <l n="36" xml:id="C089-l36"> No sse de qual costat guart <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> nom crem </l>
+
+     <l n="37" xml:id="C089-l37"> No es en vos complir lo meu delit </l>
+
+     <l n="38" xml:id="C089-l38"> Perbe <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> vos complir vullau <choice>
+       <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice>
+     </l>
+
+     <l n="39" xml:id="C089-l39"> Damor haueu hauer forcat <choice>
+       <abbr>cōcell</abbr>
+       <expan>concell</expan>
+      </choice>
+     </l>
+
+     <l n="40" xml:id="C089-l40"> En vostres mans recau mon be <choice>
+       <abbr>cōplit</abbr>
+       <expan>complit</expan>
+      </choice>
+     </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C089-lg6">
+
+     <l n="41" xml:id="C089-l41">
+      <c rend="large">R</c>es no temau ne prengau en despit </l>
+
+     <l n="42" xml:id="C089-l42"> Dels penssaments <choice>
+       <abbr>meꝯ</abbr>
+       <expan>meus</expan>
+      </choice> ab varietat </l>
+
+     <l n="43" xml:id="C089-l43"> Car en seruey seran de fermetat </l>
+
+     <l n="44" xml:id="C089-l44"> De tals seruents vol ser amor serujt </l>
+
+     <pb n="78v"
+      facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_160.html"/>
+
+     <l n="45" xml:id="C089-l45"> Si punt danutx dest praticar sentiu </l>
+
+     <l n="46" xml:id="C089-l46"> Sens amor sou e no sabeu <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> vol </l>
+
+     <l n="47" xml:id="C089-l47"> Fferm loch no te qui <choice>
+       <abbr>daꝗst</abbr>
+       <expan>daquest</expan>
+      </choice> mal se dol </l>
+
+     <l n="48" xml:id="C089-l48"> Lo mouiment per seguretat tenju </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C089-lg7">
+
+     <l n="49" xml:id="C089-l49">
+      <c rend="large">S</c>i tant de vos com voleu no confiu </l>
+
+     <l n="50" xml:id="C089-l50"> Mon gran voler ma portanaquest zel </l>
+
+     <l n="51" xml:id="C089-l51"> De vostre cos no tem lo pus prim pel </l>
+
+     <l n="52" xml:id="C089-l52"> Quen contramj res fer nem fos altiu </l>
+
+     <l n="53" xml:id="C089-l53"> La voluntat vul que pas totan mj </l>
+
+     <l n="54" xml:id="C089-l54"> Yo so çelos si molt amau adeu </l>
+
+     <l n="55" xml:id="C089-l55"> Dant vos delit sens mj lo mal crex meu </l>
+
+     <l n="56" xml:id="C089-l56"> Quant vos dolgues del mal vostrem dolgui </l>
+
+    </lg>
+
+    <lg type="tornada" n="8" xml:id="C089-lg8">
+
+     <l n="57" xml:id="C089-l57">
+      <c rend="large">M</c>on darrer be de vos yo guart la fi </l>
+
+     <l n="58" xml:id="C089-l58"> Quant del present me trop esser <choice>
+       <abbr>cōtent</abbr>
+       <expan>content</expan>
+      </choice>
+     </l>
+
+     <l n="59" xml:id="C089-l59"> E sim vetx trist per <choice>
+       <abbr>algū</abbr>
+       <expan>algun</expan>
+      </choice> cas present </l>
+
+     <l n="60" xml:id="C089-l60"> Res venidor trobar nos pot en mj </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

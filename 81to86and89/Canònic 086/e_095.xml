@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 86 </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="NCP">
+               <name>Noa Climent Pastor </name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2025-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the synoptic diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2025.</p>
+               </licence>
+            </availability>
+            <date>2025-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/">
+               <msIdentifier xml:id="e_Ed_1560_BC">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f. 132 header</locus>SEGVEXEN LAS CO-blas Esparças.</rubric>
+                     <rubric><locus>f. 132r centre, before first line</locus>ESPARÇA DE AMOR. I.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_282.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C086-e095">
+
+            <pb n="132r"
+               facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-cavaller-y-elegantissim-poeta-ausias-march-ara-nouament-ab-molta-diligencia-reuistes-y-ordenades-y-de-molts-cants-aumentades--0/html/01f97c18-82b2-11df-acc7-002185ce6064_282.html"/>
+
+            <lg type="cobla" n="1" xml:id="C086-lg1">
+
+               <l n="1" xml:id="C086-l1">
+                  <c rend="large">S</c>Im demanau / lo greu turment que pas </l>
+
+               <l n="2" xml:id="C086-l2"> es pas tan fort / quem lleu'el dir que passe </l>
+
+               <l n="3" xml:id="C086-l3"> y es d'admirar / passant com nom trespasse </l>
+
+               <l n="4" xml:id="C086-l4"> ingratitud / portant me'l contrapas. </l>
+
+               <l n="5" xml:id="C086-l5"> May retraure / de vostre Amor vn pas </l>
+
+               <l n="6" xml:id="C086-l6"> puix en seguir / a vos honesta medre </l>
+
+               <l n="7" xml:id="C086-l7"> e si raho / me fa contrast desmedre </l>
+
+               <l n="8" xml:id="C086-l8"> yes me lo mon / sens vos present escas. </l>
+
+            </lg>
+
+            <lg type="cobla" n="2" xml:id="C086-lg2">
+
+               <l n="9" xml:id="C086-l9"> Passe penant / vn riu de mort lo dia </l>
+
+               <l n="10" xml:id="C086-l10"> y en ser per vos / me dol fer curta via. </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

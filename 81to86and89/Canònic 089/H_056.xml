@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 89 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="NCP">
+     <name>Noa Climent Pastor </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2025-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/">
+     <msIdentifier xml:id="H_Ms_110_BUZ">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f. 67v centre, before first line</locus><choice>
+         <abbr>Moß</abbr>
+         <expan>Mossen</expan>
+        </choice> auzias march</rubric>
+       <rubric><locus>f. 68v centre, footer</locus>//Tornada//</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_117.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_118.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_119.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_120.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C089-H056">
+
+    <pb n="67v"
+     facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_117.html"/>
+
+    <lg type="cobla" n="1" xml:id="C089-lg1">
+
+     <l n="1" xml:id="C089-l1"> <c rend="large">S</c>eruo ferit no desiga la font </l>
+
+     <l n="2" xml:id="C089-l2"> Aytant com yo esser ab uos pressent </l>
+
+     <l n="3" xml:id="C089-l3"> Ab gran repos de mon contentament </l>
+
+     <l n="4" xml:id="C089-l4"> Passar no pusch si no per aquest pont </l>
+
+     <l n="5" xml:id="C089-l5"> Molt me ve tart lo jorn tan desigat </l>
+
+     <l n="6" xml:id="C089-l6"> Comprat molt car per doloros sospir </l>
+
+     <l n="7" xml:id="C089-l7"> E tart ho breu so sert <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> deu venjr </l>
+
+     <l n="8" xml:id="C089-l8"> Si per la mort camj no es tancat </l>
+
+    </lg>
+
+    <pb n="68r"
+     facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_118.html"/>
+
+    <lg type="cobla" n="2" xml:id="C089-lg2">
+
+     <l n="9" xml:id="C089-l9"> Esser no pusch desperança lençat </l>
+
+     <l n="10" xml:id="C089-l10"> Car ious desig segons mon magor be </l>
+
+     <l n="11" xml:id="C089-l11"> Auos deman contra mj res nous te </l>
+
+     <l n="12" xml:id="C089-l12"> Mentrel voler vostrem sia donat </l>
+
+     <l n="13" xml:id="C089-l13"> Sil pensament lunyaua hun sol punt </l>
+
+     <l n="14" xml:id="C089-l14"> Dimaginar hauer vostre voler </l>
+
+     <l n="15" xml:id="C089-l15"> Sens aquel tot no pusch delit hauer </l>
+
+     <l n="16" xml:id="C089-l16"> Sinos tot sa tost pora ser diffunt </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C089-lg3">
+
+     <l n="17" xml:id="C089-l17"> Denant me veig de grans dolors hun munt </l>
+
+     <l n="18" xml:id="C089-l18"> Puys obs he tant per amon contentar </l>
+
+     <l n="19" xml:id="C089-l19"> E mon voler pora molt menys cabar </l>
+
+     <l n="20" xml:id="C089-l20"> Sil vostres mou e no mostre <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> munt </l>
+
+     <l n="21" xml:id="C089-l21"> E deualant deualara lo meu </l>
+
+     <l n="22" xml:id="C089-l22"> E dalt cayent no dara poch cabrant </l>
+
+     <l n="23" xml:id="C089-l23"> Car tot estrem al estrem es donant </l>
+
+     <l n="24" xml:id="C089-l24"> Al poch estat no par lofensa greu </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C089-lg4">
+
+     <l n="25" xml:id="C089-l25"> Mil veus lo iorn es <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice> mj pregat deu </l>
+
+     <l n="26" xml:id="C089-l26"> De ço quen vos esta la maior part </l>
+
+     <l n="27" xml:id="C089-l27"> Quen mon voler / haiau lo vostresguart </l>
+
+     <l n="28" xml:id="C089-l28"> E prech amor vos lanç tot poder seu </l>
+
+     <l n="29" xml:id="C089-l29"> E siu conpleix ladonchs pendreu estrem </l>
+
+     <l n="30" xml:id="C089-l30"> Si troba loch hon se prenga en uos </l>
+
+     <l n="31" xml:id="C089-l31"> Ab loch dispost sa passios en nos </l>
+
+     <l n="32" xml:id="C089-l32"> E lo contrast / tenjm e no volem </l>
+
+    </lg>
+
+    <pb n="68v"
+     facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_119.html"/>
+
+    <lg type="cobla" n="5" xml:id="C089-lg5">
+
+     <l n="33" xml:id="C089-l33"> Nouas de uos saber mortalment tem </l>
+
+     <l n="34" xml:id="C089-l34"> Duptant me fort que noy mostren amor </l>
+
+     <l n="35" xml:id="C089-l35"> Per no saber visch en altre dolor </l>
+
+     <l n="36" xml:id="C089-l36"> No se de qual costat guart <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> nom crem </l>
+
+     <l n="37" xml:id="C089-l37"> No es en vos complir lo meu delit </l>
+
+     <l n="38" xml:id="C089-l38"> Per be que uos vullau complir aquell </l>
+
+     <l n="39" xml:id="C089-l39"> Damor aueu auer forçat consell </l>
+
+     <l n="40" xml:id="C089-l40"> En vos yen el recau mon be conplit </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C089-lg6">
+
+     <l n="41" xml:id="C089-l41"> Res no temau / ne prengau en despit </l>
+
+     <l n="42" xml:id="C089-l42"> Mos pensaments ab tal varietat </l>
+
+     <l n="43" xml:id="C089-l43"> Car en seruey / seran de fermetat </l>
+
+     <l n="44" xml:id="C089-l44"> De tals siruents vol ser amor serujt </l>
+
+     <l n="45" xml:id="C089-l45"> Si jens anuig dest pratichar sentiu </l>
+
+     <l n="46" xml:id="C089-l46"> Sens amor sou ho no sabeu <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> vol </l>
+
+     <l n="47" xml:id="C089-l47"> Ferm loch nol te <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> daquest mal se dol </l>
+
+     <l n="48" xml:id="C089-l48"> Lo moujment per segurtat tenju </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C089-lg7">
+
+     <l n="49" xml:id="C089-l49"> Si tant de uos com voleu no confiu </l>
+
+     <l n="50" xml:id="C089-l50"> Mon gran voler / me portanquest zel </l>
+
+     <l n="51" xml:id="C089-l51"> De vostre cors no tem lo pus prim pel </l>
+
+     <l n="52" xml:id="C089-l52"> Quen contra mj / res fes njm fos altiu </l>
+
+     <l n="53" xml:id="C089-l53"> La voluntat vull <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> pas tota en mj </l>
+
+     <l n="54" xml:id="C089-l54"> Yon so salos si molt amau adeu </l>
+
+     <l n="55" xml:id="C089-l55"> Dant vos delit sens mj lo mal creix meu </l>
+
+     <l n="56" xml:id="C089-l56"> Quant vos dolgues del mal vostrem dolguj </l>
+
+    </lg>
+
+    <pb n="69r"
+     facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_120.html"/>
+
+    <lg type="tornada" n="8" xml:id="C089-lg8">
+
+     <l n="57" xml:id="C089-l57"> Mon derrer be / de uos jo guart la fi </l>
+
+     <l n="58" xml:id="C089-l58"> Quant del pressent me trob esser content </l>
+
+     <l n="59" xml:id="C089-l59"> E sim veig trist per algun cars pressent </l>
+
+     <l n="60" xml:id="C089-l60"> Res venjdor / trobar nos pot en mj </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

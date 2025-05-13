@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 89 </title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="NCP">
+     <name>Noa Climent Pastor </name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2025-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/">
+     <msIdentifier xml:id="c_Ed_11V57_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f. 21v centre</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_49.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_50.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_51.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C089-c024">
+
+    <pb n="20v"
+     facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_49.html"/>
+
+    <lg type="cobla" n="1" xml:id="C089-lg1">
+
+     <l n="1" xml:id="C089-l1">
+      <c rend="large">C</c>Eruo ferit / no desija la font, </l>
+
+     <l n="2" xml:id="C089-l2"> aytant com yo / esser, a vos present. </l>
+
+     <l n="3" xml:id="C089-l3"> al gran repos / de mon contentament </l>
+
+     <l n="4" xml:id="C089-l4"> passar no puch / sino, per aquest pont, </l>
+
+     <l n="5" xml:id="C089-l5"> molt me ve tart / lo jorn tan desijat </l>
+
+     <l n="6" xml:id="C089-l6"> comprar molt car / per doloros sentir </l>
+
+     <l n="7" xml:id="C089-l7"> e tart, ho breu / so cert, que deu venir </l>
+
+     <l n="8" xml:id="C089-l8"> si per la mort / cami nom es tancat. </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C089-lg2">
+
+     <l n="9" xml:id="C089-l9"> Esser no puch / desperança lançat </l>
+
+     <l n="10" xml:id="C089-l10"> car yous desig / segons mon major be. </l>
+
+     <l n="11" xml:id="C089-l11"> a vos deman / contra mi res nous te, </l>
+
+     <l n="12" xml:id="C089-l12"> mentrel voler / vostrem sia donat. </l>
+
+     <l n="13" xml:id="C089-l13"> sil pensament / lunyaua, sol vn punt, </l>
+
+     <l n="14" xml:id="C089-l14"> d'imaginar / hauer vostre voler </l>
+
+     <l n="15" xml:id="C089-l15"> sens aquell tot / delit, no puch hauer, </l>
+
+     <l n="16" xml:id="C089-l16"> sino tot sa / tost pora ser defunt. </l>
+
+    </lg>
+
+    <pb n="21r"
+     facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_50.html"/>
+
+    <lg type="cobla" n="3" xml:id="C089-lg3">
+
+     <l n="17" xml:id="C089-l17"> Deuant me veig / de grans dolors vn munt </l>
+
+     <l n="18" xml:id="C089-l18"> puis ops he tant / per a mon intentar </l>
+
+     <l n="19" xml:id="C089-l19"> e mon voler / pora molt menys cabar </l>
+
+     <l n="20" xml:id="C089-l20"> sil vostres mou / e no mostra ques munt </l>
+
+     <l n="21" xml:id="C089-l21"> e deuallant / deuellara lo meu </l>
+
+     <l n="22" xml:id="C089-l22"> e d'alt cahent / no dara poch quebrant </l>
+
+     <l n="23" xml:id="C089-l23"> cart tot estrem / al altre'strem donant </l>
+
+     <l n="24" xml:id="C089-l24"> al poch estat / no par lo sensal greu: </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C089-lg4">
+
+     <l n="25" xml:id="C089-l25"> Mil veus lo jorn / es per mi pregat Deu </l>
+
+     <l n="26" xml:id="C089-l26"> de ço que'n vos / esta la major part </l>
+
+     <l n="27" xml:id="C089-l27"> que'en mon voler / hajau lo vostre'sguart </l>
+
+     <l n="28" xml:id="C089-l28"> e prech amor / vos lanç tot poder seu, </l>
+
+     <l n="29" xml:id="C089-l29"> e siu compleix / ladonchs pendre estrem </l>
+
+     <l n="30" xml:id="C089-l30"> si troba loch / hon se prenga, en vos, </l>
+
+     <l n="31" xml:id="C089-l31"> ab loch dispost / sa passio's, en nos, </l>
+
+     <l n="32" xml:id="C089-l32"> e lo contrast / tenim, he no volem. </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C089-lg5">
+
+     <l n="33" xml:id="C089-l33"> Noues de vos / saber, mortalment, tem, </l>
+
+     <l n="34" xml:id="C089-l34"> dubtant me fort / que noy mostreu amor </l>
+
+     <l n="35" xml:id="C089-l35"> per no saber / visch en altre dolor </l>
+
+     <l n="36" xml:id="C089-l36"> no se de qual / costat, guart que nom crem. </l>
+
+     <l n="37" xml:id="C089-l37"> no es en vos / complit, lo meu delit </l>
+
+     <l n="38" xml:id="C089-l38"> per be que vos / vullau'complir aquell, </l>
+
+     <l n="39" xml:id="C089-l39"> d'amor haueu / hauer forçat consell, </l>
+
+     <l n="40" xml:id="C089-l40"> en vos, y en ell / recau mon be complit. </l>
+
+    </lg>
+
+    <lg type="cobla" n="6" xml:id="C089-lg6">
+
+     <l n="41" xml:id="C089-l41"> Res no temau / ne prengau en despit </l>
+
+     <l n="42" xml:id="C089-l42"> mos pensaments / ab tal varietat </l>
+
+     <l n="43" xml:id="C089-l43"> car, en seruey / seran de fermetat. </l>
+
+     <pb n="21v"
+      facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_51.html"/>
+
+     <l n="44" xml:id="C089-l44"> de tals seruents / vol ser amor seruit. </l>
+
+     <l n="45" xml:id="C089-l45"> si gens d'enuig / dest practicar sentiu </l>
+
+     <l n="46" xml:id="C089-l46"> sens amor sou / ho no sabeu que vol </l>
+
+     <l n="47" xml:id="C089-l47"> ferm loch nol te / qui d'aquest mal, se dol </l>
+
+     <l n="48" xml:id="C089-l48"> lo mouiment / per segur'tat, teniu. </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C089-lg7">
+
+     <l n="49" xml:id="C089-l49"> Si tant de vos / com valeu, no confiu, </l>
+
+     <l n="50" xml:id="C089-l50"> mon gran voler / me porta'n, aquest zel, </l>
+
+     <l n="51" xml:id="C089-l51"> de vostre cos / no tem lo pus prim pel </l>
+
+     <l n="52" xml:id="C089-l52"> que contrami / res fes quem fos altiu. </l>
+
+     <l n="53" xml:id="C089-l53"> la voluntat / vull que pas tocant mi </l>
+
+     <l n="54" xml:id="C089-l54"> yon so celos / si molt amau a Deu </l>
+
+     <l n="55" xml:id="C089-l55"> dant vos delit / sens mi, lo mal creixmen, </l>
+
+     <l n="56" xml:id="C089-l56"> quant vos dolgues / del mal vostrem dolgui. </l>
+
+    </lg>
+
+    <lg type="tornada" n="8" xml:id="C089-lg8">
+
+     <l n="57" xml:id="C089-l57"> Mon darrer be / de vos yo guart la fi </l>
+
+     <l n="58" xml:id="C089-l58"> quant del present / me trob esser content </l>
+
+     <l n="59" xml:id="C089-l59"> e sim veig / per algun cas present </l>
+
+     <l n="60" xml:id="C089-l60"> res venidor / trobar nos pot en mi. </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>
