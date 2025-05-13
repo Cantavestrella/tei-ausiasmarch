@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 77</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CCI">
+               <name>Cèlia Campos Ivars</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2025.</p>
+               </licence>
+            </availability>
+            <date>2025-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/">
+               <msIdentifier xml:id=" a_Ed_1539_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f. 38v, centre, before rubric "Marco"</locus>¶Capitulo: XXI</rubric>
+                     <rubric><locus>f. 38v, centre, before first line</locus>Marco.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_77.html"/>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_78.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C077-a021">
+
+            <pb n="38v"
+               facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_77.html"/>
+
+            <lg type="cobla" n="1" xml:id="C077-lg1">
+
+               <l n="1" xml:id="C077-l1"> ¶ No pot mostrar / lo cel menys piatat </l>
+
+               <l n="2" xml:id="C077-l2"> Com en present / de sobre mi pareix </l>
+
+               <l n="3" xml:id="C077-l3"> Tot amor fall / sino assi mateix </l>
+
+               <l n="4" xml:id="C077-l4"> Denueja es / tot lo mon conquistat </l>
+
+               <l n="5" xml:id="C077-l5"> Hom sens affany / no vol fer algun be </l>
+
+               <l n="6" xml:id="C077-l6"> Com lo fara / contra si ab gran cost </l>
+
+               <l n="7" xml:id="C077-l7"> Cascun cor dom / yo veg pus dur que post </l>
+
+               <l n="8" xml:id="C077-l8"> Algu nos dol / si laltre null mal te. </l>
+
+            </lg>
+
+            <pb n="39r"
+               facs="https://www.cervantesvirtual.com/obra-visor/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/html/ff402116-82b1-11df-acc7-002185ce6064_78.html"/>
+
+            <lg type="cobla" n="2" xml:id="C077-lg2">
+
+               <l n="9" xml:id="C077-l9"> ¶ Loqui no sap / no pot hauer merce </l>
+
+               <l n="10" xml:id="C077-l10"> Daquell que jau / en turment y dolor </l>
+
+               <l n="11" xml:id="C077-l11"> Donchs yo perdon / a cascu de bon cor </l>
+
+               <l n="12" xml:id="C077-l12"> Sino son plant / del que mon cor soste </l>
+
+               <l n="13" xml:id="C077-l13"> Secretament / ab no acostumat mal </l>
+
+               <l n="14" xml:id="C077-l14"> Venturam fa / sa disfauor sentir </l>
+
+               <l n="15" xml:id="C077-l15"> Damor nom clam / si bem porta a morir </l>
+
+               <l n="16" xml:id="C077-l16"> Be y mal pensats / yon reste cominal </l>
+
+            </lg>
+
+            <lg type="cobla" n="3" xml:id="C077-lg3">
+
+               <l n="17" xml:id="C077-l17"> ¶ Altre socors / de vostra amor nom val </l>
+
+               <l n="18" xml:id="C077-l18"> Sino quels vlls / me demostren voler </l>
+
+               <l n="19" xml:id="C077-l19"> Ne res pus cert / de vos no puch hauer </l>
+
+               <l n="20" xml:id="C077-l20"> Ans si mes crech / per ser content nom cal: </l>
+
+               <l n="21" xml:id="C077-l21"> Yo veig molt hom / sens amar ser volgut </l>
+
+               <l n="22" xml:id="C077-l22"> Yl mentidor / tant com vol es cregut </l>
+
+               <l n="23" xml:id="C077-l23"> E yo damor / me trop axi vensut </l>
+
+               <l n="24" xml:id="C077-l24"> Que dir no puch / quant so enamorat </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

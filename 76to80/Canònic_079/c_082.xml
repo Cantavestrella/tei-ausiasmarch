@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 79</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CCI">
+     <name>Cèlia Campos Ivars</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/">
+     <msIdentifier xml:id="c_Ed_11V57_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.80r, centre, between lines 40 and 41</locus>Tornada.</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_166.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_167.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_168.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C079-c082">
+
+    <pb n="79r"
+     facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_166.html"/>
+
+    <lg type="cobla" n="1" xml:id="C079-lg1">
+
+     <l n="1" xml:id="C079-l1">
+      <c rend="large">O</c> Vos mezquins / qui sots terra jaeu </l>
+
+     <l n="2" xml:id="C079-l2"> del colp d'amor / ab lo cos sangonent </l>
+
+     <l n="3" xml:id="C079-l3"> e tots aquells / qui ab cor molt ardent </l>
+
+     <l n="4" xml:id="C079-l4"> han be amat / prech vos nous oblideu, </l>
+
+     <l n="5" xml:id="C079-l5"> veniu plorant / ab cabells escampats </l>
+
+     <l n="6" xml:id="C079-l6"> huberts los pits / per mostrar vostre cor </l>
+
+     <l n="7" xml:id="C079-l7"> com fon plagat / abla sageta d'or </l>
+
+     <l n="8" xml:id="C079-l8"> ab que amor / plaga'ls anamorats. </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C079-lg2">
+
+     <l n="9" xml:id="C079-l9"> Los colps d'amor / son per tres qualitats </l>
+
+     <l n="10" xml:id="C079-l10"> e veures pot / en les fleches que fir </l>
+
+     <l n="11" xml:id="C079-l11"> per que'ls ferits / son forçats de sentir </l>
+
+     <pb n="79v"
+      facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_167.html"/>
+
+     <l n="12" xml:id="C079-l12"> dolor del colp / segons seran plegats. </l>
+
+     <l n="13" xml:id="C079-l13"> d'or e de plom / aquestes fleches son </l>
+
+     <l n="14" xml:id="C079-l14"> e d'un metall / ques nomena argent </l>
+
+     <l n="15" xml:id="C079-l15"> cascu d'aquests / dona son sentiment </l>
+
+     <l n="16" xml:id="C079-l16"> segons que dells / differença lo mon. </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C079-lg3">
+
+     <l n="17" xml:id="C079-l17"> En aquell temps / que primer d'aquest fon </l>
+
+     <l n="18" xml:id="C079-l18"> les fleches d'or / amor totes lança </l>
+
+     <l n="19" xml:id="C079-l19"> e desmembrat / vna sen atura </l>
+
+     <l n="20" xml:id="C079-l20"> ab quem feri / de que uiur'abandon. </l>
+
+     <l n="21" xml:id="C079-l21"> de flechas tals / molts passats foren morts </l>
+
+     <l n="22" xml:id="C079-l22"> ja no te pus / que fer guerra mortal </l>
+
+     <l n="23" xml:id="C079-l23"> ab les d'argent / sols basta fer senyal </l>
+
+     <l n="24" xml:id="C079-l24"> mas los plagats / de moir<note type="editorial">Per morir.</note>
+      son estorts. </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C079-lg4">
+
+     <l n="25" xml:id="C079-l25"> Ab les de plom / es huy lo seu de port </l>
+
+     <l n="26" xml:id="C079-l26"> e son poder / no basta'traure sanch </l>
+
+     <l n="27" xml:id="C079-l27"> amor vehent / lo seu poder tan manch </l>
+
+     <l n="28" xml:id="C079-l28"> a trencat l'arch / yot fas al mon report. </l>
+
+     <l n="29" xml:id="C079-l29"> y ab cor sancer / crida la sua pau </l>
+
+     <l n="30" xml:id="C079-l30"> per que cascu / pot anar en cabells </l>
+
+     <l n="31" xml:id="C079-l31"> per fugir dell / no cal muntar castells </l>
+
+     <l n="32" xml:id="C079-l32"> lo seu poder / pus baix que terra jau. </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C079-lg5">
+
+     <l n="33" xml:id="C079-l33"> Mas yo romanch / a mort (d'aço finau) </l>
+
+     <l n="34" xml:id="C079-l34"> la sua pau / es guerra pera mi </l>
+
+     <l n="35" xml:id="C079-l35"> si'n guerra fos / cella perquem feri </l>
+
+     <l n="36" xml:id="C079-l36"> yo fora'n pau / vencut e son'sclau. </l>
+
+     <l n="37" xml:id="C079-l37"> pau ha lo mon / e guerra yo tot sol </l>
+
+     <l n="38" xml:id="C079-l38"> per que amor / guerrejar ha finit </l>
+
+     <pb n="80r"
+      facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_168.html"/>
+
+     <l n="39" xml:id="C079-l39"> yo so plagat / y no puch ser guarit </l>
+
+     <l n="40" xml:id="C079-l40"> puix la que am / de sa plaga nos dol: </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C079-lg6">
+
+     <l n="41" xml:id="C079-l41"> O foll amor / que vostre dellit vol </l>
+
+     <l n="42" xml:id="C079-l42"> sobre loch fals / ha son contentament </l>
+
+     <l n="43" xml:id="C079-l43"> perço repos / no te'n lenteniment </l>
+
+     <l n="44" xml:id="C079-l44"> car si nol ver / lenteniment no col. </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

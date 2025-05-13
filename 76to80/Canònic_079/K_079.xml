@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 79</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CCI">
+     <name>Cèlia Campos Ivars</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/">
+     <msIdentifier xml:id="K_Ms_2025_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.79v centre, between lines 40 and 41</locus>Tornada·</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_164.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_165.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C079-K079">
+
+    <pb n="79r"
+     facs="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_164.html"/>
+
+    <lg type="cobla" n="1" xml:id="C079-lg1">
+
+     <l n="1" xml:id="C079-l1"> o Vos mesquins qui sots terra jaeu </l>
+
+     <l n="2" xml:id="C079-l2"> Del colp damor ab lo cos sangonent </l>
+
+     <l n="3" xml:id="C079-l3"> E tots<choice>
+       <abbr>aꝗlls</abbr>
+       <expan>aquells</expan>
+      </choice> qui ab colp molt ardent </l>
+
+     <l n="4" xml:id="C079-l4"> Han be amat prech vos nous oblideu </l>
+
+     <l n="5" xml:id="C079-l5"> Veniu <choice>
+       <abbr>plorāt</abbr>
+       <expan>plorant</expan>
+      </choice> ab cabells scampats </l>
+
+     <l n="6" xml:id="C079-l6"> Vberts los pits per mostrar vostre cor </l>
+
+     <l n="7" xml:id="C079-l7"> Com fon plagat ab la sageta dor </l>
+
+     <l n="8" xml:id="C079-l8"> Ab <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> amor plagals enamorats </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C079-lg2">
+
+     <l n="9" xml:id="C079-l9">
+      <c rend="large">L</c>os colps damor son per tres calitats </l>
+
+     <l n="10" xml:id="C079-l10"> E veures pot en les fletxes <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> fir </l>
+
+     <l n="11" xml:id="C079-l11"> Per <choice>
+       <abbr>ꝗls</abbr>
+       <expan>quels</expan>
+      </choice> ferits son forçats de sentir </l>
+
+     <l n="12" xml:id="C079-l12"> Dolor del colp segons <choice>
+       <abbr>serā</abbr>
+       <expan>seran</expan>
+      </choice> plagats </l>
+
+     <l n="13" xml:id="C079-l13"> Dor e de plom <choice>
+       <abbr>aꝗstes</abbr>
+       <expan>aquestes</expan>
+      </choice> fletxes son </l>
+
+     <l n="14" xml:id="C079-l14"> E <choice>
+       <abbr>dū</abbr>
+       <expan>dun</expan>
+      </choice> metall que sanomenargent </l>
+
+     <l n="15" xml:id="C079-l15"> Cascu <choice>
+       <abbr>daꝗstes</abbr>
+       <expan>daquestes</expan>
+      </choice> dona son <choice>
+       <abbr>sentimēt</abbr>
+       <expan>sentiment</expan>
+      </choice>
+     </l>
+
+     <l n="16" xml:id="C079-l16"> Segons <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> dell diferencian lo <choice>
+       <abbr>mō</abbr>
+       <expan>mon</expan>
+      </choice>
+     </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C079-lg3">
+
+     <l n="17" xml:id="C079-l17">
+      <c rend="large">E</c>n <choice>
+       <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice> temps <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> primer <choice>
+       <abbr>daꝗst</abbr>
+       <expan>daquest</expan>
+      </choice> fon </l>
+
+     <l n="18" xml:id="C079-l18"> Les fletxes dor amor totes <choice>
+       <abbr>lāça</abbr>
+       <expan>lança</expan>
+      </choice>
+     </l>
+
+     <l n="19" xml:id="C079-l19"> E desmembrat vna sen atura </l>
+
+     <l n="20" xml:id="C079-l20"> Ab <choice>
+       <abbr>quē</abbr>
+       <expan>quem</expan>
+      </choice> feri de <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> vida bandon </l>
+
+     <l n="21" xml:id="C079-l21"> De fletxes tals molts passats <choice>
+       <abbr>forē</abbr>
+       <expan>foren</expan>
+      </choice> morts </l>
+
+     <pb n="79v"
+      facs="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_165.html"/>
+
+     <l n="22" xml:id="C079-l22"> Ja no te pus <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> fer guerra mortal </l>
+
+     <l n="23" xml:id="C079-l23"> Ab les dargent sols basta fer senyal </l>
+
+     <l n="24" xml:id="C079-l24"> Mas los plagats de morir son storts </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C079-lg4">
+
+     <l n="25" xml:id="C079-l25">
+      <c rend="large">A</c>b les de plom son vuy tots sos deports </l>
+
+     <l n="26" xml:id="C079-l26"> E son poder no basta traure sanch </l>
+
+     <l n="27" xml:id="C079-l27"> Amor vehent lo seu poder <choice>
+       <abbr>tā</abbr>
+       <expan>tan</expan>
+      </choice> manch </l>
+
+     <l n="28" xml:id="C079-l28"> Ha trencat larch jon fas al <choice>
+       <abbr>mō</abbr>
+       <expan>mon</expan>
+      </choice> report </l>
+
+     <l n="29" xml:id="C079-l29"> Y ab cor cencer crida la sua pau </l>
+
+     <l n="30" xml:id="C079-l30"> Perque cascu pot anar encabells </l>
+
+     <l n="31" xml:id="C079-l31"> Per fugir dells no cal <choice>
+       <abbr>mūtar</abbr>
+       <expan>muntar</expan>
+      </choice> castells </l>
+
+     <l n="32" xml:id="C079-l32"> Lo seu poder pus bax <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> terra jau </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C079-lg5">
+
+     <l n="33" xml:id="C079-l33">
+      <c rend="large">M</c>as yo romanch amor daço finau </l>
+
+     <l n="34" xml:id="C079-l34"> La sua pau es guerra per amj </l>
+
+     <l n="35" xml:id="C079-l35"> Sin guerra fos çella <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice>
+      <choice>
+       <abbr>quē</abbr>
+       <expan>quen</expan>
+      </choice> ferj </l>
+
+     <l n="36" xml:id="C079-l36"> Yo foran pau vençut e son sclau </l>
+
+     <l n="37" xml:id="C079-l37"> Pau ha lo <choice>
+       <abbr>mō</abbr>
+       <expan>mon</expan>
+      </choice> e guerra yo tot sol </l>
+
+     <l n="38" xml:id="C079-l38"> Per que amor guerreiar ha finjt </l>
+
+     <l n="39" xml:id="C079-l39"> Yo son plagat e no puch ser gorit </l>
+
+     <l n="40" xml:id="C079-l40"> Puys la que am de sa plaga nos dol </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C079-lg6">
+
+     <l n="41" xml:id="C079-l41">
+      <c rend="large">O</c> folla mor qui vostre <choice>
+       <abbr>đlit</abbr>
+       <expan>delit</expan>
+      </choice> vol </l>
+
+     <l n="42" xml:id="C079-l42"> Sobre loch fals ha son <choice>
+       <abbr>cōtentamēt</abbr>
+       <expan>contentament</expan>
+      </choice>
+     </l>
+
+     <l n="43" xml:id="C079-l43"> Perço repos no ten lenteniment </l>
+
+     <l n="44" xml:id="C079-l44"> Car sinol ver lentenjment no col </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

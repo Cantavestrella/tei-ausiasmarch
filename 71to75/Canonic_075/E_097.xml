@@ -32,7 +32,7 @@
       <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
        document.</p>
       <p>This licence applies to this TEI-XML document which is the transformed result work from a
-       previous LaTEX format file out of the synoptic diplomatic edition of the complete poemes of
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
        Ausiàs March in all its witnesses.</p>
       <p>The licence was added on May 1, 2024.</p>
      </licence>
@@ -73,7 +73,7 @@
   </profileDesc>
   <encodingDesc>
    <editorialDecl>
-    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' synoptic edition,
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
      from all witnesses.</p>
    </editorialDecl>
   </encodingDesc>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 78</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CCI">
+     <name>Cèlia Campos Ivars</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/">
+     <msIdentifier xml:id="B_Ms_479_BnP">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.67r, centre, between lines 56 and 57</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_135.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_136.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_137.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C078-B078">
+
+    <pb n="66r"
+     facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_135.html"/>
+
+    <lg type="cobla" n="1" xml:id="C078-lg1">
+
+     <l n="1" xml:id="C078-l1">
+      <c rend="large">N</c>o gart auant ne remembrel passat </l>
+
+     <l n="2" xml:id="C078-l2"> Vn punt stret guarda mon pensament </l>
+
+     <l n="3" xml:id="C078-l3"> No gart la fi tenint mon seny torbat </l>
+
+     <l n="4" xml:id="C078-l4"> Per lo voler affectat al present </l>
+
+     <l n="5" xml:id="C078-l5"> No solament colpa demal oblit </l>
+
+     <l n="6" xml:id="C078-l6"> Ne la tristor nel dan que men vendra </l>
+
+     <l n="7" xml:id="C078-l7"> Passionat per vn present delit </l>
+
+     <l n="8" xml:id="C078-l8"> Nom jaquex temps per veurel <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> sera </l>
+
+    </lg>
+
+    <pb n="66v"
+     facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_136.html"/>
+
+    <lg type="cobla" n="2" xml:id="C078-lg2">
+
+     <l n="9" xml:id="C078-l9">
+      <c rend="large">J</c>a no conech mon dan o mon profit </l>
+
+     <l n="10" xml:id="C078-l10"> Per quel voler en res no dubtara </l>
+
+     <l n="11" xml:id="C078-l11"> Quim da conçell de seny es defallit </l>
+
+     <l n="12" xml:id="C078-l12"> Hoint de mj lo que hoir pora </l>
+
+     <l n="13" xml:id="C078-l13"> Quant ma raho feu contrast al voler </l>
+
+     <l n="14" xml:id="C078-l14"> Per aquell fon sobrada en la fi </l>
+
+     <l n="15" xml:id="C078-l15"> Della senyal en mi nos pot saber </l>
+
+     <l n="16" xml:id="C078-l16"> Voler vençe raho de mj fugi </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C078-lg3">
+
+     <l n="17" xml:id="C078-l17">
+      <c rend="large">M</c>on pensament en vos es mes quen mj </l>
+
+     <l n="18" xml:id="C078-l18"> Lo meu delit per vos passa primer </l>
+
+     <l n="19" xml:id="C078-l19"> Ja mes <choice>
+       <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice> ans <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> vos yo senti </l>
+
+     <l n="20" xml:id="C078-l20"> Ma voluntat ami troba darrer </l>
+
+     <l n="21" xml:id="C078-l21"> Yo so content si vetx contenta vos </l>
+
+     <l n="22" xml:id="C078-l22"> E tant ho vull que so tostemps dubtant </l>
+
+     <l n="23" xml:id="C078-l23"> Si tristaus vetx yo stich sospiros </l>
+
+     <l n="24" xml:id="C078-l24"> Fins quem parlau vostra pensa <choice>
+       <abbr>mostrāt</abbr>
+       <expan>mostrant</expan>
+      </choice>
+     </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C078-lg4">
+
+     <l n="25" xml:id="C078-l25">
+      <c rend="large">D</c>elit no sent la vostra carn tocant </l>
+
+     <l n="26" xml:id="C078-l26"> Tant mon voler del vostres desijos </l>
+
+     <l n="27" xml:id="C078-l27"> Tal patio de com vetx al dauant </l>
+
+     <l n="28" xml:id="C078-l28"> Que lo meu cor ne resta tremolos </l>
+
+     <l n="29" xml:id="C078-l29"> Etant desitx que assats me ameu </l>
+
+     <l n="30" xml:id="C078-l30"> Que nos pot fer me basteu contentar </l>
+
+     <l n="31" xml:id="C078-l31"> E si macost avos veure poreu </l>
+
+     <l n="32" xml:id="C078-l32"> Que mon poder es menys per massamar </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C078-lg5">
+
+     <l n="33" xml:id="C078-l33">
+      <c rend="large">N</c>o ymagin de mius pusquau <del rend="overstrike">damar</del>altar
+     </l>
+
+     <l n="34" xml:id="C078-l34"> Car dintra mi yo se que no veheu </l>
+
+     <l n="35" xml:id="C078-l35"> Pens <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> no bast plaureus al praticar </l>
+
+     <l n="36" xml:id="C078-l36"> E muyr de por que de mius contenteu </l>
+
+     <l n="37" xml:id="C078-l37"> E quant dalgu de sa virtut ma cort </l>
+
+     <l n="38" xml:id="C078-l38"> O dalgus bens o que sia molt bell </l>
+
+     <l n="39" xml:id="C078-l39"> Lo que mi fall pens quem ve al recort </l>
+
+     <l n="40" xml:id="C078-l40"> E desijau tot quant es en <choice>
+       <abbr>aꝗll</abbr>
+       <expan>aquell</expan>
+      </choice>
+     </l>
+
+    </lg>
+
+    <pb n="67r"
+     facs="https://www.cervantesvirtual.com/obra-visor/obres-dausias-march-manuscrito--0/html/01f79830-82b2-11df-acc7-002185ce6064_137.html"/>
+
+    <lg type="cobla" n="6" xml:id="C078-lg6">
+
+     <l n="41" xml:id="C078-l41">
+      <c rend="large">A</c> tot quant por ateny ab son mantell </l>
+
+     <l n="42" xml:id="C078-l42"> Tem lo meu cor fent se franch ala mort </l>
+
+     <l n="43" xml:id="C078-l43"> Cas no ymagin que nom faça volpell </l>
+
+     <l n="44" xml:id="C078-l44"> Lo cert no crech equen fes deu report </l>
+
+     <l n="45" xml:id="C078-l45"> Quant me cuyt ser ab vos en mellor punt </l>
+
+     <l n="46" xml:id="C078-l46"> Sen algun cas mude dopinio </l>
+
+     <l n="47" xml:id="C078-l47"> Distinctament mon esser no <choice>
+       <abbr>apūt</abbr>
+       <expan>apunt</expan>
+      </choice>
+     </l>
+
+     <l n="48" xml:id="C078-l48"> A mal e be sercant trobe raho </l>
+
+    </lg>
+
+    <lg type="cobla" n="7" xml:id="C078-lg7">
+
+     <l n="49" xml:id="C078-l49">
+      <c rend="large">L</c>o turmentat tem present passio </l>
+
+     <l n="50" xml:id="C078-l50"> Que met oblit al mal desser defunct </l>
+
+     <l n="51" xml:id="C078-l51"> En semblant cas ami con<add place="interlinear">e</add>ch que so </l>
+
+     <l n="52" xml:id="C078-l52"> Fugint dolor en maior dolor munt </l>
+
+     <l n="53" xml:id="C078-l53"> Tant de present ma pationamor </l>
+
+     <l n="54" xml:id="C078-l54"> Que yo pratich molt quen amor me nou </l>
+
+     <l n="55" xml:id="C078-l55"> E conexent men resta gran dolor </l>
+
+     <l n="56" xml:id="C078-l56"> Com lo meu puny en matar mj se mou </l>
+
+    </lg>
+
+    <lg type="tornada" n="8" xml:id="C078-lg8">
+
+     <l n="57" xml:id="C078-l57">
+      <c rend="large">O</c> ffollamor conçienciam remou </l>
+
+     <l n="58" xml:id="C078-l58"> Que digals mals de vos e lo fals be </l>
+
+     <l n="59" xml:id="C078-l59"> Lo desperat no sera menys de fe </l>
+
+     <l n="60" xml:id="C078-l60"> E molt mesqui no sots metreu a jou </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

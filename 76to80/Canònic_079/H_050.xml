@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 79</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CCI">
+     <name>Cèlia Campos Ivars</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/">
+     <msIdentifier xml:id="H_Ms_110_BUZ">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.54r centre, between lines 40 and 41</locus>,,Tornada,,</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_89.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_90.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C079-H050">
+
+    <pb n="53v"
+     facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_89.html"/>
+
+    <lg type="cobla" n="1" xml:id="C079-lg1">
+
+     <l n="1" xml:id="C079-l1">
+      <c rend="large">O</c> Vos mesqujns <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> sots terra iaheu </l>
+
+     <l n="2" xml:id="C079-l2"> del colp damor ab lo cors sengonent </l>
+
+     <l n="3" xml:id="C079-l3"> E tots aquels <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> ab cor molt ardent </l>
+
+     <l n="4" xml:id="C079-l4"> Han be amat prech uos nous oblideu </l>
+
+     <l n="5" xml:id="C079-l5"> Venju plorant ab cabels escampats </l>
+
+     <l n="6" xml:id="C079-l6"> Huberts los pits per mostrar vostre cor </l>
+
+     <l n="7" xml:id="C079-l7"> Com fon plagat ab la sageta dor </l>
+
+     <l n="8" xml:id="C079-l8"> Ab que amor plagalls enamorats </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C079-lg2">
+
+     <l n="9" xml:id="C079-l9"> Los colps damor son per tres calitats </l>
+
+     <l n="10" xml:id="C079-l10"> E ueures pot en les fle<add place="interlinear">t</add>xes
+      <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> fir </l>
+
+     <l n="11" xml:id="C079-l11"> Per quels farits / cascuns han asentir </l>
+
+     <l n="12" xml:id="C079-l12"> Dolor del colp segons seran plagats </l>
+
+     <l n="13" xml:id="C079-l13"> Dor e de plom aquestes flechies son </l>
+
+     <l n="14" xml:id="C079-l14"> E dun matall que sanomenargent </l>
+
+     <l n="15" xml:id="C079-l15"> Cascu daquests dona son sentiment </l>
+
+     <l n="16" xml:id="C079-l16"> Sagons que dels differençen lo mon </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C079-lg3">
+
+     <l n="17" xml:id="C079-l17"> En aquel temps <choice>
+       <abbr>ꝙ</abbr>
+       <expan>qui</expan>
+      </choice> primer daquest fon </l>
+
+     <l n="18" xml:id="C079-l18"> Les flechies dor / amor totas lança </l>
+
+     <l n="19" xml:id="C079-l19"> E desmenbrat vna sen atura </l>
+
+     <l n="20" xml:id="C079-l20"> Ab quem fari de que vjurabandon </l>
+
+     <l n="21" xml:id="C079-l21"> De fletxas tals / molts passats foren morts </l>
+
+     <l n="22" xml:id="C079-l22"> Ja no te pus que fer guerra mortal </l>
+
+     <l n="23" xml:id="C079-l23"> Ab les dargent sol basta fer senyal </l>
+
+     <l n="24" xml:id="C079-l24"> Mas los plagats de morir son estorts </l>
+
+    </lg>
+
+    <pb n="54r"
+     facs="https://www.cervantesvirtual.com/obra-visor/poetas-catalanes-manuscrito-biblioteca-de-la-universidad-de-zaragoza-manuscrit--0/html/01660e74-82b2-11df-acc7-002185ce6064_90.html"/>
+
+    <lg type="cobla" n="4" xml:id="C079-lg4">
+
+     <l n="25" xml:id="C079-l25"> Ab les de plom / es huy lo se<add place="interlinear">u</add> deport </l>
+
+     <l n="26" xml:id="C079-l26"> E son poder no basta traura sanch </l>
+
+     <l n="27" xml:id="C079-l27"> Amor vahent lo seu poder tan manch </l>
+
+     <l n="28" xml:id="C079-l28"> Hatrancat larch / yon fas al mon report </l>
+
+     <l n="29" xml:id="C079-l29"> Y ab cor sagur / crida la sua pau </l>
+
+     <l n="30" xml:id="C079-l30"> Per que cascu / pot anar en cabells </l>
+
+     <l n="31" xml:id="C079-l31"> Per fugir dells no cal muntar castells </l>
+
+     <l n="32" xml:id="C079-l32"> Lo seu poder pus baix <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> terra jau </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C079-lg5">
+
+     <l n="33" xml:id="C079-l33"> Mas io romanch mortede ço fiau </l>
+
+     <l n="34" xml:id="C079-l34"> La sua pau es guerra per amj </l>
+
+     <l n="35" xml:id="C079-l35"> Sin guerra fos çella <choice>
+       <abbr>ꝑ</abbr>
+       <expan>per</expan>
+      </choice>
+      <choice>
+       <abbr>ꝙm</abbr>
+       <expan>quim</expan>
+      </choice> feri </l>
+
+     <l n="36" xml:id="C079-l36"> Yo foran pau vençut e son esclau </l>
+
+     <l n="37" xml:id="C079-l37"> Pau ha lo mon e guerra io tot sol </l>
+
+     <l n="38" xml:id="C079-l38"> Per que amor guerreiar ha finjt </l>
+
+     <l n="39" xml:id="C079-l39"> Yo son plagat e no puch ser guarit </l>
+
+     <l n="40" xml:id="C079-l40"> Puys la que am / de sa plaga nos dol </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C079-lg6">
+
+     <l n="41" xml:id="C079-l41"> O follamor quj vostre delit vol </l>
+
+     <l n="42" xml:id="C079-l42"> Sobre loch falç / ha son contentament </l>
+
+     <l n="43" xml:id="C079-l43"> Per co repos no ten lentenjment </l>
+
+     <l n="44" xml:id="C079-l44"> Car si nol uer / lentenjment no col </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

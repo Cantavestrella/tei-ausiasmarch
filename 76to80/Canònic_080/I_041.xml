@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 80</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CCI">
+               <name>Cèlia Campos Ivars</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2025.</p>
+               </licence>
+            </availability>
+            <date>2025-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/">
+               <msIdentifier xml:id="I_Ms_10_BC">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f.62r centre, before first line</locus>·42· Sparça <choice>
+                           <abbr>mosß</abbr>
+                           <expan>mossen</expan>
+                        </choice> Auzias march</rubric>
+                     <rubric><locus>f.62v centre, before line 9</locus>Tornada·</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_124.html"/>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_125.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C080-I041">
+
+            <pb n="62r"
+               facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_124.html"/>
+
+            <lg type="cobla" n="1" xml:id="C080-lg1">
+
+               <l n="1" xml:id="C080-l1"> TOt laurador / es pagat del jornal </l>
+
+               <l n="2" xml:id="C080-l2"> Eladuocat / quj pert lo gonyat plet </l>
+
+               <l n="3" xml:id="C080-l3"> Jo per serujr / amor romanch desfet </l>
+
+               <l n="4" xml:id="C080-l4"> De tot quant he / que seruir no men cal </l>
+
+               <l n="5" xml:id="C080-l5"> He fet senyor / del seny amon voler </l>
+
+               <l n="6" xml:id="C080-l6"> Vehent amor / de mon seny mal seruit </l>
+
+               <l n="7" xml:id="C080-l7"> Rapaç le fet / e deu apart jaquit </l>
+
+               <l n="8" xml:id="C080-l8"> E son setzanys / que lo guardo nesper </l>
+
+            </lg>
+
+            <pb n="62v"
+               facs="https://www.cervantesvirtual.com/obra-visor/canconer-dobres-enamorades-manuscrit--0/html/004896f6-82b2-11df-acc7-002185ce6064_125.html"/>
+
+            <lg type="tornada" n="2" xml:id="C080-lg2">
+
+               <l n="9" xml:id="C080-l9"> Amor amor / poch es vostre poder </l>
+
+               <l n="10" xml:id="C080-l10"> Per fer vn hom / aytant com jo amar </l>
+
+               <l n="11" xml:id="C080-l11"> Anau anau / vostres armes provar </l>
+
+               <l n="12" xml:id="C080-l12"> Encontraquell / quj vostre no vol ser </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 80</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CCI">
+               <name>Cèlia Campos Ivars</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2025.</p>
+               </licence>
+            </availability>
+            <date>2025-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/">
+               <msIdentifier xml:id="K_Ms_2025_BC">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f.80r centre before first line</locus>Sparça.</rubric>
+                     <rubric><locus>f.80r centre, between lines 8 and 9</locus>Tornada.</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_166.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C080-K080">
+
+            <pb n="80r"
+               facs="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-sont-acabada-de-scriure-la-present-obra-per-m-pere-vilaraso-prevere-per-manament-de-lilltre-sor-almirant-de-napols-manuscrit--0/html/00488f44-82b2-11df-acc7-002185ce6064_166.html"/>
+
+            <lg type="cobla" n="1" xml:id="C080-lg1">
+
+               <l n="1" xml:id="C080-l1"> t Ot laurador es pagat del jornal </l>
+
+               <l n="2" xml:id="C080-l2"> E laduocat qui pert lo gonyat plet </l>
+
+               <l n="3" xml:id="C080-l3"> Yo per seruir amor romanch desfet </l>
+
+               <l n="4" xml:id="C080-l4"> De tot <choice>
+                     <abbr>quāt</abbr>
+                     <expan>quant</expan>
+                  </choice> he <choice>
+                     <abbr>ꝗ</abbr>
+                     <expan>que</expan>
+                  </choice> seruir no <choice>
+                     <abbr>mē</abbr>
+                     <expan>men</expan>
+                  </choice> cal </l>
+
+               <l n="5" xml:id="C080-l5"> E fet <choice>
+                     <abbr>señor</abbr>
+                     <expan>senyor</expan>
+                  </choice>
+                  <choice>
+                     <abbr>đ</abbr>
+                     <expan>de</expan>
+                  </choice> seny <choice>
+                     <abbr>amō</abbr>
+                     <expan>amon</expan>
+                  </choice> voler </l>
+
+               <l n="6" xml:id="C080-l6"> Vehent amor de <choice>
+                     <abbr>mō</abbr>
+                     <expan>mon</expan>
+                  </choice> seny mal serujt </l>
+
+               <l n="7" xml:id="C080-l7"> Rapas le fet e deu a part jaquit </l>
+
+               <l n="8" xml:id="C080-l8"> E son sestzanys que lo guardo sper </l>
+
+            </lg>
+
+            <lg type="tornada" n="2" xml:id="C080-lg2">
+
+               <l n="9" xml:id="C080-l9"> A mor amor poch es lo vostre poder </l>
+
+               <l n="10" xml:id="C080-l10"> Per fer vn hom aytant <choice>
+                     <abbr>cō</abbr>
+                     <expan>com</expan>
+                  </choice> yo amar </l>
+
+               <l n="11" xml:id="C080-l11"> Anau anau vostres armes prouar </l>
+
+               <l n="12" xml:id="C080-l12"> E <choice>
+                     <abbr>contraꝗll</abbr>
+                     <expan>contraquell</expan>
+                  </choice> qui vostre no vol ser </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

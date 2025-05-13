@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 80</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CCI">
+               <name>Cèlia Campos Ivars</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2025.</p>
+               </licence>
+            </availability>
+            <date>2025-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/">
+               <msIdentifier xml:id="M_Ms_1_BA">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f.146v centre, before forst line</locus>{Sparça <choice>
+                           <abbr>mosß</abbr>
+                           <expan>mossen</expan>
+                        </choice> auzias march}</rubric>
+                     <rubric><locus>f.146v centre, between lines 8 and 9</locus>Tornada</rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_296.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C080-M002">
+
+            <pb n="146v"
+               facs="https://www.cervantesvirtual.com/obra-visor/cancionero-catalan-del-ateneu-ba1-manuscrit--0/html/01e69dd2-82b2-11df-acc7-002185ce6064_296.html"/>
+
+            <lg type="cobla" n="1" xml:id="C080-lg1">
+
+               <l n="1" xml:id="C080-l1"> Tot laurador / espaguat deljornal </l>
+
+               <l n="2" xml:id="C080-l2"> E latuocat / quj pert logonyat plet </l>
+
+               <l n="3" xml:id="C080-l3"> Joper serujr / amor romanch desfet </l>
+
+               <l n="4" xml:id="C080-l4"> Detot quante / que <choice>
+                     <abbr>şujr</abbr>
+                     <expan>serujr</expan>
+                  </choice> nomencal </l>
+
+               <l n="5" xml:id="C080-l5"> E fet senyor / del seny amon voler </l>
+
+               <l n="6" xml:id="C080-l6"> Veent amor / demon seny mal <choice>
+                     <abbr>şujt</abbr>
+                     <expan>serujt</expan>
+                  </choice>
+               </l>
+
+               <l n="7" xml:id="C080-l7"> Rapas lefet / edeu apart jaqujt </l>
+
+               <l n="8" xml:id="C080-l8"> E son setzayns / quelo guardo nosper </l>
+
+            </lg>
+
+            <lg type="tornada" n="2" xml:id="C080-lg2">
+
+               <l n="9" xml:id="C080-l9"> Amor amor / poch es nostre poder </l>
+
+               <l n="10" xml:id="C080-l10"> Per fer hun om / aytant com jo amar </l>
+
+               <l n="11" xml:id="C080-l11"> Anau anau / vostres armes prouar </l>
+
+               <l n="12" xml:id="C080-l12"> Encontra quell / quj uostre nouol ser </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 79</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CCI">
+     <name>Cèlia Campos Ivars</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/">
+     <msIdentifier xml:id="G2_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f.149v centre, before first line</locus><choice>
+         <abbr>Mosß</abbr>
+         <expan>Mossen</expan>
+        </choice> ausias march <add place="upper margin right">C 72</add></rubric>
+       <rubric><locus>f.150r centre, between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_309.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_310.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C079-G2109">
+
+    <pb n="149v"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_309.html"/>
+
+    <lg type="cobla" n="1" xml:id="C079-lg1">
+
+     <l n="1" xml:id="C079-l1">
+      <note type="gloss" place="margin left">es duplicada atras cartes lxxxv</note> O vos mesquins /
+      qui sots terra jaeu </l>
+
+     <l n="2" xml:id="C079-l2"> del cop damor / ab lo cos sangonent </l>
+
+     <l n="3" xml:id="C079-l3"> etots aquells / qui ab cor molt <choice>
+      <abbr>ardēt</abbr>
+       <expan>ardent</expan>
+      </choice>
+     </l>
+
+     <l n="4" xml:id="C079-l4"> an be amat / prech vos nous hoblideu </l>
+
+     <l n="5" xml:id="C079-l5"> Veniu plorants / ab cabells escampats </l>
+
+     <l n="6" xml:id="C079-l6"> vberts los pits / per mostrar <choice>
+       <abbr>ʋre</abbr>
+       <expan>vostre</expan>
+      </choice> cor </l>
+
+     <l n="7" xml:id="C079-l7"> com fon plagat ab la sagetador </l>
+
+     <l n="8" xml:id="C079-l8"> ab que amor / plagals enamorats </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C079-lg2">
+
+     <l n="9" xml:id="C079-l9"> Los colps damor / sonper tres calitats </l>
+
+     <l n="10" xml:id="C079-l10"> eveurespot / enles fleges que fir </l>
+
+     <l n="11" xml:id="C079-l11"> per quels ferits / cascuns an asentir </l>
+
+     <l n="12" xml:id="C079-l12"> dolor del colp / segons seran plagats </l>
+
+     <l n="13" xml:id="C079-l13"> Dor ede plom / aquestes fleges son </l>
+
+     <l n="14" xml:id="C079-l14"> edun metall ques / anomenat argent </l>
+
+     <l n="15" xml:id="C079-l15"> cascu daquells / dona son sentiment </l>
+
+     <l n="16" xml:id="C079-l16"> segons que dells / differença lo mon </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C079-lg3">
+
+     <l n="17" xml:id="C079-l17"> Enaquell temps / que llonch temps ha <choice>
+       <abbr>ꝗ</abbr>
+       <expan>que</expan>
+      </choice> fon </l>
+
+     <l n="18" xml:id="C079-l18"> les fleges dor / amor totes llança </l>
+
+     <l n="19" xml:id="C079-l19"> edes menbrat / vna sen atura </l>
+
+     <l n="20" xml:id="C079-l20"> ab quem feri / deque viurebandon </l>
+
+     <l n="21" xml:id="C079-l21"> Defleges tals / mo<add place="interlinear">lt</add>s passats foren
+      morts </l>
+
+     <l n="22" xml:id="C079-l22"> jo note pus / quefer guerra mortal </l>
+
+     <l n="23" xml:id="C079-l23"> ab les dargent / solbastafer senyal </l>
+
+     <l n="24" xml:id="C079-l24"> mas los plagats / demorir son estorts </l>
+
+    </lg>
+
+    <pb n="150r"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_310.html"/>
+
+    <lg type="cobla" n="4" xml:id="C079-lg4">
+
+     <l n="25" xml:id="C079-l25"> Ables de plom / es huy lo seu deport </l>
+
+     <l n="26" xml:id="C079-l26"> eson poder / nobasta traure sanch </l>
+
+     <l n="27" xml:id="C079-l27"> amor vehent / lo seu podertan manch </l>
+
+     <l n="28" xml:id="C079-l28"> atrencat larch / yon faç almon report </l>
+
+     <l n="29" xml:id="C079-l29"> Yab cor sancer / crida la sua pau </l>
+
+     <l n="30" xml:id="C079-l30"> per que cascu / pot anar en cabells </l>
+
+     <l n="31" xml:id="C079-l31"> per fugir dell / no cal cercar castells </l>
+
+     <l n="32" xml:id="C079-l32"> lo seu poder pus baix / que terra jau </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C079-lg5">
+
+     <del rend="expuntuated">Lo seu poder pu</del>
+
+     <l n="33" xml:id="C079-l33"> Mas yo romanch / amor dayço finau </l>
+
+     <l n="34" xml:id="C079-l34"> la sua pau es / guerra / perami </l>
+
+     <l n="35" xml:id="C079-l35"> singuerra fos / cellaperquimferi </l>
+
+     <l n="36" xml:id="C079-l36"> yo foran pau / vençut e son es clau </l>
+
+     <l n="37" xml:id="C079-l37"> Pau ha lo mon / eguerra yo tot sol </l>
+
+     <l n="38" xml:id="C079-l38"> per que amor / guerrejar afinit </l>
+
+     <l n="39" xml:id="C079-l39"> yo som plagat / eno pusch <choice>
+      <abbr>sß</abbr>
+       <expan>sser</expan>
+      </choice> guarit </l>
+
+     <l n="40" xml:id="C079-l40"> puis laque am / desaplaga nos dol </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C079-lg6">
+
+     <l n="41" xml:id="C079-l41"> O foll amor / que <choice>
+       <abbr>ʋre</abbr>
+       <expan>vostre</expan>
+      </choice> delit vol </l>
+
+     <l n="42" xml:id="C079-l42"> sobre lloch falç / ason <choice>
+       <abbr>contentameŧ</abbr>
+       <expan>contentament</expan>
+      </choice>
+     </l>
+
+     <l n="43" xml:id="C079-l43"> per ço repos / noten <choice>
+      <abbr>lentenimēt</abbr>
+       <expan>lenteniment</expan>
+      </choice>
+     </l>
+
+     <l n="44" xml:id="C079-l44"> car sinol ver / <choice>
+      <abbr>lentenimēt</abbr>
+       <expan>lenteniment</expan>
+      </choice> no col </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

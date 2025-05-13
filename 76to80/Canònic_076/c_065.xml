@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 76</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CCI">
+     <name>Cèlia Campos Ivars</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/les-obres-de-mossen-ausias-march-ab-vna-declaratio-en-los-marges-de-alguns-vocables-scurs--2/html/">
+     <msIdentifier xml:id=" c_Ed_11V57_BC">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f. 63r, center, between lines 40 and 41</locus>Tornada.j</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_132.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_133.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_134.html"/>
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C076-c065">
+    <pb n="62r"
+     facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_132.html"/>
+    
+    
+    <lg type="cobla" n="1" xml:id="C076-lg1">
+
+     <l n="1" xml:id="C076-l1">
+      <c rend="large">H</c>On es lo loch / hon ma pensa repose </l>
+
+     <l n="2" xml:id="C076-l2"> hon sera hon / que mon voler contente </l>
+
+     <l n="3" xml:id="C076-l3"> ab escandall / yo cerch tot fons e tente </l>
+
+     <l n="4" xml:id="C076-l4"> e port no trob / hon aturar me gose. </l>
+
+     <l n="5" xml:id="C076-l5"> lo que d'abans / de tot vent me guardaua </l>
+
+     <l n="6" xml:id="C076-l6"> ara's en mi / cruel platja deserta </l>
+
+     <l n="7" xml:id="C076-l7"> vagabunt vag / la casa quim es certa </l>
+
+     <l n="8" xml:id="C076-l8"> treball es gran / en part hon yo vagaua. </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C076-lg2">
+
+     <l n="9" xml:id="C076-l9"> Hon es aquell / delit quant yo pensaua </l>
+
+     <l n="10" xml:id="C076-l10"> esser amat / dela quem entenia </l>
+
+     <pb n="62v"
+      facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_133.html"/>
+
+     <l n="11" xml:id="C076-l11"> tot mon voler / y el seu, nom defenia </l>
+
+     <l n="12" xml:id="C076-l12"> d'amor, en tant / quant son poder bastaua. </l>
+
+     <l n="13" xml:id="C076-l13"> tots los senyals / que amor donen, a'ntendre </l>
+
+     <l n="14" xml:id="C076-l14"> en ella viu / no tollent ne la obra </l>
+
+     <l n="15" xml:id="C076-l15"> qui es aquell / que'n amor tant descobra </l>
+
+     <l n="16" xml:id="C076-l16"> que no pogues / della sentiment pendre. </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C076-lg3">
+
+     <l n="17" xml:id="C076-l17"> Ia res del mon / dolor nom pot defendre </l>
+
+     <l n="18" xml:id="C076-l18"> perdut es ja / tot lo goig de mon viure </l>
+
+     <l n="19" xml:id="C076-l19"> amos amichs / de tristor puch escriure </l>
+
+     <l n="20" xml:id="C076-l20"> nom basta temps / apoder men rependre. </l>
+
+     <l n="21" xml:id="C076-l21"> tant la tristor / hafalaga ma pensa </l>
+
+     <l n="22" xml:id="C076-l22"> que tot me's trist / quant puch oir ne veure </l>
+
+     <l n="23" xml:id="C076-l23"> tant que mes greu / que yo vinga, a creure </l>
+
+     <l n="24" xml:id="C076-l24"> que a tristor / yo puch hauer defensa. </l>
+
+    </lg>
+
+    <lg type="cobla" n="4" xml:id="C076-lg4">
+
+     <l n="25" xml:id="C076-l25"> Puix que amor / ab lo cos ferm dispensa </l>
+
+     <l n="26" xml:id="C076-l26"> que sos delits / follament espera </l>
+
+     <l n="27" xml:id="C076-l27"> e per a ço / del mon me desepere </l>
+
+     <l n="28" xml:id="C076-l28"> car sens amor / tot delit, me's offensa </l>
+
+     <l n="29" xml:id="C076-l29"> l'arma coman a Deu lo qui la feta </l>
+
+     <l n="30" xml:id="C076-l30"> deixant lo cos / desastruch per mal astre </l>
+
+     <l n="31" xml:id="C076-l31"> e ja nol plau / de sos voles lo rastre </l>
+
+     <l n="32" xml:id="C076-l32"> puix ab dolor / viu per ell no discreta, </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C076-lg5">
+
+     <l n="33" xml:id="C076-l33"> Si com lo vell / qui'n son temps vida'feta' </l>
+
+     <l n="34" xml:id="C076-l34"> sats plahentment / en algun art apresa </l>
+
+     <l n="35" xml:id="C076-l35"> e per fort cas / aquella l'es de fesa </l>
+
+     <l n="36" xml:id="C076-l36"> no sab en que / son giny de viure meta: </l>
+
+     <l n="37" xml:id="C076-l37"> ne pren a mi / qui no se com me visca </l>
+
+     <pb n="63r"
+      facs="https://www.cervantesvirtual.com/obra-visor/les-obres-del-valeros-y-extrenv-caualler-vigil-y-elegantissim-poeta-ausias-march-nouament-reuistes-y-estampades--0/html/01f9745c-82b2-11df-acc7-002185ce6064_134.html"/>
+
+     <l n="38" xml:id="C076-l38"> per que d'amor / me veig, tancada porta </l>
+
+     <l n="39" xml:id="C076-l39"> no se pus fer / nel voler me comporta </l>
+
+     <l n="40" xml:id="C076-l40"> que d'aquest vs / per altre yom desisca. </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C076-lg6">
+
+     <l n="41" xml:id="C076-l41"> O foll amor / malament se arrisca </l>
+
+     <l n="42" xml:id="C076-l42"> qui per virtuts / vol amar nulla dona </l>
+
+     <l n="43" xml:id="C076-l43"> sa qualitat / y el loch, la fan ser bona </l>
+
+     <l n="44" xml:id="C076-l44"> car en raho / qual sera lo quey visca. </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>

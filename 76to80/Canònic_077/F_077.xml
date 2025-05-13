@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema 77</title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="RC">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="CCI">
+               <name>Cèlia Campos Ivars</name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="AH">
+               <name>Adolfo Hilario, Universitat Politècnica de València</name>
+               <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+            </respStmt>
+            <respStmt xml:id="LM">
+               <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Rosanna Cantavella</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies
+                     to this document.</p>
+                  <p>This licence applies to this TEI-XML document which is the transformed result
+                     work from a previous LaTEX format file out of the variorum diplomatic edition
+                     of the complete poemes of Ausiàs March in all its witnesses.</p>
+                  <p>The licence was added on May 1, 2025.</p>
+               </licence>
+            </availability>
+            <date>2025-05-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/">
+               <msIdentifier xml:id="F_Ms_2244_BGHUS">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus>f. 81v centre, before fist line</locus><note type="gloss" place="centre"
+                           >altra</note></rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_166.html"/>
+      <graphic
+         url="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_167.html"
+      />
+   </facsimile>
+   <text>
+      <body>
+         <div type="poem" xml:id="C077-F077">
+
+            <pb n="81v"
+               facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_166.html"/>
+
+            <lg type="cobla" n="1" xml:id="C077-lg1">
+
+               <l n="1" xml:id="C077-l1">
+                  <c rend="large">N</c>o pot mostrar lo mon menys pietat </l>
+
+               <l n="2" xml:id="C077-l2"> Com en present de sobre mj pareix </l>
+
+               <l n="3" xml:id="C077-l3"> Tota mor fall sino assi manteix </l>
+
+               <l n="4" xml:id="C077-l4"> Denueia es tot lo mon conquistat </l>
+
+               <l n="5" xml:id="C077-l5"> Hom sens affany no uol fer algun be </l>
+
+               <l n="6" xml:id="C077-l6"> Com lo fara contrassi ab gran cost </l>
+
+               <l n="7" xml:id="C077-l7"> Cascun cor dom yo ueig pus dur que post </l>
+
+               <l n="8" xml:id="C077-l8"> Algu nos dol si altre null mal te </l>
+
+            </lg>
+
+            <pb n="82r"
+               facs="https://www.cervantesvirtual.com/obra-visor/poesias-de-ausias-y-mena-manuscrito--0/html/0165fe84-82b2-11df-acc7-002185ce6064_167.html"/>
+
+            <lg type="cobla" n="2" xml:id="C077-lg2">
+
+               <l n="9" xml:id="C077-l9">
+                  <c rend="large">L</c>o qui no sab no pot hauer merce </l>
+
+               <l n="10" xml:id="C077-l10"> Daquell quj jau en turment e dolor </l>
+
+               <l n="11" xml:id="C077-l11"> Donchs yo perdon acascu de bon cor </l>
+
+               <l n="12" xml:id="C077-l12"> Sino son plant del que mon cor soste </l>
+
+               <l n="13" xml:id="C077-l13"> Secretament ab no costumat mal </l>
+
+               <l n="14" xml:id="C077-l14"> Ventura fa sa desfauor sentir </l>
+
+               <l n="15" xml:id="C077-l15"> Damor nom clam <del rend="overstrike">b</del> sibem
+                  porta morjr </l>
+
+               <l n="16" xml:id="C077-l16"> Beymal penssats yon reste comjnal </l>
+
+            </lg>
+
+            <lg type="cobla" n="3" xml:id="C077-lg3">
+
+               <l n="17" xml:id="C077-l17">
+                  <c rend="large">A</c>ltre socors de uostramor nom ual </l>
+
+               <l n="18" xml:id="C077-l18"> Sino quells hulls me demostren voler </l>
+
+               <l n="19" xml:id="C077-l19"> Ne res pus cert de uos no puch saber </l>
+
+               <l n="20" xml:id="C077-l20"> Ans si mes crech per ser content nom cal </l>
+
+               <l n="21" xml:id="C077-l21"> Yo ueig molt hom sens amar ser amat </l>
+
+               <l n="22" xml:id="C077-l22"> Y el mentidor tant com uol es cregut </l>
+
+               <l n="23" xml:id="C077-l23"> E yo damor me trob axi vencut </l>
+
+               <l n="24" xml:id="C077-l24"> Que dir no pusch quant so enamorat </l>
+
+            </lg>
+
+            <lg type="tornada" n="4" xml:id="C077-lg4">
+
+               <l n="25" xml:id="C077-l25">
+                  <c rend="large">A</c>mor amor vn abit me tallat </l>
+
+               <l n="26" xml:id="C077-l26"> De uostre drap uestint me lespirit </l>
+
+               <l n="27" xml:id="C077-l27"> En lo uestir ample molt le sentit </l>
+
+               <l n="28" xml:id="C077-l28"> E fort estret quant sobre mjs posat </l>
+
+            </lg>
+
+         </div>
+      </body>
+   </text>
+</TEI>

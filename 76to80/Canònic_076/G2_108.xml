@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poema 76</title>
+    <author>Ausiàs March</author>
+    <respStmt xml:id="RC">
+     <name>Rosanna Cantavella, Universitat de València</name>
+     <resp>Coordinator of LaTEX into TEI transformations</resp>
+    </respStmt>
+    <respStmt xml:id="CCI">
+     <name>Cèlia Campos Ivars</name>
+     <resp>Changes LaTEX to TEI, coding volunteer</resp>
+    </respStmt>
+    <respStmt xml:id="AH">
+     <name>Adolfo Hilario, Universitat Politècnica de València</name>
+     <resp>LaTEX encoding supervision, Research Software Engineer</resp>
+    </respStmt>
+    <respStmt xml:id="LM">
+     <name>Llúcia Martín Pasqual, Universitat d'Alacant</name>
+     <resp>Coordinator of manuscript transcription into LaTEX</resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <authority>Rosanna Cantavella</authority>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2019-05-01">
+      <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) Licence applies to this
+       document.</p>
+      <p>This licence applies to this TEI-XML document which is the transformed result work from a
+       previous LaTEX format file out of the variorum diplomatic edition of the complete poemes of
+       Ausiàs March in all its witnesses.</p>
+      <p>The licence was added on May 1, 2025.</p>
+     </licence>
+    </availability>
+    <date>2025-05-01</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc
+     corresp="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064.html">
+     <msIdentifier xml:id="G2_Ms_210_BHUV">
+      <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+     </msIdentifier>
+     <msContents>
+      <msItem>
+       <rubric><locus>f. 148v, header</locus>Z <choice>
+         <abbr>Mosß</abbr>
+         <expan>Mossen</expan>
+        </choice> ausias march Z</rubric>
+       <rubric><locus>f. 149r, centre, between lines 40 and 41</locus>Tornada</rubric>
+      </msItem>
+     </msContents>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="CA">Catalan</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March's poems' variorum edition,
+     from all witnesses.</p>
+   </editorialDecl>
+  </encodingDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_307.html"/>
+  <graphic
+   url="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_308.html"
+  />
+ </facsimile>
+ <text>
+  <body>
+   <div type="poem" xml:id="C076-G2108">
+
+    <pb n="148v"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_307.html"/>
+
+    <lg type="cobla" n="1" xml:id="C076-lg1">
+     <add place="margin left">es duplicat atrás A cartes Dlxxxij.</add>
+     <add place="margin right">C. 37.</add>
+     <note type="editorial">Intervenen dos copistes.</note>
+     <l n="1" xml:id="C076-l1"> Hon es lo lloch on ma pensa repose </l>
+
+     <l n="2" xml:id="C076-l2"> hon sera hon que mon voler contente </l>
+
+     <l n="3" xml:id="C076-l3"> ab escandall yo cerch tot fons e tente </l>
+
+     <l n="4" xml:id="C076-l4"> e port no trop ne on aturar gose </l>
+
+     <l n="5" xml:id="C076-l5"> lo que dabans detot vent meguardava </l>
+
+     <l n="6" xml:id="C076-l6"> es enves mi cruel plaga deserta </l>
+
+     <l n="7" xml:id="C076-l7"> vagabunt vaig la casa quim es certa </l>
+
+     <l n="8" xml:id="C076-l8"> treball es gran en part on yo vagava </l>
+
+    </lg>
+
+    <lg type="cobla" n="2" xml:id="C076-lg2">
+
+     <l n="9" xml:id="C076-l9"> Hon es aquell delit / quant yo pensaua </l>
+
+     <l n="10" xml:id="C076-l10">
+      <choice>
+       <abbr>esß</abbr>
+       <expan>esser</expan>
+      </choice> amat / delaquem entenia </l>
+
+     <l n="11" xml:id="C076-l11"> tot mon voler / yl seu nom deffenia </l>
+
+     <l n="12" xml:id="C076-l12"> damar entant / comson poder bastaua </l>
+
+     <l n="13" xml:id="C076-l13"> Tots los senyals / camordonen entendre </l>
+
+     <l n="14" xml:id="C076-l14"> enellaviu / no tollent ne la obra </l>
+
+     <l n="15" xml:id="C076-l15"> qui es aquell / quen amor tant descobra </l>
+
+     <l n="16" xml:id="C076-l16"> que non pogues / della sentiment pendre </l>
+
+    </lg>
+
+    <lg type="cobla" n="3" xml:id="C076-lg3">
+
+     <l n="17" xml:id="C076-l17"> Jarres delmon / dolor nom potdeffendre </l>
+
+     <l n="18" xml:id="C076-l18"> perdut es ja / tot lo goig demonviure </l>
+
+     <l n="19" xml:id="C076-l19"> amos amichs / de tristor puch scriure </l>
+
+     <l n="20" xml:id="C076-l20"> nom basta temps / apodermen rependre </l>
+
+     <l n="21" xml:id="C076-l21"> Tant la tristor / afalagat mapensa </l>
+
+     <l n="22" xml:id="C076-l22"> que tot mes trist / quant puch ohir neveure </l>
+
+     <l n="23" xml:id="C076-l23"> tant quem es greu / que yo vinga encreure </l>
+
+     <l n="24" xml:id="C076-l24"> qui a tristor / yo puscauer deffenssa </l>
+
+    </lg>
+
+    <pb n="149r"
+     facs="https://www.cervantesvirtual.com/obra-visor/mossen-ausias-march-poeta-manuscrito--0/html/01f733fe-82b2-11df-acc7-002185ce6064_308.html"/>
+
+    <lg type="cobla" n="4" xml:id="C076-lg4">
+
+     <l n="25" xml:id="C076-l25"> Puix que amor / ablo cor ferm dispenssa </l>
+
+     <l n="26" xml:id="C076-l26"> quesos delits / follament los spere </l>
+
+     <l n="27" xml:id="C076-l27"> eper aço del mon / medesespere </l>
+
+     <l n="28" xml:id="C076-l28"> car sens amor / tot delit mes offenssa </l>
+
+     <l n="29" xml:id="C076-l29"> larma roman / coman adeu <add place="interlinear">lo</add> quila
+      feta </l>
+
+     <l n="30" xml:id="C076-l30"> lexant lo cors / desastruch per mal astre </l>
+
+     <l n="31" xml:id="C076-l31"> ja no li plau / desos volers lo rastre </l>
+
+     <l n="32" xml:id="C076-l32"> puis ab dolor / viu perell no discreta </l>
+
+    </lg>
+
+    <lg type="cobla" n="5" xml:id="C076-lg5">
+
+     <l n="33" xml:id="C076-l33"> Sicom lom vell / quen son temps vida feta </l>
+
+     <l n="34" xml:id="C076-l34"> sats plaent ment / en algun art apresa </l>
+
+     <l n="35" xml:id="C076-l35"> eper fort cas / aquella les deffesa </l>
+
+     <l n="36" xml:id="C076-l36"> no sapenque / son giny deviure meta </l>
+
+     <l n="37" xml:id="C076-l37"> Nepren ami / queno secom me visca </l>
+
+     <l n="38" xml:id="C076-l38"> car de amor / meveig tancada porta </l>
+
+     <l n="39" xml:id="C076-l39"> nese pus fer / nel voler <choice>
+      <abbr>mecōporta</abbr>
+       <expan>mecomporta</expan>
+      </choice>
+     </l>
+
+     <l n="40" xml:id="C076-l40"> que daquest vs / peraltre yom desisca </l>
+
+    </lg>
+
+    <lg type="tornada" n="6" xml:id="C076-lg6">
+
+     <l n="41" xml:id="C076-l41"> O foll amor / <choice>
+      <abbr>malamēt</abbr>
+       <expan>malament</expan>
+      </choice> searrisca </l>
+
+     <l n="42" xml:id="C076-l42"> quiper virtuts / vol amar <del rend="overstrike">fo</del><add place="interlinear">nu</add>lladona </l>
+
+     <l n="43" xml:id="C076-l43"> sa calitat yl lloch / la fan <choice>
+      <abbr>ß</abbr>
+       <expan>ser</expan>
+      </choice> bona </l>
+
+     <l n="44" xml:id="C076-l44"> car enraho / qual <choice>
+      <abbr>ßa</abbr>
+       <expan>sera</expan>
+      </choice> laquey visca </l>
+
+    </lg>
+
+   </div>
+  </body>
+ </text>
+</TEI>
